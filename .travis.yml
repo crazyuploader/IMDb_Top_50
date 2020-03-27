@@ -8,3 +8,9 @@ before_script:
   - pip install requests bs4
 script: |
       ./IMDB.py
+jobs:
+  include:
+    - stage: "Generating Movies List"
+      language: bash
+      script: |
+            bash generate_readme.sh
