@@ -1,0 +1,10 @@
+os: linux
+dist: bionic
+language: bash
+python: 3.8
+before_script:
+  - pip --version
+  - pip install --upgrade pip
+  - pip install requests bs4
+script: |
+      echo "Reserved"
