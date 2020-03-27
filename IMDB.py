@@ -18,7 +18,7 @@ print("///IMDB Top 50 Movies Data Scrapper///")
 newline()
 current_year = datetime.now().year
 headers = {"User-Agent": "Mozilla/5.0"}
-start_year = 1990
+start_year = current_year - 2
 for year in range(start_year, current_year + 1):
     print("----------------------")
     print("| Current Year:", year, "|")
