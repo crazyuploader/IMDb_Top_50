@@ -25,7 +25,7 @@ else
     git config user.email "49350241+crazyuploader@users.noreply.github.com"
     git config user.name "crazyuploader"
     git add .
-    git commit -m "Travis CI ${DATE}"
+    git commit -m "Travis CI ${DATE} [skip travis]"
     git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${TRAVIS_BRANCH}"
     echo ""
     echo "Changes pushed to 'https://github.com/crazyuploader/IMDB_TOP_50'"
