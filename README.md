@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **04/03/2020**
+Top 50 Movies as of: **04/04/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -81,139 +81,139 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 17 Movie: | Mulan
+| 17 Movie: | Black Widow
 -------------
 
 -------------
-| 18 Movie: | No Time to Die
+| 18 Movie: | Mulan
 -------------
 
 -------------
-| 19 Movie: | The Occupant
+| 19 Movie: | No Time to Die
 -------------
 
 -------------
-| 20 Movie: | A Quiet Place Part II
+| 20 Movie: | The Occupant
 -------------
 
 -------------
-| 21 Movie: | Trolls World Tour
+| 21 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 22 Movie: | Ultras
+| 22 Movie: | Trolls World Tour
 -------------
 
 -------------
-| 23 Movie: | I Still Believe
+| 23 Movie: | Ultras
 -------------
 
 -------------
-| 24 Movie: | After We Collided
+| 24 Movie: | I Still Believe
 -------------
 
 -------------
-| 25 Movie: | Wonder Woman 1984
+| 25 Movie: | After We Collided
 -------------
 
 -------------
-| 26 Movie: | Stargirl
+| 26 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 27 Movie: | Inheritance
+| 27 Movie: | Stargirl
 -------------
 
 -------------
-| 28 Movie: | The Grudge
+| 28 Movie: | Inheritance
 -------------
 
 -------------
-| 29 Movie: | The Willoughbys
+| 29 Movie: | The Grudge
 -------------
 
 -------------
-| 30 Movie: | Top Gun: Maverick
+| 30 Movie: | The Willoughbys
 -------------
 
 -------------
-| 31 Movie: | The Last Thing He Wanted
+| 31 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 32 Movie: | Escape from Pretoria
+| 32 Movie: | The Last Thing He Wanted
 -------------
 
 -------------
-| 33 Movie: | All the Bright Places
+| 33 Movie: | Escape from Pretoria
 -------------
 
 -------------
-| 34 Movie: | Tenet
+| 34 Movie: | All the Bright Places
 -------------
 
 -------------
-| 35 Movie: | Altered Carbon: Resleeved
+| 35 Movie: | Tenet
 -------------
 
 -------------
-| 36 Movie: | Miss Fisher & the Crypt of Tears
+| 36 Movie: | Altered Carbon: Resleeved
 -------------
 
 -------------
-| 37 Movie: | Godzilla vs. Kong
+| 37 Movie: | Miss Fisher & the Crypt of Tears
 -------------
 
 -------------
-| 38 Movie: | Baaghi 3
+| 38 Movie: | Godzilla vs. Kong
 -------------
 
 -------------
-| 39 Movie: | Hooking Up
+| 39 Movie: | Baaghi 3
 -------------
 
 -------------
-| 40 Movie: | The Postcard Killings
+| 40 Movie: | Hooking Up
 -------------
 
 -------------
-| 41 Movie: | Downhill
+| 41 Movie: | The Postcard Killings
 -------------
 
 -------------
-| 42 Movie: | Eternals
+| 42 Movie: | Downhill
 -------------
 
 -------------
-| 43 Movie: | Hunter's Moon
+| 43 Movie: | Eternals
 -------------
 
 -------------
-| 44 Movie: | Dune
+| 44 Movie: | Hunter's Moon
 -------------
 
 -------------
-| 45 Movie: | Brahms: The Boy II
+| 45 Movie: | Dune
 -------------
 
 -------------
-| 46 Movie: | To All the Boys: P.S. I Still Love You
+| 46 Movie: | Brahms: The Boy II
 -------------
 
 -------------
-| 47 Movie: | Resistance
+| 47 Movie: | To All the Boys: P.S. I Still Love You
 -------------
 
 -------------
-| 48 Movie: | Monster Hunter
+| 48 Movie: | Resistance
 -------------
 
 -------------
-| 49 Movie: | Go Karts
+| 49 Movie: | Monster Hunter
 -------------
 
 -------------
-| 50 Movie: | West Side Story
+| 50 Movie: | Go Karts
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
