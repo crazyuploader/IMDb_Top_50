@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **04/04/2020**
+Top 50 Movies as of: **04/05/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -185,35 +185,35 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 43 Movie: | Eternals
+| 43 Movie: | Hunter's Moon
 -------------
 
 -------------
-| 44 Movie: | Hunter's Moon
+| 44 Movie: | Dune
 -------------
 
 -------------
-| 45 Movie: | Dune
+| 45 Movie: | Brahms: The Boy II
 -------------
 
 -------------
-| 46 Movie: | Brahms: The Boy II
+| 46 Movie: | To All the Boys: P.S. I Still Love You
 -------------
 
 -------------
-| 47 Movie: | To All the Boys: P.S. I Still Love You
+| 47 Movie: | Resistance
 -------------
 
 -------------
-| 48 Movie: | Resistance
+| 48 Movie: | Monster Hunter
 -------------
 
 -------------
-| 49 Movie: | Monster Hunter
+| 49 Movie: | Go Karts
 -------------
 
 -------------
-| 50 Movie: | Go Karts
+| 50 Movie: | West Side Story
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
