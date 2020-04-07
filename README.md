@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **04/06/2020**
+Top 50 Movies as of: **04/07/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -17,71 +17,71 @@ Released between 2020-01-01 and 2020-12-31
 (Sorted by Popularity Ascending) : 
 
 -------------
-| 1 Movie: | The Invisible Man
+| 1 Movie: | Onward
 -------------
 
 -------------
-| 2 Movie: | The Hunt
+| 2 Movie: | Bad Boys For Life
 -------------
 
 -------------
-| 3 Movie: | Bloodshot
+| 3 Movie: | The Invisible Man
 -------------
 
 -------------
-| 4 Movie: | Onward
+| 4 Movie: | Underwater
 -------------
 
 -------------
-| 5 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+| 5 Movie: | Bloodshot
 -------------
 
 -------------
-| 6 Movie: | Spenser Confidential
+| 6 Movie: | The Hunt
 -------------
 
 -------------
-| 7 Movie: | Emma.
+| 7 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 -------------
 
 -------------
-| 8 Movie: | Coffee & Kareem
+| 8 Movie: | The Call of the Wild
 -------------
 
 -------------
-| 9 Movie: | The Way Back
+| 9 Movie: | Spenser Confidential
 -------------
 
 -------------
-| 10 Movie: | The Banker
+| 10 Movie: | The Way Back
 -------------
 
 -------------
-| 11 Movie: | Underwater
+| 11 Movie: | Emma.
 -------------
 
 -------------
-| 12 Movie: | Lost Girls
+| 12 Movie: | Sonic the Hedgehog
 -------------
 
 -------------
-| 13 Movie: | Bad Boys For Life
+| 13 Movie: | Dolittle
 -------------
 
 -------------
-| 14 Movie: | Dolittle
+| 14 Movie: | The Occupant
 -------------
 
 -------------
-| 15 Movie: | Sonic the Hedgehog
+| 15 Movie: | I Still Believe
 -------------
 
 -------------
-| 16 Movie: | The Call of the Wild
+| 16 Movie: | Coffee & Kareem
 -------------
 
 -------------
-| 17 Movie: | Black Widow
+| 17 Movie: | No Time to Die
 -------------
 
 -------------
@@ -89,131 +89,131 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 19 Movie: | No Time to Die
+| 19 Movie: | Black Widow
 -------------
 
 -------------
-| 20 Movie: | The Occupant
+| 20 Movie: | After We Collided
 -------------
 
 -------------
-| 21 Movie: | A Quiet Place Part II
+| 21 Movie: | Escape from Pretoria
 -------------
 
 -------------
-| 22 Movie: | Trolls World Tour
+| 22 Movie: | The Banker
 -------------
 
 -------------
-| 23 Movie: | Ultras
+| 23 Movie: | The Decline
 -------------
 
 -------------
-| 24 Movie: | I Still Believe
+| 24 Movie: | Peninsula
 -------------
 
 -------------
-| 25 Movie: | After We Collided
+| 25 Movie: | Uncorked
 -------------
 
 -------------
-| 26 Movie: | Wonder Woman 1984
+| 26 Movie: | Lost Girls
 -------------
 
 -------------
-| 27 Movie: | Stargirl
+| 27 Movie: | Trolls World Tour
 -------------
 
 -------------
-| 28 Movie: | Inheritance
+| 28 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 29 Movie: | The Grudge
+| 29 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 30 Movie: | The Willoughbys
+| 30 Movie: | Downhill
 -------------
 
 -------------
-| 31 Movie: | Top Gun: Maverick
+| 31 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 32 Movie: | The Last Thing He Wanted
+| 32 Movie: | Tenet
 -------------
 
 -------------
-| 33 Movie: | Escape from Pretoria
+| 33 Movie: | Resistance
 -------------
 
 -------------
-| 34 Movie: | All the Bright Places
+| 34 Movie: | The Grudge
 -------------
 
 -------------
-| 35 Movie: | Tenet
+| 35 Movie: | Brahms: The Boy II
 -------------
 
 -------------
-| 36 Movie: | Altered Carbon: Resleeved
+| 36 Movie: | Godzilla vs. Kong
 -------------
 
 -------------
-| 37 Movie: | Miss Fisher & the Crypt of Tears
+| 37 Movie: | Stargirl
 -------------
 
 -------------
-| 38 Movie: | Godzilla vs. Kong
+| 38 Movie: | Jawaani Jaaneman
 -------------
 
 -------------
-| 39 Movie: | Baaghi 3
+| 39 Movie: | All the Bright Places
 -------------
 
 -------------
-| 40 Movie: | Hooking Up
+| 40 Movie: | Impractical Jokers: The Movie
 -------------
 
 -------------
-| 41 Movie: | The Postcard Killings
+| 41 Movie: | The Last Thing He Wanted
 -------------
 
 -------------
-| 42 Movie: | Downhill
+| 42 Movie: | Mark of the Devil
 -------------
 
 -------------
-| 43 Movie: | Hunter's Moon
+| 43 Movie: | Love. Wedding. Repeat
 -------------
 
 -------------
-| 44 Movie: | Dune
+| 44 Movie: | 365 Days
 -------------
 
 -------------
-| 45 Movie: | Brahms: The Boy II
+| 45 Movie: | Extraction
 -------------
 
 -------------
-| 46 Movie: | To All the Boys: P.S. I Still Love You
+| 46 Movie: | Fantasy Island
 -------------
 
 -------------
-| 47 Movie: | Resistance
+| 47 Movie: | Miami Bici
 -------------
 
 -------------
-| 48 Movie: | Monster Hunter
+| 48 Movie: | Dune
 -------------
 
 -------------
-| 49 Movie: | Go Karts
+| 49 Movie: | Ultras
 -------------
 
 -------------
-| 50 Movie: | West Side Story
+| 50 Movie: | Maska
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
