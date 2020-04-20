@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **04/19/2020**
+Top 50 Movies as of: **04/20/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -141,7 +141,7 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 32 Movie: | English Medium
+| 32 Movie: | Angrezi Medium
 -------------
 
 -------------
