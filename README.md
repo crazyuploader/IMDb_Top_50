@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **04/20/2020**
+Top 50 Movies as of: **04/21/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -17,47 +17,47 @@ Released between 2020-01-01 and 2020-12-31
 (Sorted by Popularity Ascending) : 
 
 -------------
-| 1 Movie: | Onward
+| 1 Movie: | Trolls World Tour
 -------------
 
 -------------
-| 2 Movie: | Trolls World Tour
+| 2 Movie: | Dune
 -------------
 
 -------------
-| 3 Movie: | Extraction
+| 3 Movie: | Love Wedding Repeat
 -------------
 
 -------------
-| 4 Movie: | Bad Boys For Life
+| 4 Movie: | Fantasy Island
 -------------
 
 -------------
-| 5 Movie: | Gretel & Hansel
+| 5 Movie: | Valley Girl
 -------------
 
 -------------
-| 6 Movie: | Coffee & Kareem
+| 6 Movie: | Onward
 -------------
 
 -------------
-| 7 Movie: | The Invisible Man
+| 7 Movie: | Bad Boys For Life
 -------------
 
 -------------
-| 8 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+| 8 Movie: | Underwater
 -------------
 
 -------------
-| 9 Movie: | Underwater
+| 9 Movie: | Capone
 -------------
 
 -------------
-| 10 Movie: | The Hunt
+| 10 Movie: | The Invisible Man
 -------------
 
 -------------
-| 11 Movie: | Bloodshot
+| 11 Movie: | Extraction
 -------------
 
 -------------
@@ -65,111 +65,111 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 13 Movie: | Dolittle
+| 13 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 -------------
 
 -------------
-| 14 Movie: | Love Wedding Repeat
+| 14 Movie: | Dolittle
 -------------
 
 -------------
-| 15 Movie: | The Turning
+| 15 Movie: | Mortal Kombat Legends: Scorpion's Revenge
 -------------
 
 -------------
-| 16 Movie: | Like a Boss
+| 16 Movie: | The Hunt
 -------------
 
 -------------
-| 17 Movie: | Spenser Confidential
+| 17 Movie: | Gretel & Hansel
 -------------
 
 -------------
-| 18 Movie: | Sonic the Hedgehog
+| 18 Movie: | Bloodshot
 -------------
 
 -------------
-| 19 Movie: | Walkaway Joe
+| 19 Movie: | After We Collided
 -------------
 
 -------------
-| 20 Movie: | My Spy
+| 20 Movie: | Sonic the Hedgehog
 -------------
 
 -------------
-| 21 Movie: | The Call of the Wild
+| 21 Movie: | My Spy
 -------------
 
 -------------
-| 22 Movie: | Peninsula
+| 22 Movie: | The Half of It
 -------------
 
 -------------
-| 23 Movie: | No Time to Die
+| 23 Movie: | Spenser Confidential
 -------------
 
 -------------
-| 24 Movie: | Emma.
+| 24 Movie: | No Time to Die
 -------------
 
 -------------
-| 25 Movie: | After We Collided
+| 25 Movie: | The Call of the Wild
 -------------
 
 -------------
-| 26 Movie: | The Way Back
+| 26 Movie: | The Main Event
 -------------
 
 -------------
-| 27 Movie: | Mulan
+| 27 Movie: | The Rhythm Section
 -------------
 
 -------------
-| 28 Movie: | Black Widow
+| 28 Movie: | The Way Back
 -------------
 
 -------------
-| 29 Movie: | Escape from Pretoria
+| 29 Movie: | Coffee & Kareem
 -------------
 
 -------------
-| 30 Movie: | I Still Believe
+| 30 Movie: | Emma.
 -------------
 
 -------------
-| 31 Movie: | Brahms: The Boy II
+| 31 Movie: | Mulan
 -------------
 
 -------------
-| 32 Movie: | Angrezi Medium
+| 32 Movie: | Tenet
 -------------
 
 -------------
-| 33 Movie: | The Rhythm Section
+| 33 Movie: | Like a Boss
 -------------
 
 -------------
-| 34 Movie: | Tenet
+| 34 Movie: | The Turning
 -------------
 
 -------------
-| 35 Movie: | Top Gun: Maverick
+| 35 Movie: | Sergio
 -------------
 
 -------------
-| 36 Movie: | The Occupant
+| 36 Movie: | Tigertail
 -------------
 
 -------------
-| 37 Movie: | The Banker
+| 37 Movie: | Black Widow
 -------------
 
 -------------
-| 38 Movie: | The Decline
+| 38 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 39 Movie: | A Quiet Place Part II
+| 39 Movie: | I Still Believe
 -------------
 
 -------------
@@ -177,43 +177,43 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 41 Movie: | Never Rarely Sometimes Always
+| 41 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 42 Movie: | Wonder Woman 1984
+| 42 Movie: | Escape from Pretoria
 -------------
 
 -------------
-| 43 Movie: | Four Kids and It
+| 43 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 44 Movie: | Godzilla vs. Kong
+| 44 Movie: | The Banker
 -------------
 
 -------------
-| 45 Movie: | Dune
+| 45 Movie: | Artemis Fowl
 -------------
 
 -------------
-| 46 Movie: | Uncorked
+| 46 Movie: | Four Kids and It
 -------------
 
 -------------
-| 47 Movie: | The Grudge
+| 47 Movie: | The Occupant
 -------------
 
 -------------
-| 48 Movie: | The Last Thing He Wanted
+| 48 Movie: | The Trip to Greece
 -------------
 
 -------------
-| 49 Movie: | The Main Event
+| 49 Movie: | Godzilla vs. Kong
 -------------
 
 -------------
-| 50 Movie: | The Windermere Children
+| 50 Movie: | Dangerous Lies
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
