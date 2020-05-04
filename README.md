@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/03/2020**
+Top 50 Movies as of: **05/04/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -145,75 +145,75 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 33 Movie: | Fortnite: The Sacrifice
+| 33 Movie: | My Spy
 -------------
 
 -------------
-| 34 Movie: | My Spy
+| 34 Movie: | Black Widow
 -------------
 
 -------------
-| 35 Movie: | Black Widow
+| 35 Movie: | The Quarry
 -------------
 
 -------------
-| 36 Movie: | The Quarry
+| 36 Movie: | Emma.
 -------------
 
 -------------
-| 37 Movie: | Emma.
+| 37 Movie: | The Turning
 -------------
 
 -------------
-| 38 Movie: | The Turning
+| 38 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 39 Movie: | Wonder Woman 1984
+| 39 Movie: | Bad Trip
 -------------
 
 -------------
-| 40 Movie: | Bad Trip
+| 40 Movie: | The Wrong Missy
 -------------
 
 -------------
-| 41 Movie: | The Wrong Missy
+| 41 Movie: | Wendy
 -------------
 
 -------------
-| 42 Movie: | Wendy
+| 42 Movie: | Like a Boss
 -------------
 
 -------------
-| 43 Movie: | Like a Boss
+| 43 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 44 Movie: | A Quiet Place Part II
+| 44 Movie: | Bhoot: Part One - The Haunted Ship
 -------------
 
 -------------
-| 45 Movie: | Bhoot: Part One - The Haunted Ship
+| 45 Movie: | Shubh Mangal Zyada Saavdhan
 -------------
 
 -------------
-| 46 Movie: | Shubh Mangal Zyada Saavdhan
+| 46 Movie: | Arkansas
 -------------
 
 -------------
-| 47 Movie: | Arkansas
+| 47 Movie: | I Still Believe
 -------------
 
 -------------
-| 48 Movie: | I Still Believe
+| 48 Movie: | Coffee & Kareem
 -------------
 
 -------------
-| 49 Movie: | Coffee & Kareem
+| 49 Movie: | Halloween Kills
 -------------
 
 -------------
-| 50 Movie: | Halloween Kills
+| 50 Movie: | Escape from Pretoria
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
