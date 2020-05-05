@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/04/2020**
+Top 50 Movies as of: **05/05/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -25,15 +25,15 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 3 Movie: | Dune
+| 3 Movie: | The Willoughbys
 -------------
 
 -------------
-| 4 Movie: | Trolls World Tour
+| 4 Movie: | Dangerous Lies
 -------------
 
 -------------
-| 5 Movie: | Valley Girl
+| 5 Movie: | Arkansas
 -------------
 
 -------------
@@ -41,179 +41,179 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 7 Movie: | Sergio
+| 7 Movie: | Dune
 -------------
 
 -------------
-| 8 Movie: | Capone
+| 8 Movie: | Trolls World Tour
 -------------
 
 -------------
-| 9 Movie: | The Willoughbys
+| 9 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 -------------
 
 -------------
-| 10 Movie: | Fantasy Island
+| 10 Movie: | Bloodshot
 -------------
 
 -------------
-| 11 Movie: | Underwater
+| 11 Movie: | Onward
 -------------
 
 -------------
-| 12 Movie: | Onward
+| 12 Movie: | The Invisible Man
 -------------
 
 -------------
-| 13 Movie: | The Invisible Man
+| 13 Movie: | Fantasy Island
 -------------
 
 -------------
-| 14 Movie: | Love Wedding Repeat
+| 14 Movie: | Underwater
 -------------
 
 -------------
-| 15 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+| 15 Movie: | Gretel & Hansel
 -------------
 
 -------------
-| 16 Movie: | Dolittle
+| 16 Movie: | Sonic the Hedgehog
 -------------
 
 -------------
-| 17 Movie: | Bloodshot
+| 17 Movie: | The Half of It
 -------------
 
 -------------
-| 18 Movie: | The Hunt
+| 18 Movie: | Dolittle
 -------------
 
 -------------
-| 19 Movie: | Mortal Kombat Legends: Scorpion's Revenge
+| 19 Movie: | No Time to Die
 -------------
 
 -------------
-| 20 Movie: | The Rhythm Section
+| 20 Movie: | Sergio
 -------------
 
 -------------
-| 21 Movie: | Gretel & Hansel
+| 21 Movie: | The Hunt
 -------------
 
 -------------
-| 22 Movie: | No Time to Die
+| 22 Movie: | Tenet
 -------------
 
 -------------
-| 23 Movie: | Rising High
+| 23 Movie: | Mrs. Serial Killer
 -------------
 
 -------------
-| 24 Movie: | Spenser Confidential
+| 24 Movie: | Love Wedding Repeat
 -------------
 
 -------------
-| 25 Movie: | Sonic the Hedgehog
+| 25 Movie: | Mulan
 -------------
 
 -------------
-| 26 Movie: | Tenet
+| 26 Movie: | Spenser Confidential
 -------------
 
 -------------
-| 27 Movie: | The Way Back
+| 27 Movie: | The Call of the Wild
 -------------
 
 -------------
-| 28 Movie: | Mulan
+| 28 Movie: | Black Widow
 -------------
 
 -------------
-| 29 Movie: | The Call of the Wild
+| 29 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 30 Movie: | Earth and Blood
+| 30 Movie: | Love Aaj Kal
 -------------
 
 -------------
-| 31 Movie: | Top Gun: Maverick
+| 31 Movie: | Mortal Kombat Legends: Scorpion's Revenge
 -------------
 
 -------------
-| 32 Movie: | Artemis Fowl
+| 32 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 33 Movie: | My Spy
+| 33 Movie: | Angrezi Medium
 -------------
 
 -------------
-| 34 Movie: | Black Widow
+| 34 Movie: | The Rhythm Section
 -------------
 
 -------------
-| 35 Movie: | The Quarry
+| 35 Movie: | I Still Believe
 -------------
 
 -------------
-| 36 Movie: | Emma.
+| 36 Movie: | The Way Back
 -------------
 
 -------------
-| 37 Movie: | The Turning
+| 37 Movie: | Dreamkatcher
 -------------
 
 -------------
-| 38 Movie: | Wonder Woman 1984
+| 38 Movie: | Capone
 -------------
 
 -------------
-| 39 Movie: | Bad Trip
+| 39 Movie: | All Day and a Night
 -------------
 
 -------------
-| 40 Movie: | The Wrong Missy
+| 40 Movie: | Valley Girl
 -------------
 
 -------------
-| 41 Movie: | Wendy
+| 41 Movie: | Enemy Lines
 -------------
 
 -------------
-| 42 Movie: | Like a Boss
+| 42 Movie: | Free Guy
 -------------
 
 -------------
-| 43 Movie: | A Quiet Place Part II
+| 43 Movie: | Possessor
 -------------
 
 -------------
-| 44 Movie: | Bhoot: Part One - The Haunted Ship
+| 44 Movie: | The Green Knight
 -------------
 
 -------------
-| 45 Movie: | Shubh Mangal Zyada Saavdhan
+| 45 Movie: | Emma.
 -------------
 
 -------------
-| 46 Movie: | Arkansas
+| 46 Movie: | My Spy
 -------------
 
 -------------
-| 47 Movie: | I Still Believe
+| 47 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 48 Movie: | Coffee & Kareem
+| 48 Movie: | The Photograph
 -------------
 
 -------------
-| 49 Movie: | Halloween Kills
+| 49 Movie: | Time to Hunt
 -------------
 
 -------------
-| 50 Movie: | Escape from Pretoria
+| 50 Movie: | Halloween Kills
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
