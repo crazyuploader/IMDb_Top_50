@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/05/2020**
+Top 50 Movies as of: **05/06/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -189,31 +189,31 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 44 Movie: | The Green Knight
+| 44 Movie: | Emma.
 -------------
 
 -------------
-| 45 Movie: | Emma.
+| 45 Movie: | My Spy
 -------------
 
 -------------
-| 46 Movie: | My Spy
+| 46 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 47 Movie: | A Quiet Place Part II
+| 47 Movie: | The Photograph
 -------------
 
 -------------
-| 48 Movie: | The Photograph
+| 48 Movie: | Time to Hunt
 -------------
 
 -------------
-| 49 Movie: | Time to Hunt
+| 49 Movie: | Halloween Kills
 -------------
 
 -------------
-| 50 Movie: | Halloween Kills
+| 50 Movie: | The Turning
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
