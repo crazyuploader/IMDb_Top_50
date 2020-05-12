@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/11/2020**
+Top 50 Movies as of: **05/12/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -21,59 +21,59 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 2 Movie: | 365 Days
+| 2 Movie: | Dangerous Lies
 -------------
 
 -------------
-| 3 Movie: | The Willoughbys
+| 3 Movie: | The Half of It
 -------------
 
 -------------
-| 4 Movie: | Dangerous Lies
+| 4 Movie: | 365 Days
 -------------
 
 -------------
-| 5 Movie: | Arkansas
+| 5 Movie: | All Day and a Night
 -------------
 
 -------------
-| 6 Movie: | Bad Boys For Life
+| 6 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 -------------
 
 -------------
-| 7 Movie: | Dune
+| 7 Movie: | Bad Boys For Life
 -------------
 
 -------------
-| 8 Movie: | Trolls World Tour
+| 8 Movie: | Dune
 -------------
 
 -------------
-| 9 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+| 9 Movie: | Fantasy Island
 -------------
 
 -------------
-| 10 Movie: | Bloodshot
+| 10 Movie: | Mrs. Serial Killer
 -------------
 
 -------------
-| 11 Movie: | Onward
+| 11 Movie: | Bloodshot
 -------------
 
 -------------
-| 12 Movie: | The Invisible Man
+| 12 Movie: | Arkansas
 -------------
 
 -------------
-| 13 Movie: | Fantasy Island
+| 13 Movie: | Tenet
 -------------
 
 -------------
-| 14 Movie: | Underwater
+| 14 Movie: | The Willoughbys
 -------------
 
 -------------
-| 15 Movie: | Gretel & Hansel
+| 15 Movie: | Trolls World Tour
 -------------
 
 -------------
@@ -81,139 +81,139 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 17 Movie: | The Half of It
+| 17 Movie: | The Invisible Man
 -------------
 
 -------------
-| 18 Movie: | Dolittle
+| 18 Movie: | Mulan
 -------------
 
 -------------
-| 19 Movie: | No Time to Die
+| 19 Movie: | The Call of the Wild
 -------------
 
 -------------
-| 20 Movie: | Sergio
+| 20 Movie: | Underwater
 -------------
 
 -------------
-| 21 Movie: | The Hunt
+| 21 Movie: | Thappad
 -------------
 
 -------------
-| 22 Movie: | Tenet
+| 22 Movie: | Onward
 -------------
 
 -------------
-| 23 Movie: | Mrs. Serial Killer
+| 23 Movie: | Roped
 -------------
 
 -------------
-| 24 Movie: | Love Wedding Repeat
+| 24 Movie: | Gretel & Hansel
 -------------
 
 -------------
-| 25 Movie: | Mulan
+| 25 Movie: | The Hunt
 -------------
 
 -------------
-| 26 Movie: | Spenser Confidential
+| 26 Movie: | No Time to Die
 -------------
 
 -------------
-| 27 Movie: | The Call of the Wild
+| 27 Movie: | Dolittle
 -------------
 
 -------------
-| 28 Movie: | Black Widow
+| 28 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 29 Movie: | Wonder Woman 1984
+| 29 Movie: | Black Widow
 -------------
 
 -------------
-| 30 Movie: | Love Aaj Kal
+| 30 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 31 Movie: | Mortal Kombat Legends: Scorpion's Revenge
+| 31 Movie: | Inheritance
 -------------
 
 -------------
-| 32 Movie: | Top Gun: Maverick
+| 32 Movie: | Spenser Confidential
 -------------
 
 -------------
-| 33 Movie: | Angrezi Medium
+| 33 Movie: | Capone
 -------------
 
 -------------
-| 34 Movie: | The Rhythm Section
+| 34 Movie: | Scoob!
 -------------
 
 -------------
-| 35 Movie: | I Still Believe
+| 35 Movie: | Valley Girl
 -------------
 
 -------------
-| 36 Movie: | The Way Back
+| 36 Movie: | Emma.
 -------------
 
 -------------
-| 37 Movie: | Dreamkatcher
+| 37 Movie: | Love Wedding Repeat
 -------------
 
 -------------
-| 38 Movie: | Capone
+| 38 Movie: | The Stand at Paxton County
 -------------
 
 -------------
-| 39 Movie: | All Day and a Night
+| 39 Movie: | I Still Believe
 -------------
 
 -------------
-| 40 Movie: | Valley Girl
+| 40 Movie: | Sergio
 -------------
 
 -------------
-| 41 Movie: | Enemy Lines
+| 41 Movie: | The Way Back
 -------------
 
 -------------
-| 42 Movie: | Free Guy
+| 42 Movie: | The Rhythm Section
 -------------
 
 -------------
-| 43 Movie: | Possessor
+| 43 Movie: | A Quiet Place Part II
 -------------
 
 -------------
-| 44 Movie: | Emma.
+| 44 Movie: | The King of Staten Island
 -------------
 
 -------------
-| 45 Movie: | My Spy
+| 45 Movie: | Monster Hunter
 -------------
 
 -------------
-| 46 Movie: | A Quiet Place Part II
+| 46 Movie: | My Spy
 -------------
 
 -------------
-| 47 Movie: | The Photograph
+| 47 Movie: | Mortal Kombat Legends: Scorpion's Revenge
 -------------
 
 -------------
-| 48 Movie: | Time to Hunt
+| 48 Movie: | Halloween Kills
 -------------
 
 -------------
-| 49 Movie: | Halloween Kills
+| 49 Movie: | Godzilla vs. Kong
 -------------
 
 -------------
-| 50 Movie: | The Turning
+| 50 Movie: | Bill & Ted Face the Music
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
