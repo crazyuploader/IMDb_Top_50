@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/18/2020**
+Top 50 Movies as of: **05/19/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
@@ -17,171 +17,171 @@ Released between 2020-01-01 and 2020-12-31
 (Sorted by Popularity Ascending) : 
 
 -------------
-| 1 Movie: | Extraction
+| 1 Movie: | The Wrong Missy
 -------------
 
 -------------
-| 2 Movie: | Dangerous Lies
+| 2 Movie: | Capone
 -------------
 
 -------------
-| 3 Movie: | The Half of It
+| 3 Movie: | The King of Staten Island
 -------------
 
 -------------
-| 4 Movie: | 365 Days
+| 4 Movie: | Extraction
 -------------
 
 -------------
-| 5 Movie: | All Day and a Night
+| 5 Movie: | Scoob!
 -------------
 
 -------------
-| 6 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
+| 6 Movie: | 365 Days
 -------------
 
 -------------
-| 7 Movie: | Bad Boys For Life
+| 7 Movie: | Dune
 -------------
 
 -------------
-| 8 Movie: | Dune
+| 8 Movie: | Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn
 -------------
 
 -------------
-| 9 Movie: | Fantasy Island
+| 9 Movie: | The Half of It
 -------------
 
 -------------
-| 10 Movie: | Mrs. Serial Killer
+| 10 Movie: | Tenet
 -------------
 
 -------------
-| 11 Movie: | Bloodshot
+| 11 Movie: | Dangerous Lies
 -------------
 
 -------------
-| 12 Movie: | Arkansas
+| 12 Movie: | Bad Boys For Life
 -------------
 
 -------------
-| 13 Movie: | Tenet
+| 13 Movie: | The Invisible Man
 -------------
 
 -------------
-| 14 Movie: | The Willoughbys
+| 14 Movie: | John Henry
 -------------
 
 -------------
-| 15 Movie: | Trolls World Tour
+| 15 Movie: | Fantasy Island
 -------------
 
 -------------
-| 16 Movie: | Sonic the Hedgehog
+| 16 Movie: | Bloodshot
 -------------
 
 -------------
-| 17 Movie: | The Invisible Man
+| 17 Movie: | Arkansas
 -------------
 
 -------------
-| 18 Movie: | Mulan
+| 18 Movie: | Onward
 -------------
 
 -------------
-| 19 Movie: | The Call of the Wild
+| 19 Movie: | Mulan
 -------------
 
 -------------
-| 20 Movie: | Underwater
+| 20 Movie: | Valley Girl
 -------------
 
 -------------
-| 21 Movie: | Thappad
+| 21 Movie: | Sonic the Hedgehog
 -------------
 
 -------------
-| 22 Movie: | Onward
+| 22 Movie: | Emma.
 -------------
 
 -------------
-| 23 Movie: | Roped
+| 23 Movie: | Trolls World Tour
 -------------
 
 -------------
-| 24 Movie: | Gretel & Hansel
+| 24 Movie: | Unhinged
 -------------
 
 -------------
-| 25 Movie: | The Hunt
+| 25 Movie: | Roped
 -------------
 
 -------------
-| 26 Movie: | No Time to Die
+| 26 Movie: | Shirley
 -------------
 
 -------------
-| 27 Movie: | Dolittle
+| 27 Movie: | The Call of the Wild
 -------------
 
 -------------
-| 28 Movie: | Wonder Woman 1984
+| 28 Movie: | The Hunt
 -------------
 
 -------------
-| 29 Movie: | Black Widow
+| 29 Movie: | The Willoughbys
 -------------
 
 -------------
-| 30 Movie: | Top Gun: Maverick
+| 30 Movie: | Wonder Woman 1984
 -------------
 
 -------------
-| 31 Movie: | Inheritance
+| 31 Movie: | Dolittle
 -------------
 
 -------------
-| 32 Movie: | Spenser Confidential
+| 32 Movie: | Underwater
 -------------
 
 -------------
-| 33 Movie: | Capone
+| 33 Movie: | No Time to Die
 -------------
 
 -------------
-| 34 Movie: | Scoob!
+| 34 Movie: | Black Widow
 -------------
 
 -------------
-| 35 Movie: | Valley Girl
+| 35 Movie: | The Way Back
 -------------
 
 -------------
-| 36 Movie: | Emma.
+| 36 Movie: | Gretel & Hansel
 -------------
 
 -------------
-| 37 Movie: | Love Wedding Repeat
+| 37 Movie: | Top Gun: Maverick
 -------------
 
 -------------
-| 38 Movie: | The Stand at Paxton County
+| 38 Movie: | I Still Believe
 -------------
 
 -------------
-| 39 Movie: | I Still Believe
+| 39 Movie: | Spenser Confidential
 -------------
 
 -------------
-| 40 Movie: | Sergio
+| 40 Movie: | Malang
 -------------
 
 -------------
-| 41 Movie: | The Way Back
+| 41 Movie: | All Day and a Night
 -------------
 
 -------------
-| 42 Movie: | The Rhythm Section
+| 42 Movie: | Thappad
 -------------
 
 -------------
@@ -189,31 +189,31 @@ Released between 2020-01-01 and 2020-12-31
 -------------
 
 -------------
-| 44 Movie: | The King of Staten Island
+| 44 Movie: | Monster Hunter
 -------------
 
 -------------
-| 45 Movie: | Monster Hunter
+| 45 Movie: | The Stand at Paxton County
 -------------
 
 -------------
-| 46 Movie: | My Spy
+| 46 Movie: | Mrs. Serial Killer
 -------------
 
 -------------
-| 47 Movie: | Mortal Kombat Legends: Scorpion's Revenge
+| 47 Movie: | Inheritance
 -------------
 
 -------------
-| 48 Movie: | Halloween Kills
+| 48 Movie: | The SpongeBob Movie: Sponge on the Run
 -------------
 
 -------------
-| 49 Movie: | Godzilla vs. Kong
+| 49 Movie: | Halloween Kills
 -------------
 
 -------------
-| 50 Movie: | Bill & Ted Face the Music
+| 50 Movie: | My Spy
 -------------
 
 Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
