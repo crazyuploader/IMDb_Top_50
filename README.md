@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-Top 50 Movies as of: **05/21/2020**
+Top 50 Movies as of: **05/22/2020**
 
 ///IMDB Top 50 Movies Data Scrapper///
 
