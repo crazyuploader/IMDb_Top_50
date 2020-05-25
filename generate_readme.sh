@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 #
-# Generates "README.md" with last 3 years' latest top 50 movies
+# Generates "README.md" with last year's latest top 50 movies
 #
 # Variables
 DATE="$(date +%m/%d/%y)"
