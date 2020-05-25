@@ -14,7 +14,7 @@ def newline():
     print("")
 
 
-original_post = "Original Post: https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1"
+original_post = "https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1"
 name = []
 links = []
 base_url = "https://www.imdb.com"
@@ -42,6 +42,7 @@ def fetch_movie():
             links.append("{0}{1}".format(base_url, str((header[0].findChildren("a"))[0]["href"].encode("utf-8").decode("ascii", "ignore"))))
             i += 1
 
+
 def to_csv():
     file = open("Data/data.csv", "w")
     file.write("Rank, Movie Name\n\n")
@@ -59,13 +60,13 @@ def to_md():
     file.write("# Top IMDB 50 Movies Data Scrapper\n\n")
     file.close()
     file = open("README.md", "a")
-    file.write(original_post)
-    file.write("\n\nTop 50 Movies as of: {0}\n\n".format(datetime.now().today()))
+    file.write("**Original Post:** " + original_post + "\n")
+    file.write("\nTop 50 Movies as of: {0}\n\n".format(datetime.now().today()))
     i = 0
     while i < 50:
         file.write("{0} ---> [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
         i += 1
-    file.write(original_post + "\n")
+    file.write("**Original Post:** " + original_post + "\n")
     file.close()
 
 
