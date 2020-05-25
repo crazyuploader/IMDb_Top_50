@@ -36,3 +36,6 @@ else
     echo ""
     echo "Changes pushed to 'https://github.com/crazyuploader/IMDB_TOP_50'"
 fi
+echo ""
+echo ""
+./IMDB.py
