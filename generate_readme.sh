@@ -15,6 +15,12 @@ echo ""
 echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
 echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
 ./IMDB.py >> README.md
+ERROR_CODE="$?"
+if [[ "${ERROR_CODE}" != "0" ]]; then
+    echo "Python program failed"
+    echo "Exiting..."
+    exit 1
+fi
 echo "'README.md' file generated"
 echo ""
 if [[ -z $(git status --porcelain) ]]; then
