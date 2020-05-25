@@ -8,6 +8,7 @@ __version__ = "1.0"
 from bs4 import BeautifulSoup
 from datetime import datetime
 from requests import get
+import os
 
 
 def newline():
@@ -72,9 +73,11 @@ def to_md():
 
 print("///IMDB Top 50 Movies Data Scrapper///")
 newline()
-print(original_post)
+print("Original Post: " + original_post)
 newline()
 fetch_movie()
 to_csv()
 to_md()
-print(original_post)
+os.system("csvtomd Data/data.csv")
+newline()
+print("Original Post: " + original_post)
