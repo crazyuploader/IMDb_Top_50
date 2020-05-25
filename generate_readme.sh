@@ -16,8 +16,6 @@ git remote remove origin
 git remote add origin https://"${GH_REF}"
 git fetch --all
 echo ""
-echo -e "${YELLOW}------P-R-O-G-R-A-M--R-U-N------${NC}"
-echo ""
 # echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
 # echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
 ./IMDB.py 1> /dev/null
@@ -45,4 +43,5 @@ fi
 echo ""
 echo ""
 echo -e "${YELLOW}------O-U-T-P-U-T------"
+echo ""
 csvtomd Data/data.csv
