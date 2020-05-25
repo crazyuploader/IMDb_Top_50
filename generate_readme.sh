@@ -45,3 +45,4 @@ echo ""
 echo -e "${YELLOW}------O-U-T-P-U-T------"
 echo ""
 csvtomd Data/data.csv
+echo ""
