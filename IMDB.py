@@ -49,7 +49,7 @@ def to_csv():
     file = open("Data/data.csv", "a")
     i = 0
     while i < 50:
-        file.write("{0}, {1}\n".format(i, name[i]))
+        file.write("{0}, {1}\n".format(i + 1, name[i]))
         i += 1
     file.close()
 
