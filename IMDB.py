@@ -62,7 +62,7 @@ def to_md():
     file.close()
     file = open("README.md", "a")
     file.write("**Original Post:** " + original_post + "\n")
-    file.write("\nTop 50 Movies as of: {0}\n\n".format(datetime.now().today()))
+    file.write("\n**Top 50 Movies as of:** {0}\n\n".format(datetime.now().today()))
     i = 0
     while i < 50:
         file.write("{0} ---> [{1}]({2})\n\n".format(i + 1, name[i], links[i]))

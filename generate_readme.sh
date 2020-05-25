@@ -20,7 +20,7 @@ echo -e "${YELLOW}------P-R-O-G-R-A-M--R-U-N------${NC}"
 echo ""
 # echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
 # echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
-./IMDB.py
+./IMDB.py 1> /dev/null
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
     echo -e "${RED}Python program failed${NC}"
@@ -42,3 +42,7 @@ else
     echo ""
     echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
 fi
+echo ""
+echo ""
+echo -e "${YELLOW}------O-U-T-P-U-T------"
+csvtomd Data/data.csv
