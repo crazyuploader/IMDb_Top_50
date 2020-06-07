@@ -66,7 +66,7 @@ def to_md():
     file.write("**CSV Data File:** [here](/Data/data.csv)\n\n")
     i = 0
     while i < 50:
-        file.write("{0} ---> [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
+        file.write("**{0} --->** [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
         i += 1
     file.write("**Original Post:** " + original_post + "\n")
     file.close()
