@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-06-13
+**Top 50 Movies as of:** 2020-06-14
 
 **CSV Data File:** [here](/Data/data.csv)
 
@@ -90,20 +90,20 @@
 
 **42 --->** [I Still Believe](https://www.imdb.com/title/tt9779516/?ref_=adv_li_tt)
 
-**43 --->** [Godzilla vs. Kong](https://www.imdb.com/title/tt5034838/?ref_=adv_li_tt)
+**43 --->** [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=adv_li_tt)
 
-**44 --->** [The Old Guard](https://www.imdb.com/title/tt7556122/?ref_=adv_li_tt)
+**44 --->** [Halloween Kills](https://www.imdb.com/title/tt10665338/?ref_=adv_li_tt)
 
-**45 --->** [Halloween Kills](https://www.imdb.com/title/tt10665338/?ref_=adv_li_tt)
+**45 --->** [Spenser Confidential](https://www.imdb.com/title/tt8629748/?ref_=adv_li_tt)
 
-**46 --->** [Spenser Confidential](https://www.imdb.com/title/tt8629748/?ref_=adv_li_tt)
+**46 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
 
-**47 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
+**47 --->** [The Way Back](https://www.imdb.com/title/tt8544498/?ref_=adv_li_tt)
 
-**48 --->** [The Way Back](https://www.imdb.com/title/tt8544498/?ref_=adv_li_tt)
+**48 --->** [Gabriel's Inferno](https://www.imdb.com/title/tt11316854/?ref_=adv_li_tt)
 
-**49 --->** [Gabriel's Inferno](https://www.imdb.com/title/tt11316854/?ref_=adv_li_tt)
+**49 --->** [Dangerous Lies](https://www.imdb.com/title/tt10183816/?ref_=adv_li_tt)
 
-**50 --->** [Dangerous Lies](https://www.imdb.com/title/tt10183816/?ref_=adv_li_tt)
+**50 --->** [Monster Hunter](https://www.imdb.com/title/tt6475714/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
