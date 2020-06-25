@@ -8,7 +8,7 @@ __version__ = "1.0"
 from bs4 import BeautifulSoup
 from datetime import datetime
 from requests import get
-from os import system
+import subprocess
 
 
 def newline():
@@ -79,6 +79,6 @@ newline()
 fetch_movie()
 to_csv()
 to_md()
-system("csvtomd Data/data.csv")
+subprocess.call(["csvtomd", "Data/data.csv"])
 newline()
 print("Original Post: " + original_post)
