@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-07-03
+**Top 50 Movies as of:** 2020-07-04
 
 **CSV Data File:** [here](/Data/data.csv)
 
