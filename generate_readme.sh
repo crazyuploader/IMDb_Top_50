@@ -18,7 +18,7 @@ git fetch --all
 echo ""
 # echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
 # echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
-OUTPUT="$(python ./IMDB.py)"
+./IMDB.py 1> /dev/null
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
     echo -e "${RED}Python program failed${NC}"
@@ -43,5 +43,5 @@ fi
 echo ""
 echo -e "${YELLOW}------O-U-T-P-U-T------"
 echo ""
-echo "${OUTPUT}"
+./IMDB.py 
 echo ""
