@@ -9,6 +9,7 @@ from bs4 import BeautifulSoup
 from datetime import datetime
 from requests import get
 import subprocess
+import os
 
 
 def newline():
@@ -42,6 +43,18 @@ def fetch_movie():
         name.append(str((header[0].findChildren("a"))[0].contents[0].encode("utf-8").decode("ascii", "ignore")))
         links.append("{0}{1}".format(base_url, str((header[0].findChildren("a"))[0]["href"].encode("utf-8").decode("ascii", "ignore"))))
         i += 1
+
+
+def print_list():
+    file = open("temp.csv", "w")
+    file.write("Rank, Movie Name\n\n")
+    i = 0
+    while i < 50:
+        file.write("{0}, {1}\n".format(i + 1, name[i]))
+        i += 1
+    file.close()
+    subprocess.call(["csvtomd", "temp.csv"])
+    os.remove("temp.csv")
 
 
 def to_csv():
@@ -80,6 +93,6 @@ newline()
 fetch_movie()
 to_csv()
 to_md()
-subprocess.call(["csvtomd", "Data/data.csv"])
+print_list()
 newline()
 print("Original Post: " + original_post)
