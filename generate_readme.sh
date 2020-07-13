@@ -18,7 +18,7 @@ git fetch --all
 echo ""
 # echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
 # echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
-./IMDB.py 1> /dev/null
+OUTPUT="$(python ./IMDB.py)"
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
     echo -e "${RED}Python program failed${NC}"
@@ -41,8 +41,7 @@ else
     echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
 fi
 echo ""
-echo ""
 echo -e "${YELLOW}------O-U-T-P-U-T------"
 echo ""
-csvtomd Data/data.csv
+echo "${OUTPUT}"
 echo ""
