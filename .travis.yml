@@ -1,6 +1,7 @@
 os: linux
 dist: bionic
 language: python
+cache: pip
 python: 3.8
 before_script:
   - pip --version
