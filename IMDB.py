@@ -46,12 +46,12 @@ def fetch_movie():
 
 def to_csv():
     file = open("Data/data.csv", "w")
-    file.write("Rank, Movie Name\n\n")
+    file.write("Rank, Movie Name, IMBD Link\n\n")
     file.close()
     file = open("Data/data.csv", "a")
     i = 0
     while i < 50:
-        file.write("{0}, {1}\n".format(i + 1, name[i]))
+        file.write("{0}, {1}, {2}\n".format(i + 1, name[i], links[i]))
         i += 1
     file.close()
 
