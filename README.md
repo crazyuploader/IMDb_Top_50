@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-07-16
+**Top 50 Movies as of:** 2020-07-17
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -104,8 +104,8 @@
 
 **48 --->** [Sonic the Hedgehog](https://www.imdb.com/title/tt3794354/?ref_=adv_li_tt)
 
-**49 --->** [Emma.](https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt)
+**49 --->** [After We Collided](https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt)
 
-**50 --->** [Unhinged](https://www.imdb.com/title/tt10059518/?ref_=adv_li_tt)
+**50 --->** [Emma.](https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
