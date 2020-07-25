@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-07-24
+**Top 50 Movies as of:** 2020-07-25
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -58,54 +58,54 @@
 
 **25 --->** [Endless](https://www.imdb.com/title/tt5723282/?ref_=adv_li_tt)
 
-**26 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
+**26 --->** [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt)
 
-**27 --->** [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt)
+**27 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
 
-**28 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
+**28 --->** [Feel the Beat](https://www.imdb.com/title/tt10714856/?ref_=adv_li_tt)
 
-**29 --->** [Feel the Beat](https://www.imdb.com/title/tt10714856/?ref_=adv_li_tt)
+**29 --->** [The Wrong Missy](https://www.imdb.com/title/tt9619798/?ref_=adv_li_tt)
 
-**30 --->** [The Wrong Missy](https://www.imdb.com/title/tt9619798/?ref_=adv_li_tt)
+**30 --->** [My Spy](https://www.imdb.com/title/tt8242084/?ref_=adv_li_tt)
 
-**31 --->** [My Spy](https://www.imdb.com/title/tt8242084/?ref_=adv_li_tt)
+**31 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
 
-**32 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
+**32 --->** [Da 5 Bloods](https://www.imdb.com/title/tt9777644/?ref_=adv_li_tt)
 
-**33 --->** [Da 5 Bloods](https://www.imdb.com/title/tt9777644/?ref_=adv_li_tt)
+**33 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
 
-**34 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
+**34 --->** [After We Collided](https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt)
 
-**35 --->** [After We Collided](https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt)
+**35 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
 
-**36 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
+**36 --->** [Irresistible](https://www.imdb.com/title/tt9076562/?ref_=adv_li_tt)
 
-**37 --->** [Irresistible](https://www.imdb.com/title/tt9076562/?ref_=adv_li_tt)
+**37 --->** [Peninsula](https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt)
 
-**38 --->** [Peninsula](https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt)
+**38 --->** [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt)
 
-**39 --->** [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt)
+**39 --->** [Bad Boys For Life](https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt)
 
-**40 --->** [Bad Boys For Life](https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt)
+**40 --->** [The Kissing Booth 2](https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt)
 
-**41 --->** [The Kissing Booth 2](https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt)
+**41 --->** [You Should Have Left](https://www.imdb.com/title/tt8201852/?ref_=adv_li_tt)
 
-**42 --->** [You Should Have Left](https://www.imdb.com/title/tt8201852/?ref_=adv_li_tt)
+**42 --->** [Onward](https://www.imdb.com/title/tt7146812/?ref_=adv_li_tt)
 
-**43 --->** [Onward](https://www.imdb.com/title/tt7146812/?ref_=adv_li_tt)
+**43 --->** [Emma.](https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt)
 
-**44 --->** [Emma.](https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt)
+**44 --->** [Bloodshot](https://www.imdb.com/title/tt1634106/?ref_=adv_li_tt)
 
-**45 --->** [Bloodshot](https://www.imdb.com/title/tt1634106/?ref_=adv_li_tt)
+**45 --->** [Force of Nature](https://www.imdb.com/title/tt10308928/?ref_=adv_li_tt)
 
-**46 --->** [Force of Nature](https://www.imdb.com/title/tt10308928/?ref_=adv_li_tt)
+**46 --->** [Becky](https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt)
 
-**47 --->** [Becky](https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt)
+**47 --->** [Sonic the Hedgehog](https://www.imdb.com/title/tt3794354/?ref_=adv_li_tt)
 
-**48 --->** [Sonic the Hedgehog](https://www.imdb.com/title/tt3794354/?ref_=adv_li_tt)
+**48 --->** [Inheritance](https://www.imdb.com/title/tt7923220/?ref_=adv_li_tt)
 
-**49 --->** [Inheritance](https://www.imdb.com/title/tt7923220/?ref_=adv_li_tt)
+**49 --->** [Coming 2 America](https://www.imdb.com/title/tt6802400/?ref_=adv_li_tt)
 
-**50 --->** [Coming 2 America](https://www.imdb.com/title/tt6802400/?ref_=adv_li_tt)
+**50 --->** [The King's Man](https://www.imdb.com/title/tt6856242/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
