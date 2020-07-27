@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-07-26
+**Top 50 Movies as of:** 2020-07-27
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
