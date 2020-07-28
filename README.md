@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-07-27
+**Top 50 Movies as of:** 2020-07-28
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -16,96 +16,96 @@
 
 **4 --->** [Hamilton](https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt)
 
-**5 --->** [365 Days](https://www.imdb.com/title/tt10886166/?ref_=adv_li_tt)
+**5 --->** [Dil Bechara](https://www.imdb.com/title/tt8110330/?ref_=adv_li_tt)
 
-**6 --->** [Eurovision Song Contest: The Story of Fire Saga](https://www.imdb.com/title/tt8580274/?ref_=adv_li_tt)
+**6 --->** [365 Days](https://www.imdb.com/title/tt10886166/?ref_=adv_li_tt)
 
-**7 --->** [Relic](https://www.imdb.com/title/tt9072352/?ref_=adv_li_tt)
+**7 --->** [Rogue](https://www.imdb.com/title/tt11576124/?ref_=adv_li_tt)
 
-**8 --->** [The Outpost](https://www.imdb.com/title/tt3833480/?ref_=adv_li_tt)
+**8 --->** [Eurovision Song Contest: The Story of Fire Saga](https://www.imdb.com/title/tt8580274/?ref_=adv_li_tt)
 
-**9 --->** [The F**k-It List](https://www.imdb.com/title/tt8145202/?ref_=adv_li_tt)
+**9 --->** [The New Mutants](https://www.imdb.com/title/tt4682266/?ref_=adv_li_tt)
 
-**10 --->** [Project Power](https://www.imdb.com/title/tt7550000/?ref_=adv_li_tt)
+**10 --->** [The Kissing Booth 2](https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt)
 
-**11 --->** [Desperados](https://www.imdb.com/title/tt1545304/?ref_=adv_li_tt)
+**11 --->** [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=adv_li_tt)
 
-**12 --->** [The New Mutants](https://www.imdb.com/title/tt4682266/?ref_=adv_li_tt)
+**12 --->** [Tenet](https://www.imdb.com/title/tt6723592/?ref_=adv_li_tt)
 
 **13 --->** [Fatal Affair](https://www.imdb.com/title/tt11057594/?ref_=adv_li_tt)
 
-**14 --->** [Archive](https://www.imdb.com/title/tt6882604/?ref_=adv_li_tt)
+**14 --->** [The Silencing](https://www.imdb.com/title/tt7149730/?ref_=adv_li_tt)
 
-**15 --->** [Dune](https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt)
+**15 --->** [The Rental](https://www.imdb.com/title/tt10003008/?ref_=adv_li_tt)
 
-**16 --->** [Trolls World Tour](https://www.imdb.com/title/tt6587640/?ref_=adv_li_tt)
+**16 --->** [The Outpost](https://www.imdb.com/title/tt3833480/?ref_=adv_li_tt)
 
-**17 --->** [Tesla](https://www.imdb.com/title/tt5259822/?ref_=adv_li_tt)
+**17 --->** [Peninsula](https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt)
 
-**18 --->** [The Invisible Man](https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt)
+**18 --->** [Project Power](https://www.imdb.com/title/tt7550000/?ref_=adv_li_tt)
 
-**19 --->** [Extraction](https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt)
+**19 --->** [The F**k-It List](https://www.imdb.com/title/tt8145202/?ref_=adv_li_tt)
 
-**20 --->** [Scoob!](https://www.imdb.com/title/tt3152592/?ref_=adv_li_tt)
+**20 --->** [Relic](https://www.imdb.com/title/tt9072352/?ref_=adv_li_tt)
 
-**21 --->** [The King of Staten Island](https://www.imdb.com/title/tt9686708/?ref_=adv_li_tt)
+**21 --->** [Dune](https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt)
 
-**22 --->** [The Hunt](https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt)
+**22 --->** [Extraction](https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt)
 
-**23 --->** [The Tax Collector](https://www.imdb.com/title/tt8461224/?ref_=adv_li_tt)
+**23 --->** [The Invisible Man](https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt)
 
-**24 --->** [No Time to Die](https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt)
+**24 --->** [Desperados](https://www.imdb.com/title/tt1545304/?ref_=adv_li_tt)
 
-**25 --->** [Endless](https://www.imdb.com/title/tt5723282/?ref_=adv_li_tt)
+**25 --->** [Archive](https://www.imdb.com/title/tt6882604/?ref_=adv_li_tt)
 
-**26 --->** [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt)
+**26 --->** [Trolls World Tour](https://www.imdb.com/title/tt6587640/?ref_=adv_li_tt)
 
-**27 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
+**27 --->** [Scoob!](https://www.imdb.com/title/tt3152592/?ref_=adv_li_tt)
 
-**28 --->** [Feel the Beat](https://www.imdb.com/title/tt10714856/?ref_=adv_li_tt)
+**28 --->** [The Hunt](https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt)
 
-**29 --->** [The Wrong Missy](https://www.imdb.com/title/tt9619798/?ref_=adv_li_tt)
+**29 --->** [After We Collided](https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt)
 
-**30 --->** [My Spy](https://www.imdb.com/title/tt8242084/?ref_=adv_li_tt)
+**30 --->** [The King of Staten Island](https://www.imdb.com/title/tt9686708/?ref_=adv_li_tt)
 
-**31 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
+**31 --->** [Ghosts of War](https://www.imdb.com/title/tt6508228/?ref_=adv_li_tt)
 
-**32 --->** [Da 5 Bloods](https://www.imdb.com/title/tt9777644/?ref_=adv_li_tt)
+**32 --->** [Most Wanted](https://www.imdb.com/title/tt1656177/?ref_=adv_li_tt)
 
-**33 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
+**33 --->** [Wonder Woman 1984](https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt)
 
-**34 --->** [After We Collided](https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt)
+**34 --->** [Becky](https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt)
 
-**35 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
+**35 --->** [The Very Excellent Mr. Dundee](https://www.imdb.com/title/tt8560172/?ref_=adv_li_tt)
 
-**36 --->** [Irresistible](https://www.imdb.com/title/tt9076562/?ref_=adv_li_tt)
+**36 --->** [No Time to Die](https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt)
 
-**37 --->** [Peninsula](https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt)
+**37 --->** [Amulet](https://www.imdb.com/title/tt8332802/?ref_=adv_li_tt)
 
-**38 --->** [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt)
+**38 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
 
-**39 --->** [Bad Boys For Life](https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt)
+**39 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
 
-**40 --->** [The Kissing Booth 2](https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt)
+**40 --->** [The Wrong Missy](https://www.imdb.com/title/tt9619798/?ref_=adv_li_tt)
 
-**41 --->** [You Should Have Left](https://www.imdb.com/title/tt8201852/?ref_=adv_li_tt)
+**41 --->** [A Nice Girl Like You](https://www.imdb.com/title/tt3278540/?ref_=adv_li_tt)
 
-**42 --->** [Onward](https://www.imdb.com/title/tt7146812/?ref_=adv_li_tt)
+**42 --->** [Bad Boys For Life](https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt)
 
-**43 --->** [Emma.](https://www.imdb.com/title/tt9214832/?ref_=adv_li_tt)
+**43 --->** [Black Is King](https://www.imdb.com/title/tt12607910/?ref_=adv_li_tt)
 
-**44 --->** [Bloodshot](https://www.imdb.com/title/tt1634106/?ref_=adv_li_tt)
+**44 --->** [Black Widow](https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt)
 
-**45 --->** [Force of Nature](https://www.imdb.com/title/tt10308928/?ref_=adv_li_tt)
+**45 --->** [Artemis Fowl](https://www.imdb.com/title/tt3089630/?ref_=adv_li_tt)
 
-**46 --->** [Becky](https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt)
+**46 --->** [Unhinged](https://www.imdb.com/title/tt10059518/?ref_=adv_li_tt)
 
-**47 --->** [Sonic the Hedgehog](https://www.imdb.com/title/tt3794354/?ref_=adv_li_tt)
+**47 --->** [Feel the Beat](https://www.imdb.com/title/tt10714856/?ref_=adv_li_tt)
 
-**48 --->** [Inheritance](https://www.imdb.com/title/tt7923220/?ref_=adv_li_tt)
+**48 --->** [My Spy](https://www.imdb.com/title/tt8242084/?ref_=adv_li_tt)
 
-**49 --->** [Coming 2 America](https://www.imdb.com/title/tt6802400/?ref_=adv_li_tt)
+**49 --->** [Bloodshot](https://www.imdb.com/title/tt1634106/?ref_=adv_li_tt)
 
-**50 --->** [The King's Man](https://www.imdb.com/title/tt6856242/?ref_=adv_li_tt)
+**50 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
