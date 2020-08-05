@@ -59,7 +59,7 @@ def print_list():
 
 def to_csv():
     file = open("Data/data.csv", "w")
-    file.write("Rank, Movie Name, IMBD Link\n\n")
+    file.write("rank, movieName, link\n\n")
     file.close()
     file = open("Data/data.csv", "a")
     i = 0
