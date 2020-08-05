@@ -1,12 +1,14 @@
 os: linux
 dist: bionic
-language: minimal
+language: python
 cache: pip
 python: 3.8
 before_script:
   - pip --version
   - pip install --upgrade pip
   - pip install -r requirements.txt
+  - sudo apt update
+  - sudo apt install nodejs npm
   - sudo npm i -g csvtojson
 script: |
       chmod +x generate.sh
