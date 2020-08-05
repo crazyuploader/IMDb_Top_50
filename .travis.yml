@@ -10,6 +10,7 @@ before_script:
   - sudo apt-get update
   - sudo apt-get -y install nodejs npm
   - sudo npm i -g csvtojson
+  - sudo npm i -g prettier
 script: |
       chmod +x generate.sh
       ./generate.sh
