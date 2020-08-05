@@ -7,5 +7,7 @@ before_script:
   - pip --version
   - pip install --upgrade pip
   - pip install -r requirements.txt
+  - sudo npm i -g csvtojson
 script: |
+      chmod +x generate.sh
       ./generate.sh

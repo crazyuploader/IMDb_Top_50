@@ -27,6 +27,11 @@ if [[ "${ERROR_CODE}" != "0" ]]; then
 fi
 echo -e "${GREEN}'README.md' file generated${NC}"
 echo ""
+echo "Generating JSON File"
+echo ""
+cd Data || exit 1
+csvtojson data.csv > data.json
+cd "${TRAVIS_BUILD_DIR}" || exit 1
 if [[ -z $(git status --porcelain) ]]; then
     echo -e "${GREEN}Nothing to Update${NC}"
 else
