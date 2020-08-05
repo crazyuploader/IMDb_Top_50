@@ -27,17 +27,19 @@ if [[ "${ERROR_CODE}" != "0" ]]; then
 fi
 echo -e "${GREEN}'README.md' file generated${NC}"
 echo ""
-echo "Generating JSON File"
+echo -e "${GREEN}'Data/data.json' file generated${NC}"
 echo ""
 cd Data || exit 1
 csvtojson data.csv > data.json
+echo "Prettify..."
 prettier --write .
+echo ""
 cd "${TRAVIS_BUILD_DIR}" || exit 1
 if [[ -z $(git status --porcelain) ]]; then
     echo -e "${GREEN}Nothing to Update${NC}"
 else
-    echo -e "${YELLOW}Adding Changes to 'README.md' file${NC}"
-    echo ""
+    echo -e "${YELLOW}File(s) changed -${NC}"
+    git diff --name-only
     git config user.email "49350241+crazyuploader@users.noreply.github.com"
     git config user.name "crazyuploader"
     git add .
