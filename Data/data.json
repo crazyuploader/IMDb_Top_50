@@ -1,52 +1,252 @@
 [
-{"rank":"1","movieName":"Dil Bechara","link":"https://www.imdb.com/title/tt8110330/?ref_=adv_li_tt"},
-{"rank":"2","movieName":"The Kissing Booth 2","link":"https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt"},
-{"rank":"3","movieName":"The Old Guard","link":"https://www.imdb.com/title/tt7556122/?ref_=adv_li_tt"},
-{"rank":"4","movieName":"After We Collided","link":"https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt"},
-{"rank":"5","movieName":"365 Days","link":"https://www.imdb.com/title/tt10886166/?ref_=adv_li_tt"},
-{"rank":"6","movieName":"Greyhound","link":"https://www.imdb.com/title/tt6048922/?ref_=adv_li_tt"},
-{"rank":"7","movieName":"Palm Springs","link":"https://www.imdb.com/title/tt9484998/?ref_=adv_li_tt"},
-{"rank":"8","movieName":"The Rental","link":"https://www.imdb.com/title/tt10003008/?ref_=adv_li_tt"},
-{"rank":"9","movieName":"Hamilton","link":"https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt"},
-{"rank":"10","movieName":"Eurovision Song Contest: The Story of Fire Saga","link":"https://www.imdb.com/title/tt8580274/?ref_=adv_li_tt"},
-{"rank":"11","movieName":"Bill & Ted Face the Music","link":"https://www.imdb.com/title/tt1086064/?ref_=adv_li_tt"},
-{"rank":"12","movieName":"Deep Blue Sea 3","link":"https://www.imdb.com/title/tt11946300/?ref_=adv_li_tt"},
-{"rank":"13","movieName":"Tenet","link":"https://www.imdb.com/title/tt6723592/?ref_=adv_li_tt"},
-{"rank":"14","movieName":"The Outpost","link":"https://www.imdb.com/title/tt3833480/?ref_=adv_li_tt"},
-{"rank":"15","movieName":"Dune","link":"https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt"},
-{"rank":"16","movieName":"Kajillionaire","link":"https://www.imdb.com/title/tt8143990/?ref_=adv_li_tt"},
-{"rank":"17","movieName":"Most Wanted","link":"https://www.imdb.com/title/tt1656177/?ref_=adv_li_tt"},
-{"rank":"18","movieName":"The Silencing","link":"https://www.imdb.com/title/tt7149730/?ref_=adv_li_tt"},
-{"rank":"19","movieName":"Raat Akeli Hai","link":"https://www.imdb.com/title/tt12567088/?ref_=adv_li_tt"},
-{"rank":"20","movieName":"Peninsula","link":"https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt"},
-{"rank":"21","movieName":"Unhinged","link":"https://www.imdb.com/title/tt10059518/?ref_=adv_li_tt"},
-{"rank":"22","movieName":"Black Is King","link":"https://www.imdb.com/title/tt12607910/?ref_=adv_li_tt"},
-{"rank":"23","movieName":"The New Mutants","link":"https://www.imdb.com/title/tt4682266/?ref_=adv_li_tt"},
-{"rank":"24","movieName":"Offering to the Storm","link":"https://www.imdb.com/title/tt7304824/?ref_=adv_li_tt"},
-{"rank":"25","movieName":"Wonder Woman 1984","link":"https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt"},
-{"rank":"26","movieName":"The Invisible Man","link":"https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt"},
-{"rank":"27","movieName":"The F**k-It List","link":"https://www.imdb.com/title/tt8145202/?ref_=adv_li_tt"},
-{"rank":"28","movieName":"Relic","link":"https://www.imdb.com/title/tt9072352/?ref_=adv_li_tt"},
-{"rank":"29","movieName":"Extraction","link":"https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt"},
-{"rank":"30","movieName":"The Hunt","link":"https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt"},
-{"rank":"31","movieName":"Scoob!","link":"https://www.imdb.com/title/tt3152592/?ref_=adv_li_tt"},
-{"rank":"32","movieName":"Shakuntala Devi","link":"https://www.imdb.com/title/tt10964468/?ref_=adv_li_tt"},
-{"rank":"33","movieName":"Amulet","link":"https://www.imdb.com/title/tt8332802/?ref_=adv_li_tt"},
-{"rank":"34","movieName":"Trolls World Tour","link":"https://www.imdb.com/title/tt6587640/?ref_=adv_li_tt"},
-{"rank":"35","movieName":"The King of Staten Island","link":"https://www.imdb.com/title/tt9686708/?ref_=adv_li_tt"},
-{"rank":"36","movieName":"The Big Ugly","link":"https://www.imdb.com/title/tt9441638/?ref_=adv_li_tt"},
-{"rank":"37","movieName":"No Time to Die","link":"https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt"},
-{"rank":"38","movieName":"Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn","link":"https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt"},
-{"rank":"39","movieName":"Mulan","link":"https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt"},
-{"rank":"40","movieName":"Bad Boys For Life","link":"https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt"},
-{"rank":"41","movieName":"The Hater","link":"https://www.imdb.com/title/tt9506474/?ref_=adv_li_tt"},
-{"rank":"42","movieName":"Archive","link":"https://www.imdb.com/title/tt6882604/?ref_=adv_li_tt"},
-{"rank":"43","movieName":"Money Plane","link":"https://www.imdb.com/title/tt7286966/?ref_=adv_li_tt"},
-{"rank":"44","movieName":"The Secret: Dare to Dream","link":"https://www.imdb.com/title/tt4411584/?ref_=adv_li_tt"},
-{"rank":"45","movieName":"Desperados","link":"https://www.imdb.com/title/tt1545304/?ref_=adv_li_tt"},
-{"rank":"46","movieName":"You Should Have Left","link":"https://www.imdb.com/title/tt8201852/?ref_=adv_li_tt"},
-{"rank":"47","movieName":"Fatal Affair","link":"https://www.imdb.com/title/tt11057594/?ref_=adv_li_tt"},
-{"rank":"48","movieName":"Becky","link":"https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt"},
-{"rank":"49","movieName":"Project Power","link":"https://www.imdb.com/title/tt7550000/?ref_=adv_li_tt"},
-{"rank":"50","movieName":"Black Widow","link":"https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt"}
+  {
+    "rank": "1",
+    "movieName": "Dil Bechara",
+    "link": "https://www.imdb.com/title/tt8110330/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "2",
+    "movieName": "The Kissing Booth 2",
+    "link": "https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "3",
+    "movieName": "The Old Guard",
+    "link": "https://www.imdb.com/title/tt7556122/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "4",
+    "movieName": "After We Collided",
+    "link": "https://www.imdb.com/title/tt10362466/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "5",
+    "movieName": "365 Days",
+    "link": "https://www.imdb.com/title/tt10886166/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "6",
+    "movieName": "Greyhound",
+    "link": "https://www.imdb.com/title/tt6048922/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "7",
+    "movieName": "Palm Springs",
+    "link": "https://www.imdb.com/title/tt9484998/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "8",
+    "movieName": "The Rental",
+    "link": "https://www.imdb.com/title/tt10003008/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "9",
+    "movieName": "Hamilton",
+    "link": "https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "10",
+    "movieName": "Eurovision Song Contest: The Story of Fire Saga",
+    "link": "https://www.imdb.com/title/tt8580274/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "11",
+    "movieName": "Bill & Ted Face the Music",
+    "link": "https://www.imdb.com/title/tt1086064/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "12",
+    "movieName": "Deep Blue Sea 3",
+    "link": "https://www.imdb.com/title/tt11946300/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "13",
+    "movieName": "Tenet",
+    "link": "https://www.imdb.com/title/tt6723592/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "14",
+    "movieName": "The Outpost",
+    "link": "https://www.imdb.com/title/tt3833480/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "15",
+    "movieName": "Dune",
+    "link": "https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "16",
+    "movieName": "Kajillionaire",
+    "link": "https://www.imdb.com/title/tt8143990/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "17",
+    "movieName": "Most Wanted",
+    "link": "https://www.imdb.com/title/tt1656177/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "18",
+    "movieName": "The Silencing",
+    "link": "https://www.imdb.com/title/tt7149730/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "19",
+    "movieName": "Raat Akeli Hai",
+    "link": "https://www.imdb.com/title/tt12567088/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "20",
+    "movieName": "Peninsula",
+    "link": "https://www.imdb.com/title/tt8850222/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "21",
+    "movieName": "Unhinged",
+    "link": "https://www.imdb.com/title/tt10059518/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "22",
+    "movieName": "Black Is King",
+    "link": "https://www.imdb.com/title/tt12607910/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "23",
+    "movieName": "The New Mutants",
+    "link": "https://www.imdb.com/title/tt4682266/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "24",
+    "movieName": "Offering to the Storm",
+    "link": "https://www.imdb.com/title/tt7304824/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "25",
+    "movieName": "Wonder Woman 1984",
+    "link": "https://www.imdb.com/title/tt7126948/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "26",
+    "movieName": "The Invisible Man",
+    "link": "https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "27",
+    "movieName": "The F**k-It List",
+    "link": "https://www.imdb.com/title/tt8145202/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "28",
+    "movieName": "Relic",
+    "link": "https://www.imdb.com/title/tt9072352/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "29",
+    "movieName": "Extraction",
+    "link": "https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "30",
+    "movieName": "The Hunt",
+    "link": "https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "31",
+    "movieName": "Scoob!",
+    "link": "https://www.imdb.com/title/tt3152592/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "32",
+    "movieName": "Shakuntala Devi",
+    "link": "https://www.imdb.com/title/tt10964468/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "33",
+    "movieName": "Amulet",
+    "link": "https://www.imdb.com/title/tt8332802/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "34",
+    "movieName": "Trolls World Tour",
+    "link": "https://www.imdb.com/title/tt6587640/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "35",
+    "movieName": "The King of Staten Island",
+    "link": "https://www.imdb.com/title/tt9686708/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "36",
+    "movieName": "The Big Ugly",
+    "link": "https://www.imdb.com/title/tt9441638/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "37",
+    "movieName": "No Time to Die",
+    "link": "https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "38",
+    "movieName": "Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn",
+    "link": "https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "39",
+    "movieName": "Mulan",
+    "link": "https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "40",
+    "movieName": "Bad Boys For Life",
+    "link": "https://www.imdb.com/title/tt1502397/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "41",
+    "movieName": "The Hater",
+    "link": "https://www.imdb.com/title/tt9506474/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "42",
+    "movieName": "Archive",
+    "link": "https://www.imdb.com/title/tt6882604/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "43",
+    "movieName": "Money Plane",
+    "link": "https://www.imdb.com/title/tt7286966/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "44",
+    "movieName": "The Secret: Dare to Dream",
+    "link": "https://www.imdb.com/title/tt4411584/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "45",
+    "movieName": "Desperados",
+    "link": "https://www.imdb.com/title/tt1545304/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "46",
+    "movieName": "You Should Have Left",
+    "link": "https://www.imdb.com/title/tt8201852/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "47",
+    "movieName": "Fatal Affair",
+    "link": "https://www.imdb.com/title/tt11057594/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "48",
+    "movieName": "Becky",
+    "link": "https://www.imdb.com/title/tt10314450/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "49",
+    "movieName": "Project Power",
+    "link": "https://www.imdb.com/title/tt7550000/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "50",
+    "movieName": "Black Widow",
+    "link": "https://www.imdb.com/title/tt3480822/?ref_=adv_li_tt"
+  }
 ]
