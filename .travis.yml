@@ -7,8 +7,8 @@ before_script:
   - pip --version
   - pip install --upgrade pip
   - pip install -r requirements.txt
-  - sudo apt update
-  - sudo apt install nodejs npm
+  - sudo apt-get update
+  - sudo apt-get -y install nodejs npm
   - sudo npm i -g csvtojson
 script: |
       chmod +x generate.sh
