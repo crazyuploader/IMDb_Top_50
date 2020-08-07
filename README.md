@@ -2,13 +2,11 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-08-06
+**Top 50 Movies as of:** 2020-08-07
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
 **CSV Data File:** [here](/Data/data.csv)
-
-**JSON Data File:** [here](/Data/data.json)
 
 **1 --->** [Dil Bechara](https://www.imdb.com/title/tt8110330/?ref_=adv_li_tt)
 
