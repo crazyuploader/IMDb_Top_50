@@ -78,6 +78,7 @@ def to_md():
     file.write("\n**Top 50 Movies as of:** {0}\n\n".format(datetime.now().date()))
     file.write("**Link --->** {0}\n\n".format(url))
     file.write("**CSV Data File:** [here](/Data/data.csv)\n\n")
+    file.write("**JSON Data File:** [here](/Data/data.json)\n\n")
     i = 0
     while i < 50:
         file.write("**{0} --->** [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
