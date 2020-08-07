@@ -8,6 +8,8 @@
 
 **CSV Data File:** [here](/Data/data.csv)
 
+**JSON Data File:** [here](/Data/data.json)
+
 **1 --->** [Dil Bechara](https://www.imdb.com/title/tt8110330/?ref_=adv_li_tt)
 
 **2 --->** [The Kissing Booth 2](https://www.imdb.com/title/tt9784456/?ref_=adv_li_tt)
