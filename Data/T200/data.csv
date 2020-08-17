@@ -8,7 +8,7 @@ Rank, Movie Name
 6, Schindler's List
 7, The Lord of the Rings: The Return of the King
 8, Pulp Fiction
-9, Il buono, il brutto, il cattivo
+9, The Good, the Bad and the Ugly
 10, The Lord of the Rings: The Fellowship of the Ring
 11, Fight Club
 12, Forrest Gump
@@ -18,22 +18,22 @@ Rank, Movie Name
 16, The Matrix
 17, Goodfellas
 18, One Flew Over the Cuckoo's Nest
-19, Shichinin no samurai
+19, Seven Samurai
 20, Se7en
-21, La vita è bella
-22, Cidade de Deus
+21, Life Is Beautiful
+22, City of God
 23, The Silence of the Lambs
 24, It's a Wonderful Life
-25, Star Wars
+25, Star Wars: Episode IV - A New Hope
 26, Saving Private Ryan
-27, Sen to Chihiro no kamikakushi
+27, Spirited Away
 28, The Green Mile
-29, Gisaengchung
+29, Parasite
 30, Hamilton
 31, Interstellar
-32, Léon
+32, LÃ©on: The Professional
 33, The Usual Suspects
-34, Seppuku
+34, Harakiri
 35, The Lion King
 36, Back to the Future
 37, The Pianist
@@ -47,10 +47,10 @@ Rank, Movie Name
 45, The Intouchables
 46, Whiplash
 47, The Prestige
-48, Hotaru no haka
+48, Grave of the Fireflies
 49, Once Upon a Time in the West
 50, Casablanca
-51, Nuovo Cinema Paradiso
+51, Cinema Paradiso
 52, Rear Window
 53, Alien
 54, Apocalypse Now
@@ -62,44 +62,44 @@ Rank, Movie Name
 60, Django Unchained
 61, Paths of Glory
 62, The Shining
-63, WALL·E
+63, WALLÂ·E
 64, Avengers: Infinity War
 65, Sunset Blvd.
-66, Mononoke-hime
+66, Princess Mononoke
 67, Spider-Man: Into the Spider-Verse
 68, Witness for the Prosecution
 69, Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb
-70, Oldeuboi
+70, Oldboy
 71, The Dark Knight Rises
 72, Once Upon a Time in America
 73, Avengers: Endgame
 74, Aliens
-75, Kimi no na wa.
+75, Your Name.
 76, Coco
 77, American Beauty
 78, Braveheart
 79, 3 Idiots
 80, Das Boot
 81, Toy Story
-82, Tengoku to jigoku
+82, High and Low
 83, Amadeus
 84, Taare Zameen Par
 85, Star Wars: Episode VI - Return of the Jedi
 86, Inglourious Basterds
 87, Reservoir Dogs
 88, Good Will Hunting
-89, Capharnaüm
+89, CapharnaÃ¼m
 90, 2001: A Space Odyssey
 91, Requiem for a Dream
 92, Vertigo
-93, M - Eine Stadt sucht einen Mörder
+93, M
 94, Dangal
 95, 1917
 96, Eternal Sunshine of the Spotless Mind
-97, Jagten
+97, The Hunt
 98, Citizen Kane
 99, Full Metal Jacket
-100, Ladri di biciclette
+100, Bicycle Thieves
 101, The Kid
 102, A Clockwork Orange
 103, North by Northwest
@@ -107,19 +107,19 @@ Rank, Movie Name
 105, Singin' in the Rain
 106, Scarface
 107, Taxi Driver
-108, Amélie
+108, AmÃ©lie
 109, Lawrence of Arabia
 110, Ikiru
 111, Toy Story 3
 112, The Sting
 113, Metropolis
-114, Jodaeiye Nader az Simin
-115, Per qualche dollaro in più
+114, A Separation
+115, For a Few Dollars More
 116, Incendies
 117, The Apartment
 118, Double Indemnity
 119, To Kill a Mockingbird
-120, Idi i smotri
+120, Come and See
 121, Indiana Jones and the Last Crusade
 122, Up
 123, L.A. Confidential
@@ -127,25 +127,25 @@ Rank, Movie Name
 125, Anand
 126, Monty Python and the Holy Grail
 127, Die Hard
-128, Rashômon
-129, Yôjinbô
+128, RashÃ´mon
+129, Yojimbo
 130, Batman Begins
 131, Green Book
-132, Der Untergang
-133, Bacheha-Ye aseman
+132, Downfall
+133, Children of Heaven
 134, Unforgiven
 135, Some Like It Hot
 136, Ran
-137, Hauru no ugoku shiro
+137, Howl's Moving Castle
 138, The Great Escape
 139, A Beautiful Mind
 140, All About Eve
 141, Casino
 142, Pan's Labyrinth
 143, The Wolf of Wall Street
-144, El secreto de sus ojos
+144, The Secret in Their Eyes
 145, Lock, Stock and Two Smoking Barrels
-146, Tonari no Totoro
+146, My Neighbor Totoro
 147, Raging Bull
 148, There Will Be Blood
 149, The Treasure of the Sierra Madre
@@ -158,7 +158,7 @@ Rank, Movie Name
 156, V for Vendetta
 157, No Country for Old Men
 158, Shutter Island
-159, Det sjunde inseglet
+159, The Seventh Seal
 160, Inside Out
 161, Warrior
 162, The Elephant Man
@@ -167,7 +167,7 @@ Rank, Movie Name
 165, The Thing
 166, Jurassic Park
 167, Gone with the Wind
-168, Smultronstället
+168, Wild Strawberries
 169, Blade Runner
 170, Finding Nemo
 171, The Truman Show
@@ -176,13 +176,13 @@ Rank, Movie Name
 174, Stalker
 175, Kill Bill: Vol. 1
 176, Fargo
-177, Tôkyô monogatari
+177, Tokyo Story
 178, The Third Man
 179, On the Waterfront
 180, Gran Torino
-181, Salinui chueok
+181, Memories of Murder
 182, The Deer Hunter
-183, Relatos salvajes
+183, Wild Tales
 184, Andhadhun
 185, Klaus
 186, In the Name of the Father
@@ -191,12 +191,12 @@ Rank, Movie Name
 189, The Big Lebowski
 190, Hacksaw Ridge
 191, The Grand Budapest Hotel
-192, Eskiya
+192, The Bandit
 193, Before Sunrise
 194, To Be or Not to Be
 195, Catch Me If You Can
 196, Persona
-197, Ford v. Ferrari
+197, Ford v Ferrari
 198, The General
 199, How to Train Your Dragon
 200, Prisoners
@@ -212,41 +212,41 @@ Rank, Movie Name
 210, Into the Wild
 211, Hachi: A Dog's Tale
 212, Ben-Hur
-213, Le salaire de la peur
+213, The Wages of Fear
 214, Dead Poets Society
 215, Platoon
 216, Harry Potter and the Deathly Hallows: Part 2
-217, Life of Brian
+217, Monty Python's Life of Brian
 218, Logan
 219, Rush
-220, Du rififi chez les hommes
-221, La passion de Jeanne d'Arc
-222, Ah-ga-ssi
+220, Rififi
+221, The Passion of Joan of Arc
+222, The Handmaiden
 223, Andrei Rublev
-224, Les quatre cents coups
+224, The 400 Blows
 225, Hotel Rwanda
 226, Spotlight
-227, Amores perros
+227, Amores Perros
 228, Rang De Basanti
-229, Kaze no tani no Naushika
+229, NausicaÃ¤ of the Valley of the Wind
 230, Rocky
-231, La haine
+231, La Haine
 232, Gangs of Wasseypur
 233, Monsters, Inc.
 234, Rebecca
-235, Portrait de la jeune fille en feu
+235, Portrait of a Lady on Fire
 236, Before Sunset
 237, The Circus
 238, It Happened One Night
-239, Fa yeung nin wah
+239, In the Mood for Love
 240, Paris, Texas
 241, Drishyam
-242, Contratiempo
+242, The Invisible Guest
 243, The Help
 244, The Princess Bride
 245, The Terminator
-246, La battaglia di Algeri
-247, Swades: We, the People
-248, Kumonosu-jô
+246, The Battle of Algiers
+247, Swades
+248, Throne of Blood
 249, Lagaan: Once Upon a Time in India
 250, Munna Bhai M.B.B.S.
