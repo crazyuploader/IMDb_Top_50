@@ -45,6 +45,24 @@ def fetch_movie():
         i += 1
 
 
+def top_200():
+    fname = "Data/T200/data.csv"
+    url_to_fetch = "https://www.imdb.com/chart/top/"
+    got = get(url_to_fetch)
+    soup = BeautifulSoup(got.text, "html.parser")
+    all = soup.find_all("td", attrs={"class": "titleColumn"})
+    i = 0
+    file = open(fname, "w")
+    file.write("Rank, Movie Name\n\n")
+    file.close
+    file = open(fname, "a")
+    while i < 250:
+        name = all[i].findChildren("a")[0].contents[0]
+        file.write("{0}, {1}\n".format(i + 1, name))
+        i += 1
+    file.close
+
+
 def print_list():
     file = open("temp.csv", "w")
     file.write("Rank, Movie Name\n\n")
@@ -92,6 +110,7 @@ newline()
 print("Original Post: " + original_post)
 newline()
 fetch_movie()
+top_200()
 to_csv()
 to_md()
 print_list()
