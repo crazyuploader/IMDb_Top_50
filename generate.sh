@@ -34,6 +34,11 @@ csvtojson data.csv > data.json
 echo "Prettify..."
 prettier --write .
 echo ""
+cd Data/T200 || exit 1
+csvtojson data.csv > data.json
+echo "Prettify..."
+prettier --write .
+echo ""
 cd "${TRAVIS_BUILD_DIR}" || exit 1
 if [[ -z $(git status --porcelain) ]]; then
     echo -e "${GREEN}Nothing to Update${NC}"
