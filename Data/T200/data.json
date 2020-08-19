@@ -74,8 +74,8 @@
   { "Rank": "64", "Movie Name": "Avengers: Infinity War" },
   { "Rank": "65", "Movie Name": "Sunset Blvd." },
   { "Rank": "66", "Movie Name": "Princess Mononoke" },
-  { "Rank": "67", "Movie Name": "Witness for the Prosecution" },
-  { "Rank": "68", "Movie Name": "Spider-Man: Into the Spider-Verse" },
+  { "Rank": "67", "Movie Name": "Spider-Man: Into the Spider-Verse" },
+  { "Rank": "68", "Movie Name": "Witness for the Prosecution" },
   {
     "Rank": "69",
     "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
@@ -231,8 +231,8 @@
   { "Rank": "210", "Movie Name": "Into the Wild" },
   { "Rank": "211", "Movie Name": "Hachi: A Dog's Tale" },
   { "Rank": "212", "Movie Name": "Ben-Hur" },
-  { "Rank": "213", "Movie Name": "Dead Poets Society" },
-  { "Rank": "214", "Movie Name": "The Wages of Fear" },
+  { "Rank": "213", "Movie Name": "The Wages of Fear" },
+  { "Rank": "214", "Movie Name": "Dead Poets Society" },
   { "Rank": "215", "Movie Name": "Platoon" },
   {
     "Rank": "216",
@@ -269,10 +269,7 @@
   { "Rank": "245", "Movie Name": "The Terminator" },
   { "Rank": "246", "Movie Name": "The Battle of Algiers" },
   { "Rank": "247", "Movie Name": "Throne of Blood" },
-  { "Rank": "248", "Movie Name": "Swades" },
-  { "Rank": "249", "Movie Name": "A Silent Voice: The Movie" },
-  {
-    "Rank": "250",
-    "Movie Name": "Neon Genesis Evangelion: The End of Evangelion"
-  }
+  { "Rank": "248", "Movie Name": "A Silent Voice: The Movie" },
+  { "Rank": "249", "Movie Name": "Swades" },
+  { "Rank": "250", "Movie Name": "Munna Bhai M.B.B.S." }
 ]
