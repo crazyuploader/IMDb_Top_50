@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-08-20
+**Top 50 Movies as of:** 2020-08-21
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -98,16 +98,16 @@
 
 **44 --->** [The King of Staten Island](https://www.imdb.com/title/tt9686708/?ref_=adv_li_tt)
 
-**45 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
+**45 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
 
-**46 --->** [The Bay of Silence](https://www.imdb.com/title/tt5617312/?ref_=adv_li_tt)
+**46 --->** [Birds of Prey: And the Fantabulous Emancipation of One Harley Quinn](https://www.imdb.com/title/tt7713068/?ref_=adv_li_tt)
 
-**47 --->** [Arkansas](https://www.imdb.com/title/tt9139586/?ref_=adv_li_tt)
+**47 --->** [The Bay of Silence](https://www.imdb.com/title/tt5617312/?ref_=adv_li_tt)
 
-**48 --->** [Extraction](https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt)
+**48 --->** [Arkansas](https://www.imdb.com/title/tt9139586/?ref_=adv_li_tt)
 
-**49 --->** [Lost Girls and Love Hotels](https://www.imdb.com/title/tt0920462/?ref_=adv_li_tt)
+**49 --->** [Extraction](https://www.imdb.com/title/tt8936646/?ref_=adv_li_tt)
 
-**50 --->** [Scoob!](https://www.imdb.com/title/tt3152592/?ref_=adv_li_tt)
+**50 --->** [Lost Girls and Love Hotels](https://www.imdb.com/title/tt0920462/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
