@@ -73,8 +73,8 @@
   { "Rank": "63", "Movie Name": "WALL·E" },
   { "Rank": "64", "Movie Name": "Avengers: Infinity War" },
   { "Rank": "65", "Movie Name": "Sunset Blvd." },
-  { "Rank": "66", "Movie Name": "Spider-Man: Into the Spider-Verse" },
-  { "Rank": "67", "Movie Name": "Witness for the Prosecution" },
+  { "Rank": "66", "Movie Name": "Witness for the Prosecution" },
+  { "Rank": "67", "Movie Name": "Spider-Man: Into the Spider-Verse" },
   { "Rank": "68", "Movie Name": "Princess Mononoke" },
   { "Rank": "69", "Movie Name": "Oldboy" },
   {
@@ -114,8 +114,8 @@
   { "Rank": "101", "Movie Name": "The Kid" },
   { "Rank": "102", "Movie Name": "A Clockwork Orange" },
   { "Rank": "103", "Movie Name": "North by Northwest" },
-  { "Rank": "104", "Movie Name": "Singin' in the Rain" },
-  { "Rank": "105", "Movie Name": "Snatch" },
+  { "Rank": "104", "Movie Name": "Snatch" },
+  { "Rank": "105", "Movie Name": "Singin' in the Rain" },
   { "Rank": "106", "Movie Name": "Scarface" },
   { "Rank": "107", "Movie Name": "Taxi Driver" },
   { "Rank": "108", "Movie Name": "Ikiru" },
@@ -268,11 +268,8 @@
   { "Rank": "244", "Movie Name": "The Princess Bride" },
   { "Rank": "245", "Movie Name": "The Battle of Algiers" },
   { "Rank": "246", "Movie Name": "The Terminator" },
-  { "Rank": "247", "Movie Name": "Three Colors: Red" },
-  {
-    "Rank": "248",
-    "Movie Name": "Neon Genesis Evangelion: The End of Evangelion"
-  },
-  { "Rank": "249", "Movie Name": "A Silent Voice: The Movie" },
-  { "Rank": "250", "Movie Name": "Swades" }
+  { "Rank": "247", "Movie Name": "A Silent Voice: The Movie" },
+  { "Rank": "248", "Movie Name": "Throne of Blood" },
+  { "Rank": "249", "Movie Name": "Three Colors: Red" },
+  { "Rank": "250", "Movie Name": "Chak De! India" }
 ]
