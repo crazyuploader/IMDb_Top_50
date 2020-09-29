@@ -1,7 +1,7 @@
 os: linux
 dist: focal
 language: python
-cache: 
+cache:
   - pip
   - npm
 python: 3.8
@@ -14,5 +14,5 @@ before_script:
   - sudo npm i -g csvtojson
   - sudo npm i -g prettier
 script: |
-      chmod +x generate.sh
-      ./generate.sh
+  chmod +x generate.sh
+  ./generate.sh
