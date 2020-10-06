@@ -46,8 +46,8 @@ if [[ -z $(git status --porcelain) ]]; then
 else
     echo -e "${YELLOW}File(s) changed -${NC}"
     git diff --name-only
-    git config user.email "49350241+crazyuploader@users.noreply.github.com"
-    git config user.name "crazyuploader"
+    git config user.email "travis@travis-ci.com"
+    git config user.name "Junglee CI"
     git add .
     git commit -m "Travis CI ${DATE} [skip travis]"
     git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${TRAVIS_BRANCH}"
