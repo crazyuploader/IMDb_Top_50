@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-10-17
+**Top 50 Movies as of:** 2020-10-18
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -88,7 +88,7 @@
 
 **39 --->** [Onward](https://www.imdb.com/title/tt7146812/?ref_=adv_li_tt)
 
-**40 --->** [Il legame](https://www.imdb.com/title/tt10914452/?ref_=adv_li_tt)
+**40 --->** [The Binding](https://www.imdb.com/title/tt10914452/?ref_=adv_li_tt)
 
 **41 --->** [Hamilton](https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt)
 
