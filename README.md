@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-11-18
+**Top 50 Movies as of:** 2020-11-19
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -62,7 +62,7 @@
 
 **26 --->** [Love and Monsters](https://www.imdb.com/title/tt2222042/?ref_=adv_li_tt)
 
-**27 --->** [Possessor Uncut](https://www.imdb.com/title/tt5918982/?ref_=adv_li_tt)
+**27 --->** [Possessor](https://www.imdb.com/title/tt5918982/?ref_=adv_li_tt)
 
 **28 --->** [Mank](https://www.imdb.com/title/tt10618286/?ref_=adv_li_tt)
 
