@@ -52,7 +52,5 @@ else
     git add .
     git commit -m "CI ${DATE} [skip ci]"
     git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${GITHUB_REF}"
-    echo ""
     echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
 fi
-echo ""
