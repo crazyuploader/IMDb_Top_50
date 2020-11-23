@@ -4,6 +4,7 @@
 #
 # Variables
 DATE="$(date +%m/%d/%y)"
+GH_REF="github.com/crazyuploader/IMDB_TOP_50.git"
 
 # Colors
 NC="\033[0m"
@@ -46,16 +47,12 @@ if [[ -z $(git status --porcelain) ]]; then
 else
     echo -e "${YELLOW}File(s) changed -${NC}"
     git diff --name-only
-    git config user.email "travis@travis-ci.com"
-    git config user.name "Junglee CI"
+    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+    git config user.name "github-actions"
     git add .
-    git commit -m "Travis CI ${DATE} [skip travis]"
-    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${TRAVIS_BRANCH}"
+    git commit -m "CI ${DATE} [skip ci]"
+    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${GITHUB_REF}"
     echo ""
     echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
 fi
-echo ""
-echo -e "${YELLOW}------O-U-T-P-U-T------"
-echo ""
-./IMDB.py 
 echo ""
