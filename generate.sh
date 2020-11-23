@@ -48,10 +48,10 @@ else
     echo -e "${YELLOW}File(s) changed -${NC}"
     git diff --name-only
     git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-    git config user.name "Junglee CI"
+    git config user.name "github-actions"
     git add .
-    git commit -m "Travis CI ${DATE} [skip travis]"
-    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${TRAVIS_BRANCH}"
+    git commit -m "CI ${DATE} [skip ci]"
+    git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${GITHUB_REF}"
     echo ""
     echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
 fi
