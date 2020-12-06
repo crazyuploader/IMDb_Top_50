@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-12-05
+**Top 50 Movies as of:** 2020-12-06
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -78,36 +78,36 @@
 
 **34 --->** [The Witches](https://www.imdb.com/title/tt0805647/?ref_=adv_li_tt)
 
-**35 --->** [Rebecca](https://www.imdb.com/title/tt2235695/?ref_=adv_li_tt)
+**35 --->** [We Can Be Heroes](https://www.imdb.com/title/tt10600398/?ref_=adv_li_tt)
 
-**36 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
+**36 --->** [Rebecca](https://www.imdb.com/title/tt2235695/?ref_=adv_li_tt)
 
-**37 --->** [Operation Christmas Drop](https://www.imdb.com/title/tt13236566/?ref_=adv_li_tt)
+**37 --->** [Mulan](https://www.imdb.com/title/tt4566758/?ref_=adv_li_tt)
 
-**38 --->** [Dolittle](https://www.imdb.com/title/tt6673612/?ref_=adv_li_tt)
+**38 --->** [Operation Christmas Drop](https://www.imdb.com/title/tt13236566/?ref_=adv_li_tt)
 
-**39 --->** [Girl](https://www.imdb.com/title/tt9392374/?ref_=adv_li_tt)
+**39 --->** [Dolittle](https://www.imdb.com/title/tt6673612/?ref_=adv_li_tt)
 
-**40 --->** [Pieces of a Woman](https://www.imdb.com/title/tt11161474/?ref_=adv_li_tt)
+**40 --->** [Girl](https://www.imdb.com/title/tt9392374/?ref_=adv_li_tt)
 
-**41 --->** [I'm Thinking of Ending Things](https://www.imdb.com/title/tt7939766/?ref_=adv_li_tt)
+**41 --->** [Pieces of a Woman](https://www.imdb.com/title/tt11161474/?ref_=adv_li_tt)
 
-**42 --->** [The Hunt](https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt)
+**42 --->** [I'm Thinking of Ending Things](https://www.imdb.com/title/tt7939766/?ref_=adv_li_tt)
 
-**43 --->** [Come Play](https://www.imdb.com/title/tt8004664/?ref_=adv_li_tt)
+**43 --->** [The Hunt](https://www.imdb.com/title/tt8244784/?ref_=adv_li_tt)
 
-**44 --->** [Soorarai Pottru](https://www.imdb.com/title/tt10189514/?ref_=adv_li_tt)
+**44 --->** [Come Play](https://www.imdb.com/title/tt8004664/?ref_=adv_li_tt)
 
-**45 --->** [The Invisible Man](https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt)
+**45 --->** [Soorarai Pottru](https://www.imdb.com/title/tt10189514/?ref_=adv_li_tt)
 
-**46 --->** [Hamilton](https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt)
+**46 --->** [The Invisible Man](https://www.imdb.com/title/tt1051906/?ref_=adv_li_tt)
 
-**47 --->** [Arkansas](https://www.imdb.com/title/tt9139586/?ref_=adv_li_tt)
+**47 --->** [Hamilton](https://www.imdb.com/title/tt8503618/?ref_=adv_li_tt)
 
-**48 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
+**48 --->** [Arkansas](https://www.imdb.com/title/tt9139586/?ref_=adv_li_tt)
 
-**49 --->** [Love and Monsters](https://www.imdb.com/title/tt2222042/?ref_=adv_li_tt)
+**49 --->** [Fantasy Island](https://www.imdb.com/title/tt0983946/?ref_=adv_li_tt)
 
-**50 --->** [Bill & Ted Face the Music](https://www.imdb.com/title/tt1086064/?ref_=adv_li_tt)
+**50 --->** [Love and Monsters](https://www.imdb.com/title/tt2222042/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
