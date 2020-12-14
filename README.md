@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2020-12-13
+**Top 50 Movies as of:** 2020-12-14
 
 **Link --->** http://www.imdb.com/search/title?release_date=2020,2020&title_type=feature
 
@@ -16,7 +16,7 @@
 
 **3 --->** [Hillbilly Elegy](https://www.imdb.com/title/tt6772802/?ref_=adv_li_tt)
 
-**4 --->** [The Christmas Chronicles 2](https://www.imdb.com/title/tt11057644/?ref_=adv_li_tt)
+**4 --->** [The Christmas Chronicles: Part Two](https://www.imdb.com/title/tt11057644/?ref_=adv_li_tt)
 
 **5 --->** [Mank](https://www.imdb.com/title/tt10618286/?ref_=adv_li_tt)
 
