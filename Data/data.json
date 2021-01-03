@@ -216,37 +216,37 @@
   },
   {
     "rank": "44",
-    "movieName": "The French Dispatch",
-    "link": "https://www.imdb.com/title/tt8847712/?ref_=adv_li_tt"
-  },
-  {
-    "rank": "45",
     "movieName": "Wrath of Man",
     "link": "https://www.imdb.com/title/tt11083552/?ref_=adv_li_tt"
   },
   {
-    "rank": "46",
+    "rank": "45",
     "movieName": "Tom and Jerry",
     "link": "https://www.imdb.com/title/tt1361336/?ref_=adv_li_tt"
   },
   {
-    "rank": "47",
+    "rank": "46",
     "movieName": "Cruella",
     "link": "https://www.imdb.com/title/tt3228774/?ref_=adv_li_tt"
   },
   {
-    "rank": "48",
+    "rank": "47",
     "movieName": "Shang-Chi and the Legend of the Ten Rings",
     "link": "https://www.imdb.com/title/tt9376612/?ref_=adv_li_tt"
   },
   {
-    "rank": "49",
+    "rank": "48",
     "movieName": "Space Jam: A New Legacy",
     "link": "https://www.imdb.com/title/tt3554046/?ref_=adv_li_tt"
   },
   {
-    "rank": "50",
+    "rank": "49",
     "movieName": "Army of the Dead",
     "link": "https://www.imdb.com/title/tt0993840/?ref_=adv_li_tt"
+  },
+  {
+    "rank": "50",
+    "movieName": "Luca",
+    "link": "https://www.imdb.com/title/tt12801262/?ref_=adv_li_tt"
   }
 ]

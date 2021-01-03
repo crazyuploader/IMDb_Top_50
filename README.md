@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2021-01-02
+**Top 50 Movies as of:** 2021-01-03
 
 **Link --->** http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature
 
@@ -96,18 +96,18 @@
 
 **43 --->** [Raya and the Last Dragon](https://www.imdb.com/title/tt5109280/?ref_=adv_li_tt)
 
-**44 --->** [The French Dispatch](https://www.imdb.com/title/tt8847712/?ref_=adv_li_tt)
+**44 --->** [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=adv_li_tt)
 
-**45 --->** [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=adv_li_tt)
+**45 --->** [Tom and Jerry](https://www.imdb.com/title/tt1361336/?ref_=adv_li_tt)
 
-**46 --->** [Tom and Jerry](https://www.imdb.com/title/tt1361336/?ref_=adv_li_tt)
+**46 --->** [Cruella](https://www.imdb.com/title/tt3228774/?ref_=adv_li_tt)
 
-**47 --->** [Cruella](https://www.imdb.com/title/tt3228774/?ref_=adv_li_tt)
+**47 --->** [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=adv_li_tt)
 
-**48 --->** [Shang-Chi and the Legend of the Ten Rings](https://www.imdb.com/title/tt9376612/?ref_=adv_li_tt)
+**48 --->** [Space Jam: A New Legacy](https://www.imdb.com/title/tt3554046/?ref_=adv_li_tt)
 
-**49 --->** [Space Jam: A New Legacy](https://www.imdb.com/title/tt3554046/?ref_=adv_li_tt)
+**49 --->** [Army of the Dead](https://www.imdb.com/title/tt0993840/?ref_=adv_li_tt)
 
-**50 --->** [Army of the Dead](https://www.imdb.com/title/tt0993840/?ref_=adv_li_tt)
+**50 --->** [Luca](https://www.imdb.com/title/tt12801262/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
