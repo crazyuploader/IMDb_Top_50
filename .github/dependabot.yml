@@ -1,0 +1,11 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "23:30"
+    timezone: Asia/Kolkata
+  open-pull-requests-limit: 20
+  reviewers:
+  - crazyuploader
