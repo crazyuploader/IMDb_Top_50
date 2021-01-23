@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2021-01-22
+**Top 50 Movies as of:** 2021-01-23
 
 **Link --->** http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature
 
@@ -64,50 +64,50 @@
 
 **27 --->** [Stuck Apart](https://www.imdb.com/title/tt11213372/?ref_=adv_li_tt)
 
-**28 --->** [Uncharted](https://www.imdb.com/title/tt1464335/?ref_=adv_li_tt)
+**28 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
 
-**29 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
+**29 --->** [Samaritan](https://www.imdb.com/title/tt5500218/?ref_=adv_li_tt)
 
-**30 --->** [Samaritan](https://www.imdb.com/title/tt5500218/?ref_=adv_li_tt)
+**30 --->** [Untitled Spider-Man Sequel](https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt)
 
-**31 --->** [Untitled Spider-Man Sequel](https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt)
+**31 --->** [Wrong Turn](https://www.imdb.com/title/tt9110170/?ref_=adv_li_tt)
 
-**32 --->** [Wrong Turn](https://www.imdb.com/title/tt9110170/?ref_=adv_li_tt)
+**32 --->** [To All the Boys: Always and Forever](https://www.imdb.com/title/tt10676012/?ref_=adv_li_tt)
 
-**33 --->** [To All the Boys: Always and Forever](https://www.imdb.com/title/tt10676012/?ref_=adv_li_tt)
+**33 --->** [F9](https://www.imdb.com/title/tt5433138/?ref_=adv_li_tt)
 
-**34 --->** [F9](https://www.imdb.com/title/tt5433138/?ref_=adv_li_tt)
+**34 --->** [Eternals](https://www.imdb.com/title/tt9032400/?ref_=adv_li_tt)
 
-**35 --->** [Eternals](https://www.imdb.com/title/tt9032400/?ref_=adv_li_tt)
+**35 --->** [Boss Level](https://www.imdb.com/title/tt7638348/?ref_=adv_li_tt)
 
-**36 --->** [Boss Level](https://www.imdb.com/title/tt7638348/?ref_=adv_li_tt)
+**36 --->** [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=adv_li_tt)
 
-**37 --->** [Death on the Nile](https://www.imdb.com/title/tt7657566/?ref_=adv_li_tt)
+**37 --->** [Last Night in Soho](https://www.imdb.com/title/tt9639470/?ref_=adv_li_tt)
 
-**38 --->** [Last Night in Soho](https://www.imdb.com/title/tt9639470/?ref_=adv_li_tt)
+**38 --->** [Venom: Let There Be Carnage](https://www.imdb.com/title/tt7097896/?ref_=adv_li_tt)
 
-**39 --->** [Venom: Let There Be Carnage](https://www.imdb.com/title/tt7097896/?ref_=adv_li_tt)
+**39 --->** [Maara](https://www.imdb.com/title/tt9319874/?ref_=adv_li_tt)
 
-**40 --->** [Maara](https://www.imdb.com/title/tt9319874/?ref_=adv_li_tt)
+**40 --->** [Coming 2 America](https://www.imdb.com/title/tt6802400/?ref_=adv_li_tt)
 
-**41 --->** [Coming 2 America](https://www.imdb.com/title/tt6802400/?ref_=adv_li_tt)
+**41 --->** [The King's Man](https://www.imdb.com/title/tt6856242/?ref_=adv_li_tt)
 
-**42 --->** [The King's Man](https://www.imdb.com/title/tt6856242/?ref_=adv_li_tt)
+**42 --->** [Free Guy](https://www.imdb.com/title/tt6264654/?ref_=adv_li_tt)
 
-**43 --->** [Morbius](https://www.imdb.com/title/tt5108870/?ref_=adv_li_tt)
+**43 --->** [Finding 'Ohana](https://www.imdb.com/title/tt10332588/?ref_=adv_li_tt)
 
-**44 --->** [Free Guy](https://www.imdb.com/title/tt6264654/?ref_=adv_li_tt)
+**44 --->** [The Tomorrow War](https://www.imdb.com/title/tt9777666/?ref_=adv_li_tt)
 
-**45 --->** [Finding 'Ohana](https://www.imdb.com/title/tt10332588/?ref_=adv_li_tt)
+**45 --->** [The Serpent](https://www.imdb.com/title/tt6984230/?ref_=adv_li_tt)
 
-**46 --->** [The Tomorrow War](https://www.imdb.com/title/tt9777666/?ref_=adv_li_tt)
+**46 --->** [Cinderella](https://www.imdb.com/title/tt10155932/?ref_=adv_li_tt)
 
-**47 --->** [The Serpent](https://www.imdb.com/title/tt6984230/?ref_=adv_li_tt)
+**47 --->** [Willy's Wonderland](https://www.imdb.com/title/tt8114980/?ref_=adv_li_tt)
 
-**48 --->** [Cinderella](https://www.imdb.com/title/tt10155932/?ref_=adv_li_tt)
+**48 --->** [Chaos Walking](https://www.imdb.com/title/tt2076822/?ref_=adv_li_tt)
 
-**49 --->** [Willy's Wonderland](https://www.imdb.com/title/tt8114980/?ref_=adv_li_tt)
+**49 --->** [Nobody](https://www.imdb.com/title/tt7888964/?ref_=adv_li_tt)
 
-**50 --->** [Chaos Walking](https://www.imdb.com/title/tt2076822/?ref_=adv_li_tt)
+**50 --->** [The White Tiger](https://www.imdb.com/title/tt6571548/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
