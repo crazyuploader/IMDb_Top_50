@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2021-03-31
+**Top 50 Movies as of:** 2021-04-01
 
 **Link --->** http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature
 
@@ -60,7 +60,7 @@
 
 **25 --->** [Dune](https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt)
 
-**26 --->** [Resident Evil](https://www.imdb.com/title/tt6920084/?ref_=adv_li_tt)
+**26 --->** [Resident Evil: Welcome to Raccoon City](https://www.imdb.com/title/tt6920084/?ref_=adv_li_tt)
 
 **27 --->** [The Seventh Day](https://www.imdb.com/title/tt11263022/?ref_=adv_li_tt)
 
