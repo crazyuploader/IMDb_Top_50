@@ -2,7 +2,7 @@
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
 
-**Top 50 Movies as of:** 2021-04-02
+**Top 50 Movies as of:** 2021-04-03
 
 **Link --->** http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature
 
@@ -68,46 +68,46 @@
 
 **29 --->** [Happily](https://www.imdb.com/title/tt9849004/?ref_=adv_li_tt)
 
-**30 --->** [Cruella](https://www.imdb.com/title/tt3228774/?ref_=adv_li_tt)
+**30 --->** [Bad Trip](https://www.imdb.com/title/tt9684220/?ref_=adv_li_tt)
 
-**31 --->** [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt)
+**31 --->** [Cruella](https://www.imdb.com/title/tt3228774/?ref_=adv_li_tt)
 
-**32 --->** [The Dig](https://www.imdb.com/title/tt3661210/?ref_=adv_li_tt)
+**32 --->** [Spider-Man: No Way Home](https://www.imdb.com/title/tt10872600/?ref_=adv_li_tt)
 
-**33 --->** [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=adv_li_tt)
+**33 --->** [The Dig](https://www.imdb.com/title/tt3661210/?ref_=adv_li_tt)
 
-**34 --->** [A Week Away](https://www.imdb.com/title/tt11388278/?ref_=adv_li_tt)
+**34 --->** [Wrath of Man](https://www.imdb.com/title/tt11083552/?ref_=adv_li_tt)
 
-**35 --->** [Wrong Turn](https://www.imdb.com/title/tt9110170/?ref_=adv_li_tt)
+**35 --->** [A Week Away](https://www.imdb.com/title/tt11388278/?ref_=adv_li_tt)
 
-**36 --->** [Crisis](https://www.imdb.com/title/tt9731682/?ref_=adv_li_tt)
+**36 --->** [Wrong Turn](https://www.imdb.com/title/tt9110170/?ref_=adv_li_tt)
 
-**37 --->** [The White Tiger](https://www.imdb.com/title/tt6571548/?ref_=adv_li_tt)
+**37 --->** [Crisis](https://www.imdb.com/title/tt9731682/?ref_=adv_li_tt)
 
-**38 --->** [The Matrix 4](https://www.imdb.com/title/tt10838180/?ref_=adv_li_tt)
+**38 --->** [The White Tiger](https://www.imdb.com/title/tt6571548/?ref_=adv_li_tt)
 
-**39 --->** [The Unholy](https://www.imdb.com/title/tt9419056/?ref_=adv_li_tt)
+**39 --->** [The Matrix 4](https://www.imdb.com/title/tt10838180/?ref_=adv_li_tt)
 
-**40 --->** [No Time to Die](https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt)
+**40 --->** [The Unholy](https://www.imdb.com/title/tt9419056/?ref_=adv_li_tt)
 
-**41 --->** [Free Guy](https://www.imdb.com/title/tt6264654/?ref_=adv_li_tt)
+**41 --->** [No Time to Die](https://www.imdb.com/title/tt2382320/?ref_=adv_li_tt)
 
-**42 --->** [Eternals](https://www.imdb.com/title/tt9032400/?ref_=adv_li_tt)
+**42 --->** [Free Guy](https://www.imdb.com/title/tt6264654/?ref_=adv_li_tt)
 
-**43 --->** [The United States vs. Billie Holiday](https://www.imdb.com/title/tt8521718/?ref_=adv_li_tt)
+**43 --->** [Eternals](https://www.imdb.com/title/tt9032400/?ref_=adv_li_tt)
 
-**44 --->** [Paper Lives](https://www.imdb.com/title/tt13045890/?ref_=adv_li_tt)
+**44 --->** [The United States vs. Billie Holiday](https://www.imdb.com/title/tt8521718/?ref_=adv_li_tt)
 
-**45 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
+**45 --->** [Paper Lives](https://www.imdb.com/title/tt13045890/?ref_=adv_li_tt)
 
-**46 --->** [The Yinyang Master](https://www.imdb.com/title/tt12151820/?ref_=adv_li_tt)
+**46 --->** [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
 
-**47 --->** [Thunder Force](https://www.imdb.com/title/tt10121392/?ref_=adv_li_tt)
+**47 --->** [The Yinyang Master](https://www.imdb.com/title/tt12151820/?ref_=adv_li_tt)
 
-**48 --->** [Creation Stories](https://www.imdb.com/title/tt5693182/?ref_=adv_li_tt)
+**48 --->** [Thunder Force](https://www.imdb.com/title/tt10121392/?ref_=adv_li_tt)
 
-**49 --->** [In the Heights](https://www.imdb.com/title/tt1321510/?ref_=adv_li_tt)
+**49 --->** [Creation Stories](https://www.imdb.com/title/tt5693182/?ref_=adv_li_tt)
 
-**50 --->** [Cosmic Sin](https://www.imdb.com/title/tt11762434/?ref_=adv_li_tt)
+**50 --->** [In the Heights](https://www.imdb.com/title/tt1321510/?ref_=adv_li_tt)
 
 **Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
