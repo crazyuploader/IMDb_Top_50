@@ -94,7 +94,7 @@ def to_md():
     file = open("README.md", "a")
     file.write(f"**Original Post:** [Link]({original_post}) \n")
     file.write("\n**Top 50 Movies as of:** _{0}_\n\n".format(datetime.now().date()))
-    file.write("**Link --->** {0}\n\n".format(url))
+    file.write("**IMDB Page:** [Link]({0})\n\n".format(url))
     file.write("**CSV Data File:** [here](/Data/data.csv)\n\n")
     file.write("**JSON Data File:** [here](/Data/data.json)\n\n")
     i = 0
