@@ -93,13 +93,13 @@ def to_md():
     file.close()
     file = open("README.md", "a")
     file.write("**Original Post:** " + original_post + "\n")
-    file.write("\n**Top 50 Movies as of:** {0}\n\n".format(datetime.now().date()))
+    file.write("\n**Top 50 Movies as of:** _{0}_\n\n".format(datetime.now().date()))
     file.write("**Link --->** {0}\n\n".format(url))
     file.write("**CSV Data File:** [here](/Data/data.csv)\n\n")
     file.write("**JSON Data File:** [here](/Data/data.json)\n\n")
     i = 0
     while i < 50:
-        file.write("**{0} --->** [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
+        file.write("{0}. [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
         i += 1
     file.write("**Original Post:** " + original_post + "\n")
     file.close()
