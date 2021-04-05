@@ -58,7 +58,7 @@ def top_200():
     file = open(fname, "a")
     while i < 250:
         name = all[i].findChildren("a")[0].contents[0]
-        file.write("{0}, {1}\n".format(i + 1, name))
+        file.write("\"{0}\", \"{1}\"\n".format(i + 1, name))
         i += 1
     file.close
 
@@ -68,7 +68,7 @@ def print_list():
     file.write("Rank, Movie Name\n\n")
     i = 0
     while i < 50:
-        file.write("{0}, {1}\n".format(i + 1, name[i]))
+        file.write("\"{0}\", \"{1}\"\n".format(i + 1, name[i]))
         i += 1
     file.close()
     subprocess.call(["csvtomd", "temp.csv"])
@@ -82,7 +82,7 @@ def to_csv():
     file = open("Data/data.csv", "a")
     i = 0
     while i < 50:
-        file.write("{0}, {1}, {2}\n".format(i + 1, name[i], links[i]))
+        file.write("\"{0}\", \"{1}\", \"{2}\"\n".format(i + 1, name[i], links[i]))
         i += 1
     file.close()
 
