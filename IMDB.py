@@ -92,7 +92,7 @@ def to_md():
     file.write("# Top IMDB 50 Movies Data Scrapper\n\n")
     file.close()
     file = open("README.md", "a")
-    file.write(f"**Original Post:** [Link]({original_post}) \n")
+    file.write(f"**Original Medium Post:** [Link]({original_post}) \n")
     file.write("\n**Top 50 Movies as of:** _{0}_\n\n".format(datetime.now().date()))
     file.write("**IMDB Page:** [Link]({0})\n\n".format(url))
     file.write("**CSV Data File:** [Link](/Data/data.csv)\n\n")
@@ -101,7 +101,7 @@ def to_md():
     while i < 50:
         file.write("{0}. [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
         i += 1
-    file.write(f"**Original Post:** [Link]({original_post}) \n")
+    file.write(f"**Original Medium Post:** [Link]({original_post}) \n")
     file.close()
 
 
@@ -115,4 +115,4 @@ to_csv()
 to_md()
 print_list()
 newline()
-print("Original Post: " + original_post)
+print("Original Medium Post: " + original_post)
