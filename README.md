@@ -6,9 +6,9 @@
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature)
 
-**CSV Data File:** [here](/Data/data.csv)
+**CSV Data File:** [Link](/Data/data.csv)
 
-**JSON Data File:** [here](/Data/data.json)
+**JSON Data File:** [Link](/Data/data.json)
 
 1. [Godzilla vs. Kong](https://www.imdb.com/title/tt5034838/?ref_=adv_li_tt)
 
