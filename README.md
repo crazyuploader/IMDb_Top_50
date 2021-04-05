@@ -1,6 +1,6 @@
 # Top IMDB 50 Movies Data Scrapper
 
-**Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
+**Original Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
 **Top 50 Movies as of:** _2021-04-05_
 
@@ -110,4 +110,4 @@
 
 50. [Eternals](https://www.imdb.com/title/tt9032400/?ref_=adv_li_tt)
 
-**Original Post:** https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1
+**Original Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
