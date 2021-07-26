@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2021-07-25_
+**Top 50 Movies as of:** _2021-07-26_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature)
 
@@ -76,7 +76,7 @@
 
 33. [The Ice Road](https://www.imdb.com/title/tt3758814/?ref_=adv_li_tt)
 
-34. [Dune](https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt)
+34. [Dune: Part One](https://www.imdb.com/title/tt1160419/?ref_=adv_li_tt)
 
 35. [Snake Eyes](https://www.imdb.com/title/tt8404256/?ref_=adv_li_tt)
 
