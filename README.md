@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2021-08-08_
+**Top 50 Movies as of:** _2021-08-09_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature)
 
@@ -56,7 +56,7 @@
 
 23. [Fear Street: Part Two - 1978](https://www.imdb.com/title/tt9701940/?ref_=adv_li_tt)
 
-24. [The Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=adv_li_tt)
+24. [Hitman's Wife's Bodyguard](https://www.imdb.com/title/tt8385148/?ref_=adv_li_tt)
 
 25. [The Forever Purge](https://www.imdb.com/title/tt10327252/?ref_=adv_li_tt)
 
