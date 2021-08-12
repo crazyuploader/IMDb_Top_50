@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2021-08-11_
+**Top 50 Movies as of:** _2021-08-12_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature)
 
@@ -70,7 +70,7 @@
 
 30. [Snake Eyes](https://www.imdb.com/title/tt8404256/?ref_=adv_li_tt)
 
-31. [Fear Street: Part Two - 1978](https://www.imdb.com/title/tt9701940/?ref_=adv_li_tt)
+31. [Fear Street 2](https://www.imdb.com/title/tt9701940/?ref_=adv_li_tt)
 
 32. [Ghostbusters: Afterlife](https://www.imdb.com/title/tt4513678/?ref_=adv_li_tt)
 
@@ -94,7 +94,7 @@
 
 42. [Don't Look Up](https://www.imdb.com/title/tt11286314/?ref_=adv_li_tt)
 
-43. [Fear Street: Part Three - 1666](https://www.imdb.com/title/tt9701942/?ref_=adv_li_tt)
+43. [Fear Street 3](https://www.imdb.com/title/tt9701942/?ref_=adv_li_tt)
 
 44. [Rurni Kenshin: Sai shsh - The Beginning](https://www.imdb.com/title/tt11991748/?ref_=adv_li_tt)
 
