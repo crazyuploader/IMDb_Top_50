@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2021-08-19_
+**Top 50 Movies as of:** _2021-08-20_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2021,2021&title_type=feature)
 
@@ -104,10 +104,10 @@
 
 47. [No Sudden Move](https://www.imdb.com/title/tt11525644/?ref_=adv_li_tt)
 
-48. [Fear Street 2](https://www.imdb.com/title/tt9701940/?ref_=adv_li_tt)
+48. [Fear Street: Part Two - 1978](https://www.imdb.com/title/tt9701940/?ref_=adv_li_tt)
 
 49. [Annette](https://www.imdb.com/title/tt6217926/?ref_=adv_li_tt)
 
-50. [Paw Patrol: The Movie](https://www.imdb.com/title/tt11832046/?ref_=adv_li_tt)
+50. [PAW Patrol: The Movie](https://www.imdb.com/title/tt11832046/?ref_=adv_li_tt)
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
