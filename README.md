@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-01-13_
+**Top 50 Movies as of:** _2022-01-14_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -76,38 +76,38 @@
 
 33. [The King's Daughter](https://www.imdb.com/title/tt2328678/?ref_=adv_li_tt)
 
-34. [The Commando](https://www.imdb.com/title/tt12689248/?ref_=adv_li_tt)
+34. [The Gray Man](https://www.imdb.com/title/tt1649418/?ref_=adv_li_tt)
 
-35. [The Gray Man](https://www.imdb.com/title/tt1649418/?ref_=adv_li_tt)
+35. [The Unbearable Weight of Massive Talent](https://www.imdb.com/title/tt11291274/?ref_=adv_li_tt)
 
-36. [The Unbearable Weight of Massive Talent](https://www.imdb.com/title/tt11291274/?ref_=adv_li_tt)
+36. [Nope](https://www.imdb.com/title/tt10954984/?ref_=adv_li_tt)
 
-37. [Nope](https://www.imdb.com/title/tt10954984/?ref_=adv_li_tt)
+37. [Untitled Wes Anderson Film](https://www.imdb.com/title/tt14230388/?ref_=adv_li_tt)
 
-38. [Untitled Wes Anderson Film](https://www.imdb.com/title/tt14230388/?ref_=adv_li_tt)
+38. [The Ice Age Adventures of Buck Wild](https://www.imdb.com/title/tt13634480/?ref_=adv_li_tt)
 
-39. [The Ice Age Adventures of Buck Wild](https://www.imdb.com/title/tt13634480/?ref_=adv_li_tt)
+39. [Aquaman and the Lost Kingdom](https://www.imdb.com/title/tt9663764/?ref_=adv_li_tt)
 
-40. [Aquaman and the Lost Kingdom](https://www.imdb.com/title/tt9663764/?ref_=adv_li_tt)
+40. [Lightyear](https://www.imdb.com/title/tt10298810/?ref_=adv_li_tt)
 
-41. [Lightyear](https://www.imdb.com/title/tt10298810/?ref_=adv_li_tt)
+41. [The Requin](https://www.imdb.com/title/tt11348232/?ref_=adv_li_tt)
 
-42. [The Requin](https://www.imdb.com/title/tt11348232/?ref_=adv_li_tt)
+42. [The Bad Guys](https://www.imdb.com/title/tt8115900/?ref_=adv_li_tt)
 
-43. [The Bad Guys](https://www.imdb.com/title/tt8115900/?ref_=adv_li_tt)
+43. [Turning Red](https://www.imdb.com/title/tt8097030/?ref_=adv_li_tt)
 
-44. [Turning Red](https://www.imdb.com/title/tt8097030/?ref_=adv_li_tt)
+44. [Ambulance](https://www.imdb.com/title/tt4998632/?ref_=adv_li_tt)
 
-45. [Ambulance](https://www.imdb.com/title/tt4998632/?ref_=adv_li_tt)
+45. [Halloween Ends](https://www.imdb.com/title/tt10665342/?ref_=adv_li_tt)
 
-46. [Halloween Ends](https://www.imdb.com/title/tt10665342/?ref_=adv_li_tt)
+46. [Dog](https://www.imdb.com/title/tt11252248/?ref_=adv_li_tt)
 
-47. [Dog](https://www.imdb.com/title/tt11252248/?ref_=adv_li_tt)
+47. [RRR](https://www.imdb.com/title/tt8178634/?ref_=adv_li_tt)
 
-48. [RRR](https://www.imdb.com/title/tt8178634/?ref_=adv_li_tt)
+48. [Marry Me](https://www.imdb.com/title/tt10223460/?ref_=adv_li_tt)
 
-49. [Marry Me](https://www.imdb.com/title/tt10223460/?ref_=adv_li_tt)
+49. [Spider-Man: Lotus](https://www.imdb.com/title/tt13904644/?ref_=adv_li_tt)
 
-50. [Spider-Man: Lotus](https://www.imdb.com/title/tt13904644/?ref_=adv_li_tt)
+50. [Unwelcome](https://www.imdb.com/title/tt12447796/?ref_=adv_li_tt)
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
