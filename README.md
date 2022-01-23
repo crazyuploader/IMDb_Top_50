@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-01-22_
+**Top 50 Movies as of:** _2022-01-23_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -38,7 +38,7 @@
 
 14. [Morbius](https://www.imdb.com/title/tt5108870/?ref_=adv_li_tt)
 
-15. [Jurassic World: Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+15. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
 16. [The Bob's Burgers Movie](https://www.imdb.com/title/tt7466442/?ref_=adv_li_tt)
 
