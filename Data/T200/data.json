@@ -127,8 +127,8 @@
   { "Rank": "111", "Movie Name": "A Clockwork Orange" },
   { "Rank": "112", "Movie Name": "Taxi Driver" },
   { "Rank": "113", "Movie Name": "The Father" },
-  { "Rank": "114", "Movie Name": "A Separation" },
-  { "Rank": "115", "Movie Name": "The Sting" },
+  { "Rank": "114", "Movie Name": "The Sting" },
+  { "Rank": "115", "Movie Name": "A Separation" },
   { "Rank": "116", "Movie Name": "Scarface" },
   { "Rank": "117", "Movie Name": "Snatch" },
   { "Rank": "118", "Movie Name": "1917" },
@@ -166,8 +166,8 @@
   { "Rank": "150", "Movie Name": "The Secret in Their Eyes" },
   { "Rank": "151", "Movie Name": "Raging Bull" },
   { "Rank": "152", "Movie Name": "Chinatown" },
-  { "Rank": "153", "Movie Name": "My Neighbor Totoro" },
-  { "Rank": "154", "Movie Name": "Shutter Island" },
+  { "Rank": "153", "Movie Name": "Shutter Island" },
+  { "Rank": "154", "Movie Name": "My Neighbor Totoro" },
   { "Rank": "155", "Movie Name": "Lock, Stock and Two Smoking Barrels" },
   { "Rank": "156", "Movie Name": "No Country for Old Men" },
   { "Rank": "157", "Movie Name": "Klaus" },
@@ -254,8 +254,8 @@
   { "Rank": "235", "Movie Name": "Hotel Rwanda" },
   { "Rank": "236", "Movie Name": "Rush" },
   { "Rank": "237", "Movie Name": "Rocky" },
-  { "Rank": "238", "Movie Name": "Demon Slayer: Mugen Train" },
-  { "Rank": "239", "Movie Name": "Amores perros" },
+  { "Rank": "238", "Movie Name": "Amores perros" },
+  { "Rank": "239", "Movie Name": "Demon Slayer: Mugen Train" },
   { "Rank": "240", "Movie Name": "Into the Wild" },
   { "Rank": "241", "Movie Name": "Nausicaä of the Valley of the Wind" },
   { "Rank": "242", "Movie Name": "Drishyam" },
@@ -263,11 +263,8 @@
   { "Rank": "244", "Movie Name": "It Happened One Night" },
   { "Rank": "245", "Movie Name": "Miracle in Cell No. 7" },
   { "Rank": "246", "Movie Name": "Andrei Rublev" },
-  { "Rank": "247", "Movie Name": "Hera Pheri" },
-  { "Rank": "248", "Movie Name": "Fanny and Alexander" },
-  {
-    "Rank": "249",
-    "Movie Name": "Neon Genesis Evangelion: The End of Evangelion"
-  },
-  { "Rank": "250", "Movie Name": "Nights of Cabiria" }
+  { "Rank": "247", "Movie Name": "Fanny and Alexander" },
+  { "Rank": "248", "Movie Name": "Hera Pheri" },
+  { "Rank": "249", "Movie Name": "96" },
+  { "Rank": "250", "Movie Name": "The Battle of Algiers" }
 ]
