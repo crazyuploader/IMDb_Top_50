@@ -78,14 +78,14 @@
   { "Rank": "65", "Movie Name": "Witness for the Prosecution" },
   { "Rank": "66", "Movie Name": "Aliens" },
   { "Rank": "67", "Movie Name": "American Beauty" },
-  { "Rank": "68", "Movie Name": "The Batman" },
-  { "Rank": "69", "Movie Name": "The Dark Knight Rises" },
+  { "Rank": "68", "Movie Name": "The Dark Knight Rises" },
   {
-    "Rank": "70",
+    "Rank": "69",
     "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb"
   },
-  { "Rank": "71", "Movie Name": "Joker" },
-  { "Rank": "72", "Movie Name": "Spider-Man: Into the Spider-Verse" },
+  { "Rank": "70", "Movie Name": "Joker" },
+  { "Rank": "71", "Movie Name": "Spider-Man: Into the Spider-Verse" },
+  { "Rank": "72", "Movie Name": "The Batman" },
   { "Rank": "73", "Movie Name": "Old Boy" },
   { "Rank": "74", "Movie Name": "Braveheart" },
   { "Rank": "75", "Movie Name": "Toy Story" },
@@ -229,8 +229,8 @@
   { "Rank": "210", "Movie Name": "Dead Poets Society" },
   { "Rank": "211", "Movie Name": "Tokyo Story" },
   { "Rank": "212", "Movie Name": "Platoon" },
-  { "Rank": "213", "Movie Name": "The Terminator" },
-  { "Rank": "214", "Movie Name": "Ford v Ferrari" },
+  { "Rank": "213", "Movie Name": "Ford v Ferrari" },
+  { "Rank": "214", "Movie Name": "The Terminator" },
   { "Rank": "215", "Movie Name": "Stand by Me" },
   { "Rank": "216", "Movie Name": "Rush" },
   { "Rank": "217", "Movie Name": "Into the Wild" },
@@ -252,8 +252,8 @@
   { "Rank": "233", "Movie Name": "My Father and My Son" },
   { "Rank": "234", "Movie Name": "Cool Hand Luke" },
   { "Rank": "235", "Movie Name": "To Be or Not to Be" },
-  { "Rank": "236", "Movie Name": "Amores perros" },
-  { "Rank": "237", "Movie Name": "The Battle of Algiers" },
+  { "Rank": "236", "Movie Name": "The Battle of Algiers" },
+  { "Rank": "237", "Movie Name": "Amores perros" },
   {
     "Rank": "238",
     "Movie Name": "Pirates of the Caribbean: The Curse of the Black Pearl"
@@ -266,8 +266,8 @@
   { "Rank": "244", "Movie Name": "La Haine" },
   { "Rank": "245", "Movie Name": "Aladdin" },
   { "Rank": "246", "Movie Name": "Beauty and the Beast" },
-  { "Rank": "247", "Movie Name": "Gandhi" },
-  { "Rank": "248", "Movie Name": "Jai Bhim" },
+  { "Rank": "247", "Movie Name": "Jai Bhim" },
+  { "Rank": "248", "Movie Name": "Gandhi" },
   { "Rank": "249", "Movie Name": "The Help" },
   { "Rank": "250", "Movie Name": "The Handmaiden" }
 ]
