@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-03-10_
+**Top 50 Movies as of:** _2022-03-11_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -86,28 +86,28 @@
 
 38. [Redeeming Love](https://www.imdb.com/title/tt11365186/?ref_=adv_li_tt)
 
-39. [The Flash](https://www.imdb.com/title/tt0439572/?ref_=adv_li_tt)
+39. [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002/?ref_=adv_li_tt)
 
-40. [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002/?ref_=adv_li_tt)
+40. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
-41. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+41. [Home Team](https://www.imdb.com/title/tt14592064/?ref_=adv_li_tt)
 
-42. [Home Team](https://www.imdb.com/title/tt14592064/?ref_=adv_li_tt)
+42. [The Northman](https://www.imdb.com/title/tt11138512/?ref_=adv_li_tt)
 
-43. [The Northman](https://www.imdb.com/title/tt11138512/?ref_=adv_li_tt)
+43. [Avatar 2](https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt)
 
-44. [Avatar 2](https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt)
+44. [Sonic the Hedgehog 2](https://www.imdb.com/title/tt12412888/?ref_=adv_li_tt)
 
-45. [Sonic the Hedgehog 2](https://www.imdb.com/title/tt12412888/?ref_=adv_li_tt)
+45. [Deep Water](https://www.imdb.com/title/tt2180339/?ref_=adv_li_tt)
 
-46. [Deep Water](https://www.imdb.com/title/tt2180339/?ref_=adv_li_tt)
+46. [Black Adam](https://www.imdb.com/title/tt6443346/?ref_=adv_li_tt)
 
-47. [Black Adam](https://www.imdb.com/title/tt6443346/?ref_=adv_li_tt)
+47. [Valimai](https://www.imdb.com/title/tt10806040/?ref_=adv_li_tt)
 
-48. [Valimai](https://www.imdb.com/title/tt10806040/?ref_=adv_li_tt)
+48. [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
 
-49. [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
+49. [All the Old Knives](https://www.imdb.com/title/tt3706352/?ref_=adv_li_tt)
 
-50. [All the Old Knives](https://www.imdb.com/title/tt3706352/?ref_=adv_li_tt)
+50. [Fistful of Vengeance](https://www.imdb.com/title/tt14158554/?ref_=adv_li_tt)
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
