@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-04-27_
+**Top 50 Movies as of:** _2022-04-28_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -88,7 +88,7 @@
 
 39. [You Won't Be Alone](https://www.imdb.com/title/tt8296030/?ref_=adv_li_tt)
 
-40. [Avatar 2](https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt)
+40. [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt)
 
 41. [Beast](https://www.imdb.com/title/tt11301946/?ref_=adv_li_tt)
 
