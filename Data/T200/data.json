@@ -221,8 +221,8 @@
   { "Rank": "202", "Movie Name": "Mad Max: Fury Road" },
   { "Rank": "203", "Movie Name": "Mary and Max" },
   { "Rank": "204", "Movie Name": "Pather Panchali" },
-  { "Rank": "205", "Movie Name": "Jaws" },
-  { "Rank": "206", "Movie Name": "Monsters, Inc." },
+  { "Rank": "205", "Movie Name": "Monsters, Inc." },
+  { "Rank": "206", "Movie Name": "Jaws" },
   { "Rank": "207", "Movie Name": "The Passion of Joan of Arc" },
   { "Rank": "208", "Movie Name": "Hotel Rwanda" },
   { "Rank": "209", "Movie Name": "Tokyo Story" },
@@ -268,6 +268,6 @@
   { "Rank": "246", "Movie Name": "Aladdin" },
   { "Rank": "247", "Movie Name": "The Help" },
   { "Rank": "248", "Movie Name": "Beauty and the Beast" },
-  { "Rank": "249", "Movie Name": "Rififi" },
-  { "Rank": "250", "Movie Name": "Dances with Wolves" }
+  { "Rank": "249", "Movie Name": "Dances with Wolves" },
+  { "Rank": "250", "Movie Name": "Rififi" }
 ]
