@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-05-15_
+**Top 50 Movies as of:** _2022-05-16_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -38,7 +38,7 @@
 
 14. [Fantastic Beasts: The Secrets of Dumbledore](https://www.imdb.com/title/tt4123432/?ref_=adv_li_tt)
 
-15. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+15. [Jurassic World: Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
 16. [Avatar: The Way of Water](https://www.imdb.com/title/tt1630029/?ref_=adv_li_tt)
 
