@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-05-17_
+**Top 50 Movies as of:** _2022-05-18_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -54,7 +54,7 @@
 
 22. [Downton Abbey: A New Era](https://www.imdb.com/title/tt11703710/?ref_=adv_li_tt)
 
-23. [Jurassic World: Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+23. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
 24. [Thar](https://www.imdb.com/title/tt14479746/?ref_=adv_li_tt)
 
