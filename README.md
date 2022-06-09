@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-06-08_
+**Top 50 Movies as of:** _2022-06-09_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -24,7 +24,7 @@
 
 7. [The Northman](https://www.imdb.com/title/tt11138512/?ref_=adv_li_tt)
 
-8. [Jurassic World: Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+8. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
 9. [Chip 'n Dale: Rescue Rangers](https://www.imdb.com/title/tt3513500/?ref_=adv_li_tt)
 
