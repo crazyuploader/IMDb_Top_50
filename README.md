@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-06-23_
+**Top 50 Movies as of:** _2022-06-24_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -12,7 +12,7 @@
 
 1. [Top Gun: Maverick](https://www.imdb.com/title/tt1745960/?ref_=adv_li_tt)
 
-2. [Jurassic World: Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
+2. [Jurassic World Dominion](https://www.imdb.com/title/tt8041270/?ref_=adv_li_tt)
 
 3. [Hustle](https://www.imdb.com/title/tt8009428/?ref_=adv_li_tt)
 
