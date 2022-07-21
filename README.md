@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-07-20_
+**Top 50 Movies as of:** _2022-07-21_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -42,7 +42,7 @@
 
 16. [The Batman](https://www.imdb.com/title/tt1877830/?ref_=adv_li_tt)
 
-17. [NOPE](https://www.imdb.com/title/tt10954984/?ref_=adv_li_tt)
+17. [Nope](https://www.imdb.com/title/tt10954984/?ref_=adv_li_tt)
 
 18. [Vikram](https://www.imdb.com/title/tt9179430/?ref_=adv_li_tt)
 
