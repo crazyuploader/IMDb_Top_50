@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-08-13_
+**Top 50 Movies as of:** _2022-08-14_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -10,7 +10,7 @@
 
 **JSON Data File:** [Link](/Data/data.json)
 
-1. [Skull](https://www.imdb.com/title/tt11866324/?ref_=adv_li_tt)
+1. [Predator](https://www.imdb.com/title/tt11866324/?ref_=adv_li_tt)
 
 2. [The Gray Man](https://www.imdb.com/title/tt1649418/?ref_=adv_li_tt)
 
