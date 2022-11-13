@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-11-12_
+**Top 50 Movies as of:** _2022-11-13_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
