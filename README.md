@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2022-12-02_
+**Top 50 Movies as of:** _2022-12-03_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2022,2022&title_type=feature)
 
@@ -88,7 +88,7 @@
 
 39. [See How They Run](https://www.imdb.com/title/tt13640696/?ref_=adv_li_tt)
 
-40. [Pinocchio](https://www.imdb.com/title/tt1488589/?ref_=adv_li_tt)
+40. [Guillermo del Toro's Pinocchio](https://www.imdb.com/title/tt1488589/?ref_=adv_li_tt)
 
 41. [Armageddon Time](https://www.imdb.com/title/tt10343028/?ref_=adv_li_tt)
 
