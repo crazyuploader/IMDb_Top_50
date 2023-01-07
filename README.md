@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-01-06_
+**Top 50 Movies as of:** _2023-01-07_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -88,26 +88,26 @@
 
 39. [The Marvels](https://www.imdb.com/title/tt10676048/?ref_=adv_li_tt)
 
-40. [80 for Brady](https://www.imdb.com/title/tt18079362/?ref_=adv_li_tt)
+40. [Beau Is Afraid](https://www.imdb.com/title/tt13521006/?ref_=adv_li_tt)
 
-41. [Argylle](https://www.imdb.com/title/tt15009428/?ref_=adv_li_tt)
+41. [80 for Brady](https://www.imdb.com/title/tt18079362/?ref_=adv_li_tt)
 
-42. [Jesus Revolution](https://www.imdb.com/title/tt10098448/?ref_=adv_li_tt)
+42. [Argylle](https://www.imdb.com/title/tt15009428/?ref_=adv_li_tt)
 
-43. [Red One](https://www.imdb.com/title/tt14948432/?ref_=adv_li_tt)
+43. [Jesus Revolution](https://www.imdb.com/title/tt10098448/?ref_=adv_li_tt)
 
-44. [The Equalizer 3](https://www.imdb.com/title/tt17024450/?ref_=adv_li_tt)
+44. [Red One](https://www.imdb.com/title/tt14948432/?ref_=adv_li_tt)
 
-45. [MISSING](https://www.imdb.com/title/tt10855768/?ref_=adv_li_tt)
+45. [The Equalizer 3](https://www.imdb.com/title/tt17024450/?ref_=adv_li_tt)
 
-46. [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=adv_li_tt)
+46. [MISSING](https://www.imdb.com/title/tt10855768/?ref_=adv_li_tt)
 
-47. [Haunted Mansion](https://www.imdb.com/title/tt1695843/?ref_=adv_li_tt)
+47. [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=adv_li_tt)
 
-48. [Renfield](https://www.imdb.com/title/tt11358390/?ref_=adv_li_tt)
+48. [Haunted Mansion](https://www.imdb.com/title/tt1695843/?ref_=adv_li_tt)
 
-49. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://www.imdb.com/title/tt8589698/?ref_=adv_li_tt)
+49. [Renfield](https://www.imdb.com/title/tt11358390/?ref_=adv_li_tt)
 
-50. [Maybe I Do](https://www.imdb.com/title/tt20879602/?ref_=adv_li_tt)
+50. [Teenage Mutant Ninja Turtles: Mutant Mayhem](https://www.imdb.com/title/tt8589698/?ref_=adv_li_tt)
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
