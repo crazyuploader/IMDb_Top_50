@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-01-22_
+**Top 50 Movies as of:** _2023-01-23_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -60,7 +60,7 @@
 
 25. [The Little Mermaid](https://www.imdb.com/title/tt5971474/?ref_=adv_li_tt)
 
-26. [Are You There God? It's Me, Margaret](https://www.imdb.com/title/tt9185206/?ref_=adv_li_tt)
+26. [Are You There God? It's Me, Margaret.](https://www.imdb.com/title/tt9185206/?ref_=adv_li_tt)
 
 27. [Wonka](https://www.imdb.com/title/tt6166392/?ref_=adv_li_tt)
 
