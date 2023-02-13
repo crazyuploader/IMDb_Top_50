@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-02-12_
+**Top 50 Movies as of:** _2023-02-13_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -76,7 +76,7 @@
 
 33. [Indiana Jones and the Dial of Destiny](https://www.imdb.com/title/tt1462764/?ref_=adv_li_tt)
 
-34. [Guy Ritchie's The Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
+34. [The Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
 
 35. [Maybe I Do](https://www.imdb.com/title/tt20879602/?ref_=adv_li_tt)
 
