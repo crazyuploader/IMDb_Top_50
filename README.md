@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-03-02_
+**Top 50 Movies as of:** _2023-03-03_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -108,6 +108,6 @@
 
 49. [Mummies](https://www.imdb.com/title/tt23177868/?ref_=adv_li_tt)
 
-50. [Die Hart: The Movie](https://www.imdb.com/title/tt26198528/?ref_=adv_li_tt)
+50. [Die Hart](https://www.imdb.com/title/tt26198528/?ref_=adv_li_tt)
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
