@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-04-25_
+**Top 50 Movies as of:** _2023-04-26_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -48,7 +48,7 @@
 
 19. [Fast X](https://www.imdb.com/title/tt5433140/?ref_=adv_li_tt)
 
-20. [Guy Ritchie's the Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
+20. [The Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
 
 21. [Hunger](https://www.imdb.com/title/tt22695402/?ref_=adv_li_tt)
 
