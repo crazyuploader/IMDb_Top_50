@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-05-13_
+**Top 50 Movies as of:** _2023-05-14_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -64,7 +64,7 @@
 
 27. [Fast X](https://www.imdb.com/title/tt5433140/?ref_=adv_li_tt)
 
-28. [Operation Fortune: Ruse de guerre](https://www.imdb.com/title/tt7985704/?ref_=adv_li_tt)
+28. [Operation Fortune: Ruse de Guerre](https://www.imdb.com/title/tt7985704/?ref_=adv_li_tt)
 
 29. [Knights of the Zodiac](https://www.imdb.com/title/tt6528290/?ref_=adv_li_tt)
 
