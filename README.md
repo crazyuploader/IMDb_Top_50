@@ -2,7 +2,7 @@
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1) 
 
-**Top 50 Movies as of:** _2023-05-27_
+**Top 50 Movies as of:** _2023-05-28_
 
 **IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -24,7 +24,7 @@
 
 7. [Evil Dead Rise](https://www.imdb.com/title/tt13345606/?ref_=adv_li_tt)
 
-8. [Guy Ritchie's the Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
+8. [The Covenant](https://www.imdb.com/title/tt4873118/?ref_=adv_li_tt)
 
 9. [Killers of the Flower Moon](https://www.imdb.com/title/tt5537002/?ref_=adv_li_tt)
 
