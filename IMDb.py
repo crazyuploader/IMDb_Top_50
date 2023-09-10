@@ -83,7 +83,7 @@ def fetch_top_250_movies():
         file.write(f"\"{movie_rank}\", \"{movie_name}\", \"{movie_link}\"\n")
     file.close
 
-def print_top_50_movies(name):
+def print_top_50_movies(name, links):
     """
     Print the top 50 movie names.
     
@@ -91,12 +91,12 @@ def print_top_50_movies(name):
         name (list): A list of movie names.
     """
     file = open("temp.csv", "w")
-    file.write("Rank, Movie Name\n\n")
+    file.write("Rank; Movie Name; Movie Link\n\n")
     for i, movie_name in enumerate(name[:50], 1):
-        file.write(f"\"{i}\", \"{movie_name}\"\n")
+        file.write(f"\"{i}\"; \"{movie_name}\"; \"{links[i - 1]}\"\n")
     file.close()
 
-    subprocess.call(["csvtomd", "temp.csv"])
+    subprocess.call(["csvtomd", "-d", ";", "temp.csv"])
     os.remove("temp.csv")
 
 def save_to_csv(name, links):
@@ -111,7 +111,7 @@ def save_to_csv(name, links):
     file.write("Rank, Movie Name, Link\n\n")
     file.close()
 
-    file = open("Data/data.csv", "a")
+    file = open("Data/T50/data.csv", "a")
     for i, (movie_name, movie_link) in enumerate(zip(name[:50], links[:50]), 1):
         file.write(f"\"{i}\", \"{movie_name}\", \"{movie_link}\"\n")
     file.close()
@@ -130,10 +130,10 @@ def save_to_md(name, links):
 
     file = open("README.md", "a")
     file.write(f"**Original Medium Post:** [Link]({ORIGINAL_POST_URL})\n")
-    file.write(f"\n**Top 50 Movies as of: {datetime.now().date()}**\n\n")
-    file.write(f"**IMDb Page:** [Link]({IMDB_SEARCH_URL})\n\n")
-    file.write("**CSV Data File:** [Link](/Data/data.csv)\n\n")
-    file.write("**JSON Data File:** [Link](/Data/data.json)\n\n")
+    file.write(f"\n**Top IMDb 50 Movies as of: {datetime.now().date()}**\n\n")
+    file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_SEARCH_URL})\n\n")
+    file.write("**T50 CSV Data File:** [Link](/Data/T50/data.csv)\n\n")
+    file.write("**T50 JSON Data File:** [Link](/Data/T50/data.json)\n\n")
 
     for i, (movie_name, movie_link) in enumerate(zip(name[:50], links[:50]), 1):
         file.write(f"{i}. [{movie_name}]({movie_link})\n\n")
@@ -151,6 +151,6 @@ if __name__ == "__main__":
     fetch_top_250_movies()
     save_to_csv(movie_names, movie_links)
     save_to_md(movie_names, movie_links)
-    print_top_50_movies(movie_names)
+    print_top_50_movies(movie_names, movie_links)
     print("")
     print(f"Original Medium Post: {ORIGINAL_POST_URL}")
