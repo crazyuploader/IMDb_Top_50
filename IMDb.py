@@ -135,7 +135,7 @@ def save_to_md(name, links):
     file.write("**T50 CSV Data File:** [Link](/Data/T50/data.csv)\n\n")
     file.write("**T50 JSON Data File:** [Link](/Data/T50/data.json)\n\n")
     file.write("**T250 CSV Data File:** [Link](/Data/T250/data.csv)\n\n")
-    file.write("**T250 CSV Data File:** [Link](/Data/T250/data.csv)\n\n")
+    file.write("**T250 JSON Data File:** [Link](/Data/T250/data.json)\n\n")
 
     for i, (movie_name, movie_link) in enumerate(zip(name[:50], links[:50]), 1):
         file.write(f"{i}. [{movie_name}]({movie_link})\n\n")
