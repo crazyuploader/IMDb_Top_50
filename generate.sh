@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
 #
-# Generates "README.md" top 50 movies
+# Generates "README.md" with IMDb top 50 movies
 #
 # Variables
 DATE="$(date +%m/%d/%y)"
-GH_REF="github.com/crazyuploader/IMDB_TOP_50.git"
+GH_REF="github.com/crazyuploader/IMDb_Top_50.git"
 
 # Colors
 NC="\033[0m"
@@ -17,9 +17,9 @@ git remote remove origin
 git remote add origin https://"${GH_REF}"
 git fetch --all
 echo ""
-# echo -e "# Top IMDB 50 Movies Data Scrapper\n" > README.md
+# echo -e "# Top IMDb 50 Movies Data Scrapper\n" > README.md
 # echo -e "Top 50 Movies as of: **$(date +%m/%d/%Y)**\n" >> README.md
-./IMDB.py 1> /dev/null
+./IMDb.py 1> /dev/null
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
     echo -e "${RED}Python program failed${NC}"
@@ -30,13 +30,13 @@ echo -e "${GREEN}'README.md' file generated${NC}"
 echo ""
 echo -e "${GREEN}'Data/data.json' file generated${NC}"
 echo ""
-cd Data || exit 1
+cd Data/T50 || exit 1
 csvtojson data.csv > data.json
 echo "Prettify..."
 prettier --write .
 echo ""
 cd ..
-cd Data/T250 || exit 1
+cd T250 || exit 1
 csvtojson data.csv > data.json
 echo "Prettify..."
 prettier --write .
@@ -52,5 +52,5 @@ else
     git add .
     git commit -m "CI ${DATE} [skip ci]"
     git push https://crazyuploader:"${GITHUB_TOKEN}"@"${GH_REF}" HEAD:"${GITHUB_REF}"
-    echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDB_TOP_50'${NC}"
+    echo -e "${YELLOW}Changes pushed to${NC} ${GREEN}'https://github.com/crazyuploader/IMDb_Top_50'${NC}"
 fi
