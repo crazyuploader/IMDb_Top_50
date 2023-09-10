@@ -1,10 +1,10 @@
-# Top IMDB 50 Movies Data Scrapper
+# Top IMDb 50 Movies Data Scraper
 
 **Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top 50 Movies as of:** _2023-09-10_
+**Top 50 Movies as of: 2023-09-10**
 
-**IMDB Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
+**IMDb Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
 **CSV Data File:** [Link](/Data/data.csv)
 
