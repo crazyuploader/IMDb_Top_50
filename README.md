@@ -12,7 +12,7 @@
 
 **T250 CSV Data File:** [Link](/Data/T250/data.csv)
 
-**T250 CSV Data File:** [Link](/Data/T250/data.csv)
+**T250 JSON Data File:** [Link](/Data/T250/data.json)
 
 1. [You Are So Not Invited to My Bat Mitzvah](https://www.imdb.com/title/tt21276878/?ref_=adv_li_tt)
 
