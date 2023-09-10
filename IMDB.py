@@ -22,10 +22,10 @@ links = []
 base_url = "https://www.imdb.com"
 current_year = datetime.now().year
 url = "http://www.imdb.com/search/title?release_date=" + str(current_year) + "," + str(current_year) + "&title_type=feature"
+headers = {"user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"}
 
 
 def fetch_movie():
-    headers = {"User-Agent": "Mozilla/5.0"}
     print("Year:", current_year)
     newline()
     print("Data from Page URL:", url)
@@ -45,20 +45,20 @@ def fetch_movie():
         i += 1
 
 
-def top_200():
-    fname = "Data/T200/data.csv"
+def top_250():
+    fname = "Data/T250/data.csv"
     url_to_fetch = "https://www.imdb.com/chart/top/"
-    got = get(url_to_fetch)
+    got = get(url_to_fetch, headers=headers)
     soup = BeautifulSoup(got.text, "html.parser")
-    all = soup.find_all("td", attrs={"class": "titleColumn"})
-    i = 0
+    all = soup.find_all("h3", attrs={"class": "ipc-title__text"})
+    i = 1
     file = open(fname, "w")
     file.write("Rank, Movie Name\n\n")
     file.close
     file = open(fname, "a")
-    while i < 250:
-        name = all[i].findChildren("a")[0].contents[0]
-        file.write("\"{0}\", \"{1}\"\n".format(i + 1, name))
+    while i < 251:
+        name = all[i].contents[0].split(".")[1].strip()
+        file.write("\"{0}\", \"{1}\"\n".format(i - 1, name))
         i += 1
     file.close
 
@@ -92,7 +92,7 @@ def to_md():
     file.write("# Top IMDB 50 Movies Data Scrapper\n\n")
     file.close()
     file = open("README.md", "a")
-    file.write(f"**Original Medium Post:** [Link]({original_post}) \n")
+    file.write(f"**Original Medium Post:** [Link]({original_post})\n")
     file.write("\n**Top 50 Movies as of:** _{0}_\n\n".format(datetime.now().date()))
     file.write("**IMDB Page:** [Link]({0})\n\n".format(url))
     file.write("**CSV Data File:** [Link](/Data/data.csv)\n\n")
@@ -101,7 +101,7 @@ def to_md():
     while i < 50:
         file.write("{0}. [{1}]({2})\n\n".format(i + 1, name[i], links[i]))
         i += 1
-    file.write(f"**Original Medium Post:** [Link]({original_post}) \n")
+    file.write(f"**Original Medium Post:** [Link]({original_post})\n")
     file.close()
 
 
@@ -110,7 +110,7 @@ newline()
 print("Original Post: " + original_post)
 newline()
 fetch_movie()
-top_200()
+top_250()
 to_csv()
 to_md()
 print_list()

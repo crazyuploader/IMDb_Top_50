@@ -36,7 +36,7 @@ echo "Prettify..."
 prettier --write .
 echo ""
 cd ..
-cd Data/T200 || exit 1
+cd Data/T250 || exit 1
 csvtojson data.csv > data.json
 echo "Prettify..."
 prettier --write .
