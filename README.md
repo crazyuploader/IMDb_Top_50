@@ -1,8 +1,8 @@
 # Top IMDb 50 Movies Data Scraper
 
-**Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
+## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of: 2023-09-13**
+**Top IMDb Movies as of:** 2023-09-13
 
 **IMDb Top 50 Movies Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -15,6 +15,10 @@
 **T250 CSV Data File:** [Link](/Data/T250/data.csv)
 
 **T250 JSON Data File:** [Link](/Data/T250/data.json)
+
+---
+
+## IMDb Top 50 Movies List
 
 1. [Oppenheimer](https://www.imdb.com/title/tt15398776/?ref_=adv_li_tt)
 
@@ -116,4 +120,3 @@
 
 50. [The Pope's Exorcist](https://www.imdb.com/title/tt13375076/?ref_=adv_li_tt)
 
-**Original Medium Post:** [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
