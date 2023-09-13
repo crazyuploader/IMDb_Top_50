@@ -8,6 +8,7 @@ Version: 2.0
 """
 
 import os
+import re
 import subprocess
 from datetime import datetime
 from requests import get
@@ -77,8 +78,9 @@ def fetch_top_250_movies():
 
     file = open(fname, "a")
     for movie in all_movies[:250]:
-        movie_rank = movie.findChildren("h3")[0].contents[0].split(".")[0].strip()
-        movie_name = movie.findChildren("h3")[0].contents[0].split(".")[1].strip()
+        regex = re.match('^(\d+)\.\s(.+)$', movie.findChildren("h3")[0].contents[0])
+        movie_rank = regex.group(1).strip()
+        movie_name = regex.group(2).strip()
         movie_link = IMDB_BASE_URL + movie['href']
         file.write(f"\"{movie_rank}\", \"{movie_name}\", \"{movie_link}\"\n")
     file.close
