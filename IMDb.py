@@ -131,19 +131,20 @@ def save_to_md(name, links):
     file.close()
 
     file = open("README.md", "a")
-    file.write(f"**Original Medium Post:** [Link]({ORIGINAL_POST_URL})\n")
-    file.write(f"\n**Top IMDb Movies as of: {datetime.now().date()}**\n\n")
+    file.write(f"## Original Medium Post: [Link]({ORIGINAL_POST_URL})\n")
+    file.write(f"\n**Top IMDb Movies as of:** {datetime.now().date()}\n\n")
     file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_SEARCH_URL})\n\n")
     file.write(f"**IMDb Top 250 Movies Page:** [Link]({IMDB_TOP_250_URL})\n\n")
     file.write("**T50 CSV Data File:** [Link](/Data/T50/data.csv)\n\n")
     file.write("**T50 JSON Data File:** [Link](/Data/T50/data.json)\n\n")
     file.write("**T250 CSV Data File:** [Link](/Data/T250/data.csv)\n\n")
     file.write("**T250 JSON Data File:** [Link](/Data/T250/data.json)\n\n")
+    file.write("---\n\n")
+    file.write("## IMDb Top 50 Movies List\n\n")
 
     for i, (movie_name, movie_link) in enumerate(zip(name[:50], links[:50]), 1):
         file.write(f"{i}. [{movie_name}]({movie_link})\n\n")
 
-    file.write(f"**Original Medium Post:** [Link]({ORIGINAL_POST_URL})\n")
     file.close()
 
 if __name__ == "__main__":
