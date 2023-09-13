@@ -32,16 +32,14 @@ echo -e "${GREEN}'Data/data.json' file generated${NC}"
 echo ""
 cd Data/T50 || exit 1
 csvtojson data.csv > data.json
-echo "Prettify..."
-prettier --write .
 echo ""
 cd ..
 cd T250 || exit 1
 csvtojson data.csv > data.json
-echo "Prettify..."
-prettier --write .
 echo ""
 cd "${GITHUB_WORKSPACE}" || exit 1
+echo "Prettify..."
+prettier --write .
 if [[ -z $(git status --porcelain) ]]; then
     echo -e "${GREEN}Nothing to Update${NC}"
 else
