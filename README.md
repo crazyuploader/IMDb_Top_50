@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2023-11-03
+**Top IMDb Movies as of:** 2023-11-05
 
 **IMDb Top 50 Movies Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -68,54 +68,54 @@
 
 24. [The Royal Hotel](https://www.imdb.com/title/tt18363072/?ref_=adv_li_tt)
 
-25. [Taylor Swift: The Eras Tour](https://www.imdb.com/title/tt28814949/?ref_=adv_li_tt)
+25. [The Equalizer 3](https://www.imdb.com/title/tt17024450/?ref_=adv_li_tt)
 
-26. [The Equalizer 3](https://www.imdb.com/title/tt17024450/?ref_=adv_li_tt)
+26. [Burning Betrayal](https://www.imdb.com/title/tt26787296/?ref_=adv_li_tt)
 
-27. [Burning Betrayal](https://www.imdb.com/title/tt26787296/?ref_=adv_li_tt)
+27. [The Nun II](https://www.imdb.com/title/tt10160976/?ref_=adv_li_tt)
 
-28. [The Nun II](https://www.imdb.com/title/tt10160976/?ref_=adv_li_tt)
+28. [Leave the World Behind](https://www.imdb.com/title/tt12747748/?ref_=adv_li_tt)
 
-29. [Leave the World Behind](https://www.imdb.com/title/tt12747748/?ref_=adv_li_tt)
+29. [Expend4bles](https://www.imdb.com/title/tt3291150/?ref_=adv_li_tt)
 
-30. [Expend4bles](https://www.imdb.com/title/tt3291150/?ref_=adv_li_tt)
+30. [Anyone But You](https://www.imdb.com/title/tt26047818/?ref_=adv_li_tt)
 
-31. [Anyone But You](https://www.imdb.com/title/tt26047818/?ref_=adv_li_tt)
+31. [The Hunger Games: The Ballad of Songbirds and Snakes](https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt)
 
-32. [The Hunger Games: The Ballad of Songbirds and Snakes](https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt)
+32. [The Marvels](https://www.imdb.com/title/tt10676048/?ref_=adv_li_tt)
 
-33. [The Marvels](https://www.imdb.com/title/tt10676048/?ref_=adv_li_tt)
+33. [Sound of Freedom](https://www.imdb.com/title/tt7599146/?ref_=adv_li_tt)
 
-34. [Sound of Freedom](https://www.imdb.com/title/tt7599146/?ref_=adv_li_tt)
+34. [Nowhere](https://www.imdb.com/title/tt15789472/?ref_=adv_li_tt)
 
-35. [Nowhere](https://www.imdb.com/title/tt15789472/?ref_=adv_li_tt)
+35. [No One Will Save You](https://www.imdb.com/title/tt14509110/?ref_=adv_li_tt)
 
-36. [No One Will Save You](https://www.imdb.com/title/tt14509110/?ref_=adv_li_tt)
+36. [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=adv_li_tt)
 
-37. [A Haunting in Venice](https://www.imdb.com/title/tt22687790/?ref_=adv_li_tt)
+37. [Anatomy of a Fall](https://www.imdb.com/title/tt17009710/?ref_=adv_li_tt)
 
-38. [Anatomy of a Fall](https://www.imdb.com/title/tt17009710/?ref_=adv_li_tt)
+38. [Cobweb](https://www.imdb.com/title/tt9100018/?ref_=adv_li_tt)
 
-39. [Cobweb](https://www.imdb.com/title/tt9100018/?ref_=adv_li_tt)
+39. [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/?ref_=adv_li_tt)
 
-40. [Spider-Man: Across the Spider-Verse](https://www.imdb.com/title/tt9362722/?ref_=adv_li_tt)
+40. [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/?ref_=adv_li_tt)
 
-41. [John Wick: Chapter 4](https://www.imdb.com/title/tt10366206/?ref_=adv_li_tt)
+41. [If You Were the Last](https://www.imdb.com/title/tt13650540/?ref_=adv_li_tt)
 
-42. [If You Were the Last](https://www.imdb.com/title/tt13650540/?ref_=adv_li_tt)
+42. [Ferrari](https://www.imdb.com/title/tt3758542/?ref_=adv_li_tt)
 
-43. [Ferrari](https://www.imdb.com/title/tt3758542/?ref_=adv_li_tt)
+43. [Elemental](https://www.imdb.com/title/tt15789038/?ref_=adv_li_tt)
 
-44. [Elemental](https://www.imdb.com/title/tt15789038/?ref_=adv_li_tt)
+44. [Trolls Band Together](https://www.imdb.com/title/tt14362112/?ref_=adv_li_tt)
 
-45. [Trolls Band Together](https://www.imdb.com/title/tt14362112/?ref_=adv_li_tt)
+45. [Winnie the Pooh: Blood and Honey](https://www.imdb.com/title/tt19623240/?ref_=adv_li_tt)
 
-46. [Winnie the Pooh: Blood and Honey](https://www.imdb.com/title/tt19623240/?ref_=adv_li_tt)
+46. [Scream VI](https://www.imdb.com/title/tt17663992/?ref_=adv_li_tt)
 
-47. [Scream VI](https://www.imdb.com/title/tt17663992/?ref_=adv_li_tt)
+47. [Freelance](https://www.imdb.com/title/tt15744298/?ref_=adv_li_tt)
 
-48. [Freelance](https://www.imdb.com/title/tt15744298/?ref_=adv_li_tt)
+48. [The Boogeyman](https://www.imdb.com/title/tt3427252/?ref_=adv_li_tt)
 
-49. [The Boogeyman](https://www.imdb.com/title/tt3427252/?ref_=adv_li_tt)
+49. [Gran Turismo](https://www.imdb.com/title/tt4495098/?ref_=adv_li_tt)
 
-50. [Gran Turismo](https://www.imdb.com/title/tt4495098/?ref_=adv_li_tt)
+50. [Pet Sematary: Bloodlines](https://www.imdb.com/title/tt14145436/?ref_=adv_li_tt)
