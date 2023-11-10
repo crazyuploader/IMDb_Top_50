@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2023-11-07
+**Top IMDb Movies as of:** 2023-11-10
 
 **IMDb Top 50 Movies Page:** [Link](http://www.imdb.com/search/title?release_date=2023,2023&title_type=feature)
 
@@ -56,7 +56,7 @@
 
 18. [Haunted Mansion](https://www.imdb.com/title/tt1695843/?ref_=adv_li_tt)
 
-19. [The Hunger Games: The Ballad of Songbirds and Snakes](https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt)
+19. [The Hunger Games: The Ballad of Songbirds & Snakes](https://www.imdb.com/title/tt10545296/?ref_=adv_li_tt)
 
 20. [Totally Killer](https://www.imdb.com/title/tt11426232/?ref_=adv_li_tt)
 
