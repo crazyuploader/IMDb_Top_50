@@ -201,10 +201,9 @@ def save_to_md(fetched_data):
     file.write(f"\n**Top IMDb Movies as of:** {datetime.now().date()}\n\n")
     file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_MOVIES_SEARCH_URL})\n\n")
     file.write(f"**IMDb Top 250 Movies Page:** [Link]({IMDB_TOP_250_MOVIES_URL})\n\n")
-    file.write("**Top 50 Movies CSV File:** [Link](/data/top50/movies.csv)\n\n")
-    file.write("**Top 50 Movies JSON File:** [Link](/data/top50/movies.json)\n\n")
-    file.write("**Top 250 Movies CSV File:** [Link](/data/top250/data.csv)\n\n")
-    file.write("**Top 250 Movies JSON File:** [Link](/data/top250/data.json)\n\n")
+    file.write("**Top 50 Movies:** [CSV File](/data/top50/movies.csv), [JSON File](/data/top50/movies.json)\n\n")
+    file.write("**Top 250 Movies:** [CSV File](/data/top250/movies.csv), [JSON File](/data/top250/movies.json)\n\n")
+    file.write("**Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)\n\n")
     file.write("---\n\n")
     file.write("## IMDb Top 50 Movies List\n\n")
 
