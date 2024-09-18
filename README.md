@@ -1,4 +1,4 @@
-# Top IMDb 50 Movies Data Scraper
+# IMDb Top 50 & 250 Movie/TV Show Data Scraper
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
