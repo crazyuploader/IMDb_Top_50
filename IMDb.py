@@ -25,8 +25,7 @@ CURRENT_YEAR = datetime.now().year
 
 # IMDb URLs
 IMDB_BASE_URL = "https://www.imdb.com"
-IMDB_SEARCH_URL = f"http://www.imdb.com/search/title?release_date={
-    CURRENT_YEAR},{CURRENT_YEAR}&title_type=feature"
+IMDB_SEARCH_URL = f"http://www.imdb.com/search/title?release_date={CURRENT_YEAR},{CURRENT_YEAR}&title_type=feature"
 IMDB_TOP_250_URL = "https://www.imdb.com/chart/top/"
 
 # Custom headers
