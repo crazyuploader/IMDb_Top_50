@@ -60,10 +60,13 @@ def fetch_top_50_movies() -> list[dict]:
         .get("titleListItems")
     )
     for movie in json_data:
-        movie_data.append({
-            "name": movie["originalTitleText"],
-            "link": IMDB_BASE_URL + "/title/" + movie["titleId"] + "/"
-        })
+        movie_data.append(
+            {
+                "name": movie["originalTitleText"],
+                "link": IMDB_BASE_URL + "/title/" + movie["titleId"] + "/",
+                "rating": movie["ratingSummary"]["aggregateRating"],
+            }
+        )
     return movie_data
 
 
@@ -91,8 +94,11 @@ def fetch_top_250_movies():
     for movie in json_data["itemListElement"]:
         movie_rank = i
         movie_name = movie["item"]["name"]
+        movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
         movie_link = movie["item"]["url"]
-        file.write(f'"{movie_rank}", "{movie_name}", "{movie_link}"\n')
+        file.write(
+            f'"{movie_rank}", "{movie_name}", "{movie_rating}", "{movie_link}"\n'
+        )
         i += 1
     file.close
 
@@ -121,10 +127,13 @@ def fetch_top_50_shows() -> list[dict]:
         .get("titleListItems")
     )
     for show in json_data:
-        show_data.append({
-            "name": show["originalTitleText"],
-            "link": IMDB_BASE_URL + "/title/" + show["titleId"] + "/"
-        })
+        show_data.append(
+            {
+                "name": show["originalTitleText"],
+                "link": IMDB_BASE_URL + "/title/" + show["titleId"] + "/",
+                "rating": show["ratingSummary"]["aggregateRating"],
+            }
+        )
     return show_data
 
 
@@ -133,7 +142,7 @@ def print_top_50_movies(movies_data):
     Print the Top 50 Movie names.
 
     Args:
-        movies_data (list of dict): A list where each dictionary contains movie information, 
+        movies_data (list of dict): A list where each dictionary contains movie information,
         such as the Movie's name and link.
     """
 
@@ -169,10 +178,10 @@ def save_to_csv(fetched_data, file_path, content_type):
         file_path (str): The file path where the data should be saved.
     """
     ensure_path_directory(file_path)
-    if content_type == 'movies':
-        header = "Rank, Movie Name, Link"
+    if content_type == "movies":
+        header = "Rank, Movie Name, IMDb Rating, Link"
     else:
-        header = "Rank, Show Name, Link"
+        header = "Rank, Show Name, IMDb Rating, Link"
 
     file = open(file_path, "w")
     file.write(header + "\n\n")
@@ -180,7 +189,7 @@ def save_to_csv(fetched_data, file_path, content_type):
 
     file = open(file_path, "a")
     for i, item in enumerate(fetched_data, 1):
-        file.write(f'"{i}", "{item["name"]}", "{item["link"]}"\n')
+        file.write(f'"{i}", "{item["name"]}", "{item["rating"]}", "{item["link"]}"\n')
     file.close()
 
 
@@ -201,9 +210,15 @@ def save_to_md(fetched_data):
     file.write(f"\n**Top IMDb Movies as of:** {datetime.now().date()}\n\n")
     file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_MOVIES_SEARCH_URL})\n\n")
     file.write(f"**IMDb Top 250 Movies Page:** [Link]({IMDB_TOP_250_MOVIES_URL})\n\n")
-    file.write("**Top 50 Movies:** [CSV File](/data/top50/movies.csv), [JSON File](/data/top50/movies.json)\n\n")
-    file.write("**Top 250 Movies:** [CSV File](/data/top250/movies.csv), [JSON File](/data/top250/movies.json)\n\n")
-    file.write("**Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)\n\n")
+    file.write(
+        "**Top 50 Movies:** [CSV File](/data/top50/movies.csv), [JSON File](/data/top50/movies.json)\n\n"
+    )
+    file.write(
+        "**Top 250 Movies:** [CSV File](/data/top250/movies.csv), [JSON File](/data/top250/movies.json)\n\n"
+    )
+    file.write(
+        "**Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)\n\n"
+    )
     file.write("---\n\n")
     file.write("## IMDb Top 50 Movies List\n\n")
 
