@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-09-19
+**Top IMDb Movies as of:** 2024-09-18
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
@@ -119,4 +119,3 @@
 49. [Gladiator II](https://www.imdb.com/title/tt9218128/)
 
 50. [The Life of Chuck](https://www.imdb.com/title/tt12908150/)
-
