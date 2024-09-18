@@ -9,7 +9,6 @@ Version: 3.0
 
 import json
 import os
-import re
 import subprocess
 from datetime import datetime
 from requests import get
@@ -30,7 +29,7 @@ IMDB_TOP_250_URL = "https://www.imdb.com/chart/top/"
 
 # Custom headers
 HEADERS = {
-    "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/116.0"
+    "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0"
 }
 
 
@@ -52,16 +51,17 @@ def fetch_top_50_movies():
     response = get(IMDB_SEARCH_URL, headers=HEADERS)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    a_tags = soup.find_all("a", class_="ipc-title-link-wrapper")
-    # Loop through each 'a' tag and extract the link and title
-    for a_tag in a_tags:
-        # Extract the href attribute
-        link = a_tag["href"]
-        # Extract the text inside the 'h3' tag
-        title = a_tag.find("h3", class_="ipc-title__text").text
-        name.append(title)
-        links.append("https://www.imdb.com" + link)
-
+    json_data = (
+        json.loads(soup.find("script", id="__NEXT_DATA__").text)
+        .get("props", {})
+        .get("pageProps", {})
+        .get("searchResults", {})
+        .get("titleResults", {})
+        .get("titleListItems")
+    )
+    for movie in json_data:
+        name.append(movie["originalTitleText"])
+        links.append("https://www.imdb.com/title/" + movie["titleId"] + "/")
     return name, links
 
 
