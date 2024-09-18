@@ -24,8 +24,8 @@ CURRENT_YEAR = datetime.now().year
 
 # IMDb URLs
 IMDB_BASE_URL = "https://www.imdb.com"
-IMDB_SEARCH_URL = f"http://www.imdb.com/search/title?release_date={CURRENT_YEAR},{CURRENT_YEAR}&title_type=feature"
-IMDB_TOP_250_URL = "https://www.imdb.com/chart/top/"
+IMDB_MOVIES_SEARCH_URL = f"https://www.imdb.com/search/title/?title_type=feature&release_date={CURRENT_YEAR}-01-01,{CURRENT_YEAR}-12-31"
+IMDB_TOP_250_MOVIES_URL = "https://www.imdb.com/chart/top/"
 
 # Custom headers
 HEADERS = {
@@ -40,15 +40,12 @@ def fetch_top_50_movies():
     Returns:
         tuple: A tuple containing two lists - movie names and their IMDb links.
     """
-    print(f"Year: {CURRENT_YEAR}")
-    print("")
-    print(f"Data from Page URL: {IMDB_SEARCH_URL}")
-    print("")
+    print(f"Fetching top 50 shows {CURRENT_YEAR} from IMDb ->", IMDB_MOVIES_SEARCH_URL)
 
     name = []
     links = []
 
-    response = get(IMDB_SEARCH_URL, headers=HEADERS)
+    response = get(IMDB_MOVIES_SEARCH_URL, headers=HEADERS)
     soup = BeautifulSoup(response.text, "html.parser")
 
     json_data = (
@@ -61,7 +58,7 @@ def fetch_top_50_movies():
     )
     for movie in json_data:
         name.append(movie["originalTitleText"])
-        links.append("https://www.imdb.com/title/" + movie["titleId"] + "/")
+        links.append(IMDB_BASE_URL + "/title/" + movie["titleId"] + "/")
     return name, links
 
 
@@ -70,7 +67,7 @@ def fetch_top_250_movies():
     Fetch the top 250 movies from IMDb and save them to a CSV file.
     """
     fname = "Data/T250/data.csv"
-    got = get(IMDB_TOP_250_URL, headers=HEADERS)
+    got = get(IMDB_TOP_250_MOVIES_URL, headers=HEADERS)
     soup = BeautifulSoup(got.text, "html.parser")
 
     json_data = json.loads(
@@ -142,8 +139,8 @@ def save_to_md(name, links):
     file = open("README.md", "a")
     file.write(f"## Original Medium Post: [Link]({ORIGINAL_POST_URL})\n")
     file.write(f"\n**Top IMDb Movies as of:** {datetime.now().date()}\n\n")
-    file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_SEARCH_URL})\n\n")
-    file.write(f"**IMDb Top 250 Movies Page:** [Link]({IMDB_TOP_250_URL})\n\n")
+    file.write(f"**IMDb Top 50 Movies Page:** [Link]({IMDB_MOVIES_SEARCH_URL})\n\n")
+    file.write(f"**IMDb Top 250 Movies Page:** [Link]({IMDB_TOP_250_MOVIES_URL})\n\n")
     file.write("**T50 CSV Data File:** [Link](/Data/T50/data.csv)\n\n")
     file.write("**T50 JSON Data File:** [Link](/Data/T50/data.json)\n\n")
     file.write("**T250 CSV Data File:** [Link](/Data/T250/data.csv)\n\n")
