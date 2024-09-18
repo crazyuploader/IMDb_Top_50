@@ -22,20 +22,21 @@ echo ""
 ./IMDb.py 1> /dev/null
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
-    echo -e "${RED}Python program failed${NC}"
+    echo -e "${RED}Running Python IMDb.py Program Failed.${NC}"
     echo -e "${RED}Exiting...${NC}"
     exit 1
 fi
-echo -e "${GREEN}'README.md' file generated${NC}"
+echo -e "${GREEN}'README.md' file generated.${NC}"
 echo ""
-echo -e "${GREEN}'Data/data.json' file generated${NC}"
+echo -e "${GREEN}JSON file(s) are being generated.${NC}"
 echo ""
-cd Data/T50 || exit 1
-csvtojson data.csv > data.json
+cd data/top50 || exit 1
+csvtojson movies.csv > movies.json
+csvtojson shows.csv > shows.json
 echo ""
 cd ..
-cd T250 || exit 1
-csvtojson data.csv > data.json
+cd top250 || exit 1
+csvtojson movies.csv > movies.json
 echo ""
 cd "${GITHUB_WORKSPACE}" || exit 1
 echo "Prettify..."

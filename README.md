@@ -2,19 +2,19 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-09-18
+**Top IMDb Movies as of:** 2024-09-19
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
 **IMDb Top 250 Movies Page:** [Link](https://www.imdb.com/chart/top/)
 
-**T50 CSV Data File:** [Link](/Data/T50/data.csv)
+**Top 50 Movies CSV File:** [Link](/data/top50/movies.csv)
 
-**T50 JSON Data File:** [Link](/Data/T50/data.json)
+**Top 50 Movies JSON File:** [Link](/data/top50/movies.json)
 
-**T250 CSV Data File:** [Link](/Data/T250/data.csv)
+**Top 250 Movies CSV File:** [Link](/data/top250/data.csv)
 
-**T250 JSON Data File:** [Link](/Data/T250/data.json)
+**Top 250 Movies JSON File:** [Link](/data/top250/data.json)
 
 ---
 
@@ -119,3 +119,4 @@
 49. [Gladiator II](https://www.imdb.com/title/tt9218128/)
 
 50. [The Life of Chuck](https://www.imdb.com/title/tt12908150/)
+
