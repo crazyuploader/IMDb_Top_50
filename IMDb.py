@@ -193,7 +193,7 @@ def save_to_md(fetched_data):
         such as the Movie/Show's name and link.
     """
     file = open("README.md", "w")
-    file.write("# Top IMDb 50 Movies Data Scraper\n\n")
+    file.write("# IMDb Top 50 & 250 Movie/TV Show Data Scraper\n\n")
     file.close()
 
     file = open("README.md", "a")
@@ -214,7 +214,7 @@ def save_to_md(fetched_data):
 
 
 if __name__ == "__main__":
-    print("/// IMDb Top 50 Movies Data Scraper ///")
+    print("/// IMDb Top 50 & 250 Movie/TV Show Data Scraper ///")
     print("")
     print(f"Original Medium Post: {ORIGINAL_POST_URL}")
     print("")
