@@ -4,7 +4,7 @@
 
 **Top IMDb Movies as of:** 2024-09-18
 
-**IMDb Top 50 Movies Page:** [Link](http://www.imdb.com/search/title?release_date=2024,2024&title_type=feature)
+**IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
 **IMDb Top 250 Movies Page:** [Link](https://www.imdb.com/chart/top/)
 
