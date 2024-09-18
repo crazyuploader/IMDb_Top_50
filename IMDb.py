@@ -86,7 +86,7 @@ def fetch_top_250_movies():
     )
 
     file = open(fname, "w")
-    file.write("Rank, Movie Name, Movie Link\n\n")
+    file.write("Rank, Movie Name, IMDb Rating, Movie Link\n\n")
     file.close
 
     file = open(fname, "a")
