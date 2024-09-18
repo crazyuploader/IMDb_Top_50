@@ -8,13 +8,11 @@
 
 **IMDb Top 250 Movies Page:** [Link](https://www.imdb.com/chart/top/)
 
-**Top 50 Movies CSV File:** [Link](/data/top50/movies.csv)
+**Top 50 Movies:** [CSV File](/data/top50/movies.csv), [JSON File](/data/top50/movies.json)
 
-**Top 50 Movies JSON File:** [Link](/data/top50/movies.json)
+**Top 250 Movies:** [CSV File](/data/top250/movies.csv), [JSON File](/data/top250/movies.json)
 
-**Top 250 Movies CSV File:** [Link](/data/top250/data.csv)
-
-**Top 250 Movies JSON File:** [Link](/data/top250/data.json)
+**Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)
 
 ---
 
