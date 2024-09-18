@@ -134,7 +134,7 @@ def print_top_50_movies(movies_data):
 
     Args:
         movies_data (list of dict): A list where each dictionary contains movie information, 
-        such as the movie's name and link.
+        such as the Movie's name and link.
     """
 
     file = open("temp.csv", "w")
@@ -159,19 +159,23 @@ def ensure_path_directory(full_path):
         os.makedirs(directory)
 
 
-def save_to_csv(fetched_data, file_path):
+def save_to_csv(fetched_data, file_path, content_type):
     """
     Save fetched data to a CSV file.
 
     Args:
-        fetched_data (list of dict): A list where each dictionary contains movie/show information,
-        such as the movie/show's name and link.
+        fetched_data (list of dict): A list where each dictionary contains Movie/Show information,
+        such as the Movie/Show's name and link.
         file_path (str): The file path where the data should be saved.
     """
     ensure_path_directory(file_path)
+    if content_type == 'movies':
+        header = "Rank, Movie Name, Link"
+    else:
+        header = "Rank, Show Name, Link"
 
     file = open(file_path, "w")
-    file.write("Rank, Movie Name, Link\n\n")
+    file.write(header + "\n\n")
     file.close()
 
     file = open(file_path, "a")
@@ -182,11 +186,11 @@ def save_to_csv(fetched_data, file_path):
 
 def save_to_md(fetched_data):
     """
-    Save movie data to a Markdown file.
+    Save Movie data to a Markdown file.
 
     Args:
-        fetched_data (list of dict): A list where each dictionary contains movie/show information,
-        such as the movie/show's name and link.
+        fetched_data (list of dict): A list where each dictionary contains Movie/Show information,
+        such as the Movie/Show's name and link.
     """
     file = open("README.md", "w")
     file.write("# Top IMDb 50 Movies Data Scraper\n\n")
@@ -216,12 +220,12 @@ if __name__ == "__main__":
     print(f"Original Medium Post: {ORIGINAL_POST_URL}")
     print("")
     fetched_movies = fetch_top_50_movies()
-    save_to_csv(fetched_movies, "data/top50/movies.csv")
+    save_to_csv(fetched_movies, "data/top50/movies.csv", "movies")
     save_to_md(fetched_movies)
     fetch_top_250_movies()
 
     fetched_shows = fetch_top_50_shows()
-    save_to_csv(fetched_shows, "data/top50/shows.csv")
+    save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
     if sys.version_info < (3, 10):
         print_top_50_movies(movie_names, movie_links)
     print("")
