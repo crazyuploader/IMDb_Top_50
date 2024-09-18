@@ -40,14 +40,18 @@ jobs:
       - name: Prettify files
         run: |
           prettier --write .
-      
+
       - name: Check for changes
         id: check_changes
         run: |
-          git diff --exit-code || echo "Changes detected"
+          if [[ -z $(git status --porcelain) ]];
+            echo "changes=false" >> $GITHUB_ENV
+          else
+            echo "changes=true" >> $GITHUB_ENV
+          fi
 
       - name: Commit files
-        if: steps.check_changes.outputs.changed == 'true'
+        if: env.changes == 'true'
         run: |
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
@@ -55,7 +59,7 @@ jobs:
           git commit -m "Add changes"
 
       - name: Push changes
-        if: steps.check_changes.outputs.changed == 'true'
+        if: env.changes == 'true'
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
