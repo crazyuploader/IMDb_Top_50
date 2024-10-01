@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-09-30
+**Top IMDb Movies as of:** 2024-10-01
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
@@ -18,102 +18,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
+1. [The Substance](https://www.imdb.com/title/tt17526714/)
 
-2. [Uglies](https://www.imdb.com/title/tt13186604/)
+2. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
 
-3. [The Substance](https://www.imdb.com/title/tt17526714/)
+3. [Megalopolis](https://www.imdb.com/title/tt10128846/)
 
-4. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
+4. [Wolfs](https://www.imdb.com/title/tt14257582/)
 
-5. [Rebel Ridge](https://www.imdb.com/title/tt11301886/)
+5. [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/)
 
 6. [Blink Twice](https://www.imdb.com/title/tt14858658/)
 
-7. [Am I Racist?](https://www.imdb.com/title/tt33034103/)
+7. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
 
-8. [Civil War](https://www.imdb.com/title/tt17279496/)
+8. [Transformers One](https://www.imdb.com/title/tt8864596/)
 
-9. [Subservience](https://www.imdb.com/title/tt24871974/)
+9. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
 
-10. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
+10. [Uglies](https://www.imdb.com/title/tt13186604/)
 
-11. [Transformers One](https://www.imdb.com/title/tt8864596/)
+11. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
 
-12. [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/)
+12. [Rebel Ridge](https://www.imdb.com/title/tt11301886/)
 
-13. [The Crow](https://www.imdb.com/title/tt1340094/)
+13. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
 
-14. [Sector 36](https://www.imdb.com/title/tt21626774/)
+14. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
 
-15. [Longlegs](https://www.imdb.com/title/tt23468450/)
+15. [Killer Heat](https://www.imdb.com/title/tt27419292/)
 
-16. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
+16. [Civil War](https://www.imdb.com/title/tt17279496/)
 
-17. [Eden](https://www.imdb.com/title/tt23149780/)
+17. [Gladiator II](https://www.imdb.com/title/tt9218128/)
 
-18. [Trap](https://www.imdb.com/title/tt26753003/)
+18. [Longlegs](https://www.imdb.com/title/tt23468450/)
 
-19. [Megalopolis](https://www.imdb.com/title/tt10128846/)
+19. [Am I Racist?](https://www.imdb.com/title/tt33034103/)
 
-20. [Salem's Lot](https://www.imdb.com/title/tt10245072/)
+20. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
 
-21. [The Fall Guy](https://www.imdb.com/title/tt1684562/)
+21. [Red One](https://www.imdb.com/title/tt14948432/)
 
-22. [Venom: The Last Dance](https://www.imdb.com/title/tt16366836/)
+22. [Subservience](https://www.imdb.com/title/tt24871974/)
 
-23. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
+23. [Never Let Go](https://www.imdb.com/title/tt14415204/)
 
-24. [Kinds of Kindness](https://www.imdb.com/title/tt22408160/)
+24. [Trap](https://www.imdb.com/title/tt26753003/)
 
-25. [Cuckoo](https://www.imdb.com/title/tt12349832/)
+25. [Kinds of Kindness](https://www.imdb.com/title/tt22408160/)
 
-26. [Slingshot](https://www.imdb.com/title/tt12616480/)
+26. [Terrifier 3](https://www.imdb.com/title/tt27911000/)
 
-27. [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/)
+27. [Apartment 7A](https://www.imdb.com/title/tt14371860/)
 
-28. [Twisters](https://www.imdb.com/title/tt12584954/)
+28. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
 
-29. [Horizon: An American Saga - Chapter 1](https://www.imdb.com/title/tt17505010/)
+29. [The Crow](https://www.imdb.com/title/tt1340094/)
 
-30. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
+30. [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/)
 
-31. [The Apprentice](https://www.imdb.com/title/tt8368368/)
+31. [My Old Ass](https://www.imdb.com/title/tt18559464/)
 
-32. [The Deliverance](https://www.imdb.com/title/tt4196566/)
+32. [Eden](https://www.imdb.com/title/tt23149780/)
 
-33. [Never Let Go](https://www.imdb.com/title/tt14415204/)
+33. [The Fall Guy](https://www.imdb.com/title/tt1684562/)
 
-34. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
+34. [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/)
 
-35. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
+35. [Saturday Night](https://www.imdb.com/title/tt27657135/)
 
-36. [The Killer's Game](https://www.imdb.com/title/tt0327785/)
+36. [I Saw the TV Glow](https://www.imdb.com/title/tt15574270/)
 
-37. [AfrAId](https://www.imdb.com/title/tt24577462/)
+37. [Horizon: An American Saga - Chapter 1](https://www.imdb.com/title/tt17505010/)
 
-38. [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/)
+38. [Twisters](https://www.imdb.com/title/tt12584954/)
 
-39. [Borderlands](https://www.imdb.com/title/tt4978420/)
+39. [Sector 36](https://www.imdb.com/title/tt21626774/)
 
-40. [The Life of Chuck](https://www.imdb.com/title/tt12908150/)
+40. [Hellboy: The Crooked Man](https://www.imdb.com/title/tt26757462/)
 
-41. [Mudosilmugwan](https://www.imdb.com/title/tt28494829/)
+41. [Cuckoo](https://www.imdb.com/title/tt12349832/)
 
-42. [Wolfs](https://www.imdb.com/title/tt14257582/)
+42. [The Garfield Movie](https://www.imdb.com/title/tt5779228/)
 
-43. [A Quiet Place: Day One](https://www.imdb.com/title/tt13433802/)
+43. [Challengers](https://www.imdb.com/title/tt16426418/)
 
-44. [Small Things Like These](https://www.imdb.com/title/tt27196021/)
+44. [Anora](https://www.imdb.com/title/tt28607951/)
 
-45. [Brothers](https://www.imdb.com/title/tt9860566/)
+45. [The Thicket](https://www.imdb.com/title/tt4058618/)
 
-46. [Reagan](https://www.imdb.com/title/tt1723808/)
+46. [Bad Boys: Ride or Die](https://www.imdb.com/title/tt4919268/)
 
-47. [MaXXXine](https://www.imdb.com/title/tt22048412/)
+47. [Slingshot](https://www.imdb.com/title/tt12616480/)
 
-48. [Saturday Night](https://www.imdb.com/title/tt27657135/)
+48. [A Quiet Place: Day One](https://www.imdb.com/title/tt13433802/)
 
-49. [Sonic the Hedgehog 3](https://www.imdb.com/title/tt18259086/)
+49. [From Russia with Lev](https://www.imdb.com/title/tt33070481/)
 
-50. [My Old Ass](https://www.imdb.com/title/tt18559464/)
+50. [Dune: Part Two](https://www.imdb.com/title/tt15239678/)
