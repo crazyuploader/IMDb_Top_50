@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-10-14
+**Top IMDb Movies as of:** 2024-10-15
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
@@ -20,100 +20,100 @@
 
 1. [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/)
 
-2. [The Substance](https://www.imdb.com/title/tt17526714/)
+2. [Terrifier 3](https://www.imdb.com/title/tt27911000/)
 
-3. [Megalopolis](https://www.imdb.com/title/tt10128846/)
+3. [The Substance](https://www.imdb.com/title/tt17526714/)
 
-4. [Wolfs](https://www.imdb.com/title/tt14257582/)
+4. [Salem's Lot](https://www.imdb.com/title/tt10245072/)
 
-5. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
+5. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
 
-6. [Salem's Lot](https://www.imdb.com/title/tt10245072/)
+6. [It's What's Inside](https://www.imdb.com/title/tt14577874/)
 
-7. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
+7. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
 
-8. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
+8. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
 
-9. [Nosferatu](https://www.imdb.com/title/tt5040012/)
+9. [El hoyo 2](https://www.imdb.com/title/tt27729779/)
 
-10. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
+10. [Megalopolis](https://www.imdb.com/title/tt10128846/)
 
-11. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
+11. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
 
-12. [Blink Twice](https://www.imdb.com/title/tt14858658/)
+12. [Wolfs](https://www.imdb.com/title/tt14257582/)
 
-13. [Babygirl](https://www.imdb.com/title/tt30057084/)
+13. [Saturday Night](https://www.imdb.com/title/tt27657135/)
 
-14. [Terrifier 3](https://www.imdb.com/title/tt27911000/)
+14. [Hellboy: The Crooked Man](https://www.imdb.com/title/tt26757462/)
 
-15. [Apartment 7A](https://www.imdb.com/title/tt14371860/)
+15. [The Apprentice](https://www.imdb.com/title/tt8368368/)
 
-16. [Killer Heat](https://www.imdb.com/title/tt27419292/)
+16. [Caddo Lake](https://www.imdb.com/title/tt15552142/)
 
-17. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
+17. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
 
-18. [Transformers One](https://www.imdb.com/title/tt8864596/)
+18. [Blink Twice](https://www.imdb.com/title/tt14858658/)
 
-19. [Longlegs](https://www.imdb.com/title/tt23468450/)
+19. [A Complete Unknown](https://www.imdb.com/title/tt11563598/)
 
-20. [Rebel Ridge](https://www.imdb.com/title/tt11301886/)
+20. [Babygirl](https://www.imdb.com/title/tt30057084/)
 
-21. [Hold Your Breath](https://www.imdb.com/title/tt12573480/)
+21. [We Live in Time](https://www.imdb.com/title/tt27131358/)
 
-22. [Civil War](https://www.imdb.com/title/tt17279496/)
+22. [V/H/S/Beyond](https://www.imdb.com/title/tt32880932/)
 
-23. [Will & Harper](https://www.imdb.com/title/tt30321133/)
+23. [Killer Heat](https://www.imdb.com/title/tt27419292/)
 
-24. [El hoyo 2](https://www.imdb.com/title/tt27729779/)
+24. [Transformers One](https://www.imdb.com/title/tt8864596/)
 
-25. [Saturday Night](https://www.imdb.com/title/tt27657135/)
+25. [Hold Your Breath](https://www.imdb.com/title/tt12573480/)
 
-26. [It's What's Inside](https://www.imdb.com/title/tt14577874/)
+26. [Azrael](https://www.imdb.com/title/tt22173666/)
 
-27. [Uglies](https://www.imdb.com/title/tt13186604/)
+27. [Anora](https://www.imdb.com/title/tt28607951/)
 
-28. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
+28. [Longlegs](https://www.imdb.com/title/tt23468450/)
 
-29. [My Old Ass](https://www.imdb.com/title/tt18559464/)
+29. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
 
-30. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
+30. [Challengers](https://www.imdb.com/title/tt16426418/)
 
-31. [Eden](https://www.imdb.com/title/tt23149780/)
+31. [The Killer's Game](https://www.imdb.com/title/tt0327785/)
 
-32. [Devara: Part 1](https://www.imdb.com/title/tt11821912/)
+32. [Emilia Pérez](https://www.imdb.com/title/tt20221436/)
 
-33. [Subservience](https://www.imdb.com/title/tt24871974/)
+33. [Nosferatu](https://www.imdb.com/title/tt5040012/)
 
-34. [Challengers](https://www.imdb.com/title/tt16426418/)
+34. [Strul](https://www.imdb.com/title/tt30217143/)
 
-35. [Trap](https://www.imdb.com/title/tt26753003/)
+35. [Gladiator II](https://www.imdb.com/title/tt9218128/)
 
-36. [Gladiator II](https://www.imdb.com/title/tt9218128/)
+36. [Conclave](https://www.imdb.com/title/tt20215234/)
 
-37. [Kinds of Kindness](https://www.imdb.com/title/tt22408160/)
+37. [Smile 2](https://www.imdb.com/title/tt29268110/)
 
-38. [Furiosa: A Mad Max Saga](https://www.imdb.com/title/tt12037194/)
+38. [Civil War](https://www.imdb.com/title/tt17279496/)
 
-39. [Ulajh](https://www.imdb.com/title/tt19838634/)
+39. [Bad Boys: Ride or Die](https://www.imdb.com/title/tt4919268/)
 
-40. [The Fall Guy](https://www.imdb.com/title/tt1684562/)
+40. [CTRL](https://www.imdb.com/title/tt12736014/)
 
-41. [Never Let Go](https://www.imdb.com/title/tt14415204/)
+41. [Rebel Ridge](https://www.imdb.com/title/tt11301886/)
 
-42. [Emilia Pérez](https://www.imdb.com/title/tt20221436/)
+42. [Heretic](https://www.imdb.com/title/tt28015403/)
 
-43. [Venom: The Last Dance](https://www.imdb.com/title/tt16366836/)
+43. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
 
-44. [The Ministry of Ungentlemanly Warfare](https://www.imdb.com/title/tt5177120/)
+44. [Apartment 7A](https://www.imdb.com/title/tt14371860/)
 
-45. [Amber Alert](https://www.imdb.com/title/tt31450182/)
+45. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
 
-46. [Rez Ball](https://www.imdb.com/title/tt15181360/)
+46. [Venom: The Last Dance](https://www.imdb.com/title/tt16366836/)
 
-47. [Am I Racist?](https://www.imdb.com/title/tt33034103/)
+47. [Subservience](https://www.imdb.com/title/tt24871974/)
 
-48. [A Different Man](https://www.imdb.com/title/tt21097228/)
+48. [Here](https://www.imdb.com/title/tt18272208/)
 
-49. [Anora](https://www.imdb.com/title/tt28607951/)
+49. [Lonely Planet](https://www.imdb.com/title/tt20194882/)
 
-50. [Oddity](https://www.imdb.com/title/tt26470109/)
+50. [Never Let Go](https://www.imdb.com/title/tt14415204/)
