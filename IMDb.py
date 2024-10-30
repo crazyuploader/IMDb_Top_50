@@ -137,6 +137,39 @@ def fetch_top_50_shows() -> list[dict]:
     return show_data
 
 
+def fetch_top_250_tv():
+    """
+    Fetch the Top 250 TV Shows from IMDb and save them to a CSV file.
+    """
+    print(f"Fetching Top 250 TV Shows from IMDb     ->", IMDB_TOP_250_TV_URL)
+    fname = "data/top250/shows.csv"
+    ensure_path_directory(fname)
+
+    response = get(IMDB_TOP_250_TV_URL, headers=HEADERS)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    json_data = json.loads(
+        soup.find("script", attrs={"type": "application/ld+json"}).text
+    )
+
+    file = open(fname, "w")
+    file.write("Rank, Show Name, IMDb Rating, Show Link\n\n")
+    file.close
+
+    file = open(fname, "a")
+    i = 1
+    for show in json_data["itemListElement"]:
+        show_rank = i
+        show_name = show["item"]["name"]
+        show_rating = show["item"]["aggregateRating"]["ratingValue"]
+        show_link = show["item"]["url"]
+        file.write(
+            f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n'
+        )
+        i += 1
+    file.close
+
+
 def print_top_50_movies(movies_data):
     """
     Print the Top 50 Movie names.
@@ -240,6 +273,7 @@ if __name__ == "__main__":
 
     fetched_shows = fetch_top_50_shows()
     save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
+    fetch_top_250_tv()
     if sys.version_info < (3, 10):
         print_top_50_movies(movie_names, movie_links)
     print("")

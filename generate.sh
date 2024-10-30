@@ -28,6 +28,9 @@ echo ""
 cd "${GITHUB_WORKSPACE}" || exit 1
 cd data/top250 || exit 1
 csvtojson movies.csv > movies.json
+csvtojson shows.csv > shows.json
+echo ""
+echo -e "${GREEN}README.md and JSON file(s) are ready for committing.${NC}"
 echo ""
 if [[ -z $(git status --porcelain) ]]; then
     echo -e "${GREEN}Nothing to Update${NC}"
