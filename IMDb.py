@@ -163,9 +163,7 @@ def fetch_top_250_tv():
         show_name = show["item"]["name"]
         show_rating = show["item"]["aggregateRating"]["ratingValue"]
         show_link = show["item"]["url"]
-        file.write(
-            f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n'
-        )
+        file.write(f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n')
         i += 1
     file.close
 
