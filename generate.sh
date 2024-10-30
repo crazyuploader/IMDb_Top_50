@@ -26,7 +26,7 @@ csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 echo ""
 cd "${GITHUB_WORKSPACE}" || exit 1
-cd data/top250 || exit 1
+cd ../top250 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 echo ""

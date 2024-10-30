@@ -141,7 +141,7 @@ def fetch_top_250_tv():
     """
     Fetch the Top 250 TV Shows from IMDb and save them to a CSV file.
     """
-    print(f"Fetching Top 250 TV Shows from IMDb     ->", IMDB_TOP_250_TV_URL)
+    print(f"Fetching Top 250 TV Shows from IMDb   ->", IMDB_TOP_250_TV_URL)
     fname = "data/top250/shows.csv"
     ensure_path_directory(fname)
 
