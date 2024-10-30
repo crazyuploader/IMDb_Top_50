@@ -9,6 +9,9 @@ RED="\033[0;31m"
 GREEN="\033[1;32m"
 YELLOW="\033[1;33m"
 
+# Get current directory
+ROOT_DIR="$(pwd)"
+
 # Main Script
 ./IMDb.py 1>/dev/null
 ERROR_CODE="$?"
@@ -20,13 +23,11 @@ fi
 echo -e "${GREEN}'README.md' file generated.${NC}"
 echo ""
 echo -e "${GREEN}JSON file(s) are being generated.${NC}"
-echo ""
 cd data/top50 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
-echo ""
-cd "${GITHUB_WORKSPACE}" || exit 1
-cd ../top250 || exit 1
+cd "${ROOT_DIR}" || exit 1
+cd data/top250 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 echo ""
