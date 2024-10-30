@@ -14,6 +14,8 @@
 
 **Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)
 
+**Top 250 TV Shows:** [CSV File](/data/top250/shows.csv), [JSON File](/data/top250/shows.json)
+
 ---
 
 ## IMDb Top 50 Movies List
