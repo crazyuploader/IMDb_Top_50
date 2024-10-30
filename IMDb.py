@@ -250,6 +250,9 @@ def save_to_md(fetched_data):
     file.write(
         "**Top 50 TV Shows:** [CSV File](/data/top50/shows.csv), [JSON File](/data/top50/shows.json)\n\n"
     )
+    file.write(
+        "**Top 250 TV Shows:** [CSV File](/data/top250/shows.csv), [JSON File](/data/top250/shows.json)\n\n"
+    )
     file.write("---\n\n")
     file.write("## IMDb Top 50 Movies List\n\n")
 
