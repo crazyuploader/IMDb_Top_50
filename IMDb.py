@@ -27,13 +27,51 @@ CURRENT_YEAR = datetime.now().year
 IMDB_BASE_URL = "https://www.imdb.com"
 IMDB_MOVIES_SEARCH_URL = f"https://www.imdb.com/search/title/?title_type=feature&release_date={CURRENT_YEAR}-01-01,{CURRENT_YEAR}-12-31"
 IMDB_TOP_250_MOVIES_URL = "https://www.imdb.com/chart/top/"
+IMDB_POPULAR_MOVIES_URL = "https://www.imdb.com/chart/moviemeter/"
 IMDB_TV_SEARCH_URL = f"https://www.imdb.com/search/title/?title_type=tv_series&release_date={CURRENT_YEAR}-01-01,{CURRENT_YEAR}-12-31"
 IMDB_TOP_250_TV_URL = "https://www.imdb.com/chart/toptv/"
+IMDB_POPULAR_TV_URL = "https://www.imdb.com/chart/tvmeter/"
 
 # Custom headers
 HEADERS = {
     "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0"
 }
+
+
+def fetch_popular_movies() -> list[dict]:
+    """
+    Fetch information about popular movies from IMDb.
+
+    Returns:
+        list of dict: A list where each dictionary contains Movie information,
+        such as the Movie's name, link, and rating.
+    """
+    print(f"Fetching Popular Movies {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_MOVIES_URL)
+
+    movie_data = []
+
+    response = get(IMDB_POPULAR_MOVIES_URL, headers=HEADERS)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    json_data = (
+        json.loads(soup.find("script", type="application/ld+json").text)
+    )
+    for movie in json_data["itemListElement"]:
+        movie_name = movie["item"]["name"]
+        try:
+            movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
+        except KeyError:
+            movie_rating = 0
+        movie_link = movie["item"]["url"]
+        movie_data.append(
+            {
+                "name": movie_name,
+                "rating": movie_rating,
+                "link": movie_link
+            }
+        )
+    return movie_data
+
 
 
 def fetch_top_50_movies() -> list[dict]:
@@ -275,6 +313,10 @@ if __name__ == "__main__":
     fetched_shows = fetch_top_50_shows()
     save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
     fetch_top_250_tv()
+
+    fetched_popular_movies = fetch_popular_movies()
+    save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
+
     if sys.version_info < (3, 10):
         print_top_50_movies(movie_names, movie_links)
     print("")
