@@ -46,16 +46,16 @@ def fetch_popular_movies() -> list[dict]:
         list of dict: A list where each dictionary contains Movie information,
         such as the Movie's name, link, and rating.
     """
-    print(f"Fetching Popular Movies {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_MOVIES_URL)
+    print(
+        f"Fetching Popular Movies {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_MOVIES_URL
+    )
 
     movie_data = []
 
     response = get(IMDB_POPULAR_MOVIES_URL, headers=HEADERS)
     soup = BeautifulSoup(response.text, "html.parser")
 
-    json_data = (
-        json.loads(soup.find("script", type="application/ld+json").text)
-    )
+    json_data = json.loads(soup.find("script", type="application/ld+json").text)
     for movie in json_data["itemListElement"]:
         movie_name = movie["item"]["name"]
         try:
@@ -64,14 +64,9 @@ def fetch_popular_movies() -> list[dict]:
             movie_rating = 0
         movie_link = movie["item"]["url"]
         movie_data.append(
-            {
-                "name": movie_name,
-                "rating": movie_rating,
-                "link": movie_link
-            }
+            {"name": movie_name, "rating": movie_rating, "link": movie_link}
         )
     return movie_data
-
 
 
 def fetch_top_50_movies() -> list[dict]:
