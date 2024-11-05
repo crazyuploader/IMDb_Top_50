@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-11-04
+**Top IMDb Movies as of:** 2024-11-05
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
@@ -20,102 +20,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [The Substance](https://www.imdb.com/title/tt17526714/)
+1. [Venom: The Last Dance](https://www.imdb.com/title/tt16366836/)
 
-2. [Venom: The Last Dance](https://www.imdb.com/title/tt16366836/)
+2. [The Substance](https://www.imdb.com/title/tt17526714/)
 
-3. [Terrifier 3](https://www.imdb.com/title/tt27911000/)
+3. [Don't Move](https://www.imdb.com/title/tt24807110/)
 
-4. [Smile 2](https://www.imdb.com/title/tt29268110/)
+4. [Terrifier 3](https://www.imdb.com/title/tt27911000/)
 
-5. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
+5. [Trap](https://www.imdb.com/title/tt26753003/)
 
-6. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
+6. [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/)
 
-7. [Joker: Folie à Deux](https://www.imdb.com/title/tt11315808/)
+7. [The Wild Robot](https://www.imdb.com/title/tt29623480/)
 
-8. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
+8. [Smile 2](https://www.imdb.com/title/tt29268110/)
 
-9. [Gladiator II](https://www.imdb.com/title/tt9218128/)
+9. [Anora](https://www.imdb.com/title/tt28607951/)
 
-10. [Don't Move](https://www.imdb.com/title/tt24807110/)
+10. [Gladiator II](https://www.imdb.com/title/tt9218128/)
 
-11. [Anora](https://www.imdb.com/title/tt28607951/)
+11. [Beetlejuice Beetlejuice](https://www.imdb.com/title/tt2049403/)
 
-12. [Brothers](https://www.imdb.com/title/tt9860566/)
+12. [Time Cut](https://www.imdb.com/title/tt14857528/)
 
-13. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
+13. [Queer](https://www.imdb.com/title/tt24176060/)
 
-14. [We Live in Time](https://www.imdb.com/title/tt27131358/)
+14. [Heretic](https://www.imdb.com/title/tt28015403/)
 
-15. [Caddo Lake](https://www.imdb.com/title/tt15552142/)
+15. [Alien: Romulus](https://www.imdb.com/title/tt18412256/)
 
-16. [MaXXXine](https://www.imdb.com/title/tt22048412/)
+16. [Here](https://www.imdb.com/title/tt18272208/)
 
-17. [The Apprentice](https://www.imdb.com/title/tt8368368/)
+17. [Do Patti](https://www.imdb.com/title/tt28075881/)
 
-18. [Transformers One](https://www.imdb.com/title/tt8864596/)
+18. [Conclave](https://www.imdb.com/title/tt20215234/)
 
-19. [The Shadow Strays](https://www.imdb.com/title/tt28349451/)
+19. [Deadpool & Wolverine](https://www.imdb.com/title/tt6263850/)
 
-20. [Trap](https://www.imdb.com/title/tt26753003/)
+20. [Canary Black](https://www.imdb.com/title/tt20048582/)
 
-21. [The Brutalist](https://www.imdb.com/title/tt8999762/)
+21. [The Apprentice](https://www.imdb.com/title/tt8368368/)
 
-22. [Outside](https://www.imdb.com/title/tt32643879/)
+22. [Longlegs](https://www.imdb.com/title/tt23468450/)
 
-23. [It's What's Inside](https://www.imdb.com/title/tt14577874/)
+23. [We Live in Time](https://www.imdb.com/title/tt27131358/)
 
-24. [Longlegs](https://www.imdb.com/title/tt23468450/)
+24. [Caddo Lake](https://www.imdb.com/title/tt15552142/)
 
-25. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
+25. [Transformers One](https://www.imdb.com/title/tt8864596/)
 
-26. [Conclave](https://www.imdb.com/title/tt20215234/)
+26. [Wicked](https://www.imdb.com/title/tt1262426/)
 
-27. [Salem's Lot](https://www.imdb.com/title/tt10245072/)
+27. [MaXXXine](https://www.imdb.com/title/tt22048412/)
 
-28. [Canary Black](https://www.imdb.com/title/tt20048582/)
+28. [Juror #2](https://www.imdb.com/title/tt27403986/)
 
-29. [Saturday Night](https://www.imdb.com/title/tt27657135/)
+29. [Apocalypse Z: El principio del fin](https://www.imdb.com/title/tt27599851/)
 
-30. [Babygirl](https://www.imdb.com/title/tt30057084/)
+30. [Speak No Evil](https://www.imdb.com/title/tt27534307/)
 
-31. [Wicked](https://www.imdb.com/title/tt1262426/)
+31. [Ibelin](https://www.imdb.com/title/tt19811010/)
 
-32. [Carved](https://www.imdb.com/title/tt32743167/)
+32. [Red One](https://www.imdb.com/title/tt14948432/)
 
-33. [Lonely Planet](https://www.imdb.com/title/tt20194882/)
+33. [It's What's Inside](https://www.imdb.com/title/tt14577874/)
 
-34. [Red One](https://www.imdb.com/title/tt14948432/)
+34. [Brothers](https://www.imdb.com/title/tt9860566/)
 
-35. [Wolfs](https://www.imdb.com/title/tt14257582/)
+35. [Salem's Lot](https://www.imdb.com/title/tt10245072/)
 
-36. [Megalopolis](https://www.imdb.com/title/tt10128846/)
+36. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
 
-37. [It Ends with Us](https://www.imdb.com/title/tt10655524/)
+37. [Loups-Garous](https://www.imdb.com/title/tt29195603/)
 
-38. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
+38. [Blink Twice](https://www.imdb.com/title/tt14858658/)
 
-39. [Heretic](https://www.imdb.com/title/tt28015403/)
+39. [Am I Racist?](https://www.imdb.com/title/tt33034103/)
 
-40. [Blink Twice](https://www.imdb.com/title/tt14858658/)
+40. [The Brutalist](https://www.imdb.com/title/tt8999762/)
 
-41. [Here](https://www.imdb.com/title/tt18272208/)
+41. [Ghostbusters: Frozen Empire](https://www.imdb.com/title/tt21235248/)
 
-42. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
+42. [Inside Out 2](https://www.imdb.com/title/tt22022452/)
 
-43. [Challengers](https://www.imdb.com/title/tt16426418/)
+43. [Wolfs](https://www.imdb.com/title/tt14257582/)
 
-44. [Loups-Garous](https://www.imdb.com/title/tt29195603/)
+44. [Megalopolis](https://www.imdb.com/title/tt10128846/)
 
-45. [Twisters](https://www.imdb.com/title/tt12584954/)
+45. [Subservience](https://www.imdb.com/title/tt24871974/)
 
-46. [Martin](https://www.imdb.com/title/tt15334030/)
+46. [Nosferatu](https://www.imdb.com/title/tt5040012/)
 
-47. [Napad](https://www.imdb.com/title/tt32245158/)
+47. [Twisters](https://www.imdb.com/title/tt12584954/)
 
-48. [Nosferatu](https://www.imdb.com/title/tt5040012/)
+48. [Stree 2: Sarkate Ka Aatank](https://www.imdb.com/title/tt27510174/)
 
-49. [Dune: Part Two](https://www.imdb.com/title/tt15239678/)
+49. [Azrael](https://www.imdb.com/title/tt22173666/)
 
-50. [Civil War](https://www.imdb.com/title/tt17279496/)
+50. [Babygirl](https://www.imdb.com/title/tt30057084/)
