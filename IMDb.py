@@ -40,14 +40,14 @@ HEADERS = {
 
 def fetch_popular_movies() -> list[dict]:
     """
-    Fetch information about popular movies from IMDb.
+    Fetch information about popular Movies from IMDb.
 
     Returns:
         list of dict: A list where each dictionary contains Movie information,
         such as the Movie's name, link, and rating.
     """
     print(
-        f"Fetching Popular Movies {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_MOVIES_URL
+        f"Fetching Popular Movies {CURRENT_YEAR} from IMDb  ->", IMDB_POPULAR_MOVIES_URL
     )
 
     movie_data = []
@@ -77,7 +77,7 @@ def fetch_top_50_movies() -> list[dict]:
         list of dict: A list where each dictionary contains Movie information,
         such as the Movie's name and link.
     """
-    print(f"Fetching Top 50 Movies {CURRENT_YEAR} from IMDb ->", IMDB_MOVIES_SEARCH_URL)
+    print(f"Fetching Top 50 Movies {CURRENT_YEAR} from IMDb   ->", IMDB_MOVIES_SEARCH_URL)
 
     movie_data = []
 
@@ -107,7 +107,7 @@ def fetch_top_250_movies():
     """
     Fetch the Top 250 Movies from IMDb and save them to a CSV file.
     """
-    print(f"Fetching Top 250 Movies from IMDb     ->", IMDB_TOP_250_MOVIES_URL)
+    print(f"Fetching Top 250 Movies from IMDb       ->", IMDB_TOP_250_MOVIES_URL)
     fname = "data/top250/movies.csv"
     ensure_path_directory(fname)
 
@@ -136,6 +136,37 @@ def fetch_top_250_movies():
     file.close
 
 
+def fetch_popular_shows() -> list[dict]:
+    """
+    Fetch information about popular TV Shows from IMDb.
+
+    Returns:
+        list of dict: A list where each dictionary contains TV Show information,
+        such as the TV Show's name, link, and rating.
+    """
+    print(
+        f"Fetching Popular TV Show {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_TV_URL
+    )
+
+    show_data = []
+
+    response = get(IMDB_POPULAR_TV_URL, headers=HEADERS)
+    soup = BeautifulSoup(response.text, "html.parser")
+
+    json_data = json.loads(soup.find("script", type="application/ld+json").text)
+    for show in json_data["itemListElement"]:
+        show_name = show["item"]["name"]
+        try:
+            show_rating = show["item"]["aggregateRating"]["ratingValue"]
+        except KeyError:
+            show_rating = 0
+        show_link = show["item"]["url"]
+        show_data.append(
+            {"name": show_name, "rating": show_rating, "link": show_link}
+        )
+    return show_data
+
+
 def fetch_top_50_shows() -> list[dict]:
     """
     Fetch information about the Top 50 Shows of the current year from IMDb.
@@ -144,7 +175,7 @@ def fetch_top_50_shows() -> list[dict]:
         list of dict: A list where each dictionary contains TV Show information,
         such as the TV Show's name and link.
     """
-    print(f"Fetching Top 50 shows {CURRENT_YEAR} from IMDb  ->", IMDB_TV_SEARCH_URL)
+    print(f"Fetching Top 50 shows {CURRENT_YEAR} from IMDb    ->", IMDB_TV_SEARCH_URL)
 
     show_data = []
 
@@ -174,7 +205,7 @@ def fetch_top_250_tv():
     """
     Fetch the Top 250 TV Shows from IMDb and save them to a CSV file.
     """
-    print(f"Fetching Top 250 TV Shows from IMDb   ->", IMDB_TOP_250_TV_URL)
+    print(f"Fetching Top 250 TV Shows from IMDb     ->", IMDB_TOP_250_TV_URL)
     fname = "data/top250/shows.csv"
     ensure_path_directory(fname)
 
@@ -311,6 +342,9 @@ if __name__ == "__main__":
 
     fetched_popular_movies = fetch_popular_movies()
     save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
+
+    fetched_popular_shows = fetch_popular_shows()
+    save_to_csv(fetched_popular_shows, "data/popular/shows.csv", "shows")
 
     if sys.version_info < (3, 10):
         print_top_50_movies(movie_names, movie_links)
