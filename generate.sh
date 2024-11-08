@@ -30,6 +30,10 @@ cd "${ROOT_DIR}" || exit 1
 cd data/top250 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
+cd "${ROOT_DIR}" || exit 1
+cd data/popular || exit 1
+csvtojson movies.csv >movies.json
+csvtojson shows.csv >shows.json
 echo ""
 echo -e "${GREEN}README.md and JSON file(s) are ready for committing.${NC}"
 echo ""
