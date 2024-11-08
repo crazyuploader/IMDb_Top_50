@@ -77,7 +77,9 @@ def fetch_top_50_movies() -> list[dict]:
         list of dict: A list where each dictionary contains Movie information,
         such as the Movie's name and link.
     """
-    print(f"Fetching Top 50 Movies {CURRENT_YEAR} from IMDb   ->", IMDB_MOVIES_SEARCH_URL)
+    print(
+        f"Fetching Top 50 Movies {CURRENT_YEAR} from IMDb   ->", IMDB_MOVIES_SEARCH_URL
+    )
 
     movie_data = []
 
@@ -144,9 +146,7 @@ def fetch_popular_shows() -> list[dict]:
         list of dict: A list where each dictionary contains TV Show information,
         such as the TV Show's name, link, and rating.
     """
-    print(
-        f"Fetching Popular TV Show {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_TV_URL
-    )
+    print(f"Fetching Popular TV Show {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_TV_URL)
 
     show_data = []
 
@@ -161,9 +161,7 @@ def fetch_popular_shows() -> list[dict]:
         except KeyError:
             show_rating = 0
         show_link = show["item"]["url"]
-        show_data.append(
-            {"name": show_name, "rating": show_rating, "link": show_link}
-        )
+        show_data.append({"name": show_name, "rating": show_rating, "link": show_link})
     return show_data
 
 
@@ -316,6 +314,12 @@ def save_to_md(fetched_data):
     )
     file.write(
         "**Top 250 TV Shows:** [CSV File](/data/top250/shows.csv), [JSON File](/data/top250/shows.json)\n\n"
+    )
+    file.write(
+        "**Popular Movies:** [CSV File](/data/popular/movies.csv), [JSON File](/data/popular/movies.json)\n\n"
+    )
+    file.write(
+        "**Popular TV Shows:** [CSV File](/data/popular/shows.csv), [JSON File](/data/popular/shows.json)\n\n"
     )
     file.write("---\n\n")
     file.write("## IMDb Top 50 Movies List\n\n")
