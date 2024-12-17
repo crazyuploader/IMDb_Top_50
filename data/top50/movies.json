@@ -1,111 +1,111 @@
 [
   {
     "Rank": "1",
+    "Movie Name": "Red One",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt14948432/"
+  },
+  {
+    "Rank": "2",
     "Movie Name": "Wicked: Part I",
     "IMDb Rating": "8",
     "Link": "https://www.imdb.com/title/tt1262426/"
   },
   {
-    "Rank": "2",
-    "Movie Name": "Moana 2",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt13622970/"
-  },
-  {
     "Rank": "3",
-    "Movie Name": "Gladiator II",
-    "IMDb Rating": "6.9",
-    "Link": "https://www.imdb.com/title/tt9218128/"
-  },
-  {
-    "Rank": "4",
-    "Movie Name": "Nosferatu",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt5040012/"
-  },
-  {
-    "Rank": "5",
-    "Movie Name": "The Substance",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt17526714/"
-  },
-  {
-    "Rank": "6",
-    "Movie Name": "Our Little Secret",
-    "IMDb Rating": "5.7",
-    "Link": "https://www.imdb.com/title/tt31022050/"
-  },
-  {
-    "Rank": "7",
     "Movie Name": "Pushpa: The Rule - Part 2",
     "IMDb Rating": "6.7",
     "Link": "https://www.imdb.com/title/tt16539454/"
   },
   {
+    "Rank": "4",
+    "Movie Name": "Kraven the Hunter",
+    "IMDb Rating": "5.5",
+    "Link": "https://www.imdb.com/title/tt8790086/"
+  },
+  {
+    "Rank": "5",
+    "Movie Name": "Subservience",
+    "IMDb Rating": "5.3",
+    "Link": "https://www.imdb.com/title/tt24871974/"
+  },
+  {
+    "Rank": "6",
+    "Movie Name": "Gladiator II",
+    "IMDb Rating": "6.9",
+    "Link": "https://www.imdb.com/title/tt9218128/"
+  },
+  {
+    "Rank": "7",
+    "Movie Name": "Carry-On",
+    "IMDb Rating": "6.6",
+    "Link": "https://www.imdb.com/title/tt21382296/"
+  },
+  {
     "Rank": "8",
-    "Movie Name": "Dear Santa",
-    "IMDb Rating": "5.4",
-    "Link": "https://www.imdb.com/title/tt2396431/"
+    "Movie Name": "Nosferatu",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt5040012/"
   },
   {
     "Rank": "9",
-    "Movie Name": "Nutcrackers",
-    "IMDb Rating": "5.5",
-    "Link": "https://www.imdb.com/title/tt30144381/"
+    "Movie Name": "Moana 2",
+    "IMDb Rating": "7",
+    "Link": "https://www.imdb.com/title/tt13622970/"
   },
   {
     "Rank": "10",
-    "Movie Name": "Conclave",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt20215234/"
-  },
-  {
-    "Rank": "11",
-    "Movie Name": "Juror #2",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt27403986/"
-  },
-  {
-    "Rank": "12",
-    "Movie Name": "Deadpool & Wolverine",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt6263850/"
-  },
-  {
-    "Rank": "13",
-    "Movie Name": "Red One",
-    "IMDb Rating": "6.6",
-    "Link": "https://www.imdb.com/title/tt14948432/"
-  },
-  {
-    "Rank": "14",
-    "Movie Name": "Smile 2",
-    "IMDb Rating": "6.8",
-    "Link": "https://www.imdb.com/title/tt29268110/"
-  },
-  {
-    "Rank": "15",
     "Movie Name": "The Lord of the Rings: The War of the Rohirrim",
     "IMDb Rating": "6.7",
     "Link": "https://www.imdb.com/title/tt14824600/"
   },
   {
-    "Rank": "16",
-    "Movie Name": "Eden",
-    "IMDb Rating": "6.1",
-    "Link": "https://www.imdb.com/title/tt23149780/"
-  },
-  {
-    "Rank": "17",
-    "Movie Name": "Sonic the Hedgehog 3",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt18259086/"
-  },
-  {
-    "Rank": "18",
+    "Rank": "11",
     "Movie Name": "Heretic",
     "IMDb Rating": "7.1",
     "Link": "https://www.imdb.com/title/tt28015403/"
+  },
+  {
+    "Rank": "12",
+    "Movie Name": "The Substance",
+    "IMDb Rating": "7.4",
+    "Link": "https://www.imdb.com/title/tt17526714/"
+  },
+  {
+    "Rank": "13",
+    "Movie Name": "Beetlejuice Beetlejuice",
+    "IMDb Rating": "6.7",
+    "Link": "https://www.imdb.com/title/tt2049403/"
+  },
+  {
+    "Rank": "14",
+    "Movie Name": "That Christmas",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt14855468/"
+  },
+  {
+    "Rank": "15",
+    "Movie Name": "Venom: The Last Dance",
+    "IMDb Rating": "6.1",
+    "Link": "https://www.imdb.com/title/tt16366836/"
+  },
+  {
+    "Rank": "16",
+    "Movie Name": "Conclave",
+    "IMDb Rating": "7.4",
+    "Link": "https://www.imdb.com/title/tt20215234/"
+  },
+  {
+    "Rank": "17",
+    "Movie Name": "The Brutalist",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt8999762/"
+  },
+  {
+    "Rank": "18",
+    "Movie Name": "Dear Santa",
+    "IMDb Rating": "5.4",
+    "Link": "https://www.imdb.com/title/tt2396431/"
   },
   {
     "Rank": "19",
@@ -115,188 +115,188 @@
   },
   {
     "Rank": "20",
-    "Movie Name": "Kraven the Hunter",
-    "IMDb Rating": "5.5",
-    "Link": "https://www.imdb.com/title/tt8790086/"
+    "Movie Name": "Mary",
+    "IMDb Rating": "5.2",
+    "Link": "https://www.imdb.com/title/tt32084246/"
   },
   {
     "Rank": "21",
-    "Movie Name": "The Merry Gentlemen",
-    "IMDb Rating": "4.9",
-    "Link": "https://www.imdb.com/title/tt32368345/"
+    "Movie Name": "Juror #2",
+    "IMDb Rating": "7.1",
+    "Link": "https://www.imdb.com/title/tt27403986/"
   },
   {
     "Rank": "22",
-    "Movie Name": "Anora",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt28607951/"
+    "Movie Name": "It Ends with Us",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt10655524/"
   },
   {
     "Rank": "23",
-    "Movie Name": "Twisters",
-    "IMDb Rating": "6.5",
-    "Link": "https://www.imdb.com/title/tt12584954/"
+    "Movie Name": "Sonic the Hedgehog 3",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt18259086/"
   },
   {
     "Rank": "24",
-    "Movie Name": "Alien: Romulus",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt18412256/"
-  },
-  {
-    "Rank": "25",
-    "Movie Name": "Hot Frosty",
-    "IMDb Rating": "5.3",
-    "Link": "https://www.imdb.com/title/tt32359447/"
-  },
-  {
-    "Rank": "26",
-    "Movie Name": "Subservience",
-    "IMDb Rating": "5.3",
-    "Link": "https://www.imdb.com/title/tt24871974/"
-  },
-  {
-    "Rank": "27",
-    "Movie Name": "Sidelined: The QB and Me",
-    "IMDb Rating": "6.1",
-    "Link": "https://www.imdb.com/title/tt19704542/"
-  },
-  {
-    "Rank": "28",
-    "Movie Name": "Elevation",
-    "IMDb Rating": "5.5",
-    "Link": "https://www.imdb.com/title/tt23558280/"
-  },
-  {
-    "Rank": "29",
-    "Movie Name": "Beetlejuice Beetlejuice",
-    "IMDb Rating": "6.7",
-    "Link": "https://www.imdb.com/title/tt2049403/"
-  },
-  {
-    "Rank": "30",
-    "Movie Name": "That Christmas",
-    "IMDb Rating": "6.8",
-    "Link": "https://www.imdb.com/title/tt14855468/"
-  },
-  {
-    "Rank": "31",
-    "Movie Name": "We Live in Time",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt27131358/"
-  },
-  {
-    "Rank": "32",
-    "Movie Name": "Y2K",
-    "IMDb Rating": "5.2",
-    "Link": "https://www.imdb.com/title/tt27218960/"
-  },
-  {
-    "Rank": "33",
-    "Movie Name": "Terrifier 3",
-    "IMDb Rating": "6.4",
-    "Link": "https://www.imdb.com/title/tt27911000/"
-  },
-  {
-    "Rank": "34",
-    "Movie Name": "The Wild Robot",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt29623480/"
-  },
-  {
-    "Rank": "35",
     "Movie Name": "Mufasa: The Lion King",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt13186482/"
   },
   {
-    "Rank": "36",
-    "Movie Name": "Queer",
-    "IMDb Rating": "6.4",
-    "Link": "https://www.imdb.com/title/tt24176060/"
+    "Rank": "25",
+    "Movie Name": "Anora",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt28607951/"
   },
   {
-    "Rank": "37",
-    "Movie Name": "Dune: Part Two",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt15239678/"
+    "Rank": "26",
+    "Movie Name": "Our Little Secret",
+    "IMDb Rating": "5.7",
+    "Link": "https://www.imdb.com/title/tt31022050/"
   },
   {
-    "Rank": "38",
-    "Movie Name": "Venom: The Last Dance",
-    "IMDb Rating": "6.1",
-    "Link": "https://www.imdb.com/title/tt16366836/"
+    "Rank": "27",
+    "Movie Name": "Maria",
+    "IMDb Rating": "6.6",
+    "Link": "https://www.imdb.com/title/tt22893404/"
   },
   {
-    "Rank": "39",
-    "Movie Name": "Babygirl",
-    "IMDb Rating": "6",
-    "Link": "https://www.imdb.com/title/tt30057084/"
+    "Rank": "28",
+    "Movie Name": "Emilia Pérez",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt20221436/"
   },
   {
-    "Rank": "40",
-    "Movie Name": "My Old Ass",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt18559464/"
+    "Rank": "29",
+    "Movie Name": "Smile 2",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt29268110/"
   },
   {
-    "Rank": "41",
-    "Movie Name": "The Return",
-    "IMDb Rating": "6.7",
-    "Link": "https://www.imdb.com/title/tt19861162/"
+    "Rank": "30",
+    "Movie Name": "Deadpool & Wolverine",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt6263850/"
   },
   {
-    "Rank": "42",
-    "Movie Name": "Here",
-    "IMDb Rating": "6.2",
-    "Link": "https://www.imdb.com/title/tt18272208/"
-  },
-  {
-    "Rank": "43",
-    "Movie Name": "Nightbitch",
-    "IMDb Rating": "6.2",
-    "Link": "https://www.imdb.com/title/tt12810074/"
-  },
-  {
-    "Rank": "44",
-    "Movie Name": "Blitz",
-    "IMDb Rating": "6.2",
-    "Link": "https://www.imdb.com/title/tt15939198/"
-  },
-  {
-    "Rank": "45",
-    "Movie Name": "The Fall Guy",
-    "IMDb Rating": "6.9",
-    "Link": "https://www.imdb.com/title/tt1684562/"
-  },
-  {
-    "Rank": "46",
-    "Movie Name": "Megalopolis",
-    "IMDb Rating": "4.8",
-    "Link": "https://www.imdb.com/title/tt10128846/"
-  },
-  {
-    "Rank": "47",
-    "Movie Name": "The Order",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt26625693/"
-  },
-  {
-    "Rank": "48",
+    "Rank": "31",
     "Movie Name": "A Complete Unknown",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt11563598/"
   },
   {
-    "Rank": "49",
+    "Rank": "32",
+    "Movie Name": "Nutcrackers",
+    "IMDb Rating": "5.5",
+    "Link": "https://www.imdb.com/title/tt30144381/"
+  },
+  {
+    "Rank": "33",
+    "Movie Name": "Y2K",
+    "IMDb Rating": "5.2",
+    "Link": "https://www.imdb.com/title/tt27218960/"
+  },
+  {
+    "Rank": "34",
+    "Movie Name": "Queer",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt24176060/"
+  },
+  {
+    "Rank": "35",
+    "Movie Name": "Babygirl",
+    "IMDb Rating": "6",
+    "Link": "https://www.imdb.com/title/tt30057084/"
+  },
+  {
+    "Rank": "36",
     "Movie Name": "Speak No Evil",
     "IMDb Rating": "6.8",
     "Link": "https://www.imdb.com/title/tt27534307/"
   },
   {
-    "Rank": "50",
-    "Movie Name": "Civil War",
+    "Rank": "37",
+    "Movie Name": "Alien: Romulus",
+    "IMDb Rating": "7.1",
+    "Link": "https://www.imdb.com/title/tt18412256/"
+  },
+  {
+    "Rank": "38",
+    "Movie Name": "Fly Me to the Moon",
+    "IMDb Rating": "6.6",
+    "Link": "https://www.imdb.com/title/tt1896747/"
+  },
+  {
+    "Rank": "39",
+    "Movie Name": "Hot Frosty",
+    "IMDb Rating": "5.3",
+    "Link": "https://www.imdb.com/title/tt32359447/"
+  },
+  {
+    "Rank": "40",
+    "Movie Name": "Twisters",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt12584954/"
+  },
+  {
+    "Rank": "41",
+    "Movie Name": "Il treno dei bambini",
+    "IMDb Rating": "7.4",
+    "Link": "https://www.imdb.com/title/tt29242846/"
+  },
+  {
+    "Rank": "42",
+    "Movie Name": "Amaran",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt27118357/"
+  },
+  {
+    "Rank": "43",
+    "Movie Name": "Dune: Part Two",
+    "IMDb Rating": "8.5",
+    "Link": "https://www.imdb.com/title/tt15239678/"
+  },
+  {
+    "Rank": "44",
+    "Movie Name": "We Live in Time",
     "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt17279496/"
+    "Link": "https://www.imdb.com/title/tt27131358/"
+  },
+  {
+    "Rank": "45",
+    "Movie Name": "The Merry Gentlemen",
+    "IMDb Rating": "4.9",
+    "Link": "https://www.imdb.com/title/tt32368345/"
+  },
+  {
+    "Rank": "46",
+    "Movie Name": "Joker: Folie à Deux",
+    "IMDb Rating": "5.2",
+    "Link": "https://www.imdb.com/title/tt11315808/"
+  },
+  {
+    "Rank": "47",
+    "Movie Name": "A Nonsense Christmas with Sabrina Carpenter",
+    "IMDb Rating": "6.4",
+    "Link": "https://www.imdb.com/title/tt33427273/"
+  },
+  {
+    "Rank": "48",
+    "Movie Name": "Jigra",
+    "IMDb Rating": "6.3",
+    "Link": "https://www.imdb.com/title/tt26733317/"
+  },
+  {
+    "Rank": "49",
+    "Movie Name": "The Best Christmas Pageant Ever",
+    "IMDb Rating": "6.9",
+    "Link": "https://www.imdb.com/title/tt2347285/"
+  },
+  {
+    "Rank": "50",
+    "Movie Name": "The Wild Robot",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt29623480/"
   }
 ]
