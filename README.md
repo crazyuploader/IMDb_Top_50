@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2024-12-21
+**Top IMDb Movies as of:** 2024-12-22
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2024-01-01,2024-12-31)
 
@@ -30,7 +30,7 @@
 
 3. [Pushpa: The Rule - Part 2](https://www.imdb.com/title/tt16539454/)
 
-4. [Kraven the Hunter](https://www.imdb.com/title/tt8790086/)
+4. [Kraven: The Hunter](https://www.imdb.com/title/tt8790086/)
 
 5. [Subservience](https://www.imdb.com/title/tt24871974/)
 
