@@ -193,15 +193,15 @@
   },
   {
     "Rank": "33",
-    "Movie Name": "Gisaengchung",
-    "IMDb Rating": "8.5",
-    "Movie Link": "https://www.imdb.com/title/tt6751668/"
-  },
-  {
-    "Rank": "34",
     "Movie Name": "Gladiator",
     "IMDb Rating": "8.5",
     "Movie Link": "https://www.imdb.com/title/tt0172495/"
+  },
+  {
+    "Rank": "34",
+    "Movie Name": "Gisaengchung",
+    "IMDb Rating": "8.5",
+    "Movie Link": "https://www.imdb.com/title/tt6751668/"
   },
   {
     "Rank": "35",
@@ -236,7 +236,7 @@
   {
     "Rank": "40",
     "Movie Name": "Spider-Man: Across the Spider-Verse",
-    "IMDb Rating": "8.6",
+    "IMDb Rating": "8.5",
     "Movie Link": "https://www.imdb.com/title/tt9362722/"
   },
   {
@@ -613,15 +613,15 @@
   },
   {
     "Rank": "103",
-    "Movie Name": "North by Northwest",
-    "IMDb Rating": "8.3",
-    "Movie Link": "https://www.imdb.com/title/tt0053125/"
-  },
-  {
-    "Rank": "104",
     "Movie Name": "Double Indemnity",
     "IMDb Rating": "8.3",
     "Movie Link": "https://www.imdb.com/title/tt0036775/"
+  },
+  {
+    "Rank": "104",
+    "Movie Name": "North by Northwest",
+    "IMDb Rating": "8.3",
+    "Movie Link": "https://www.imdb.com/title/tt0053125/"
   },
   {
     "Rank": "105",
@@ -1219,15 +1219,15 @@
   },
   {
     "Rank": "204",
-    "Movie Name": "Sherlock Jr.",
-    "IMDb Rating": "8.2",
-    "Movie Link": "https://www.imdb.com/title/tt0015324/"
-  },
-  {
-    "Rank": "205",
     "Movie Name": "The General",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0017925/"
+  },
+  {
+    "Rank": "205",
+    "Movie Name": "Sherlock Jr.",
+    "IMDb Rating": "8.2",
+    "Movie Link": "https://www.imdb.com/title/tt0015324/"
   },
   {
     "Rank": "206",
@@ -1447,15 +1447,15 @@
   },
   {
     "Rank": "242",
-    "Movie Name": "Into the Wild",
-    "IMDb Rating": "8.1",
-    "Movie Link": "https://www.imdb.com/title/tt0758758/"
-  },
-  {
-    "Rank": "243",
     "Movie Name": "La battaglia di Algeri",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0058946/"
+  },
+  {
+    "Rank": "243",
+    "Movie Name": "Into the Wild",
+    "IMDb Rating": "8.1",
+    "Movie Link": "https://www.imdb.com/title/tt0758758/"
   },
   {
     "Rank": "244",
