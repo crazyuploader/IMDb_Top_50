@@ -1,21 +1,21 @@
 [
   {
     "Rank": "1",
-    "Movie Name": "Superman",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt5950044/"
+    "Movie Name": "Companion",
+    "IMDb Rating": "5.8",
+    "Link": "https://www.imdb.com/title/tt26584495/"
   },
   {
     "Rank": "2",
-    "Movie Name": "Happy Gilmore 2",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt31868189/"
+    "Movie Name": "Den of Thieves: Pantera",
+    "IMDb Rating": "6.6",
+    "Link": "https://www.imdb.com/title/tt8008948/"
   },
   {
     "Rank": "3",
-    "Movie Name": "Jurassic World: Rebirth",
+    "Movie Name": "Superman",
     "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt31036941/"
+    "Link": "https://www.imdb.com/title/tt5950044/"
   },
   {
     "Rank": "4",
@@ -25,177 +25,177 @@
   },
   {
     "Rank": "5",
+    "Movie Name": "Jurassic World: Rebirth",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt31036941/"
+  },
+  {
+    "Rank": "6",
     "Movie Name": "Captain America: Brave New World",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt14513804/"
   },
   {
-    "Rank": "6",
-    "Movie Name": "Wicked: For Good",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt19847976/"
-  },
-  {
     "Rank": "7",
-    "Movie Name": "28 Years Later",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt10548174/"
-  },
-  {
-    "Rank": "8",
-    "Movie Name": "Snow White",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt6208148/"
-  },
-  {
-    "Rank": "9",
-    "Movie Name": "How to Train Your Dragon",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt26743210/"
-  },
-  {
-    "Rank": "10",
-    "Movie Name": "The Fantastic Four: First Steps",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt10676052/"
-  },
-  {
-    "Rank": "11",
     "Movie Name": "Wolf Man",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt4216984/"
   },
   {
+    "Rank": "8",
+    "Movie Name": "28 Years Later",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt10548174/"
+  },
+  {
+    "Rank": "9",
+    "Movie Name": "Snow White",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt6208148/"
+  },
+  {
+    "Rank": "10",
+    "Movie Name": "In the Lost Lands",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt4419684/"
+  },
+  {
+    "Rank": "11",
+    "Movie Name": "Peter Pan's Neverland Nightmare",
+    "IMDb Rating": "8.4",
+    "Link": "https://www.imdb.com/title/tt21955520/"
+  },
+  {
     "Rank": "12",
+    "Movie Name": "Wicked: For Good",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt19847976/"
+  },
+  {
+    "Rank": "13",
+    "Movie Name": "The Fantastic Four: First Steps",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt10676052/"
+  },
+  {
+    "Rank": "14",
+    "Movie Name": "A Working Man",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt9150192/"
+  },
+  {
+    "Rank": "15",
+    "Movie Name": "How to Train Your Dragon",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt26743210/"
+  },
+  {
+    "Rank": "16",
     "Movie Name": "Thunderbolts*",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt20969586/"
   },
   {
-    "Rank": "13",
+    "Rank": "17",
+    "Movie Name": "Ad Vitam",
+    "IMDb Rating": "6",
+    "Link": "https://www.imdb.com/title/tt32138452/"
+  },
+  {
+    "Rank": "18",
+    "Movie Name": "Happy Gilmore 2",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt31868189/"
+  },
+  {
+    "Rank": "19",
     "Movie Name": "Mission: Impossible - The Final Reckoning",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt9603208/"
   },
   {
-    "Rank": "14",
-    "Movie Name": "Den of Thieves: Pantera",
-    "IMDb Rating": "6.6",
-    "Link": "https://www.imdb.com/title/tt8008948/"
-  },
-  {
-    "Rank": "15",
-    "Movie Name": "Peter Pan's Neverland Nightmare",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt21955520/"
-  },
-  {
-    "Rank": "16",
-    "Movie Name": "Lilo & Stitch",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt11655566/"
-  },
-  {
-    "Rank": "17",
+    "Rank": "20",
     "Movie Name": "Frankenstein",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt1312221/"
   },
   {
-    "Rank": "18",
-    "Movie Name": "A Minecraft Movie",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt3566834/"
-  },
-  {
-    "Rank": "19",
-    "Movie Name": "Michael",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt11378946/"
-  },
-  {
-    "Rank": "20",
-    "Movie Name": "Ballerina",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt7181546/"
-  },
-  {
     "Rank": "21",
-    "Movie Name": "Karate Kid: Legends",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt1674782/"
-  },
-  {
-    "Rank": "22",
-    "Movie Name": "The Battle of Baktan Cross",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt30144839/"
-  },
-  {
-    "Rank": "23",
-    "Movie Name": "Mickey 17",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt12299608/"
-  },
-  {
-    "Rank": "24",
-    "Movie Name": "Avatar: Fire and Ash",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt1757678/"
-  },
-  {
-    "Rank": "25",
-    "Movie Name": "Bridget Jones: Mad About the Boy",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt32063050/"
-  },
-  {
-    "Rank": "26",
-    "Movie Name": "Dog Man",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt10954718/"
-  },
-  {
-    "Rank": "27",
     "Movie Name": "Don't Die: The Man Who Wants to Live Forever",
     "IMDb Rating": "6.2",
     "Link": "https://www.imdb.com/title/tt34977130/"
   },
   {
-    "Rank": "28",
+    "Rank": "22",
+    "Movie Name": "A Minecraft Movie",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt3566834/"
+  },
+  {
+    "Rank": "23",
+    "Movie Name": "Game Changer",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt14209618/"
+  },
+  {
+    "Rank": "24",
     "Movie Name": "The Housemaid",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt27543632/"
   },
   {
+    "Rank": "25",
+    "Movie Name": "Dog Man",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt10954718/"
+  },
+  {
+    "Rank": "26",
+    "Movie Name": "Michael",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt11378946/"
+  },
+  {
+    "Rank": "27",
+    "Movie Name": "Lilo & Stitch",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt11655566/"
+  },
+  {
+    "Rank": "28",
+    "Movie Name": "Heart Eyes",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt32558992/"
+  },
+  {
     "Rank": "29",
-    "Movie Name": "Companion",
-    "IMDb Rating": "6.9",
-    "Link": "https://www.imdb.com/title/tt26584495/"
+    "Movie Name": "Avatar: Fire and Ash",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt1757678/"
   },
   {
     "Rank": "30",
-    "Movie Name": "Wake Up Dead Man: A Knives Out Mystery",
+    "Movie Name": "The Battle of Baktan Cross",
     "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt14364480/"
+    "Link": "https://www.imdb.com/title/tt30144839/"
   },
   {
     "Rank": "31",
-    "Movie Name": "The Gorge",
+    "Movie Name": "Mickey 17",
     "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt13654226/"
+    "Link": "https://www.imdb.com/title/tt12299608/"
   },
   {
     "Rank": "32",
-    "Movie Name": "The Electric State",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt7766378/"
+    "Movie Name": "Bank of Dave 2: The Loan Ranger",
+    "IMDb Rating": "6.6",
+    "Link": "https://www.imdb.com/title/tt27713772/"
   },
   {
     "Rank": "33",
-    "Movie Name": "Marty Supreme",
+    "Movie Name": "Ballerina",
     "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt32916440/"
+    "Link": "https://www.imdb.com/title/tt7181546/"
   },
   {
     "Rank": "34",
@@ -205,87 +205,87 @@
   },
   {
     "Rank": "35",
-    "Movie Name": "I Know What You Did Last Summer",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt4045450/"
-  },
-  {
-    "Rank": "36",
-    "Movie Name": "Sinners",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt31193180/"
-  },
-  {
-    "Rank": "37",
-    "Movie Name": "Tron: Ares",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt6604188/"
-  },
-  {
-    "Rank": "38",
-    "Movie Name": "Death of a Unicorn",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt28443655/"
-  },
-  {
-    "Rank": "39",
     "Movie Name": "Mortal Kombat 2",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt17490712/"
   },
   {
+    "Rank": "36",
+    "Movie Name": "Mica è Colpa Mia",
+    "IMDb Rating": "6.1",
+    "Link": "https://www.imdb.com/title/tt34896285/"
+  },
+  {
+    "Rank": "37",
+    "Movie Name": "Karate Kid: Legends",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt1674782/"
+  },
+  {
+    "Rank": "38",
+    "Movie Name": "Bridget Jones: Mad About the Boy",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt32063050/"
+  },
+  {
+    "Rank": "39",
+    "Movie Name": "Wake Up Dead Man: A Knives Out Mystery",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt14364480/"
+  },
+  {
     "Rank": "40",
-    "Movie Name": "F1",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt16311594/"
-  },
-  {
-    "Rank": "41",
-    "Movie Name": "Final Destination: Bloodlines",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt9619824/"
-  },
-  {
-    "Rank": "42",
-    "Movie Name": "Return to Silent Hill",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt22868010/"
-  },
-  {
-    "Rank": "43",
-    "Movie Name": "Henry Danger: The Movie",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt7787524/"
-  },
-  {
-    "Rank": "44",
-    "Movie Name": "The Amateur",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt0899043/"
-  },
-  {
-    "Rank": "45",
-    "Movie Name": "Star Trek: Section 31",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt9603060/"
-  },
-  {
-    "Rank": "46",
-    "Movie Name": "Warfare",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt31434639/"
-  },
-  {
-    "Rank": "47",
     "Movie Name": "Back in Action",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt21191806/"
   },
   {
-    "Rank": "48",
+    "Rank": "41",
+    "Movie Name": "God Loves the Green Bay Packers",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt15143042/"
+  },
+  {
+    "Rank": "42",
+    "Movie Name": "The Gorge",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt13654226/"
+  },
+  {
+    "Rank": "43",
+    "Movie Name": "Marty Supreme",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt32916440/"
+  },
+  {
+    "Rank": "44",
+    "Movie Name": "I Know What You Did Last Summer",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt4045450/"
+  },
+  {
+    "Rank": "45",
     "Movie Name": "One of Them Days",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt32221196/"
+  },
+  {
+    "Rank": "46",
+    "Movie Name": "Tron: Ares",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt6604188/"
+  },
+  {
+    "Rank": "47",
+    "Movie Name": "Kinda Pregnant",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt30253036/"
+  },
+  {
+    "Rank": "48",
+    "Movie Name": "Final Destination: Bloodlines",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt9619824/"
   },
   {
     "Rank": "49",
@@ -295,8 +295,8 @@
   },
   {
     "Rank": "50",
-    "Movie Name": "Black Bag",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt30988739/"
+    "Movie Name": "Fateh",
+    "IMDb Rating": "8.2",
+    "Link": "https://www.imdb.com/title/tt27679608/"
   }
 ]
