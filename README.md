@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-01-20
+**Top IMDb Movies as of:** 2025-01-21
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Companion](https://www.imdb.com/title/tt26584495/)
+1. [Back in Action](https://www.imdb.com/title/tt21191806/)
 
-2. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
+2. [Wolf Man](https://www.imdb.com/title/tt4216984/)
 
-3. [Superman](https://www.imdb.com/title/tt5950044/)
+3. [Companion](https://www.imdb.com/title/tt26584495/)
 
-4. [Flight Risk](https://www.imdb.com/title/tt10078772/)
+4. [Ad Vitam](https://www.imdb.com/title/tt32138452/)
 
-5. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+5. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
 
 6. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-7. [Wolf Man](https://www.imdb.com/title/tt4216984/)
+7. [Flight Risk](https://www.imdb.com/title/tt10078772/)
 
-8. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+8. [Peter Pan's Neverland Nightmare](https://www.imdb.com/title/tt21955520/)
 
-9. [Snow White](https://www.imdb.com/title/tt6208148/)
+9. [Fateh](https://www.imdb.com/title/tt27679608/)
 
-10. [In the Lost Lands](https://www.imdb.com/title/tt4419684/)
+10. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
 
-11. [Peter Pan's Neverland Nightmare](https://www.imdb.com/title/tt21955520/)
+11. [Superman](https://www.imdb.com/title/tt5950044/)
 
-12. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
+12. [Bank of Dave 2: The Loan Ranger](https://www.imdb.com/title/tt27713772/)
 
-13. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+13. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-14. [A Working Man](https://www.imdb.com/title/tt9150192/)
+14. [Game Changer](https://www.imdb.com/title/tt14209618/)
 
-15. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+15. [One of Them Days](https://www.imdb.com/title/tt32221196/)
 
-16. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+16. [The Woman in the Yard](https://www.imdb.com/title/tt31314296/)
 
-17. [Ad Vitam](https://www.imdb.com/title/tt32138452/)
+17. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-18. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+18. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-19. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+19. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-20. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+20. [In the Lost Lands](https://www.imdb.com/title/tt4419684/)
 
-21. [Don't Die: The Man Who Wants to Live Forever](https://www.imdb.com/title/tt34977130/)
+21. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-22. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+22. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-23. [Game Changer](https://www.imdb.com/title/tt14209618/)
+23. [Alarum](https://www.imdb.com/title/tt31456973/)
 
-24. [The Housemaid](https://www.imdb.com/title/tt27543632/)
+24. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-25. [Dog Man](https://www.imdb.com/title/tt10954718/)
+25. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-26. [Michael](https://www.imdb.com/title/tt11378946/)
+26. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-27. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+27. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-28. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
+28. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-29. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+29. [Henry Danger: The Movie](https://www.imdb.com/title/tt7787524/)
 
-30. [The Battle of Baktan Cross](https://www.imdb.com/title/tt30144839/)
+30. [Love Hurts](https://www.imdb.com/title/tt30788842/)
 
-31. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+31. [Dog Man](https://www.imdb.com/title/tt10954718/)
 
-32. [Bank of Dave 2: The Loan Ranger](https://www.imdb.com/title/tt27713772/)
+32. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
 
-33. [Ballerina](https://www.imdb.com/title/tt7181546/)
+33. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-34. [The Monkey](https://www.imdb.com/title/tt27714946/)
+34. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-35. [Mortal Kombat 2](https://www.imdb.com/title/tt17490712/)
+35. [The Battle of Baktan Cross](https://www.imdb.com/title/tt30144839/)
 
-36. [Mica è colpa mia](https://www.imdb.com/title/tt34896285/)
+36. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-37. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+37. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-38. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
+38. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
 
-39. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
+39. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-40. [Back in Action](https://www.imdb.com/title/tt21191806/)
+40. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-41. [God Loves the Green Bay Packers](https://www.imdb.com/title/tt15143042/)
+41. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-42. [The Gorge](https://www.imdb.com/title/tt13654226/)
+42. [Michael](https://www.imdb.com/title/tt11378946/)
 
-43. [Marty Supreme](https://www.imdb.com/title/tt32916440/)
+43. [The Housemaid](https://www.imdb.com/title/tt27543632/)
 
-44. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+44. [Star Trek: Section 31](https://www.imdb.com/title/tt9603060/)
 
-45. [One of Them Days](https://www.imdb.com/title/tt32221196/)
+45. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-46. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+46. [Diddy: Monster's Fall](https://www.imdb.com/title/tt34887637/)
 
-47. [Kinda Pregnant](https://www.imdb.com/title/tt30253036/)
+47. [Mortal Kombat 2](https://www.imdb.com/title/tt17490712/)
 
-48. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+48. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
 
-49. [The Running Man](https://www.imdb.com/title/tt14107334/)
+49. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-50. [Fateh](https://www.imdb.com/title/tt27679608/)
+50. [Daaku Maharaaj](https://www.imdb.com/title/tt27957740/)
