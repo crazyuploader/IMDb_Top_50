@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Back in Action](https://www.imdb.com/title/tt21191806/)
+1. [You're Cordially Invited](https://www.imdb.com/title/tt21227864/)
 
-2. [Wolf Man](https://www.imdb.com/title/tt4216984/)
+2. [Companion](https://www.imdb.com/title/tt26584495/)
 
-3. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+3. [Star Trek: Section 31](https://www.imdb.com/title/tt9603060/)
 
-4. [Flight Risk](https://www.imdb.com/title/tt10078772/)
+4. [Back in Action](https://www.imdb.com/title/tt21191806/)
 
-5. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+5. [Flight Risk](https://www.imdb.com/title/tt10078772/)
 
-6. [Star Trek: Section 31](https://www.imdb.com/title/tt9603060/)
+6. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-7. [One of Them Days](https://www.imdb.com/title/tt32221196/)
+7. [Den of Thieves 2: Pantera](https://www.imdb.com/title/tt8008948/)
 
-8. [Opus](https://www.imdb.com/title/tt29929565/)
+8. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-9. [Companion](https://www.imdb.com/title/tt26584495/)
+9. [The Wedding Banquet](https://www.imdb.com/title/tt32214413/)
 
-10. [Den of Thieves 2: Pantera](https://www.imdb.com/title/tt8008948/)
+10. [Superman](https://www.imdb.com/title/tt5950044/)
 
-11. [Ad Vitam](https://www.imdb.com/title/tt32138452/)
+11. [Dog Man](https://www.imdb.com/title/tt10954718/)
 
-12. [Alarum](https://www.imdb.com/title/tt31456973/)
+12. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-13. [Superman](https://www.imdb.com/title/tt5950044/)
+13. [Wolf Man](https://www.imdb.com/title/tt4216984/)
 
 14. [Jurassic World Rebirth](https://www.imdb.com/title/tt31036941/)
 
-15. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+15. [One of Them Days](https://www.imdb.com/title/tt32221196/)
 
-16. [Henry Danger: The Movie](https://www.imdb.com/title/tt7787524/)
+16. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
 
 17. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-18. [Drop](https://www.imdb.com/title/tt32149847/)
+18. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-19. [Dog Man](https://www.imdb.com/title/tt10954718/)
+19. [Kiss of the Spider Woman](https://www.imdb.com/title/tt30400277/)
 
-20. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+20. [Sky Force](https://www.imdb.com/title/tt27056066/)
 
 21. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-22. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+22. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-23. [Peter Pan's Neverland Nightmare](https://www.imdb.com/title/tt21955520/)
+23. [Ad Vitam](https://www.imdb.com/title/tt32138452/)
 
-24. [You're Cordially Invited](https://www.imdb.com/title/tt21227864/)
+24. [Henry Danger: The Movie](https://www.imdb.com/title/tt7787524/)
 
-25. [Fateh](https://www.imdb.com/title/tt27679608/)
+25. [Love Hurts](https://www.imdb.com/title/tt30788842/)
 
-26. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+26. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-27. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+27. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-28. [Love Hurts](https://www.imdb.com/title/tt30788842/)
+28. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-29. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
+29. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-30. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
+30. [Together](https://www.imdb.com/title/tt31184028/)
 
-31. [Into the Deep](https://www.imdb.com/title/tt28637027/)
+31. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
 
-32. [Sankrathiki Vasthunam](https://www.imdb.com/title/tt31226981/)
+32. [Deva](https://www.imdb.com/title/tt27852049/)
 
-33. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
+33. [Drop](https://www.imdb.com/title/tt32149847/)
 
-34. [Bank of Dave 2: The Loan Ranger](https://www.imdb.com/title/tt27713772/)
+34. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-35. [A Working Man](https://www.imdb.com/title/tt9150192/)
+35. [Fateh](https://www.imdb.com/title/tt27679608/)
 
-36. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+36. [Twinless](https://www.imdb.com/title/tt31322753/)
 
-37. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+37. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
 
-38. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+38. [Rüzgara Birak](https://www.imdb.com/title/tt32730754/)
 
-39. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+39. [Peter Pan's Neverland Nightmare](https://www.imdb.com/title/tt21955520/)
 
-40. [Emergency](https://www.imdb.com/title/tt21279420/)
+40. [Into the Deep](https://www.imdb.com/title/tt28637027/)
 
-41. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+41. [Alarum](https://www.imdb.com/title/tt31456973/)
 
-42. [The Ballad of Wallis Island](https://www.imdb.com/title/tt27674982/)
+42. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-43. [Dominic and the Ladies' Purse](https://www.imdb.com/title/tt32887317/)
+43. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-44. [Marked Men](https://www.imdb.com/title/tt26452781/)
+44. [Opus](https://www.imdb.com/title/tt29929565/)
 
-45. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
+45. [Sankrathiki Vasthunam](https://www.imdb.com/title/tt31226981/)
 
-46. [Pengantin Setan](https://www.imdb.com/title/tt33051946/)
+46. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-47. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+47. [If I Had Legs I'd Kick You](https://www.imdb.com/title/tt18382850/)
 
-48. [Michael](https://www.imdb.com/title/tt11378946/)
+48. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-49. [Sky Force](https://www.imdb.com/title/tt27056066/)
+49. [Atropia](https://www.imdb.com/title/tt31122579/)
 
-50. [Man with No Past](https://www.imdb.com/title/tt31974129/)
+50. [God Loves the Green Bay Packers](https://www.imdb.com/title/tt15143042/)
