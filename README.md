@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-02-19
+**Top IMDb Movies as of:** 2025-02-20
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -38,7 +38,7 @@
 
 7. [Kinda Pregnant](https://www.imdb.com/title/tt30253036/)
 
-8. [Jurassic World Rebirth](https://www.imdb.com/title/tt31036941/)
+8. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
 9. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
 
