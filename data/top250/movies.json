@@ -746,7 +746,7 @@
   {
     "Rank": "125",
     "Movie Name": "Ladri di biciclette",
-    "IMDb Rating": "8.3",
+    "IMDb Rating": "8.2",
     "Movie Link": "https://www.imdb.com/title/tt0040522/"
   },
   {
@@ -805,15 +805,15 @@
   },
   {
     "Rank": "135",
-    "Movie Name": "The Truman Show",
-    "IMDb Rating": "8.2",
-    "Movie Link": "https://www.imdb.com/title/tt0120382/"
-  },
-  {
-    "Rank": "136",
     "Movie Name": "Judgment at Nuremberg",
     "IMDb Rating": "8.3",
     "Movie Link": "https://www.imdb.com/title/tt0055031/"
+  },
+  {
+    "Rank": "136",
+    "Movie Name": "The Truman Show",
+    "IMDb Rating": "8.2",
+    "Movie Link": "https://www.imdb.com/title/tt0120382/"
   },
   {
     "Rank": "137",
@@ -1333,27 +1333,27 @@
   },
   {
     "Rank": "223",
-    "Movie Name": "Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
-    "IMDb Rating": "8.6",
-    "Movie Link": "https://www.imdb.com/title/tt16492678/"
-  },
-  {
-    "Rank": "224",
-    "Movie Name": "Jai Bhim",
-    "IMDb Rating": "8.7",
-    "Movie Link": "https://www.imdb.com/title/tt15097216/"
-  },
-  {
-    "Rank": "225",
     "Movie Name": "La haine",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0113247/"
   },
   {
-    "Rank": "226",
+    "Rank": "224",
+    "Movie Name": "Kimetsu no Yaiba: Tsuzumi Yashiki-hen",
+    "IMDb Rating": "8.6",
+    "Movie Link": "https://www.imdb.com/title/tt16492678/"
+  },
+  {
+    "Rank": "225",
     "Movie Name": "Platoon",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0091763/"
+  },
+  {
+    "Rank": "226",
+    "Movie Name": "Jai Bhim",
+    "IMDb Rating": "8.7",
+    "Movie Link": "https://www.imdb.com/title/tt15097216/"
   },
   {
     "Rank": "227",
