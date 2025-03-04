@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-03-03
+**Top IMDb Movies as of:** 2025-03-04
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-2. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+2. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-3. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
+3. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
 4. [Companion](https://www.imdb.com/title/tt26584495/)
 
-5. [The Monkey](https://www.imdb.com/title/tt27714946/)
+5. [Bridget Jones: Mad About the Boy](https://www.imdb.com/title/tt32063050/)
 
 6. [My Fault: London](https://www.imdb.com/title/tt32434379/)
 
-7. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
+7. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-8. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+8. [Last Breath](https://www.imdb.com/title/tt14403504/)
 
-9. [Flight Risk](https://www.imdb.com/title/tt10078772/)
+9. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
 
-10. [La Dolce Villa](https://www.imdb.com/title/tt31519456/)
+10. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-11. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+11. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
 
-12. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
+12. [Love Hurts](https://www.imdb.com/title/tt30788842/)
 
 13. [Chhaava](https://www.imdb.com/title/tt27922706/)
 
-14. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+14. [Flight Risk](https://www.imdb.com/title/tt10078772/)
 
 15. [Dog Man](https://www.imdb.com/title/tt10954718/)
 
-16. [You're Cordially Invited](https://www.imdb.com/title/tt21227864/)
+16. [Holland](https://www.imdb.com/title/tt3045628/)
 
-17. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+17. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
 
-18. [Kinda Pregnant](https://www.imdb.com/title/tt30253036/)
+18. [La Dolce Villa](https://www.imdb.com/title/tt31519456/)
 
-19. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+19. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-20. [G20](https://www.imdb.com/title/tt23476986/)
+20. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-21. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+21. [Oni Goroshi](https://www.imdb.com/title/tt35111035/)
 
-22. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+22. [Cleaner](https://www.imdb.com/title/tt27812086/)
 
-23. [Snow White](https://www.imdb.com/title/tt6208148/)
+23. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-24. [Love Hurts](https://www.imdb.com/title/tt30788842/)
+24. [You're Cordially Invited](https://www.imdb.com/title/tt21227864/)
 
-25. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+25. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-26. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+26. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-27. [Back in Action](https://www.imdb.com/title/tt21191806/)
+27. [Superman](https://www.imdb.com/title/tt5950044/)
 
-28. [One of Them Days](https://www.imdb.com/title/tt32221196/)
+28. [The Electric State](https://www.imdb.com/title/tt7766378/)
 
-29. [The Witcher: Sirens of the Deep](https://www.imdb.com/title/tt15495150/)
+29. [Back in Action](https://www.imdb.com/title/tt21191806/)
 
-30. [Wolf Man](https://www.imdb.com/title/tt4216984/)
+30. [One of Them Days](https://www.imdb.com/title/tt32221196/)
 
-31. [Superman](https://www.imdb.com/title/tt5950044/)
+31. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-32. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+32. [Den of Thieves 2: Pantera](https://www.imdb.com/title/tt8008948/)
 
-33. [Cleaner](https://www.imdb.com/title/tt27812086/)
+33. [Wolf Man](https://www.imdb.com/title/tt4216984/)
 
-34. [Den of Thieves 2: Pantera](https://www.imdb.com/title/tt8008948/)
+34. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-35. [Lune de miel avec ma mère](https://www.imdb.com/title/tt35300972/)
+35. [The Unbreakable Boy](https://www.imdb.com/title/tt5181260/)
 
-36. [Dhoom Dhaam](https://www.imdb.com/title/tt21194868/)
+36. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-37. [The Unbreakable Boy](https://www.imdb.com/title/tt5181260/)
+37. [Kinda Pregnant](https://www.imdb.com/title/tt30253036/)
 
 38. [Sankrathiki Vasthunam](https://www.imdb.com/title/tt31226981/)
 
-39. [Last Breath](https://www.imdb.com/title/tt14403504/)
+39. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-40. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+40. [Marked Men](https://www.imdb.com/title/tt26452781/)
 
-41. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+41. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-42. [Deva](https://www.imdb.com/title/tt27852049/)
+42. [Popeye's Revenge](https://www.imdb.com/title/tt33362807/)
 
-43. [Rüzgara Birak](https://www.imdb.com/title/tt32730754/)
+43. [Marching Powder](https://www.imdb.com/title/tt30324320/)
 
-44. [Becoming Led Zeppelin](https://www.imdb.com/title/tt10365912/)
+44. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-45. [Star Trek: Section 31](https://www.imdb.com/title/tt9603060/)
+45. [Mere Husband Ki Biwi](https://www.imdb.com/title/tt22457506/)
 
-46. [Kärlek fårever](https://www.imdb.com/title/tt30308957/)
+46. [Novocaine](https://www.imdb.com/title/tt29603959/)
 
-47. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+47. [Star Trek: Section 31](https://www.imdb.com/title/tt9603060/)
 
-48. [Black Bag](https://www.imdb.com/title/tt30988739/)
+48. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-49. [Inheritance](https://www.imdb.com/title/tt31050620/)
+49. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-50. [Marching Powder](https://www.imdb.com/title/tt30324320/)
+50. [Fight or Flight](https://www.imdb.com/title/tt13652286/)
