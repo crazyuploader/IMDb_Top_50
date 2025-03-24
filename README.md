@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-03-23
+**Top IMDb Movies as of:** 2025-03-24
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -108,7 +108,7 @@
 
 42. [Badnaam](https://www.imdb.com/title/tt34927582/)
 
-43. [Den of Thieves 2: Pantera](https://www.imdb.com/title/tt8008948/)
+43. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
 
 44. [The Woman in the Yard](https://www.imdb.com/title/tt31314296/)
 
