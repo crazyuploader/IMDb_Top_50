@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-03-27
+**Top IMDb Movies as of:** 2025-03-28
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -76,7 +76,7 @@
 
 26. [Chhaava](https://www.imdb.com/title/tt27922706/)
 
-27. [Duplicity](https://www.imdb.com/title/tt28239363/)
+27. [Tyler Perry's Duplicity](https://www.imdb.com/title/tt28239363/)
 
 28. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
 
