@@ -1171,21 +1171,21 @@
   },
   {
     "Rank": "196",
-    "Movie Name": "Ainda Estou Aqui",
-    "IMDb Rating": "8.3",
-    "Movie Link": "https://www.imdb.com/title/tt14961016/"
-  },
-  {
-    "Rank": "197",
     "Movie Name": "Monsters, Inc.",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0198781/"
   },
   {
-    "Rank": "198",
+    "Rank": "197",
     "Movie Name": "In the Name of the Father",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0107207/"
+  },
+  {
+    "Rank": "198",
+    "Movie Name": "Ainda Estou Aqui",
+    "IMDb Rating": "8.3",
+    "Movie Link": "https://www.imdb.com/title/tt14961016/"
   },
   {
     "Rank": "199",
@@ -1460,7 +1460,7 @@
   {
     "Rank": "244",
     "Movie Name": "Into the Wild",
-    "IMDb Rating": "8.1",
+    "IMDb Rating": "8",
     "Movie Link": "https://www.imdb.com/title/tt0758758/"
   },
   {
