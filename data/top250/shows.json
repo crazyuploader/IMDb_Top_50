@@ -535,15 +535,15 @@
   },
   {
     "Rank": "90",
-    "Show Name": "Rome",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt0384766/"
-  },
-  {
-    "Rank": "91",
     "Show Name": "X-Men &apos;97",
     "IMDb Rating": "8.8",
     "Show Link": "https://www.imdb.com/title/tt16026746/"
+  },
+  {
+    "Rank": "91",
+    "Show Name": "Rome",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt0384766/"
   },
   {
     "Rank": "92",
@@ -559,21 +559,21 @@
   },
   {
     "Rank": "94",
+    "Show Name": "The Pitt",
+    "IMDb Rating": "8.8",
+    "Show Link": "https://www.imdb.com/title/tt31938062/"
+  },
+  {
+    "Rank": "95",
     "Show Name": "Severance",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt11280740/"
   },
   {
-    "Rank": "95",
+    "Rank": "96",
     "Show Name": "Dark",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt5753856/"
-  },
-  {
-    "Rank": "96",
-    "Show Name": "The Pitt",
-    "IMDb Rating": "8.8",
-    "Show Link": "https://www.imdb.com/title/tt31938062/"
   },
   {
     "Rank": "97",
@@ -872,7 +872,7 @@
   {
     "Rank": "146",
     "Show Name": "Primal",
-    "IMDb Rating": "8.7",
+    "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt10332508/"
   },
   {
@@ -1027,15 +1027,15 @@
   },
   {
     "Rank": "172",
-    "Show Name": "El Chavo del Ocho",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt0229889/"
-  },
-  {
-    "Rank": "173",
     "Show Name": "Critical Role",
     "IMDb Rating": "9",
     "Show Link": "https://www.imdb.com/title/tt4834232/"
+  },
+  {
+    "Rank": "173",
+    "Show Name": "El Chavo del Ocho",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt0229889/"
   },
   {
     "Rank": "174",
@@ -1177,15 +1177,15 @@
   },
   {
     "Rank": "197",
-    "Show Name": "Coupling",
-    "IMDb Rating": "8.5",
-    "Show Link": "https://www.imdb.com/title/tt0237123/"
-  },
-  {
-    "Rank": "198",
     "Show Name": "Senke nad Balkanom",
     "IMDb Rating": "8.8",
     "Show Link": "https://www.imdb.com/title/tt6108262/"
+  },
+  {
+    "Rank": "198",
+    "Show Name": "Coupling",
+    "IMDb Rating": "8.5",
+    "Show Link": "https://www.imdb.com/title/tt0237123/"
   },
   {
     "Rank": "199",
@@ -1471,21 +1471,21 @@
   },
   {
     "Rank": "246",
-    "Show Name": "Umbre",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt4269716/"
-  },
-  {
-    "Rank": "247",
     "Show Name": "From the Earth to the Moon",
     "IMDb Rating": "8.5",
     "Show Link": "https://www.imdb.com/title/tt0120570/"
   },
   {
-    "Rank": "248",
+    "Rank": "247",
     "Show Name": "Gintama",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt0988818/"
+  },
+  {
+    "Rank": "248",
+    "Show Name": "Umbre",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt4269716/"
   },
   {
     "Rank": "249",
