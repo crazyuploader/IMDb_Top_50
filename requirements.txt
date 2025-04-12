@@ -1,4 +1,0 @@
-beautifulsoup4==4.13.3
-bs4==0.0.2
-requests==2.32.3
-csvtomd==0.3.0
