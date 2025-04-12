@@ -24,18 +24,18 @@ jobs:
 
       - name: Installing Dependencies
         run: |
-          pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install --upgrade pipenv
+          pipenv install
           sudo npm install -g csvtojson@2.0.10
-          sudo npm install -g prettier@3.3.3
+          sudo npm install -g prettier@3.5.3
 
       - name: Generate
         run: |
           chmod +x ./generate.sh
-          ./generate.sh
+          pipenv run ./generate.sh
 
       - name: Run Python Program
-        run: ./IMDb.py
+        run: pipenv run ./IMDb.py
 
       - name: Prettify files
         run: |
