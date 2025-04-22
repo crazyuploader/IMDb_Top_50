@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-04-21
+**Top IMDb Movies as of:** 2025-04-22
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+1. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-2. [Snow White](https://www.imdb.com/title/tt6208148/)
+2. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-3. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+3. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-4. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+4. [Warfare](https://www.imdb.com/title/tt31434639/)
 
 5. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
 6. [G20](https://www.imdb.com/title/tt23476986/)
 
-7. [Black Bag](https://www.imdb.com/title/tt30988739/)
+7. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-8. [Warfare](https://www.imdb.com/title/tt31434639/)
+8. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-9. [A Working Man](https://www.imdb.com/title/tt9150192/)
+9. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-10. [The Life List](https://www.imdb.com/title/tt2172954/)
+10. [Drop](https://www.imdb.com/title/tt32149847/)
 
-11. [Sinners](https://www.imdb.com/title/tt31193180/)
+11. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-12. [Novocaine](https://www.imdb.com/title/tt29603959/)
+12. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-13. [Drop](https://www.imdb.com/title/tt32149847/)
+13. [The King of Kings](https://www.imdb.com/title/tt7967302/)
 
-14. [Superman](https://www.imdb.com/title/tt5950044/)
+14. [Novocaine](https://www.imdb.com/title/tt29603959/)
 
-15. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+15. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-16. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+16. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
 
-17. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+17. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-18. [The Electric State](https://www.imdb.com/title/tt7766378/)
+18. [Companion](https://www.imdb.com/title/tt26584495/)
 
-19. [In the Lost Lands](https://www.imdb.com/title/tt4419684/)
+19. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-20. [The Monkey](https://www.imdb.com/title/tt27714946/)
+20. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-21. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+21. [The Life List](https://www.imdb.com/title/tt2172954/)
 
-22. [Holland](https://www.imdb.com/title/tt3045628/)
+22. [The Woman in the Yard](https://www.imdb.com/title/tt31314296/)
 
-23. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+23. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
 
-24. [Sikandar](https://www.imdb.com/title/tt31712434/)
+24. [Jaat](https://www.imdb.com/title/tt32223398/)
 
-25. [Companion](https://www.imdb.com/title/tt26584495/)
+25. [The Electric State](https://www.imdb.com/title/tt7766378/)
 
-26. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+26. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-27. [The Gorge](https://www.imdb.com/title/tt13654226/)
+27. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-28. [The King of Kings](https://www.imdb.com/title/tt7967302/)
+28. [In the Lost Lands](https://www.imdb.com/title/tt4419684/)
 
-29. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+29. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-30. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
+30. [Superman](https://www.imdb.com/title/tt5950044/)
 
-31. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+31. [Gunslingers](https://www.imdb.com/title/tt24850708/)
 
-32. [Borbaad](https://www.imdb.com/title/tt33305312/)
+32. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-33. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+33. [Chhaava](https://www.imdb.com/title/tt27922706/)
 
-34. [One of Them Days](https://www.imdb.com/title/tt32221196/)
+34. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-35. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
+35. [Holland](https://www.imdb.com/title/tt3045628/)
 
-36. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+36. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-37. [The Woman in the Yard](https://www.imdb.com/title/tt31314296/)
+37. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-38. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
+38. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
 
-39. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
+39. [Him](https://www.imdb.com/title/tt20990442/)
 
-40. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+40. [Borbaad](https://www.imdb.com/title/tt33305312/)
 
-41. [Chhaava](https://www.imdb.com/title/tt27922706/)
+41. [iHostage](https://www.imdb.com/title/tt31181421/)
 
-42. [Deva](https://www.imdb.com/title/tt27852049/)
+42. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-43. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+43. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-44. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
+44. [Home Sweet Home: Rebirth](https://www.imdb.com/title/tt29425792/)
 
-45. [Eddington](https://www.imdb.com/title/tt31176520/)
+45. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-46. [Last Breath](https://www.imdb.com/title/tt14403504/)
+46. [Good Bad Ugly](https://www.imdb.com/title/tt27540217/)
 
-47. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+47. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-48. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
+48. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
 
-49. [Havoc](https://www.imdb.com/title/tt14123284/)
+49. [Wolf Man](https://www.imdb.com/title/tt4216984/)
 
-50. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+50. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
