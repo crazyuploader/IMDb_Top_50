@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-05-05
+**Top IMDb Movies as of:** 2025-05-06
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Sinners](https://www.imdb.com/title/tt31193180/)
+1. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-2. [Havoc](https://www.imdb.com/title/tt14123284/)
+2. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-3. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+3. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-4. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+4. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
 
-5. [Warfare](https://www.imdb.com/title/tt31434639/)
+5. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-6. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+6. [Exterritorial](https://www.imdb.com/title/tt30876483/)
 
-7. [Snow White](https://www.imdb.com/title/tt6208148/)
+7. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
 
-8. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+8. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
 9. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-10. [Companion](https://www.imdb.com/title/tt26584495/)
+10. [Drop](https://www.imdb.com/title/tt32149847/)
 
-11. [Ash](https://www.imdb.com/title/tt17489650/)
+11. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
 
-12. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+12. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-13. [iHostage](https://www.imdb.com/title/tt31181421/)
+13. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-14. [The Amateur](https://www.imdb.com/title/tt0899043/)
+14. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-15. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+15. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-16. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+16. [Companion](https://www.imdb.com/title/tt26584495/)
 
-17. [A Working Man](https://www.imdb.com/title/tt9150192/)
+17. [Raid 2](https://www.imdb.com/title/tt28089700/)
 
-18. [Locked](https://www.imdb.com/title/tt26671996/)
+18. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
 
-19. [Drop](https://www.imdb.com/title/tt32149847/)
+19. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-20. [G20](https://www.imdb.com/title/tt23476986/)
+20. [Ash](https://www.imdb.com/title/tt17489650/)
 
-21. [Black Bag](https://www.imdb.com/title/tt30988739/)
+21. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-22. [The King of Kings](https://www.imdb.com/title/tt7967302/)
+22. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-23. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+23. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-24. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+24. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-25. [The Life List](https://www.imdb.com/title/tt2172954/)
+25. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-26. [Shinkansen daibakuha](https://www.imdb.com/title/tt33452974/)
+26. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-27. [Novocaine](https://www.imdb.com/title/tt29603959/)
+27. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-28. [The Gorge](https://www.imdb.com/title/tt13654226/)
+28. [Shinkansen daibakuha](https://www.imdb.com/title/tt33452974/)
 
-29. [The Electric State](https://www.imdb.com/title/tt7766378/)
+29. [iHostage](https://www.imdb.com/title/tt31181421/)
 
-30. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+30. [Neighborhood Watch](https://www.imdb.com/title/tt1714918/)
 
-31. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+31. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-32. [Last Breath](https://www.imdb.com/title/tt14403504/)
+32. [Superman](https://www.imdb.com/title/tt5950044/)
 
-33. [Superman](https://www.imdb.com/title/tt5950044/)
+33. [Locked](https://www.imdb.com/title/tt26671996/)
 
-34. [The Monkey](https://www.imdb.com/title/tt27714946/)
+34. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-35. [The Woman in the Yard](https://www.imdb.com/title/tt31314296/)
+35. [Novocaine](https://www.imdb.com/title/tt29603959/)
 
-36. [Him](https://www.imdb.com/title/tt20990442/)
+36. [The Life List](https://www.imdb.com/title/tt2172954/)
 
-37. [Jewel Thief: The Heist Begins](https://www.imdb.com/title/tt27843798/)
+37. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-38. [The Legend of Ochi](https://www.imdb.com/title/tt8866456/)
+38. [Together](https://www.imdb.com/title/tt31184028/)
 
-39. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
+39. [G20](https://www.imdb.com/title/tt23476986/)
 
-40. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
+40. [Jewel Thief: The Heist Begins](https://www.imdb.com/title/tt27843798/)
 
-41. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
+41. [Last Breath](https://www.imdb.com/title/tt14403504/)
 
-42. [Heads of State](https://www.imdb.com/title/tt13357520/)
+42. [The Electric State](https://www.imdb.com/title/tt7766378/)
 
-43. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+43. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-44. [Wolf Man](https://www.imdb.com/title/tt4216984/)
+44. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
 
-45. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+45. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-46. [Neighborhood Watch](https://www.imdb.com/title/tt1714918/)
+46. [The King of Kings](https://www.imdb.com/title/tt7967302/)
 
-47. [Jurassic World Rebirth](https://www.imdb.com/title/tt31036941/)
+47. [Cleaner](https://www.imdb.com/title/tt27812086/)
 
-48. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
+48. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-49. [Predator: Killer of Killers](https://www.imdb.com/title/tt36463894/)
+49. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-50. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+50. [Salvable](https://www.imdb.com/title/tt31249107/)
