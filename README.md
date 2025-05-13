@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-05-12
+**Top IMDb Movies as of:** 2025-05-13
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -28,98 +28,98 @@
 
 2. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-3. [Havoc](https://www.imdb.com/title/tt14123284/)
+3. [Nonnas](https://www.imdb.com/title/tt28309594/)
 
-4. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
+4. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-5. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+5. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
 
-6. [Exterritorial](https://www.imdb.com/title/tt30876483/)
+6. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-7. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
+7. [Exterritorial](https://www.imdb.com/title/tt30876483/)
 
-8. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+8. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-9. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+9. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-10. [Drop](https://www.imdb.com/title/tt32149847/)
+10. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-11. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
+11. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
 
-12. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+12. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-13. [Weapons](https://www.imdb.com/title/tt26581740/)
+13. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-14. [Warfare](https://www.imdb.com/title/tt31434639/)
+14. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-15. [Snow White](https://www.imdb.com/title/tt6208148/)
+15. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-16. [Companion](https://www.imdb.com/title/tt26584495/)
+16. [Drop](https://www.imdb.com/title/tt32149847/)
 
-17. [Raid 2](https://www.imdb.com/title/tt28089700/)
+17. [Together](https://www.imdb.com/title/tt31184028/)
 
-18. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+18. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-19. [Black Bag](https://www.imdb.com/title/tt30988739/)
+19. [Companion](https://www.imdb.com/title/tt26584495/)
 
-20. [Ash](https://www.imdb.com/title/tt17489650/)
+20. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-21. [The Amateur](https://www.imdb.com/title/tt0899043/)
+21. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
 
-22. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+22. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
 
-23. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+23. [Clown in a Cornfield](https://www.imdb.com/title/tt23060698/)
 
-24. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+24. [Raid 2](https://www.imdb.com/title/tt28089700/)
 
-25. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+25. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-26. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+26. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-27. [A Working Man](https://www.imdb.com/title/tt9150192/)
+27. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
 
-28. [Shinkansen daibakuha](https://www.imdb.com/title/tt33452974/)
+28. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-29. [iHostage](https://www.imdb.com/title/tt31181421/)
+29. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-30. [Neighborhood Watch](https://www.imdb.com/title/tt1714918/)
+30. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-31. [The Monkey](https://www.imdb.com/title/tt27714946/)
+31. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
 
-32. [Superman](https://www.imdb.com/title/tt5950044/)
+32. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
 
-33. [Locked](https://www.imdb.com/title/tt26671996/)
+33. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-34. [The Gorge](https://www.imdb.com/title/tt13654226/)
+34. [Balle perdue 3](https://www.imdb.com/title/tt29768333/)
 
-35. [Novocaine](https://www.imdb.com/title/tt29603959/)
+35. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-36. [The Life List](https://www.imdb.com/title/tt2172954/)
+36. [Summer of 69](https://www.imdb.com/title/tt32378300/)
 
-37. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+37. [Superman](https://www.imdb.com/title/tt5950044/)
 
-38. [Together](https://www.imdb.com/title/tt31184028/)
+38. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-39. [G20](https://www.imdb.com/title/tt23476986/)
+39. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-40. [Jewel Thief: The Heist Begins](https://www.imdb.com/title/tt27843798/)
+40. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-41. [Last Breath](https://www.imdb.com/title/tt14403504/)
+41. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-42. [The Electric State](https://www.imdb.com/title/tt7766378/)
+42. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-43. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+43. [Mala influencia](https://www.imdb.com/title/tt23558084/)
 
-44. [Den of Thieves: Pantera](https://www.imdb.com/title/tt8008948/)
+44. [Ash](https://www.imdb.com/title/tt17489650/)
 
-45. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+45. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-46. [The King of Kings](https://www.imdb.com/title/tt7967302/)
+46. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-47. [Cleaner](https://www.imdb.com/title/tt27812086/)
+47. [Tin Soldier](https://www.imdb.com/title/tt20258920/)
 
-48. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+48. [The Ballad of Wallis Island](https://www.imdb.com/title/tt27674982/)
 
-49. [Ballerina](https://www.imdb.com/title/tt7181546/)
+49. [The Diplomat](https://www.imdb.com/title/tt26229612/)
 
-50. [Salvable](https://www.imdb.com/title/tt31249107/)
+50. [Novocaine](https://www.imdb.com/title/tt29603959/)
