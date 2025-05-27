@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-05-26
+**Top IMDb Movies as of:** 2025-05-27
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+1. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-2. [Nonnas](https://www.imdb.com/title/tt28309594/)
+2. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-3. [Sinners](https://www.imdb.com/title/tt31193180/)
+3. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-4. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+4. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
 
-5. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+5. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-6. [Superman](https://www.imdb.com/title/tt5950044/)
+6. [Fear Street: Prom Queen](https://www.imdb.com/title/tt31433402/)
 
-7. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+7. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-8. [Hurry Up Tomorrow](https://www.imdb.com/title/tt26927452/)
+8. [Nonnas](https://www.imdb.com/title/tt28309594/)
 
-9. [Snow White](https://www.imdb.com/title/tt6208148/)
+9. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-10. [A Working Man](https://www.imdb.com/title/tt9150192/)
+10. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-11. [Warfare](https://www.imdb.com/title/tt31434639/)
+11. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-12. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
+12. [Superman](https://www.imdb.com/title/tt5950044/)
 
-13. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+13. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-14. [Eddington](https://www.imdb.com/title/tt31176520/)
+14. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-15. [Havoc](https://www.imdb.com/title/tt14123284/)
+15. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
 
-16. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
+16. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-17. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+17. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-18. [Novocaine](https://www.imdb.com/title/tt29603959/)
+18. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-19. [Black Bag](https://www.imdb.com/title/tt30988739/)
+19. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-20. [Ballerina](https://www.imdb.com/title/tt7181546/)
+20. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-21. [F1: The Movie](https://www.imdb.com/title/tt16311594/)
+21. [Die, My Love](https://www.imdb.com/title/tt9362736/)
 
 22. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-23. [Companion](https://www.imdb.com/title/tt26584495/)
+23. [Hurry Up Tomorrow](https://www.imdb.com/title/tt26927452/)
 
-24. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+24. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-25. [Exterritorial](https://www.imdb.com/title/tt30876483/)
+25. [The Legend of Ochi](https://www.imdb.com/title/tt8866456/)
 
-26. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+26. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-27. [Clown in a Cornfield](https://www.imdb.com/title/tt23060698/)
+27. [Companion](https://www.imdb.com/title/tt26584495/)
 
-28. [The Diplomat](https://www.imdb.com/title/tt26229612/)
+28. [Novocaine](https://www.imdb.com/title/tt29603959/)
 
-29. [Drop](https://www.imdb.com/title/tt32149847/)
+29. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-30. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+30. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-31. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+31. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-32. [Die, My Love](https://www.imdb.com/title/tt9362736/)
+32. [The Last Rodeo](https://www.imdb.com/title/tt30908405/)
 
-33. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+33. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-34. [Mala influencia](https://www.imdb.com/title/tt23558084/)
+34. [F1: The Movie](https://www.imdb.com/title/tt16311594/)
 
-35. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+35. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
 
-36. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+36. [Affeksjonsverdi](https://www.imdb.com/title/tt27714581/)
 
-37. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+37. [Drop](https://www.imdb.com/title/tt32149847/)
 
-38. [Summer of 69](https://www.imdb.com/title/tt32378300/)
+38. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-39. [Raid 2](https://www.imdb.com/title/tt28089700/)
+39. [Exterritorial](https://www.imdb.com/title/tt30876483/)
 
-40. [The Amateur](https://www.imdb.com/title/tt0899043/)
+40. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-41. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+41. [The Gorge](https://www.imdb.com/title/tt13654226/)
 
-42. [Heart Eyes](https://www.imdb.com/title/tt32558992/)
+42. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-43. [Tin Soldier](https://www.imdb.com/title/tt20258920/)
+43. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-44. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
+44. [Pillion](https://www.imdb.com/title/tt32321317/)
 
-45. [Together](https://www.imdb.com/title/tt31184028/)
+45. [Raid 2](https://www.imdb.com/title/tt28089700/)
 
-46. [The Gorge](https://www.imdb.com/title/tt13654226/)
+46. [O Agente Secreto](https://www.imdb.com/title/tt27847051/)
 
-47. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
+47. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
 
-48. [Love Hurts](https://www.imdb.com/title/tt30788842/)
+48. [Alpha](https://www.imdb.com/title/tt32275943/)
 
-49. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+49. [Yek tasadef sadeh](https://www.imdb.com/title/tt36491653/)
 
-50. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+50. [The Amateur](https://www.imdb.com/title/tt0899043/)
