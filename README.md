@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-06-03
+**Top IMDb Movies as of:** 2025-06-04
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -122,4 +122,4 @@
 
 49. [Elio](https://www.imdb.com/title/tt4900148/)
 
-50. [Die, My Love](https://www.imdb.com/title/tt9362736/)
+50. [Die My Love](https://www.imdb.com/title/tt9362736/)
