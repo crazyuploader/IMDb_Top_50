@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-06-09
+**Top IMDb Movies as of:** 2025-06-10
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+1. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-2. [Sinners](https://www.imdb.com/title/tt31193180/)
+2. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-3. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+3. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-4. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
+4. [Straw](https://www.imdb.com/title/tt32550101/)
 
-5. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+5. [Predator: Killer of Killers](https://www.imdb.com/title/tt36463894/)
 
-6. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+6. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-7. [Mountainhead](https://www.imdb.com/title/tt35396529/)
+7. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-8. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+8. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-9. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+9. [Mountainhead](https://www.imdb.com/title/tt35396529/)
 
 10. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-11. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+11. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-12. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+12. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-13. [Nonnas](https://www.imdb.com/title/tt28309594/)
+13. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-14. [Fear Street: Prom Queen](https://www.imdb.com/title/tt31433402/)
+14. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
 
-15. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+15. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
 
-16. [The Home](https://www.imdb.com/title/tt17023012/)
+16. [The Alto Knights](https://www.imdb.com/title/tt21815562/)
 
-17. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+17. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-18. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+18. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-19. [Ballerina](https://www.imdb.com/title/tt7181546/)
+19. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-20. [La viuda negra](https://www.imdb.com/title/tt33474172/)
+20. [Nonnas](https://www.imdb.com/title/tt28309594/)
 
-21. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+21. [La viuda negra](https://www.imdb.com/title/tt33474172/)
 
-22. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
+22. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
 
-23. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+23. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-24. [A Working Man](https://www.imdb.com/title/tt9150192/)
+24. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-25. [Warfare](https://www.imdb.com/title/tt31434639/)
+25. [Housefull 5](https://www.imdb.com/title/tt9104736/)
 
-26. [Snow White](https://www.imdb.com/title/tt6208148/)
+26. [K.O.](https://www.imdb.com/title/tt36240772/)
 
-27. [Havoc](https://www.imdb.com/title/tt14123284/)
+27. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
 
-28. [Superman](https://www.imdb.com/title/tt5950044/)
+28. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-29. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+29. [Hurry Up Tomorrow](https://www.imdb.com/title/tt26927452/)
 
-30. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+30. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-31. [Black Bag](https://www.imdb.com/title/tt30988739/)
+31. [Superman](https://www.imdb.com/title/tt5950044/)
 
-32. [Companion](https://www.imdb.com/title/tt26584495/)
+32. [F1: The Movie](https://www.imdb.com/title/tt16311594/)
 
-33. [Good Fortune](https://www.imdb.com/title/tt27543578/)
+33. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-34. [F1: The Movie](https://www.imdb.com/title/tt16311594/)
+34. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-35. [Novocaine](https://www.imdb.com/title/tt29603959/)
+35. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
 
-36. [Materialists](https://www.imdb.com/title/tt30253473/)
+36. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-37. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+37. [Bhool Chuk Maaf](https://www.imdb.com/title/tt32058735/)
 
-38. [Bhool Chuk Maaf](https://www.imdb.com/title/tt32058735/)
+38. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-39. [HIT: The 3rd Case](https://www.imdb.com/title/tt23804696/)
+39. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-40. [The Last Rodeo](https://www.imdb.com/title/tt30908405/)
+40. [Havoc](https://www.imdb.com/title/tt14123284/)
 
-41. [I Byeol-e Pil-yohan](https://www.imdb.com/title/tt28664733/)
+41. [Companion](https://www.imdb.com/title/tt26584495/)
 
-42. [Drop](https://www.imdb.com/title/tt32149847/)
+42. [Kiss of the Spider Woman](https://www.imdb.com/title/tt30400277/)
 
-43. [Another Simple Favor](https://www.imdb.com/title/tt20214908/)
+43. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-44. [The Gorge](https://www.imdb.com/title/tt13654226/)
+44. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-45. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
+45. [Jaat](https://www.imdb.com/title/tt32223398/)
 
-46. [The King of Kings](https://www.imdb.com/title/tt7967302/)
+46. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-47. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
+47. [Fear Street: Prom Queen](https://www.imdb.com/title/tt31433402/)
 
-48. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+48. [Novocaine](https://www.imdb.com/title/tt29603959/)
 
-49. [Elio](https://www.imdb.com/title/tt4900148/)
+49. [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700/)
 
-50. [Die My Love](https://www.imdb.com/title/tt9362736/)
+50. [The Ritual](https://www.imdb.com/title/tt32194932/)
