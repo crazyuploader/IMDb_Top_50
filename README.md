@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-07-14
+**Top IMDb Movies as of:** 2025-07-15
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+1. [Superman](https://www.imdb.com/title/tt5950044/)
 
-2. [F1](https://www.imdb.com/title/tt16311594/)
+2. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-3. [Sinners](https://www.imdb.com/title/tt31193180/)
+3. [F1](https://www.imdb.com/title/tt16311594/)
 
-4. [Heads of State](https://www.imdb.com/title/tt13357520/)
+4. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-5. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
+5. [Brick](https://www.imdb.com/title/tt31806049/)
 
-6. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+6. [Heads of State](https://www.imdb.com/title/tt13357520/)
 
-7. [Ballerina](https://www.imdb.com/title/tt7181546/)
+7. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-8. [The Running Man](https://www.imdb.com/title/tt14107334/)
+8. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-9. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+9. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-10. [Superman](https://www.imdb.com/title/tt5950044/)
+10. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-11. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+11. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
 
-12. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+12. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-13. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+13. [Zombies 4: Dawn of the Vampires](https://www.imdb.com/title/tt31241595/)
 
-14. [Metro... In Dino](https://www.imdb.com/title/tt24225606/)
+14. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-15. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+15. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-16. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+16. [Madea's Destination Wedding](https://www.imdb.com/title/tt33299083/)
 
-17. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
+17. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-18. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+18. [Sovereign](https://www.imdb.com/title/tt26843513/)
 
-19. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+19. [Bad Boa's](https://www.imdb.com/title/tt27675583/)
 
-20. [Deep Cover](https://www.imdb.com/title/tt31121295/)
+20. [Ziam](https://www.imdb.com/title/tt35669009/)
 
-21. [Ice Road: Vengeance](https://www.imdb.com/title/tt27621210/)
+21. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-22. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
+22. [Maalik](https://www.imdb.com/title/tt32832266/)
 
-23. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+23. [Drop](https://www.imdb.com/title/tt32149847/)
 
-24. [The Amateur](https://www.imdb.com/title/tt0899043/)
+24. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-25. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+25. [Opus](https://www.imdb.com/title/tt29929565/)
 
-26. [Elio](https://www.imdb.com/title/tt4900148/)
+26. [Metro... In Dino](https://www.imdb.com/title/tt24225606/)
 
-27. [Materialists](https://www.imdb.com/title/tt30253473/)
+27. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-28. [Warfare](https://www.imdb.com/title/tt31434639/)
+28. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-29. [Maa](https://www.imdb.com/title/tt30496762/)
+29. [Red Sonja](https://www.imdb.com/title/tt0800175/)
 
-30. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+30. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-31. [Dora and the Search for Sol Dorado](https://www.imdb.com/title/tt32621553/)
+31. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-32. [Snow White](https://www.imdb.com/title/tt6208148/)
+32. [Final Destination: Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-33. [Sitaare Zameen Par](https://www.imdb.com/title/tt29471573/)
+33. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-34. [Straw](https://www.imdb.com/title/tt32550101/)
+34. [Deep Cover](https://www.imdb.com/title/tt31121295/)
 
-35. [Echo Valley](https://www.imdb.com/title/tt27052633/)
+35. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-36. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+36. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-37. [The Ritual](https://www.imdb.com/title/tt32194932/)
+37. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-38. [Pretty Thing](https://www.imdb.com/title/tt29474633/)
+38. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-39. [Kannappa](https://www.imdb.com/title/tt5306972/)
+39. [The Running Man](https://www.imdb.com/title/tt14107334/)
 
-40. [Nonnas](https://www.imdb.com/title/tt28309594/)
+40. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-41. [Companion](https://www.imdb.com/title/tt26584495/)
+41. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-42. [Eddington](https://www.imdb.com/title/tt31176520/)
+42. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
 
-43. [Fountain of Youth](https://www.imdb.com/title/tt27075958/)
+43. [Aap Jaisa Koi](https://www.imdb.com/title/tt33888131/)
 
-44. [Captain America: Brave New World](https://www.imdb.com/title/tt14513804/)
+44. [Snow White](https://www.imdb.com/title/tt6208148/)
 
-45. [Black Bag](https://www.imdb.com/title/tt30988739/)
+45. [Elio](https://www.imdb.com/title/tt4900148/)
 
-46. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+46. [Everything's Going to Be Great](https://www.imdb.com/title/tt27560723/)
 
-47. [Predator: Killer of Killers](https://www.imdb.com/title/tt36463894/)
+47. [Aankhon Ki Gustaakhiyan](https://www.imdb.com/title/tt28812582/)
 
-48. [A Working Man](https://www.imdb.com/title/tt9150192/)
+48. [Together](https://www.imdb.com/title/tt31184028/)
 
-49. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+49. [Sitaare Zameen Par](https://www.imdb.com/title/tt29471573/)
 
-50. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+50. [Ice Road: Vengeance](https://www.imdb.com/title/tt27621210/)
