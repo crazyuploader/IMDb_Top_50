@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-08-03
+**Top IMDb Movies as of:** 2025-08-04
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -98,28 +98,28 @@
 
 37. [A Normal Woman](https://www.imdb.com/title/tt35668683/)
 
-38. [Unforgivable](https://www.imdb.com/title/tt33397771/)
+38. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
 
-39. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
+39. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-40. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+40. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-41. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+41. [Oh, Hi!](https://www.imdb.com/title/tt33292655/)
 
-42. [Oh, Hi!](https://www.imdb.com/title/tt33292655/)
+42. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-43. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+43. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-44. [Warfare](https://www.imdb.com/title/tt31434639/)
+44. [Osiris](https://www.imdb.com/title/tt31179712/)
 
-45. [Osiris](https://www.imdb.com/title/tt31179712/)
+45. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-46. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+46. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-47. [Black Bag](https://www.imdb.com/title/tt30988739/)
+47. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
 
-48. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
+48. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
 
-49. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+49. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-50. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+50. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
