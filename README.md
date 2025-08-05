@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-08-04
+**Top IMDb Movies as of:** 2025-08-05
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-2. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+2. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-3. [Superman](https://www.imdb.com/title/tt5950044/)
+3. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-4. [Saiyaara](https://www.imdb.com/title/tt28037987/)
+4. [My Oxford Year](https://www.imdb.com/title/tt4978342/)
 
-5. [Sinners](https://www.imdb.com/title/tt31193180/)
+5. [Superman](https://www.imdb.com/title/tt5950044/)
 
-6. [F1](https://www.imdb.com/title/tt16311594/)
+6. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
 
-7. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+7. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-8. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+8. [Together](https://www.imdb.com/title/tt31184028/)
 
-9. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+9. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-10. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+10. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-11. [The Amateur](https://www.imdb.com/title/tt0899043/)
+11. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-12. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+12. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-13. [Materialists](https://www.imdb.com/title/tt30253473/)
+13. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-14. [Eddington](https://www.imdb.com/title/tt31176520/)
+14. [F1](https://www.imdb.com/title/tt16311594/)
 
-15. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+15. [Saiyaara](https://www.imdb.com/title/tt28037987/)
 
-16. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+16. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-17. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+17. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-18. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+18. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-19. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+19. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-20. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
+20. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
 
-21. [Together](https://www.imdb.com/title/tt31184028/)
+21. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-22. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+22. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-23. [Brick](https://www.imdb.com/title/tt31806049/)
+23. [Son of Sardaar 2](https://www.imdb.com/title/tt29429860/)
 
-24. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+24. [Dhadak 2](https://www.imdb.com/title/tt13451410/)
 
-25. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+25. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-26. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+26. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-27. [Heads of State](https://www.imdb.com/title/tt13357520/)
+27. [Mahavatar Narsimha](https://www.imdb.com/title/tt34365591/)
 
-28. [Ballerina](https://www.imdb.com/title/tt7181546/)
+28. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-29. [Weapons](https://www.imdb.com/title/tt26581740/)
+29. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-30. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+30. [Heads of State](https://www.imdb.com/title/tt13357520/)
 
-31. [84 Jegopmiteo](https://www.imdb.com/title/tt32237537/)
+31. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-32. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
+32. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-33. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+33. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-34. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
+34. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-35. [Smurfs](https://www.imdb.com/title/tt18069420/)
+35. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
 
-36. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
+36. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-37. [A Normal Woman](https://www.imdb.com/title/tt35668683/)
+37. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-38. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
+38. [Brick](https://www.imdb.com/title/tt31806049/)
 
-39. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+39. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-40. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+40. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-41. [Oh, Hi!](https://www.imdb.com/title/tt33292655/)
+41. [Eternity](https://www.imdb.com/title/tt24950660/)
 
-42. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+42. [Ett ärligt liv](https://www.imdb.com/title/tt29383300/)
 
 43. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-44. [Osiris](https://www.imdb.com/title/tt31179712/)
+44. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-45. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+45. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
 
-46. [Black Bag](https://www.imdb.com/title/tt30988739/)
+46. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-47. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
+47. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
 
-48. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+48. [Osiris](https://www.imdb.com/title/tt31179712/)
 
-49. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+49. [Sitaare Zameen Par](https://www.imdb.com/title/tt29471573/)
 
-50. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
+50. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
