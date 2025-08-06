@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-08-05
+**Top IMDb Movies as of:** 2025-08-06
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -76,50 +76,50 @@
 
 26. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-27. [Mahavatar Narsimha](https://www.imdb.com/title/tt34365591/)
+27. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-28. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+28. [Until Dawn](https://www.imdb.com/title/tt30955489/)
 
-29. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+29. [Heads of State](https://www.imdb.com/title/tt13357520/)
 
-30. [Heads of State](https://www.imdb.com/title/tt13357520/)
+30. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-31. [Ballerina](https://www.imdb.com/title/tt7181546/)
+31. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-32. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+32. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-33. [Eddington](https://www.imdb.com/title/tt31176520/)
+33. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-34. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+34. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
 
-35. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
+35. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-36. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+36. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-37. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+37. [Brick](https://www.imdb.com/title/tt31806049/)
 
-38. [Brick](https://www.imdb.com/title/tt31806049/)
+38. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-39. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+39. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-40. [Black Bag](https://www.imdb.com/title/tt30988739/)
+40. [Eternity](https://www.imdb.com/title/tt24950660/)
 
-41. [Eternity](https://www.imdb.com/title/tt24950660/)
+41. [Ett ärligt liv](https://www.imdb.com/title/tt29383300/)
 
-42. [Ett ärligt liv](https://www.imdb.com/title/tt29383300/)
+42. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-43. [Warfare](https://www.imdb.com/title/tt31434639/)
+43. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-44. [Mickey 17](https://www.imdb.com/title/tt12299608/)
+44. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
 
-45. [M3GAN 2.0](https://www.imdb.com/title/tt26342662/)
+45. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
 
-46. [A Minecraft Movie](https://www.imdb.com/title/tt3566834/)
+46. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
 
-47. [The Old Guard 2](https://www.imdb.com/title/tt14961624/)
+47. [Osiris](https://www.imdb.com/title/tt31179712/)
 
-48. [Osiris](https://www.imdb.com/title/tt31179712/)
+48. [Sitaare Zameen Par](https://www.imdb.com/title/tt29471573/)
 
-49. [Sitaare Zameen Par](https://www.imdb.com/title/tt29471573/)
+49. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-50. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
+50. [Companion](https://www.imdb.com/title/tt26584495/)
