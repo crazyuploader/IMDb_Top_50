@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-08-18
+**Top IMDb Movies as of:** 2025-08-19
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-2. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+2. [Superman](https://www.imdb.com/title/tt5950044/)
 
-3. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+3. [Night Always Comes](https://www.imdb.com/title/tt31567422/)
 
-4. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
+4. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-5. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+5. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-6. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+6. [Nobody 2](https://www.imdb.com/title/tt28996126/)
 
-7. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+7. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-8. [Superman](https://www.imdb.com/title/tt5950044/)
+8. [Together](https://www.imdb.com/title/tt31184028/)
 
-9. [Together](https://www.imdb.com/title/tt31184028/)
+9. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-10. [The Pickup](https://www.imdb.com/title/tt30445556/)
+10. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-11. [My Oxford Year](https://www.imdb.com/title/tt4978342/)
+11. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-12. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+12. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-13. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+13. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
 
 14. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-15. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+15. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-16. [F1](https://www.imdb.com/title/tt16311594/)
+16. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-17. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
+17. [The Pickup](https://www.imdb.com/title/tt30445556/)
 
-18. [Materialists](https://www.imdb.com/title/tt30253473/)
+18. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-19. [The Amateur](https://www.imdb.com/title/tt0899043/)
+19. [F1](https://www.imdb.com/title/tt16311594/)
 
-20. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+20. [War 2](https://www.imdb.com/title/tt27425164/)
 
-21. [Saiyaara](https://www.imdb.com/title/tt28037987/)
+21. [My Oxford Year](https://www.imdb.com/title/tt4978342/)
 
-22. [The Monkey](https://www.imdb.com/title/tt27714946/)
+22. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
 
-23. [Good Boy](https://www.imdb.com/title/tt35521922/)
+23. [Tehran](https://www.imdb.com/title/tt21818782/)
 
-24. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+24. [Descendent](https://www.imdb.com/title/tt35521703/)
 
-25. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
+25. [Coolie](https://www.imdb.com/title/tt27441481/)
 
-26. [Him](https://www.imdb.com/title/tt20990442/)
+26. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-27. [Sorry, Baby](https://www.imdb.com/title/tt32843349/)
+27. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-28. [Eddington](https://www.imdb.com/title/tt31176520/)
+28. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-29. [Ballerina](https://www.imdb.com/title/tt7181546/)
+29. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-30. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
+30. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-31. [Stolen: Heist of the Century](https://www.imdb.com/title/tt37543886/)
+31. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-32. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+32. [Fixed](https://www.imdb.com/title/tt8785038/)
 
-33. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
+33. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
 
-34. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+34. [Marty Supreme](https://www.imdb.com/title/tt32916440/)
 
-35. [Heads of State](https://www.imdb.com/title/tt13357520/)
+35. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-36. [Regretting You](https://www.imdb.com/title/tt33088452/)
+36. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
 
-37. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
+37. [Saiyaara](https://www.imdb.com/title/tt28037987/)
 
-38. [Shaman](https://www.imdb.com/title/tt28554021/)
+38. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-39. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
+39. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
 
-40. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+40. [Death of a Unicorn](https://www.imdb.com/title/tt28443655/)
 
-41. [Until Dawn](https://www.imdb.com/title/tt30955489/)
+41. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
 
-42. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+42. [Companion](https://www.imdb.com/title/tt26584495/)
 
-43. [If I Had Legs I'd Kick You](https://www.imdb.com/title/tt18382850/)
+43. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
 
 44. [Mickey 17](https://www.imdb.com/title/tt12299608/)
 
-45. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+45. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-46. [Companion](https://www.imdb.com/title/tt26584495/)
+46. [Heads of State](https://www.imdb.com/title/tt13357520/)
 
-47. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+47. [Steve](https://www.imdb.com/title/tt32985279/)
 
-48. [The Accountant 2](https://www.imdb.com/title/tt7068946/)
+48. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
-49. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
+49. [Dangerous Animals](https://www.imdb.com/title/tt32299316/)
 
-50. [The Occupant](https://www.imdb.com/title/tt7230422/)
+50. [Warfare](https://www.imdb.com/title/tt31434639/)
