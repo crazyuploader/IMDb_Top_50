@@ -1,4 +1,13 @@
 {
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "extends": ["config:recommended"]
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:recommended"
+    ],
+    "automerge": true,
+    "rebaseWhen": "conflicted",
+    "recreateWhen": "auto",
+    "lockFileMaintenance": {
+        "enabled": true,
+        "automerge": true
+    }
 }
