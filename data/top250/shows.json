@@ -139,15 +139,15 @@
   },
   {
     "Rank": "24",
-    "Show Name": "Batman: The Animated Series",
-    "IMDb Rating": "9",
-    "Show Link": "https://www.imdb.com/title/tt0103359/"
-  },
-  {
-    "Rank": "25",
     "Show Name": "Dexter: Resurrection",
     "IMDb Rating": "9.2",
     "Show Link": "https://www.imdb.com/title/tt33043892/"
+  },
+  {
+    "Rank": "25",
+    "Show Name": "Batman: The Animated Series",
+    "IMDb Rating": "9",
+    "Show Link": "https://www.imdb.com/title/tt0103359/"
   },
   {
     "Rank": "26",
@@ -433,27 +433,27 @@
   },
   {
     "Rank": "73",
-    "Show Name": "Freaks and Geeks",
-    "IMDb Rating": "8.8",
-    "Show Link": "https://www.imdb.com/title/tt0193676/"
-  },
-  {
-    "Rank": "74",
     "Show Name": "The Chosen",
     "IMDb Rating": "9.1",
     "Show Link": "https://www.imdb.com/title/tt5622316/"
   },
   {
-    "Rank": "75",
-    "Show Name": "Dragon Ball Z: Doragon bôru zetto",
+    "Rank": "74",
+    "Show Name": "Freaks and Geeks",
     "IMDb Rating": "8.8",
-    "Show Link": "https://www.imdb.com/title/tt0121220/"
+    "Show Link": "https://www.imdb.com/title/tt0193676/"
   },
   {
-    "Rank": "76",
+    "Rank": "75",
     "Show Name": "Pride and Prejudice",
     "IMDb Rating": "8.8",
     "Show Link": "https://www.imdb.com/title/tt0112130/"
+  },
+  {
+    "Rank": "76",
+    "Show Name": "Dragon Ball Z: Doragon bôru zetto",
+    "IMDb Rating": "8.8",
+    "Show Link": "https://www.imdb.com/title/tt0121220/"
   },
   {
     "Rank": "77",
@@ -625,21 +625,21 @@
   },
   {
     "Rank": "105",
+    "Show Name": "Monster",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt0434706/"
+  },
+  {
+    "Rank": "106",
     "Show Name": "Severance",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt11280740/"
   },
   {
-    "Rank": "106",
+    "Rank": "107",
     "Show Name": "Blue Eye Samurai",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt13309742/"
-  },
-  {
-    "Rank": "107",
-    "Show Name": "Monster",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt0434706/"
   },
   {
     "Rank": "108",
@@ -703,15 +703,15 @@
   },
   {
     "Rank": "118",
-    "Show Name": "Friday Night Lights",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt0758745/"
-  },
-  {
-    "Rank": "119",
     "Show Name": "Line of Duty",
     "IMDb Rating": "8.7",
     "Show Link": "https://www.imdb.com/title/tt2303687/"
+  },
+  {
+    "Rank": "119",
+    "Show Name": "Friday Night Lights",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt0758745/"
   },
   {
     "Rank": "120",
@@ -805,15 +805,15 @@
   },
   {
     "Rank": "135",
-    "Show Name": "The X Files",
-    "IMDb Rating": "8.6",
-    "Show Link": "https://www.imdb.com/title/tt0106179/"
-  },
-  {
-    "Rank": "136",
     "Show Name": "Dexter",
     "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt0773262/"
+  },
+  {
+    "Rank": "136",
+    "Show Name": "The X Files",
+    "IMDb Rating": "8.6",
+    "Show Link": "https://www.imdb.com/title/tt0106179/"
   },
   {
     "Rank": "137",
@@ -883,15 +883,15 @@
   },
   {
     "Rank": "148",
-    "Show Name": "Primal",
-    "IMDb Rating": "8.6",
-    "Show Link": "https://www.imdb.com/title/tt10332508/"
-  },
-  {
-    "Rank": "149",
     "Show Name": "Poirot",
     "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt0094525/"
+  },
+  {
+    "Rank": "149",
+    "Show Name": "Primal",
+    "IMDb Rating": "8.6",
+    "Show Link": "https://www.imdb.com/title/tt10332508/"
   },
   {
     "Rank": "150",
@@ -955,15 +955,15 @@
   },
   {
     "Rank": "160",
-    "Show Name": "El Chavo del Ocho",
-    "IMDb Rating": "8.7",
-    "Show Link": "https://www.imdb.com/title/tt0229889/"
-  },
-  {
-    "Rank": "161",
     "Show Name": "The Jinx: The Life and Deaths of Robert Durst",
     "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt4299972/"
+  },
+  {
+    "Rank": "161",
+    "Show Name": "El Chavo del Ocho",
+    "IMDb Rating": "8.7",
+    "Show Link": "https://www.imdb.com/title/tt0229889/"
   },
   {
     "Rank": "162",
@@ -1219,15 +1219,15 @@
   },
   {
     "Rank": "204",
-    "Show Name": "The Last of Us",
-    "IMDb Rating": "8.5",
-    "Show Link": "https://www.imdb.com/title/tt3581920/"
-  },
-  {
-    "Rank": "205",
     "Show Name": "Detectorists",
     "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt4082744/"
+  },
+  {
+    "Rank": "205",
+    "Show Name": "The Last of Us",
+    "IMDb Rating": "8.5",
+    "Show Link": "https://www.imdb.com/title/tt3581920/"
   },
   {
     "Rank": "206",
@@ -1279,15 +1279,15 @@
   },
   {
     "Rank": "214",
-    "Show Name": "Spartacus",
-    "IMDb Rating": "8.5",
-    "Show Link": "https://www.imdb.com/title/tt1442449/"
-  },
-  {
-    "Rank": "215",
     "Show Name": "Spaced",
     "IMDb Rating": "8.5",
     "Show Link": "https://www.imdb.com/title/tt0187664/"
+  },
+  {
+    "Rank": "215",
+    "Show Name": "Spartacus",
+    "IMDb Rating": "8.5",
+    "Show Link": "https://www.imdb.com/title/tt1442449/"
   },
   {
     "Rank": "216",
@@ -1351,21 +1351,21 @@
   },
   {
     "Rank": "226",
-    "Show Name": "Takopii no Genzai",
-    "IMDb Rating": "8.9",
-    "Show Link": "https://www.imdb.com/title/tt36988358/"
-  },
-  {
-    "Rank": "227",
     "Show Name": "Jujutsu Kaisen",
     "IMDb Rating": "8.5",
     "Show Link": "https://www.imdb.com/title/tt12343534/"
   },
   {
-    "Rank": "228",
+    "Rank": "227",
     "Show Name": "The Eric Andre Show",
     "IMDb Rating": "8.5",
     "Show Link": "https://www.imdb.com/title/tt2244495/"
+  },
+  {
+    "Rank": "228",
+    "Show Name": "Takopii no Genzai",
+    "IMDb Rating": "8.9",
+    "Show Link": "https://www.imdb.com/title/tt36988358/"
   },
   {
     "Rank": "229",
@@ -1405,15 +1405,15 @@
   },
   {
     "Rank": "235",
-    "Show Name": "All Creatures Great &amp; Small",
-    "IMDb Rating": "8.6",
-    "Show Link": "https://www.imdb.com/title/tt10590066/"
-  },
-  {
-    "Rank": "236",
     "Show Name": "Brass Eye",
     "IMDb Rating": "8.6",
     "Show Link": "https://www.imdb.com/title/tt0118273/"
+  },
+  {
+    "Rank": "236",
+    "Show Name": "All Creatures Great &amp; Small",
+    "IMDb Rating": "8.6",
+    "Show Link": "https://www.imdb.com/title/tt10590066/"
   },
   {
     "Rank": "237",
