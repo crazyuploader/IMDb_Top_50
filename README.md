@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-09-01
+**Top IMDb Movies as of:** 2025-09-02
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Weapons](https://www.imdb.com/title/tt26581740/)
+1. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
 
-2. [Superman](https://www.imdb.com/title/tt5950044/)
+2. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-3. [F1](https://www.imdb.com/title/tt16311594/)
+3. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-4. [Eenie Meanie](https://www.imdb.com/title/tt15514498/)
+4. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
-5. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+5. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-6. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+6. [Superman](https://www.imdb.com/title/tt5950044/)
 
-7. [Night Always Comes](https://www.imdb.com/title/tt31567422/)
+7. [F1](https://www.imdb.com/title/tt16311594/)
 
-8. [Fall for Me](https://www.imdb.com/title/tt32543884/)
+8. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-9. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
+9. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-10. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+10. [Together](https://www.imdb.com/title/tt31184028/)
 
-11. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+11. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-12. [The Map That Leads to You](https://www.imdb.com/title/tt33549478/)
+12. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-13. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+13. [Param Sundari](https://www.imdb.com/title/tt33996113/)
 
-14. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+14. [Eenie Meanie](https://www.imdb.com/title/tt15514498/)
 
-15. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+15. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-16. [Sinners](https://www.imdb.com/title/tt31193180/)
+16. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-17. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+17. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-18. [Eddington](https://www.imdb.com/title/tt31176520/)
+18. [Unknown Number: The High School Catfish](https://www.imdb.com/title/tt37674426/)
 
-19. [Together](https://www.imdb.com/title/tt31184028/)
+19. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-20. [Materialists](https://www.imdb.com/title/tt30253473/)
+20. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-21. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+21. [Red Sonja](https://www.imdb.com/title/tt0800175/)
 
-22. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
+22. [Fall for Me](https://www.imdb.com/title/tt32543884/)
 
-23. [Anemone](https://www.imdb.com/title/tt33549447/)
+23. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-24. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
+24. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-25. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+25. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
 
-26. [War 2](https://www.imdb.com/title/tt27425164/)
+26. [Nobody 2](https://www.imdb.com/title/tt28996126/)
 
-27. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+27. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-28. [The Roses](https://www.imdb.com/title/tt31973693/)
+28. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-29. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
+29. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-30. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
+30. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
 
-31. [Primitive War](https://www.imdb.com/title/tt18312380/)
+31. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-32. [Coolie](https://www.imdb.com/title/tt27441481/)
+32. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-33. [The Monkey](https://www.imdb.com/title/tt27714946/)
+33. [The Map That Leads to You](https://www.imdb.com/title/tt33549478/)
 
-34. [My Oxford Year](https://www.imdb.com/title/tt4978342/)
+34. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-35. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+35. [She Rides Shotgun](https://www.imdb.com/title/tt27986457/)
 
-36. [Hallow Road](https://www.imdb.com/title/tt19403516/)
+36. [Night Always Comes](https://www.imdb.com/title/tt31567422/)
 
-37. [The Amateur](https://www.imdb.com/title/tt0899043/)
+37. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-38. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+38. [Tehran](https://www.imdb.com/title/tt21818782/)
 
-39. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+39. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-40. [Ballerina](https://www.imdb.com/title/tt7181546/)
+40. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-41. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
+41. [Hamnet](https://www.imdb.com/title/tt14905854/)
 
-42. [The Pickup](https://www.imdb.com/title/tt30445556/)
+42. [After the Hunt](https://www.imdb.com/title/tt32159989/)
 
-43. [Maa](https://www.imdb.com/title/tt30496762/)
+43. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
 
-44. [Good Boy](https://www.imdb.com/title/tt35521922/)
+44. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-45. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+45. [Splitsville](https://www.imdb.com/title/tt33247023/)
 
-46. [Elio](https://www.imdb.com/title/tt4900148/)
+46. [The Amateur](https://www.imdb.com/title/tt0899043/)
 
-47. [Nezha: Mo tong nao hai](https://www.imdb.com/title/tt34956443/)
+47. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
 
-48. [Metruk Adam](https://www.imdb.com/title/tt34691776/)
+48. [War 2](https://www.imdb.com/title/tt27425164/)
 
-49. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+49. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
 
-50. [Anniversary](https://www.imdb.com/title/tt12583926/)
+50. [Metro... In Dino](https://www.imdb.com/title/tt24225606/)
