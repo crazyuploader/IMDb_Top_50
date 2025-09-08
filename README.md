@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
+1. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-2. [Weapons](https://www.imdb.com/title/tt26581740/)
+2. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
 
-3. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+3. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
 
-4. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+4. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-5. [Bugonia](https://www.imdb.com/title/tt12300742/)
+5. [Unknown Number: The High School Catfish](https://www.imdb.com/title/tt37674426/)
 
-6. [Superman](https://www.imdb.com/title/tt5950044/)
+6. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-7. [F1](https://www.imdb.com/title/tt16311594/)
+7. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
-8. [The Roses](https://www.imdb.com/title/tt31973693/)
+8. [Nobody 2](https://www.imdb.com/title/tt28996126/)
 
-9. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+9. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
 
-10. [Together](https://www.imdb.com/title/tt31184028/)
+10. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-11. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+11. [Superman](https://www.imdb.com/title/tt5950044/)
 
-12. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+12. [F1](https://www.imdb.com/title/tt16311594/)
 
-13. [Param Sundari](https://www.imdb.com/title/tt33996113/)
+13. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-14. [Eenie Meanie](https://www.imdb.com/title/tt15514498/)
+14. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-15. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+15. [Die My Love](https://www.imdb.com/title/tt9362736/)
 
-16. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+16. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
 
-17. [Sinners](https://www.imdb.com/title/tt31193180/)
+17. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-18. [Unknown Number: The High School Catfish](https://www.imdb.com/title/tt37674426/)
+18. [Together](https://www.imdb.com/title/tt31184028/)
 
-19. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+19. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-20. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+20. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-21. [Red Sonja](https://www.imdb.com/title/tt0800175/)
+21. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-22. [Fall for Me](https://www.imdb.com/title/tt32543884/)
+22. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-23. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
+23. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-24. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+24. [Ice Road: Vengeance](https://www.imdb.com/title/tt27621210/)
 
-25. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
+25. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
 
-26. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+26. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-27. [Materialists](https://www.imdb.com/title/tt30253473/)
+27. [A Working Man](https://www.imdb.com/title/tt9150192/)
 
-28. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+28. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-29. [Eddington](https://www.imdb.com/title/tt31176520/)
+29. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
 
-30. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
+30. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-31. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+31. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-32. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+32. [Happy Gilmore 2](https://www.imdb.com/title/tt31868189/)
 
-33. [The Map That Leads to You](https://www.imdb.com/title/tt33549478/)
+33. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-34. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+34. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-35. [She Rides Shotgun](https://www.imdb.com/title/tt27986457/)
+35. [Inspector Zende](https://www.imdb.com/title/tt35076553/)
 
-36. [Night Always Comes](https://www.imdb.com/title/tt31567422/)
+36. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-37. [Ballerina](https://www.imdb.com/title/tt7181546/)
+37. [Black Bag](https://www.imdb.com/title/tt30988739/)
 
-38. [Tehran](https://www.imdb.com/title/tt21818782/)
+38. [Splitsville](https://www.imdb.com/title/tt33247023/)
 
-39. [The Monkey](https://www.imdb.com/title/tt27714946/)
+39. [Father Mother Sister Brother](https://www.imdb.com/title/tt31189315/)
 
-40. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+40. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
 
-41. [Hamnet](https://www.imdb.com/title/tt14905854/)
+41. [Sawt al-Hind Rajab](https://www.imdb.com/title/tt36943034/)
 
-42. [After the Hunt](https://www.imdb.com/title/tt32159989/)
+42. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-43. [War of the Worlds](https://www.imdb.com/title/tt13186306/)
+43. [Him](https://www.imdb.com/title/tt20990442/)
 
-44. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+44. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-45. [Splitsville](https://www.imdb.com/title/tt33247023/)
+45. [Fall for Me](https://www.imdb.com/title/tt32543884/)
 
-46. [The Amateur](https://www.imdb.com/title/tt0899043/)
+46. [The Bad Guys 2](https://www.imdb.com/title/tt30017619/)
 
-47. [Final Destination Bloodlines](https://www.imdb.com/title/tt9619824/)
+47. [Param Sundari](https://www.imdb.com/title/tt33996113/)
 
-48. [War 2](https://www.imdb.com/title/tt27425164/)
+48. [Baaghi 4](https://www.imdb.com/title/tt6203702/)
 
-49. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
+49. [The Monkey](https://www.imdb.com/title/tt27714946/)
 
-50. [Metro... In Dino](https://www.imdb.com/title/tt24225606/)
+50. [Lokah Chapter 1: Chandra](https://www.imdb.com/title/tt33372494/)
