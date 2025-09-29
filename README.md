@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Superman](https://www.imdb.com/title/tt5950044/)
+1. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-2. [Weapons](https://www.imdb.com/title/tt26581740/)
+2. [Superman](https://www.imdb.com/title/tt5950044/)
 
-3. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+3. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-4. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+4. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-5. [Him](https://www.imdb.com/title/tt20990442/)
+5. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
 6. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
 
-7. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+7. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-8. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+8. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
 
-9. [Anaconda](https://www.imdb.com/title/tt33244668/)
+9. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-10. [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700/)
+10. [Him](https://www.imdb.com/title/tt20990442/)
 
-11. [The Wrong Paris](https://www.imdb.com/title/tt33039440/)
+11. [Samagwi](https://www.imdb.com/title/tt33312131/)
 
 12. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
 
-13. [Swiped](https://www.imdb.com/title/tt31909270/)
+13. [Primitive War](https://www.imdb.com/title/tt18312380/)
 
-14. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+14. [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700/)
 
-15. [The Housemaid](https://www.imdb.com/title/tt27543632/)
+15. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-16. [Downton Abbey: The Grand Finale](https://www.imdb.com/title/tt31888477/)
+16. [The Man in My Basement](https://www.imdb.com/title/tt12619462/)
 
 17. [F1](https://www.imdb.com/title/tt16311594/)
 
-18. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+18. [The Wrong Paris](https://www.imdb.com/title/tt33039440/)
 
-19. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
+19. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-20. [Saiyaara](https://www.imdb.com/title/tt28037987/)
+20. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-21. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
+21. [Ruth & Boaz](https://www.imdb.com/title/tt32306048/)
 
-22. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+22. [Afterburn](https://www.imdb.com/title/tt1210027/)
 
-23. [Sinners](https://www.imdb.com/title/tt31193180/)
+23. [Code 3](https://www.imdb.com/title/tt26394837/)
 
-24. [Elio](https://www.imdb.com/title/tt4900148/)
+24. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
 
-25. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+25. [Ballerina](https://www.imdb.com/title/tt7181546/)
 
-26. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+26. [The Strangers: Chapter 2](https://www.imdb.com/title/tt28671344/)
 
-27. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
+27. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-28. [Ice Road: Vengeance](https://www.imdb.com/title/tt27621210/)
+28. [Swiped](https://www.imdb.com/title/tt31909270/)
 
-29. [Prisoner of War](https://www.imdb.com/title/tt33057137/)
+29. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-30. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
+30. [French Lover](https://www.imdb.com/title/tt32360696/)
 
-31. [Warfare](https://www.imdb.com/title/tt31434639/)
+31. [Karate Kid: Legends](https://www.imdb.com/title/tt1674782/)
 
-32. [The Roses](https://www.imdb.com/title/tt31973693/)
+32. [Thunderbolts\*](https://www.imdb.com/title/tt20969586/)
 
-33. [In Whose Name?](https://www.imdb.com/title/tt34385058/)
+33. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-34. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+34. [Jolly LLB 3](https://www.imdb.com/title/tt27996020/)
 
-35. [Honey Don't!](https://www.imdb.com/title/tt30645201/)
+35. [Gabby's Dollhouse: The Movie](https://www.imdb.com/title/tt32214143/)
 
-36. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+36. [Highest 2 Lowest](https://www.imdb.com/title/tt31194612/)
 
-37. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+37. [Downton Abbey: The Grand Finale](https://www.imdb.com/title/tt31888477/)
 
-38. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+38. [Elio](https://www.imdb.com/title/tt4900148/)
 
-39. [Together](https://www.imdb.com/title/tt31184028/)
+39. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
 
-40. [Jolly LLB 3](https://www.imdb.com/title/tt27996020/)
+40. [Splitsville](https://www.imdb.com/title/tt33247023/)
 
-41. [Materialists](https://www.imdb.com/title/tt30253473/)
+41. [Saiyaara](https://www.imdb.com/title/tt28037987/)
 
-42. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+42. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
 
-43. [Ballerina](https://www.imdb.com/title/tt7181546/)
+43. [Nobody 2](https://www.imdb.com/title/tt28996126/)
 
-44. [Den stygge stesøsteren](https://www.imdb.com/title/tt29344903/)
+44. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-45. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
+45. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-46. [She Said Maybe](https://www.imdb.com/title/tt36754289/)
+46. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-47. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+47. [Warfare](https://www.imdb.com/title/tt31434639/)
 
-48. [Unknown Number: The High School Catfish](https://www.imdb.com/title/tt37674426/)
+48. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-49. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
+49. [Together](https://www.imdb.com/title/tt31184028/)
 
-50. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+50. [Lilo & Stitch](https://www.imdb.com/title/tt11655566/)
