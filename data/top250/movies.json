@@ -643,15 +643,15 @@
   },
   {
     "Rank": "108",
-    "Movie Name": "Citizen Kane",
-    "IMDb Rating": "8.2",
-    "Movie Link": "https://www.imdb.com/title/tt0033467/"
-  },
-  {
-    "Rank": "109",
     "Movie Name": "Full Metal Jacket",
     "IMDb Rating": "8.2",
     "Movie Link": "https://www.imdb.com/title/tt0093058/"
+  },
+  {
+    "Rank": "109",
+    "Movie Name": "Citizen Kane",
+    "IMDb Rating": "8.2",
+    "Movie Link": "https://www.imdb.com/title/tt0033467/"
   },
   {
     "Rank": "110",
@@ -703,21 +703,21 @@
   },
   {
     "Rank": "118",
-    "Movie Name": "One Battle After Another",
-    "IMDb Rating": "8.3",
-    "Movie Link": "https://www.imdb.com/title/tt30144839/"
-  },
-  {
-    "Rank": "119",
     "Movie Name": "A Clockwork Orange",
     "IMDb Rating": "8.2",
     "Movie Link": "https://www.imdb.com/title/tt0066921/"
   },
   {
-    "Rank": "120",
+    "Rank": "119",
     "Movie Name": "Metropolis",
     "IMDb Rating": "8.3",
     "Movie Link": "https://www.imdb.com/title/tt0017136/"
+  },
+  {
+    "Rank": "120",
+    "Movie Name": "One Battle After Another",
+    "IMDb Rating": "8.3",
+    "Movie Link": "https://www.imdb.com/title/tt30144839/"
   },
   {
     "Rank": "121",
@@ -1369,15 +1369,15 @@
   },
   {
     "Rank": "229",
-    "Movie Name": "Platoon",
-    "IMDb Rating": "8.1",
-    "Movie Link": "https://www.imdb.com/title/tt0091763/"
-  },
-  {
-    "Rank": "230",
     "Movie Name": "The Best Years of Our Lives",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0036868/"
+  },
+  {
+    "Rank": "230",
+    "Movie Name": "Platoon",
+    "IMDb Rating": "8.1",
+    "Movie Link": "https://www.imdb.com/title/tt0091763/"
   },
   {
     "Rank": "231",
