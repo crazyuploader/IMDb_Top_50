@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-10-20
+**Top IMDb Movies as of:** 2025-10-21
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -28,98 +28,98 @@
 
 2. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-3. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+3. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
 
-4. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
+4. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
 
-5. [Play Dirty](https://www.imdb.com/title/tt18392014/)
+5. [The Perfect Neighbor](https://www.imdb.com/title/tt34962891/)
 
 6. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-7. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+7. [Roofman](https://www.imdb.com/title/tt4627382/)
 
-8. [Kantara: A Legend - Chapter 1](https://www.imdb.com/title/tt26439764/)
+8. [The Twits](https://www.imdb.com/title/tt0498396/)
 
-9. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
+9. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
 
-10. [Vicious](https://www.imdb.com/title/tt31511689/)
+10. [Good Fortune](https://www.imdb.com/title/tt27543578/)
 
-11. [Superman](https://www.imdb.com/title/tt5950044/)
+11. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
 
-12. [Steve](https://www.imdb.com/title/tt32985279/)
+12. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-13. [Roofman](https://www.imdb.com/title/tt4627382/)
+13. [After the Hunt](https://www.imdb.com/title/tt32159989/)
 
-14. [Him](https://www.imdb.com/title/tt20990442/)
+14. [Superman](https://www.imdb.com/title/tt5950044/)
 
-15. [Good Boy](https://www.imdb.com/title/tt35521922/)
+15. [Play Dirty](https://www.imdb.com/title/tt18392014/)
 
-16. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+16. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-17. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+17. [Culpa nuestra](https://www.imdb.com/title/tt33311244/)
 
-18. [Caramelo](https://www.imdb.com/title/tt32549601/)
+18. [Kantara: A Legend - Chapter 1](https://www.imdb.com/title/tt26439764/)
 
-19. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
+19. [Vicious](https://www.imdb.com/title/tt31511689/)
 
-20. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+20. [Springsteen: Deliver Me from Nowhere](https://www.imdb.com/title/tt31923069/)
 
 21. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-22. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+22. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-23. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+23. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
 24. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-25. [Maintenance Required](https://www.imdb.com/title/tt33335602/)
+25. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-26. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
+26. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
 
-27. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
+27. [How to Train Your Dragon](https://www.imdb.com/title/tt26743210/)
 
-28. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+28. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
 
-29. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
+29. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-30. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+30. [The Astronaut](https://www.imdb.com/title/tt13964560/)
 
-31. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
+31. [Caramelo](https://www.imdb.com/title/tt32549601/)
 
-32. [F1](https://www.imdb.com/title/tt16311594/)
+32. [Good Boy](https://www.imdb.com/title/tt35521922/)
 
-33. [Hamnet](https://www.imdb.com/title/tt14905854/)
+33. [Un fantasma en la batalla](https://www.imdb.com/title/tt32129665/)
 
-34. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
+34. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-35. [John Candy: I Like Me](https://www.imdb.com/title/tt26683420/)
+35. [A Big Bold Beautiful Journey](https://www.imdb.com/title/tt13650700/)
 
-36. [After the Hunt](https://www.imdb.com/title/tt32159989/)
+36. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-37. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+37. [F1](https://www.imdb.com/title/tt16311594/)
 
-38. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+38. [28 Years Later](https://www.imdb.com/title/tt10548174/)
 
-39. [War 2](https://www.imdb.com/title/tt27425164/)
+39. [Steve](https://www.imdb.com/title/tt32985279/)
 
-40. [Ballerina](https://www.imdb.com/title/tt7181546/)
+40. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
 
-41. [Playdate](https://www.imdb.com/title/tt31425731/)
+41. [Regretting You](https://www.imdb.com/title/tt33088452/)
 
-42. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+42. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-43. [Kiss of the Spider Woman](https://www.imdb.com/title/tt30400277/)
+43. [The Strangers: Chapter 2](https://www.imdb.com/title/tt28671344/)
 
-44. [Bugonia](https://www.imdb.com/title/tt12300742/)
+44. [Gut Nuiuseu](https://www.imdb.com/title/tt33550069/)
 
-45. [Beast of War](https://www.imdb.com/title/tt29468874/)
+45. [Him](https://www.imdb.com/title/tt20990442/)
 
-46. [Eojjeolsuga eobsda](https://www.imdb.com/title/tt1527793/)
+46. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
 
-47. [V/H/S/Halloween](https://www.imdb.com/title/tt37676033/)
+47. [The Thursday Murder Club](https://www.imdb.com/title/tt12001534/)
 
-48. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+48. [Primate](https://www.imdb.com/title/tt33028778/)
 
-49. [London Calling](https://www.imdb.com/title/tt30425872/)
+49. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-50. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+50. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
