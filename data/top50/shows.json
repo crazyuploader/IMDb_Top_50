@@ -2,13 +2,13 @@
   {
     "Rank": "1",
     "Show Name": "IT: Welcome to Derry",
-    "IMDb Rating": "7.9",
+    "IMDb Rating": "7.8",
     "Link": "https://www.imdb.com/title/tt19244304/"
   },
   {
     "Rank": "2",
     "Show Name": "Down Cemetery Road",
-    "IMDb Rating": "7.1",
+    "IMDb Rating": "7.2",
     "Link": "https://www.imdb.com/title/tt32132630/"
   },
   {
@@ -80,7 +80,7 @@
   {
     "Rank": "14",
     "Show Name": "Sheriff Country",
-    "IMDb Rating": "6.2",
+    "IMDb Rating": "6.3",
     "Link": "https://www.imdb.com/title/tt32268630/"
   },
   {
@@ -122,7 +122,7 @@
   {
     "Rank": "21",
     "Show Name": "The Iris Affair",
-    "IMDb Rating": "5.9",
+    "IMDb Rating": "6",
     "Link": "https://www.imdb.com/title/tt32264653/"
   },
   {
@@ -134,13 +134,13 @@
   {
     "Rank": "23",
     "Show Name": "All's Fair",
-    "IMDb Rating": "3.7",
+    "IMDb Rating": "3.1",
     "Link": "https://www.imdb.com/title/tt30291387/"
   },
   {
     "Rank": "24",
     "Show Name": "I Love LA",
-    "IMDb Rating": "5.9",
+    "IMDb Rating": "5.8",
     "Link": "https://www.imdb.com/title/tt33362589/"
   },
   {
@@ -170,7 +170,7 @@
   {
     "Rank": "29",
     "Show Name": "Robin Hood",
-    "IMDb Rating": "6.1",
+    "IMDb Rating": "6.2",
     "Link": "https://www.imdb.com/title/tt33484460/"
   },
   {
@@ -199,104 +199,104 @@
   },
   {
     "Rank": "34",
+    "Show Name": "Tremembé",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt34467643/"
+  },
+  {
+    "Rank": "35",
     "Show Name": "Untamed",
     "IMDb Rating": "7.1",
     "Link": "https://www.imdb.com/title/tt31710822/"
   },
   {
-    "Rank": "35",
+    "Rank": "36",
     "Show Name": "The Studio",
     "IMDb Rating": "8.1",
     "Link": "https://www.imdb.com/title/tt23649128/"
   },
   {
-    "Rank": "36",
+    "Rank": "37",
     "Show Name": "The Girlfriend",
     "IMDb Rating": "7.2",
     "Link": "https://www.imdb.com/title/tt32267726/"
   },
   {
-    "Rank": "37",
+    "Rank": "38",
     "Show Name": "Pijikeol: Asia",
     "IMDb Rating": "8.2",
     "Link": "https://www.imdb.com/title/tt35664835/"
   },
   {
-    "Rank": "38",
+    "Rank": "39",
     "Show Name": "DMV",
     "IMDb Rating": "5.6",
     "Link": "https://www.imdb.com/title/tt33078075/"
   },
   {
-    "Rank": "39",
+    "Rank": "40",
     "Show Name": "Son of a Donkey",
     "IMDb Rating": "6",
     "Link": "https://www.imdb.com/title/tt32510363/"
   },
   {
-    "Rank": "40",
+    "Rank": "41",
     "Show Name": "Murder Before Evensong",
     "IMDb Rating": "6.9",
     "Link": "https://www.imdb.com/title/tt34579520/"
   },
   {
-    "Rank": "41",
+    "Rank": "42",
     "Show Name": "The Ridge",
     "IMDb Rating": "5.2",
     "Link": "https://www.imdb.com/title/tt30984541/"
   },
   {
-    "Rank": "42",
+    "Rank": "43",
     "Show Name": "The Celebrity Traitors",
     "IMDb Rating": "8.6",
     "Link": "https://www.imdb.com/title/tt33248156/"
   },
   {
-    "Rank": "43",
+    "Rank": "44",
     "Show Name": "House of David",
     "IMDb Rating": "7.4",
     "Link": "https://www.imdb.com/title/tt30955673/"
   },
   {
-    "Rank": "44",
+    "Rank": "45",
     "Show Name": "Malice",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt31036715/"
   },
   {
-    "Rank": "45",
+    "Rank": "46",
     "Show Name": "The Rainmaker",
     "IMDb Rating": "7",
     "Link": "https://www.imdb.com/title/tt6151526/"
   },
   {
-    "Rank": "46",
+    "Rank": "47",
     "Show Name": "Paradise",
     "IMDb Rating": "7.9",
     "Link": "https://www.imdb.com/title/tt27444205/"
   },
   {
-    "Rank": "47",
+    "Rank": "48",
     "Show Name": "Maigret",
-    "IMDb Rating": "6.9",
+    "IMDb Rating": "6.8",
     "Link": "https://www.imdb.com/title/tt33359676/"
   },
   {
-    "Rank": "48",
+    "Rank": "49",
     "Show Name": "NCIS: Tony & Ziva",
     "IMDb Rating": "7.1",
     "Link": "https://www.imdb.com/title/tt31512256/"
   },
   {
-    "Rank": "49",
+    "Rank": "50",
     "Show Name": "U Ju Me-li Mi",
     "IMDb Rating": "8.1",
     "Link": "https://www.imdb.com/title/tt38220632/"
-  },
-  {
-    "Rank": "50",
-    "Show Name": "Haunted Hotel",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt32499579/"
   }
 ]
