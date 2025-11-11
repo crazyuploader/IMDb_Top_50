@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-11-10
+**Top IMDb Movies as of:** 2025-11-11
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
+1. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-2. [Weapons](https://www.imdb.com/title/tt26581740/)
+2. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
 
-3. [Bugonia](https://www.imdb.com/title/tt12300742/)
+3. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
 
-4. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+4. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-5. [Ballad of a Small Player](https://www.imdb.com/title/tt32063098/)
+5. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-6. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+6. [Die My Love](https://www.imdb.com/title/tt9362736/)
 
-7. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+7. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-8. [Regretting You](https://www.imdb.com/title/tt33088452/)
+8. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-9. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+9. [Good Fortune](https://www.imdb.com/title/tt27543578/)
 
-10. [The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
+10. [Nuremberg](https://www.imdb.com/title/tt29567915/)
 
-11. [Springsteen: Deliver Me from Nowhere](https://www.imdb.com/title/tt31923069/)
+11. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
 
-12. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
+12. [Baramulla](https://www.imdb.com/title/tt29247040/)
 
-13. [Gekijô-ban Chensô Man Reze-hen](https://www.imdb.com/title/tt30472557/)
+13. [The Running Man](https://www.imdb.com/title/tt14107334/)
 
-14. [Sinners](https://www.imdb.com/title/tt31193180/)
+14. [Ballad of a Small Player](https://www.imdb.com/title/tt32063098/)
 
-15. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+15. [Regretting You](https://www.imdb.com/title/tt33088452/)
 
-16. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+16. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-17. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+17. [The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
 
-18. [Kantara: A Legend - Chapter 1](https://www.imdb.com/title/tt26439764/)
+18. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
 
-19. [The Running Man](https://www.imdb.com/title/tt14107334/)
+19. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-20. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+20. [Materialists](https://www.imdb.com/title/tt30253473/)
 
-21. [Good Boy](https://www.imdb.com/title/tt35521922/)
+21. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-22. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
+22. [Superman](https://www.imdb.com/title/tt5950044/)
 
-23. [Lokah Chapter 1: Chandra](https://www.imdb.com/title/tt33372494/)
+23. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
 
-24. [Superman](https://www.imdb.com/title/tt5950044/)
+24. [Springsteen: Deliver Me from Nowhere](https://www.imdb.com/title/tt31923069/)
 
-25. [The Rats: A Witcher Tale](https://www.imdb.com/title/tt28283547/)
+25. [Gekijô-ban Chensô Man Reze-hen](https://www.imdb.com/title/tt30472557/)
 
-26. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+26. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
 
-27. [The Hand That Rocks the Cradle](https://www.imdb.com/title/tt33502160/)
+27. [Christy](https://www.imdb.com/title/tt32323252/)
 
-28. [Good Fortune](https://www.imdb.com/title/tt27543578/)
+28. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
 
-29. [Abadi Nan Jaya](https://www.imdb.com/title/tt32643830/)
+29. [Mango](https://www.imdb.com/title/tt33293169/)
 
-30. [Hedda](https://www.imdb.com/title/tt27953589/)
+30. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
 
-31. [The Roses](https://www.imdb.com/title/tt31973693/)
+31. [Predator: Killer of Killers](https://www.imdb.com/title/tt36463894/)
 
-32. [Nuremberg](https://www.imdb.com/title/tt29567915/)
+32. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-33. [Idly Kadai](https://www.imdb.com/title/tt33029024/)
+33. [Kantara: A Legend - Chapter 1](https://www.imdb.com/title/tt26439764/)
 
-34. [Roofman](https://www.imdb.com/title/tt4627382/)
+34. [The Rats: A Witcher Tale](https://www.imdb.com/title/tt28283547/)
 
-35. [The Perfect Neighbor](https://www.imdb.com/title/tt34962891/)
+35. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
 
-36. [Die My Love](https://www.imdb.com/title/tt9362736/)
+36. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
-37. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+37. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
 
-38. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
+38. [Roofman](https://www.imdb.com/title/tt4627382/)
 
-39. [Dead of Winter](https://www.imdb.com/title/tt7574556/)
+39. [F1](https://www.imdb.com/title/tt16311594/)
 
-40. [I Know What You Did Last Summer](https://www.imdb.com/title/tt4045450/)
+40. [Bring Her Back](https://www.imdb.com/title/tt32246771/)
 
-41. [F1](https://www.imdb.com/title/tt16311594/)
+41. [Oh. What. Fun.](https://www.imdb.com/title/tt31998881/)
 
-42. [Anniversary](https://www.imdb.com/title/tt12583926/)
+42. [Finding Joy](https://www.imdb.com/title/tt31193547/)
 
-43. [Play Dirty](https://www.imdb.com/title/tt18392014/)
+43. [The Lost Bus](https://www.imdb.com/title/tt21103218/)
 
-44. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+44. [Keeper](https://www.imdb.com/title/tt32332404/)
 
-45. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+45. [Ek Chatur Naar](https://www.imdb.com/title/tt37970307/)
 
-46. [Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen](https://www.imdb.com/title/tt32820897/)
+46. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-47. [Companion](https://www.imdb.com/title/tt26584495/)
+47. [Good Boy](https://www.imdb.com/title/tt35521922/)
 
-48. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+48. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
 
-49. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+49. [Lokah Chapter 1: Chandra](https://www.imdb.com/title/tt33372494/)
 
-50. [Culpa nuestra](https://www.imdb.com/title/tt33311244/)
+50. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
