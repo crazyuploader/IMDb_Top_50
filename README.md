@@ -26,100 +26,100 @@
 
 1. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-2. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+2. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-3. [The Running Man](https://www.imdb.com/title/tt14107334/)
+3. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-4. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+4. [Train Dreams](https://www.imdb.com/title/tt29768334/)
 
-5. [Playdate](https://www.imdb.com/title/tt31425731/)
+5. [The Running Man](https://www.imdb.com/title/tt14107334/)
 
-6. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
+6. [After the Hunt](https://www.imdb.com/title/tt32159989/)
 
-7. [Bugonia](https://www.imdb.com/title/tt12300742/)
+7. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
 
-8. [Nuremberg](https://www.imdb.com/title/tt29567915/)
+8. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
 
-9. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
+9. [The Family Plan 2](https://www.imdb.com/title/tt34276058/)
 
-10. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+10. [Playdate](https://www.imdb.com/title/tt31425731/)
 
-11. [Roofman](https://www.imdb.com/title/tt4627382/)
+11. [Champagne Problems](https://www.imdb.com/title/tt33053440/)
 
-12. [A Merry Little Ex-Mas](https://www.imdb.com/title/tt34992378/)
+12. [The Age of Disclosure](https://www.imdb.com/title/tt35520315/)
 
-13. [Die My Love](https://www.imdb.com/title/tt9362736/)
+13. [Nuremberg](https://www.imdb.com/title/tt29567915/)
 
-14. [Weapons](https://www.imdb.com/title/tt26581740/)
+14. [Bu feng zhui ying](https://www.imdb.com/title/tt34610311/)
 
-15. [Keeper](https://www.imdb.com/title/tt32332404/)
+15. [Sisu 2](https://www.imdb.com/title/tt31844586/)
 
-16. [Eddington](https://www.imdb.com/title/tt31176520/)
+16. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-17. [In Your Dreams](https://www.imdb.com/title/tt27604215/)
+17. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
 
-18. [Good Fortune](https://www.imdb.com/title/tt27543578/)
+18. [Roofman](https://www.imdb.com/title/tt4627382/)
 
-19. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+19. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
 
-20. [A Very Jonas Christmas Movie](https://www.imdb.com/title/tt35600079/)
+20. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-21. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
+21. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-22. [Baramulla](https://www.imdb.com/title/tt29247040/)
+22. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
 
-23. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
+23. [A Merry Little Ex-Mas](https://www.imdb.com/title/tt34992378/)
 
-24. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+24. [Altered](https://www.imdb.com/title/tt32123395/)
 
-25. [The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
+25. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-26. [Regretting You](https://www.imdb.com/title/tt33088452/)
+26. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
 
-27. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
+27. [Rental Family](https://www.imdb.com/title/tt14142060/)
 
-28. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+28. [Die My Love](https://www.imdb.com/title/tt9362736/)
 
-29. [Materialists](https://www.imdb.com/title/tt30253473/)
+29. [Eddington](https://www.imdb.com/title/tt31176520/)
 
-30. [Superman](https://www.imdb.com/title/tt5950044/)
+30. [If I Had Legs I'd Kick You](https://www.imdb.com/title/tt18382850/)
 
-31. [Marty Supreme](https://www.imdb.com/title/tt32916440/)
+31. [In Your Dreams](https://www.imdb.com/title/tt27604215/)
 
-32. [Christy](https://www.imdb.com/title/tt32323252/)
+32. [Eojjeolsuga eobsda](https://www.imdb.com/title/tt1527793/)
 
-33. [Sinners](https://www.imdb.com/title/tt31193180/)
+33. [Anniversary](https://www.imdb.com/title/tt12583926/)
 
-34. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+34. [Keeper](https://www.imdb.com/title/tt32332404/)
 
-35. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+35. [Superman](https://www.imdb.com/title/tt5950044/)
 
-36. [Good Luck, Have Fun, Don't Die](https://www.imdb.com/title/tt1341338/)
+36. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
 
-37. [The Housemaid](https://www.imdb.com/title/tt27543632/)
+37. [The Long Walk](https://www.imdb.com/title/tt10374610/)
 
-38. [The Smashing Machine](https://www.imdb.com/title/tt11214558/)
+38. [Nobody 2](https://www.imdb.com/title/tt28996126/)
 
-39. [Jolly LLB 3](https://www.imdb.com/title/tt27996020/)
+39. [Black Phone 2](https://www.imdb.com/title/tt29644189/)
 
-40. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+40. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
 
-41. [Mango](https://www.imdb.com/title/tt33293169/)
+41. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-42. [Ballad of a Small Player](https://www.imdb.com/title/tt32063098/)
+42. [Good Fortune](https://www.imdb.com/title/tt27543578/)
 
-43. [The Naked Gun](https://www.imdb.com/title/tt3402138/)
+43. [The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
 
-44. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
+44. [A Very Jonas Christmas Movie](https://www.imdb.com/title/tt35600079/)
 
-45. [Gekijô-ban Chensô Man Reze-hen](https://www.imdb.com/title/tt30472557/)
+45. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-46. [F1](https://www.imdb.com/title/tt16311594/)
+46. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
 
-47. [Sisu 2](https://www.imdb.com/title/tt31844586/)
+47. [Regretting You](https://www.imdb.com/title/tt33088452/)
 
-48. [Kantara: A Legend - Chapter 1](https://www.imdb.com/title/tt26439764/)
+48. [Hamnet](https://www.imdb.com/title/tt14905854/)
 
-49. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+49. [F1](https://www.imdb.com/title/tt16311594/)
 
-50. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
+50. [Materialists](https://www.imdb.com/title/tt30253473/)
