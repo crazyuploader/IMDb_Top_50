@@ -1,21 +1,21 @@
 [
   {
     "Rank": "1",
+    "Show Name": "Stranger Things",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt4574334/"
+  },
+  {
+    "Rank": "2",
     "Show Name": "Pluribus",
     "IMDb Rating": "8.5",
     "Link": "https://www.imdb.com/title/tt22202452/"
   },
   {
-    "Rank": "2",
+    "Rank": "3",
     "Show Name": "The Beast in Me",
     "IMDb Rating": "7.5",
     "Link": "https://www.imdb.com/title/tt31974367/"
-  },
-  {
-    "Rank": "3",
-    "Show Name": "Stranger Things",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt4574334/"
   },
   {
     "Rank": "4",
@@ -25,9 +25,9 @@
   },
   {
     "Rank": "5",
-    "Show Name": "All Her Fault",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt31314751/"
+    "Show Name": "Heated Rivalry",
+    "IMDb Rating": "8.9",
+    "Link": "https://www.imdb.com/title/tt35495073/"
   },
   {
     "Rank": "6",
@@ -43,105 +43,105 @@
   },
   {
     "Rank": "8",
-    "Show Name": "Absentia",
-    "IMDb Rating": "7.2",
-    "Link": "https://www.imdb.com/title/tt6794990/"
+    "Show Name": "All Her Fault",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt31314751/"
   },
   {
     "Rank": "9",
-    "Show Name": "One Punch Man: Wanpanman",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt4508902/"
-  },
-  {
-    "Rank": "10",
     "Show Name": "Boku no Hîrô Akademia",
     "IMDb Rating": "8.2",
     "Link": "https://www.imdb.com/title/tt5626028/"
   },
   {
+    "Rank": "10",
+    "Show Name": "Absentia",
+    "IMDb Rating": "7.2",
+    "Link": "https://www.imdb.com/title/tt6794990/"
+  },
+  {
     "Rank": "11",
-    "Show Name": "The Mighty Nein",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt26453092/"
-  },
-  {
-    "Rank": "12",
-    "Show Name": "The Witcher",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt5180504/"
-  },
-  {
-    "Rank": "13",
-    "Show Name": "Ikusagami",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt32237534/"
-  },
-  {
-    "Rank": "14",
     "Show Name": "Game of Thrones",
     "IMDb Rating": "9.2",
     "Link": "https://www.imdb.com/title/tt0944947/"
   },
   {
-    "Rank": "15",
-    "Show Name": "Tulsa King",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt16358384/"
-  },
-  {
-    "Rank": "16",
-    "Show Name": "Death by Lightning",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt31121364/"
-  },
-  {
-    "Rank": "17",
+    "Rank": "12",
     "Show Name": "Breaking Bad",
     "IMDb Rating": "9.5",
     "Link": "https://www.imdb.com/title/tt0903747/"
   },
   {
-    "Rank": "18",
-    "Show Name": "The Last Frontier",
-    "IMDb Rating": "6.8",
-    "Link": "https://www.imdb.com/title/tt26862142/"
+    "Rank": "13",
+    "Show Name": "Tulsa King",
+    "IMDb Rating": "7.9",
+    "Link": "https://www.imdb.com/title/tt16358384/"
   },
   {
-    "Rank": "19",
-    "Show Name": "Mr. Mercedes",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt4354880/"
+    "Rank": "14",
+    "Show Name": "One Punch Man: Wanpanman",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt4508902/"
   },
   {
-    "Rank": "20",
-    "Show Name": "Malice",
-    "IMDb Rating": "5.7",
-    "Link": "https://www.imdb.com/title/tt31036715/"
-  },
-  {
-    "Rank": "21",
-    "Show Name": "Down Cemetery Road",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt32132630/"
-  },
-  {
-    "Rank": "22",
-    "Show Name": "Slow Horses",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt5875444/"
-  },
-  {
-    "Rank": "23",
+    "Rank": "15",
     "Show Name": "The Family Man",
     "IMDb Rating": "8.7",
     "Link": "https://www.imdb.com/title/tt9544034/"
   },
   {
+    "Rank": "16",
+    "Show Name": "The Witcher",
+    "IMDb Rating": "7.9",
+    "Link": "https://www.imdb.com/title/tt5180504/"
+  },
+  {
+    "Rank": "17",
+    "Show Name": "Down Cemetery Road",
+    "IMDb Rating": "7.1",
+    "Link": "https://www.imdb.com/title/tt32132630/"
+  },
+  {
+    "Rank": "18",
+    "Show Name": "Homeland",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt1796960/"
+  },
+  {
+    "Rank": "19",
+    "Show Name": "The Last Frontier",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt26862142/"
+  },
+  {
+    "Rank": "20",
+    "Show Name": "Mr. Mercedes",
+    "IMDb Rating": "7.7",
+    "Link": "https://www.imdb.com/title/tt4354880/"
+  },
+  {
+    "Rank": "21",
+    "Show Name": "The Mighty Nein",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt26453092/"
+  },
+  {
+    "Rank": "22",
+    "Show Name": "Death by Lightning",
+    "IMDb Rating": "7.7",
+    "Link": "https://www.imdb.com/title/tt31121364/"
+  },
+  {
+    "Rank": "23",
+    "Show Name": "Slow Horses",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt5875444/"
+  },
+  {
     "Rank": "24",
-    "Show Name": "The Morning Show",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt7203552/"
+    "Show Name": "The Chair Company",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt31987295/"
   },
   {
     "Rank": "25",
@@ -151,105 +151,105 @@
   },
   {
     "Rank": "26",
-    "Show Name": "Task",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt28013708/"
-  },
-  {
-    "Rank": "27",
-    "Show Name": "The Chair Company",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt31987295/"
-  },
-  {
-    "Rank": "28",
-    "Show Name": "Hazbin Hotel",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt7216636/"
-  },
-  {
-    "Rank": "29",
-    "Show Name": "The American Revolution",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt35328184/"
-  },
-  {
-    "Rank": "30",
-    "Show Name": "Homeland",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt1796960/"
-  },
-  {
-    "Rank": "31",
-    "Show Name": "All&apos;s Fair",
-    "IMDb Rating": "3.1",
-    "Link": "https://www.imdb.com/title/tt30291387/"
-  },
-  {
-    "Rank": "32",
-    "Show Name": "Better Call Saul",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt3032476/"
-  },
-  {
-    "Rank": "33",
-    "Show Name": "Dexter",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt0773262/"
-  },
-  {
-    "Rank": "34",
-    "Show Name": "The Diplomat",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt17491088/"
-  },
-  {
-    "Rank": "35",
-    "Show Name": "Mayor of Kingstown",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt11712058/"
-  },
-  {
-    "Rank": "36",
-    "Show Name": "El cuco de cristal",
-    "IMDb Rating": "6.5",
-    "Link": "https://www.imdb.com/title/tt34231642/"
-  },
-  {
-    "Rank": "37",
-    "Show Name": "Grey&apos;s Anatomy",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt0413573/"
-  },
-  {
-    "Rank": "38",
-    "Show Name": "Shingeki no Kyojin",
-    "IMDb Rating": "9.1",
-    "Link": "https://www.imdb.com/title/tt2560140/"
-  },
-  {
-    "Rank": "39",
-    "Show Name": "Murdaugh: Death in the Family",
-    "IMDb Rating": "7.2",
-    "Link": "https://www.imdb.com/title/tt19853270/"
-  },
-  {
-    "Rank": "40",
     "Show Name": "Yellowstone",
     "IMDb Rating": "8.6",
     "Link": "https://www.imdb.com/title/tt4236770/"
   },
   {
-    "Rank": "41",
+    "Rank": "27",
+    "Show Name": "Task",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt28013708/"
+  },
+  {
+    "Rank": "28",
+    "Show Name": "Better Call Saul",
+    "IMDb Rating": "9",
+    "Link": "https://www.imdb.com/title/tt3032476/"
+  },
+  {
+    "Rank": "29",
+    "Show Name": "Ikusagami",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt32237534/"
+  },
+  {
+    "Rank": "30",
+    "Show Name": "Malice",
+    "IMDb Rating": "5.8",
+    "Link": "https://www.imdb.com/title/tt31036715/"
+  },
+  {
+    "Rank": "31",
+    "Show Name": "Mayor of Kingstown",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt11712058/"
+  },
+  {
+    "Rank": "32",
+    "Show Name": "Dexter",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt0773262/"
+  },
+  {
+    "Rank": "33",
+    "Show Name": "Shingeki no Kyojin",
+    "IMDb Rating": "9.1",
+    "Link": "https://www.imdb.com/title/tt2560140/"
+  },
+  {
+    "Rank": "34",
+    "Show Name": "All&apos;s Fair",
+    "IMDb Rating": "3.1",
+    "Link": "https://www.imdb.com/title/tt30291387/"
+  },
+  {
+    "Rank": "35",
     "Show Name": "The Sopranos",
     "IMDb Rating": "9.2",
     "Link": "https://www.imdb.com/title/tt0141842/"
   },
   {
-    "Rank": "42",
+    "Rank": "36",
     "Show Name": "Supernatural",
     "IMDb Rating": "8.4",
     "Link": "https://www.imdb.com/title/tt0460681/"
+  },
+  {
+    "Rank": "37",
+    "Show Name": "Tracker",
+    "IMDb Rating": "7.1",
+    "Link": "https://www.imdb.com/title/tt13875494/"
+  },
+  {
+    "Rank": "38",
+    "Show Name": "Severance",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt11280740/"
+  },
+  {
+    "Rank": "39",
+    "Show Name": "The Morning Show",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt7203552/"
+  },
+  {
+    "Rank": "40",
+    "Show Name": "The Walking Dead",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt1520211/"
+  },
+  {
+    "Rank": "41",
+    "Show Name": "The Rookie",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt7587890/"
+  },
+  {
+    "Rank": "42",
+    "Show Name": "Wednesday",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt13443470/"
   },
   {
     "Rank": "43",
@@ -259,105 +259,105 @@
   },
   {
     "Rank": "44",
-    "Show Name": "Law &amp; Order: Special Victims Unit",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt0203259/"
+    "Show Name": "Grey&apos;s Anatomy",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt0413573/"
   },
   {
     "Rank": "45",
-    "Show Name": "Delhi Crime",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt9398466/"
+    "Show Name": "The Diplomat",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt17491088/"
   },
   {
     "Rank": "46",
-    "Show Name": "Severance",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt11280740/"
-  },
-  {
-    "Rank": "47",
-    "Show Name": "The Rookie",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt7587890/"
-  },
-  {
-    "Rank": "48",
-    "Show Name": "Sheriff Country",
-    "IMDb Rating": "6.4",
-    "Link": "https://www.imdb.com/title/tt32268630/"
-  },
-  {
-    "Rank": "49",
-    "Show Name": "High Potential",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt22091076/"
-  },
-  {
-    "Rank": "50",
-    "Show Name": "Nobody Wants This",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt26933824/"
-  },
-  {
-    "Rank": "51",
-    "Show Name": "The Walking Dead",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt1520211/"
-  },
-  {
-    "Rank": "52",
-    "Show Name": "The Big C",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt1515193/"
-  },
-  {
-    "Rank": "53",
-    "Show Name": "Monster",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt13207736/"
-  },
-  {
-    "Rank": "54",
-    "Show Name": "Only Murders in the Building",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt11691774/"
-  },
-  {
-    "Rank": "55",
-    "Show Name": "NCIS: Naval Criminal Investigative Service",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt0364845/"
-  },
-  {
-    "Rank": "56",
-    "Show Name": "Wednesday",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt13443470/"
-  },
-  {
-    "Rank": "57",
-    "Show Name": "Black Mirror",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt2085059/"
-  },
-  {
-    "Rank": "58",
     "Show Name": "Maxton Hall - Die Welt zwischen uns",
     "IMDb Rating": "7.5",
     "Link": "https://www.imdb.com/title/tt27792190/"
   },
   {
-    "Rank": "59",
+    "Rank": "47",
+    "Show Name": "Everybody Loves Raymond",
+    "IMDb Rating": "7.3",
+    "Link": "https://www.imdb.com/title/tt0115167/"
+  },
+  {
+    "Rank": "48",
+    "Show Name": "High Potential",
+    "IMDb Rating": "7.6",
+    "Link": "https://www.imdb.com/title/tt22091076/"
+  },
+  {
+    "Rank": "49",
+    "Show Name": "Black Mirror",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt2085059/"
+  },
+  {
+    "Rank": "50",
     "Show Name": "True Detective",
     "IMDb Rating": "8.9",
     "Link": "https://www.imdb.com/title/tt2356777/"
   },
   {
-    "Rank": "60",
+    "Rank": "51",
+    "Show Name": "The Pitt",
+    "IMDb Rating": "8.9",
+    "Link": "https://www.imdb.com/title/tt31938062/"
+  },
+  {
+    "Rank": "52",
+    "Show Name": "The Office",
+    "IMDb Rating": "9",
+    "Link": "https://www.imdb.com/title/tt0386676/"
+  },
+  {
+    "Rank": "53",
+    "Show Name": "The Boys",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt1190634/"
+  },
+  {
+    "Rank": "54",
+    "Show Name": "Law &amp; Order: Special Victims Unit",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt0203259/"
+  },
+  {
+    "Rank": "55",
     "Show Name": "The White Lotus",
     "IMDb Rating": "8",
     "Link": "https://www.imdb.com/title/tt13406094/"
+  },
+  {
+    "Rank": "56",
+    "Show Name": "The Last of Us",
+    "IMDb Rating": "8.5",
+    "Link": "https://www.imdb.com/title/tt3581920/"
+  },
+  {
+    "Rank": "57",
+    "Show Name": "NCIS: Naval Criminal Investigative Service",
+    "IMDb Rating": "7.8",
+    "Link": "https://www.imdb.com/title/tt0364845/"
+  },
+  {
+    "Rank": "58",
+    "Show Name": "It&apos;s Florida, Man",
+    "IMDb Rating": "6.3",
+    "Link": "https://www.imdb.com/title/tt33745056/"
+  },
+  {
+    "Rank": "59",
+    "Show Name": "Hazbin Hotel",
+    "IMDb Rating": "7.7",
+    "Link": "https://www.imdb.com/title/tt7216636/"
+  },
+  {
+    "Rank": "60",
+    "Show Name": "Black Rabbit",
+    "IMDb Rating": "7.4",
+    "Link": "https://www.imdb.com/title/tt23055142/"
   },
   {
     "Rank": "61",
@@ -367,33 +367,33 @@
   },
   {
     "Rank": "62",
-    "Show Name": "Elsbeth",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt26591110/"
+    "Show Name": "Only Murders in the Building",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt11691774/"
   },
   {
     "Rank": "63",
-    "Show Name": "The Death of Bunny Munro",
-    "IMDb Rating": "6.8",
-    "Link": "https://www.imdb.com/title/tt0808224/"
+    "Show Name": "Dexter: Resurrection",
+    "IMDb Rating": "9.1",
+    "Link": "https://www.imdb.com/title/tt33043892/"
   },
   {
     "Rank": "64",
-    "Show Name": "Black Rabbit",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt23055142/"
+    "Show Name": "The American Revolution",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt35328184/"
   },
   {
     "Rank": "65",
-    "Show Name": "3 Body Problem",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt13016388/"
+    "Show Name": "Monster",
+    "IMDb Rating": "7.8",
+    "Link": "https://www.imdb.com/title/tt13207736/"
   },
   {
     "Rank": "66",
-    "Show Name": "Boston Blue",
-    "IMDb Rating": "6.2",
-    "Link": "https://www.imdb.com/title/tt35826715/"
+    "Show Name": "One Piece: Wan pîsu",
+    "IMDb Rating": "9",
+    "Link": "https://www.imdb.com/title/tt0388629/"
   },
   {
     "Rank": "67",
@@ -403,200 +403,200 @@
   },
   {
     "Rank": "68",
-    "Show Name": "The Office",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt0386676/"
+    "Show Name": "Nobody Wants This",
+    "IMDb Rating": "7.8",
+    "Link": "https://www.imdb.com/title/tt26933824/"
   },
   {
     "Rank": "69",
-    "Show Name": "The Boys",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt1190634/"
-  },
-  {
-    "Rank": "70",
-    "Show Name": "I Love LA",
-    "IMDb Rating": "5.9",
-    "Link": "https://www.imdb.com/title/tt33362589/"
-  },
-  {
-    "Rank": "71",
-    "Show Name": "Heated Rivalry",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt35495073/"
-  },
-  {
-    "Rank": "72",
-    "Show Name": "Tracker",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt13875494/"
-  },
-  {
-    "Rank": "73",
-    "Show Name": "Mistletoe Murders",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt32378211/"
-  },
-  {
-    "Rank": "74",
-    "Show Name": "The Pitt",
-    "IMDb Rating": "8.9",
-    "Link": "https://www.imdb.com/title/tt31938062/"
-  },
-  {
-    "Rank": "75",
-    "Show Name": "The Bear",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt14452776/"
-  },
-  {
-    "Rank": "76",
-    "Show Name": "House of the Dragon",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt11198330/"
-  },
-  {
-    "Rank": "77",
-    "Show Name": "The Last of Us",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt3581920/"
-  },
-  {
-    "Rank": "78",
-    "Show Name": "Dexter: Resurrection",
-    "IMDb Rating": "9.1",
-    "Link": "https://www.imdb.com/title/tt33043892/"
-  },
-  {
-    "Rank": "79",
-    "Show Name": "Peaky Blinders",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt2442560/"
-  },
-  {
-    "Rank": "80",
-    "Show Name": "House of Guinness",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt13542714/"
-  },
-  {
-    "Rank": "81",
-    "Show Name": "One Piece: Wan pîsu",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt0388629/"
-  },
-  {
-    "Rank": "82",
-    "Show Name": "House M.D.",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt0412142/"
-  },
-  {
-    "Rank": "83",
-    "Show Name": "Smiling Friends",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt12074628/"
-  },
-  {
-    "Rank": "84",
-    "Show Name": "From",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt9813792/"
-  },
-  {
-    "Rank": "85",
-    "Show Name": "Future Man",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt4975856/"
-  },
-  {
-    "Rank": "86",
-    "Show Name": "Ted Lasso",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt10986410/"
-  },
-  {
-    "Rank": "87",
-    "Show Name": "The Wire",
-    "IMDb Rating": "9.3",
-    "Link": "https://www.imdb.com/title/tt0306414/"
-  },
-  {
-    "Rank": "88",
-    "Show Name": "Reacher",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt9288030/"
-  },
-  {
-    "Rank": "89",
     "Show Name": "South Park",
     "IMDb Rating": "8.7",
     "Link": "https://www.imdb.com/title/tt0121955/"
   },
   {
-    "Rank": "90",
+    "Rank": "70",
     "Show Name": "Silo",
     "IMDb Rating": "8.1",
     "Link": "https://www.imdb.com/title/tt14688458/"
   },
   {
-    "Rank": "91",
-    "Show Name": "Law &amp; Order",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt0098844/"
+    "Rank": "71",
+    "Show Name": "Smiling Friends",
+    "IMDb Rating": "8.5",
+    "Link": "https://www.imdb.com/title/tt12074628/"
   },
   {
-    "Rank": "92",
-    "Show Name": "Friends",
-    "IMDb Rating": "8.9",
-    "Link": "https://www.imdb.com/title/tt0108778/"
+    "Rank": "72",
+    "Show Name": "Ted Lasso",
+    "IMDb Rating": "8.8",
+    "Link": "https://www.imdb.com/title/tt10986410/"
   },
   {
-    "Rank": "93",
+    "Rank": "73",
+    "Show Name": "The Wire",
+    "IMDb Rating": "9.3",
+    "Link": "https://www.imdb.com/title/tt0306414/"
+  },
+  {
+    "Rank": "74",
     "Show Name": "MobLand",
     "IMDb Rating": "8.4",
     "Link": "https://www.imdb.com/title/tt31510819/"
   },
   {
-    "Rank": "94",
-    "Show Name": "Ghosts",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt11379026/"
+    "Rank": "75",
+    "Show Name": "Reacher",
+    "IMDb Rating": "8",
+    "Link": "https://www.imdb.com/title/tt9288030/"
   },
   {
-    "Rank": "95",
-    "Show Name": "Euphoria",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt8772296/"
+    "Rank": "76",
+    "Show Name": "From",
+    "IMDb Rating": "7.8",
+    "Link": "https://www.imdb.com/title/tt9813792/"
   },
   {
-    "Rank": "96",
-    "Show Name": "Gilmore Girls",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt0238784/"
+    "Rank": "77",
+    "Show Name": "Friends",
+    "IMDb Rating": "8.9",
+    "Link": "https://www.imdb.com/title/tt0108778/"
   },
   {
-    "Rank": "97",
-    "Show Name": "Fire Country",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt16098700/"
+    "Rank": "78",
+    "Show Name": "I Love LA",
+    "IMDb Rating": "5.9",
+    "Link": "https://www.imdb.com/title/tt33362589/"
   },
   {
-    "Rank": "98",
+    "Rank": "79",
+    "Show Name": "Dark",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt5753856/"
+  },
+  {
+    "Rank": "80",
+    "Show Name": "House M.D.",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt0412142/"
+  },
+  {
+    "Rank": "81",
     "Show Name": "The Big Bang Theory",
     "IMDb Rating": "8.1",
     "Link": "https://www.imdb.com/title/tt0898266/"
   },
   {
-    "Rank": "99",
+    "Rank": "82",
+    "Show Name": "House of Guinness",
+    "IMDb Rating": "7.4",
+    "Link": "https://www.imdb.com/title/tt13542714/"
+  },
+  {
+    "Rank": "83",
+    "Show Name": "Peaky Blinders",
+    "IMDb Rating": "8.7",
+    "Link": "https://www.imdb.com/title/tt2442560/"
+  },
+  {
+    "Rank": "84",
+    "Show Name": "Talamasca: The Secret Order",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt32596156/"
+  },
+  {
+    "Rank": "85",
+    "Show Name": "House of the Dragon",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt11198330/"
+  },
+  {
+    "Rank": "86",
     "Show Name": "Criminal Minds",
     "IMDb Rating": "8.1",
     "Link": "https://www.imdb.com/title/tt0452046/"
   },
   {
-    "Rank": "100",
-    "Show Name": "Alien: Earth",
+    "Rank": "87",
+    "Show Name": "The Big C",
+    "IMDb Rating": "8.1",
+    "Link": "https://www.imdb.com/title/tt1515193/"
+  },
+  {
+    "Rank": "88",
+    "Show Name": "El cuco de cristal",
+    "IMDb Rating": "6.5",
+    "Link": "https://www.imdb.com/title/tt34231642/"
+  },
+  {
+    "Rank": "89",
+    "Show Name": "Outlander",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt3006802/"
+  },
+  {
+    "Rank": "90",
+    "Show Name": "The Bear",
+    "IMDb Rating": "8.5",
+    "Link": "https://www.imdb.com/title/tt14452776/"
+  },
+  {
+    "Rank": "91",
+    "Show Name": "Andor",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt9253284/"
+  },
+  {
+    "Rank": "92",
+    "Show Name": "Euphoria",
+    "IMDb Rating": "8.2",
+    "Link": "https://www.imdb.com/title/tt8772296/"
+  },
+  {
+    "Rank": "93",
+    "Show Name": "Fargo",
+    "IMDb Rating": "8.8",
+    "Link": "https://www.imdb.com/title/tt2802850/"
+  },
+  {
+    "Rank": "94",
+    "Show Name": "Murdaugh: Death in the Family",
     "IMDb Rating": "7.2",
-    "Link": "https://www.imdb.com/title/tt13623632/"
+    "Link": "https://www.imdb.com/title/tt19853270/"
+  },
+  {
+    "Rank": "95",
+    "Show Name": "Broadchurch",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt2249364/"
+  },
+  {
+    "Rank": "96",
+    "Show Name": "Spartacus",
+    "IMDb Rating": "8.4",
+    "Link": "https://www.imdb.com/title/tt1442449/"
+  },
+  {
+    "Rank": "97",
+    "Show Name": "Murder in a Small Town",
+    "IMDb Rating": "6.8",
+    "Link": "https://www.imdb.com/title/tt12408718/"
+  },
+  {
+    "Rank": "98",
+    "Show Name": "Gilmore Girls",
+    "IMDb Rating": "8.2",
+    "Link": "https://www.imdb.com/title/tt0238784/"
+  },
+  {
+    "Rank": "99",
+    "Show Name": "Lost",
+    "IMDb Rating": "8.3",
+    "Link": "https://www.imdb.com/title/tt0411008/"
+  },
+  {
+    "Rank": "100",
+    "Show Name": "The Simpsons",
+    "IMDb Rating": "8.6",
+    "Link": "https://www.imdb.com/title/tt0096697/"
   }
 ]
