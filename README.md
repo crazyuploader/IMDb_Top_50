@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
+1. [Jay Kelly](https://www.imdb.com/title/tt30446847/)
 
-2. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+2. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
 
-3. [Train Dreams](https://www.imdb.com/title/tt29768334/)
+3. [Dhurandhar](https://www.imdb.com/title/tt33014583/)
 
-4. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
+4. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
 
-5. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+5. [Oh. What. Fun.](https://www.imdb.com/title/tt31998881/)
 
-6. [Bugonia](https://www.imdb.com/title/tt12300742/)
+6. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
 
-7. [Jingle Bell Heist](https://www.imdb.com/title/tt24852126/)
+7. [Frankenstein](https://www.imdb.com/title/tt1312221/)
 
-8. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+8. [Train Dreams](https://www.imdb.com/title/tt29768334/)
 
-9. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
+9. [My Secret Santa](https://www.imdb.com/title/tt35219851/)
 
-10. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
+10. [Bugonia](https://www.imdb.com/title/tt12300742/)
 
-11. [Nuremberg](https://www.imdb.com/title/tt29567915/)
+11. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
 
-12. [After the Hunt](https://www.imdb.com/title/tt32159989/)
+12. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
 
-13. [The Running Man](https://www.imdb.com/title/tt14107334/)
+13. [Wake Up Dead Man: A Knives Out Mystery](https://www.imdb.com/title/tt14364480/)
 
-14. [Champagne Problems](https://www.imdb.com/title/tt33053440/)
+14. [Nuremberg](https://www.imdb.com/title/tt29567915/)
 
-15. [Playdate](https://www.imdb.com/title/tt31425731/)
+15. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
 
-16. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+16. [Jingle Bell Heist](https://www.imdb.com/title/tt24852126/)
 
-17. [The Family Plan 2](https://www.imdb.com/title/tt34276058/)
+17. [Hamnet](https://www.imdb.com/title/tt14905854/)
 
-18. [Weapons](https://www.imdb.com/title/tt26581740/)
+18. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
 
-19. [Regretting You](https://www.imdb.com/title/tt33088452/)
+19. [Tere Ishk Mein](https://www.imdb.com/title/tt28142095/)
 
-20. [She Rides Shotgun](https://www.imdb.com/title/tt27986457/)
+20. [Troll 2](https://www.imdb.com/title/tt29232158/)
 
-21. [Eternity](https://www.imdb.com/title/tt24950660/)
+21. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
 
-22. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+22. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
 
-23. [Bu feng zhui ying](https://www.imdb.com/title/tt34610311/)
+23. [Eternity](https://www.imdb.com/title/tt24950660/)
 
-24. [Roofman](https://www.imdb.com/title/tt4627382/)
+24. [Tron: Ares](https://www.imdb.com/title/tt6604188/)
 
-25. [Sisu 2](https://www.imdb.com/title/tt31844586/)
+25. [The Housemaid](https://www.imdb.com/title/tt27543632/)
 
-26. [Hamnet](https://www.imdb.com/title/tt14905854/)
+26. [Weapons](https://www.imdb.com/title/tt26581740/)
 
-27. [A Merry Little Ex-Mas](https://www.imdb.com/title/tt34992378/)
+27. [The Roses](https://www.imdb.com/title/tt31973693/)
 
-28. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+28. [The Running Man](https://www.imdb.com/title/tt14107334/)
 
-29. [The Roses](https://www.imdb.com/title/tt31973693/)
+29. [Affeksjonsverdi](https://www.imdb.com/title/tt27714581/)
 
-30. [Blue Moon](https://www.imdb.com/title/tt32536315/)
+30. [After the Hunt](https://www.imdb.com/title/tt32159989/)
 
-31. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
+31. [Champagne Problems](https://www.imdb.com/title/tt33053440/)
 
-32. [The Age of Disclosure](https://www.imdb.com/title/tt35520315/)
+32. [The Family McMullen](https://www.imdb.com/title/tt35495052/)
 
-33. [The Conjuring: Last Rites](https://www.imdb.com/title/tt22898462/)
+33. [Tinsel Town](https://www.imdb.com/title/tt31308201/)
 
-34. [Rental Family](https://www.imdb.com/title/tt14142060/)
+34. [Sinners](https://www.imdb.com/title/tt31193180/)
 
-35. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+35. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
 
-36. [Tere Ishk Mein](https://www.imdb.com/title/tt28142095/)
+36. [Playdate](https://www.imdb.com/title/tt31425731/)
 
-37. [Superman](https://www.imdb.com/title/tt5950044/)
+37. [A Merry Little Ex-Mas](https://www.imdb.com/title/tt34992378/)
 
-38. [Eddington](https://www.imdb.com/title/tt31176520/)
+38. [Turn Up the Sun!](https://www.imdb.com/title/tt29713815/)
 
-39. [Sinners](https://www.imdb.com/title/tt31193180/)
+39. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
 
-40. [Wildcat](https://www.imdb.com/title/tt36153493/)
+40. [Marty Supreme](https://www.imdb.com/title/tt32916440/)
 
-41. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+41. [Bu feng zhui ying](https://www.imdb.com/title/tt34610311/)
 
-42. [Die My Love](https://www.imdb.com/title/tt9362736/)
+42. [Roofman](https://www.imdb.com/title/tt4627382/)
 
-43. [Eojjeolsuga eobsda](https://www.imdb.com/title/tt1527793/)
+43. [Regretting You](https://www.imdb.com/title/tt33088452/)
 
-44. [Freakier Friday](https://www.imdb.com/title/tt31956415/)
+44. [The Family Plan 2](https://www.imdb.com/title/tt34276058/)
 
-45. [Jurassic World: Rebirth](https://www.imdb.com/title/tt31036941/)
+45. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
 
-46. [Flight Risk](https://www.imdb.com/title/tt10078772/)
+46. [She Rides Shotgun](https://www.imdb.com/title/tt27986457/)
 
-47. [KPop Demon Hunters](https://www.imdb.com/title/tt14205554/)
+47. [Gekijô-ban Jujutsu Kaisen Shibuya Jihen Tokubetsu Henshû-ban × Shimetsu Kaiyû Senkô Jôei](https://www.imdb.com/title/tt38121182/)
 
-48. [The Woman in Cabin 10](https://www.imdb.com/title/tt7130300/)
+48. [Hunting Season](https://www.imdb.com/title/tt32537226/)
 
-49. [Nobody 2](https://www.imdb.com/title/tt28996126/)
+49. [Fackham Hall](https://www.imdb.com/title/tt29008225/)
 
-50. [Good Fortune](https://www.imdb.com/title/tt27543578/)
+50. [Superman](https://www.imdb.com/title/tt5950044/)
