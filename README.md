@@ -2,9 +2,9 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2025-12-31
+**Top IMDb Movies as of:** 2026-01-01
 
-**IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2025-01-01,2025-12-31)
+**IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
 **IMDb Top 250 Movies Page:** [Link](https://www.imdb.com/chart/top/)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Avatar: Fire and Ash](https://www.imdb.com/title/tt1757678/)
+1. [Apex](https://www.imdb.com/title/tt16431404/)
 
-2. [Wake Up Dead Man](https://www.imdb.com/title/tt14364480/)
+2. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-3. [Marty Supreme](https://www.imdb.com/title/tt32916440/)
+3. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-4. [One Battle After Another](https://www.imdb.com/title/tt30144839/)
+4. [Digger](https://www.imdb.com/title/tt31450459/)
 
-5. [The Housemaid](https://www.imdb.com/title/tt27543632/)
+5. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
 
-6. [Anaconda](https://www.imdb.com/title/tt33244668/)
+6. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-7. [Dhurandhar](https://www.imdb.com/title/tt33014583/)
+7. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-8. [Nuremberg](https://www.imdb.com/title/tt29567915/)
+8. [Madden](https://www.imdb.com/title/tt24818230/)
 
-9. [Bugonia](https://www.imdb.com/title/tt12300742/)
+9. [Mercy](https://www.imdb.com/title/tt31050594/)
 
-10. [Zootopia 2](https://www.imdb.com/title/tt26443597/)
+10. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
 
-11. [Daehongsu](https://www.imdb.com/title/tt29927663/)
+11. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-12. [Goodbye June](https://www.imdb.com/title/tt35766629/)
+12. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-13. [Sinners](https://www.imdb.com/title/tt31193180/)
+13. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
-14. [Frankenstein](https://www.imdb.com/title/tt1312221/)
+14. [The Hunger Games: Sunrise on the Reaping](https://www.imdb.com/title/tt32558705/)
 
-15. [Eternity](https://www.imdb.com/title/tt24950660/)
+15. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
 
-16. [F1](https://www.imdb.com/title/tt16311594/)
+16. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-17. [Song Sung Blue](https://www.imdb.com/title/tt30343021/)
+17. [The Rip](https://www.imdb.com/title/tt32642706/)
 
-18. [Five Nights at Freddy's 2](https://www.imdb.com/title/tt30274401/)
+18. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-19. [Now You See Me: Now You Don't](https://www.imdb.com/title/tt4712810/)
+19. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-20. [Affeksjonsverdi](https://www.imdb.com/title/tt27714581/)
+20. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-21. [Train Dreams](https://www.imdb.com/title/tt29768334/)
+21. [Narnia](https://www.imdb.com/title/tt9077514/)
 
-22. [The Running Man](https://www.imdb.com/title/tt14107334/)
+22. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-23. [Weapons](https://www.imdb.com/title/tt26581740/)
+23. [Return to Silent Hill](https://www.imdb.com/title/tt22868010/)
 
-24. [Hamnet](https://www.imdb.com/title/tt14905854/)
+24. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-25. [Jay Kelly](https://www.imdb.com/title/tt30446847/)
+25. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-26. [Roofman](https://www.imdb.com/title/tt4627382/)
+26. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-27. [Mission: Impossible - The Final Reckoning](https://www.imdb.com/title/tt9603208/)
+27. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-28. [Die My Love](https://www.imdb.com/title/tt9362736/)
+28. [Werwulf](https://www.imdb.com/title/tt35514120/)
 
-29. [David](https://www.imdb.com/title/tt15678738/)
+29. [Moana](https://www.imdb.com/title/tt27419466/)
 
-30. [Dracula: A Love Tale](https://www.imdb.com/title/tt31434030/)
+30. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-31. [Fackham Hall](https://www.imdb.com/title/tt29008225/)
+31. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-32. [Oh. What. Fun.](https://www.imdb.com/title/tt31998881/)
+32. [Michael](https://www.imdb.com/title/tt11378946/)
 
-33. [Regretting You](https://www.imdb.com/title/tt33088452/)
+33. [GOAT](https://www.imdb.com/title/tt27613895/)
 
-34. [Predator: Badlands](https://www.imdb.com/title/tt31227572/)
+34. [Cold Storage](https://www.imdb.com/title/tt8879928/)
 
-35. [Eojjeolsuga eobsda](https://www.imdb.com/title/tt1527793/)
+35. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
 
-36. [The SpongeBob Movie: Search for SquarePants](https://www.imdb.com/title/tt23572848/)
+36. [The Breadwinner](https://www.imdb.com/title/tt34459219/)
 
-37. [Superman](https://www.imdb.com/title/tt5950044/)
+37. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-38. [Tu Meri Main Tera Main Tera Tu Meri](https://www.imdb.com/title/tt35146696/)
+38. [Jumanji 3](https://www.imdb.com/title/tt26735127/)
 
-39. [Sisu 2](https://www.imdb.com/title/tt31844586/)
+39. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
 
-40. [The Fantastic Four: First Steps](https://www.imdb.com/title/tt10676052/)
+40. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-41. [28 Years Later](https://www.imdb.com/title/tt10548174/)
+41. [Violent Night 2](https://www.imdb.com/title/tt32432428/)
 
-42. [The Phoenician Scheme](https://www.imdb.com/title/tt30840798/)
+42. [Ebenezer: A Christmas Carol](https://www.imdb.com/title/tt38773219/)
 
-43. [The Long Walk](https://www.imdb.com/title/tt10374610/)
+43. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-44. [A House of Dynamite](https://www.imdb.com/title/tt32376165/)
+44. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-45. [Jingle Bell Heist](https://www.imdb.com/title/tt24852126/)
+45. [Focker In-Law](https://www.imdb.com/title/tt34966140/)
 
-46. [Wicked: For Good](https://www.imdb.com/title/tt19847976/)
+46. [Jimmy](https://www.imdb.com/title/tt31179962/)
 
-47. [Springsteen: Deliver Me from Nowhere](https://www.imdb.com/title/tt31923069/)
+47. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-48. [Caught Stealing](https://www.imdb.com/title/tt1493274/)
+48. [Clayface](https://www.imdb.com/title/tt34890576/)
 
-49. [Yek tasadof-e sadeh](https://www.imdb.com/title/tt36491653/)
+49. [The Legend of Aang: The Last Airbender](https://www.imdb.com/title/tt18259538/)
 
-50. [My Secret Santa](https://www.imdb.com/title/tt35219851/)
+50. [The Adventures of Cliff Booth](https://www.imdb.com/title/tt36408401/)
