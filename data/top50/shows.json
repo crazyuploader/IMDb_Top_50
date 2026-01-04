@@ -86,7 +86,7 @@
   {
     "Rank": "15",
     "Show Name": "Synden",
-    "IMDb Rating": "6.4",
+    "IMDb Rating": "6",
     "Link": "https://www.imdb.com/title/tt33501959/"
   },
   {
@@ -200,7 +200,7 @@
   {
     "Rank": "34",
     "Show Name": "Dear Life",
-    "IMDb Rating": "8.1",
+    "IMDb Rating": "7.1",
     "Link": "https://www.imdb.com/title/tt35826975/"
   },
   {
@@ -283,20 +283,20 @@
   },
   {
     "Rank": "48",
+    "Show Name": "Squid Game: America",
+    "IMDb Rating": "0",
+    "Link": "https://www.imdb.com/title/tt34352214/"
+  },
+  {
+    "Rank": "49",
     "Show Name": "Something Very Bad Is Going to Happen",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt32937780/"
   },
   {
-    "Rank": "49",
+    "Rank": "50",
     "Show Name": "How to Get to Heaven from Belfast",
     "IMDb Rating": "0",
     "Link": "https://www.imdb.com/title/tt31709373/"
-  },
-  {
-    "Rank": "50",
-    "Show Name": "Prison Break",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt29730749/"
   }
 ]
