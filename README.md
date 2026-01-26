@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-01-21
+**Top IMDb Movies as of:** 2026-01-26
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -78,48 +78,48 @@
 
 27. [Iron Lung](https://www.imdb.com/title/tt27564844/)
 
-28. [Shelter](https://www.imdb.com/title/tt32357218/)
+28. [Oscar Shaw](https://www.imdb.com/title/tt27674706/)
 
-29. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+29. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-30. [Melania](https://www.imdb.com/title/tt35291758/)
+30. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-31. [The Dreadful](https://www.imdb.com/title/tt30842022/)
+31. [Melania](https://www.imdb.com/title/tt35291758/)
 
-32. [How to Lose a Popularity Contest](https://www.imdb.com/title/tt36934619/)
+32. [The Dreadful](https://www.imdb.com/title/tt30842022/)
 
-33. [Mana ShankaraVaraprasad Garu](https://www.imdb.com/title/tt28629017/)
+33. [How to Lose a Popularity Contest](https://www.imdb.com/title/tt36934619/)
 
-34. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
+34. [Mana ShankaraVaraprasad Garu](https://www.imdb.com/title/tt28629017/)
 
-35. [One Last Adventure: The Making of Stranger Things 5](https://www.imdb.com/title/tt39307872/)
+35. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
 
-36. [Street Fighter](https://www.imdb.com/title/tt27419420/)
+36. [One Last Adventure: The Making of Stranger Things 5](https://www.imdb.com/title/tt39307872/)
 
-37. [The Great Beyond](https://www.imdb.com/title/tt33075482/)
+37. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
-38. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+38. [The Great Beyond](https://www.imdb.com/title/tt33075482/)
 
-39. [Cold Storage](https://www.imdb.com/title/tt8879928/)
+39. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-40. [The Bluff](https://www.imdb.com/title/tt14181714/)
+40. [Cold Storage](https://www.imdb.com/title/tt8879928/)
 
-41. [Supergirl](https://www.imdb.com/title/tt8814476/)
+41. [The Bluff](https://www.imdb.com/title/tt14181714/)
 
-42. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+42. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-43. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
+43. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-44. [Michael](https://www.imdb.com/title/tt11378946/)
+44. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-45. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
+45. [Michael](https://www.imdb.com/title/tt11378946/)
 
-46. [Digger](https://www.imdb.com/title/tt31450459/)
+46. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
 
-47. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
+47. [Digger](https://www.imdb.com/title/tt31450459/)
 
-48. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+48. [Toy Story 5](https://www.imdb.com/title/tt29355505/)
 
-49. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
+49. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-50. [Moana](https://www.imdb.com/title/tt27419466/)
+50. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
