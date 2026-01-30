@@ -481,15 +481,15 @@
   },
   {
     "Rank": "81",
-    "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
-    "IMDb Rating": "8.3",
-    "Movie Link": "https://www.imdb.com/title/tt0057012/"
-  },
-  {
-    "Rank": "82",
     "Movie Name": "Braveheart",
     "IMDb Rating": "8.3",
     "Movie Link": "https://www.imdb.com/title/tt0112573/"
+  },
+  {
+    "Rank": "82",
+    "Movie Name": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "IMDb Rating": "8.3",
+    "Movie Link": "https://www.imdb.com/title/tt0057012/"
   },
   {
     "Rank": "83",
@@ -1261,15 +1261,15 @@
   },
   {
     "Rank": "211",
-    "Movie Name": "Mr. Smith Goes to Washington",
-    "IMDb Rating": "8.1",
-    "Movie Link": "https://www.imdb.com/title/tt0031679/"
-  },
-  {
-    "Rank": "212",
     "Movie Name": "Rocky",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0075148/"
+  },
+  {
+    "Rank": "212",
+    "Movie Name": "Mr. Smith Goes to Washington",
+    "IMDb Rating": "8.1",
+    "Movie Link": "https://www.imdb.com/title/tt0031679/"
   },
   {
     "Rank": "213",
@@ -1387,21 +1387,21 @@
   },
   {
     "Rank": "232",
-    "Movie Name": "Marty Supreme",
-    "IMDb Rating": "8.2",
-    "Movie Link": "https://www.imdb.com/title/tt32916440/"
-  },
-  {
-    "Rank": "233",
     "Movie Name": "Platoon",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0091763/"
   },
   {
-    "Rank": "234",
+    "Rank": "233",
     "Movie Name": "The Incredibles",
     "IMDb Rating": "8",
     "Movie Link": "https://www.imdb.com/title/tt0317705/"
+  },
+  {
+    "Rank": "234",
+    "Movie Name": "Marty Supreme",
+    "IMDb Rating": "8.2",
+    "Movie Link": "https://www.imdb.com/title/tt32916440/"
   },
   {
     "Rank": "235",
@@ -1495,8 +1495,8 @@
   },
   {
     "Rank": "250",
-    "Movie Name": "Dhurandhar",
-    "IMDb Rating": "8.5",
-    "Movie Link": "https://www.imdb.com/title/tt33014583/"
+    "Movie Name": "Andhadhun",
+    "IMDb Rating": "8.2",
+    "Movie Link": "https://www.imdb.com/title/tt8108198/"
   }
 ]
