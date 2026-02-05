@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-02-04
+**Top IMDb Movies as of:** 2026-02-05
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -84,7 +84,7 @@
 
 30. [Kidnapped: Elizabeth Smart](https://www.imdb.com/title/tt39140662/)
 
-31. [Dhurandhar 2](https://www.imdb.com/title/tt39139925/)
+31. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
 32. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
 
