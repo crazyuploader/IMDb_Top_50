@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-02-05
+**Top IMDb Movies as of:** 2026-02-06
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -102,24 +102,24 @@
 
 39. [The Internship](https://www.imdb.com/title/tt38238651/)
 
-40. [The Muppet Show](https://www.imdb.com/title/tt37969426/)
+40. [Terri Joe: Missionary in Miami](https://www.imdb.com/title/tt39282210/)
 
-41. [Terri Joe: Missionary in Miami](https://www.imdb.com/title/tt39282210/)
+41. [The Invite](https://www.imdb.com/title/tt14173636/)
 
-42. [The Invite](https://www.imdb.com/title/tt14173636/)
+42. [Miracle: The Boys of '80](https://www.imdb.com/title/tt39320452/)
 
-43. [Miracle: The Boys of '80](https://www.imdb.com/title/tt39320452/)
+43. [Jumanji 3](https://www.imdb.com/title/tt26735127/)
 
-44. [Jumanji 3](https://www.imdb.com/title/tt26735127/)
+44. [The Weight](https://www.imdb.com/title/tt10794054/)
 
-45. [The Weight](https://www.imdb.com/title/tt10794054/)
+45. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
 
-46. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
+46. [Cheekati Lo](https://www.imdb.com/title/tt31852038/)
 
-47. [Cheekati Lo](https://www.imdb.com/title/tt31852038/)
+47. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-48. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+48. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-49. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+49. [Surat Untuk Masa Mudaku](https://www.imdb.com/title/tt39240255/)
 
-50. [Surat Untuk Masa Mudaku](https://www.imdb.com/title/tt39240255/)
+50. [Killer Whale](https://www.imdb.com/title/tt33479805/)
