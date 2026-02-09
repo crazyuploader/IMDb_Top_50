@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-02-08
+**Top IMDb Movies as of:** 2026-02-09
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [Melania](https://www.imdb.com/title/tt35291758/)
 
-2. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
+2. [Iron Lung](https://www.imdb.com/title/tt27564844/)
 
-3. [Iron Lung](https://www.imdb.com/title/tt27564844/)
+3. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-4. [Send Help](https://www.imdb.com/title/tt8036976/)
+4. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
 
-5. [The Rip](https://www.imdb.com/title/tt32642706/)
+5. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-6. [Mercy](https://www.imdb.com/title/tt31050594/)
+6. [The Rip](https://www.imdb.com/title/tt32642706/)
 
-7. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+7. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-8. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
+8. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-9. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+9. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
 
-10. [Shelter](https://www.imdb.com/title/tt32357218/)
+10. [Solo Mio](https://www.imdb.com/title/tt32306991/)
 
-11. [Return to Silent Hill](https://www.imdb.com/title/tt22868010/)
+11. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-12. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+12. [Mercy](https://www.imdb.com/title/tt31050594/)
 
-13. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
+13. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-14. [Border 2](https://www.imdb.com/title/tt30387012/)
+14. [War Machine](https://www.imdb.com/title/tt15940132/)
 
-15. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+15. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-16. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+16. [GOAT](https://www.imdb.com/title/tt27613895/)
 
-17. [Grizzly Night](https://www.imdb.com/title/tt28500290/)
+17. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-18. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
+18. [Return to Silent Hill](https://www.imdb.com/title/tt22868010/)
 
-19. [The Moment](https://www.imdb.com/title/tt35524793/)
+19. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-20. [Cold Storage](https://www.imdb.com/title/tt8879928/)
+20. [The Monster](https://www.imdb.com/title/tt14201728/)
 
 21. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-22. [GOAT](https://www.imdb.com/title/tt27613895/)
+22. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
 
-23. [I Love Boosters](https://www.imdb.com/title/tt30827810/)
+23. [The Strangers: Chapter 3](https://www.imdb.com/title/tt28682323/)
 
-24. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+24. [Michael](https://www.imdb.com/title/tt11378946/)
 
-25. [Scream 7](https://www.imdb.com/title/tt27047903/)
+25. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-26. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
+26. [Grizzly Night](https://www.imdb.com/title/tt28500290/)
 
-27. [The Hunger Games: Sunrise on the Reaping](https://www.imdb.com/title/tt32558705/)
+27. [Relationship Goals](https://www.imdb.com/title/tt35718349/)
 
-28. [Solo Mio](https://www.imdb.com/title/tt32306991/)
+28. [F Valentines Day](https://www.imdb.com/title/tt34622232/)
 
-29. [The Bride!](https://www.imdb.com/title/tt30851137/)
+29. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-30. [Kidnapped: Elizabeth Smart](https://www.imdb.com/title/tt39140662/)
+30. [Cold Storage](https://www.imdb.com/title/tt8879928/)
 
-31. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
+31. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-32. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
+32. [The Investigation of Lucy Letby](https://www.imdb.com/title/tt39389929/)
 
-33. [Josephine](https://www.imdb.com/title/tt32321285/)
+33. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-34. [Wicker](https://www.imdb.com/title/tt29611136/)
+34. [Queen of Chess](https://www.imdb.com/title/tt39162904/)
 
-35. [I Want Your Sex](https://www.imdb.com/title/tt32332915/)
+35. [Border 2](https://www.imdb.com/title/tt30387012/)
 
-36. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+36. [I Love Boosters](https://www.imdb.com/title/tt30827810/)
 
-37. [Street Fighter](https://www.imdb.com/title/tt27419420/)
+37. [The Moment](https://www.imdb.com/title/tt35524793/)
 
-38. [Supergirl](https://www.imdb.com/title/tt8814476/)
+38. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-39. [The Internship](https://www.imdb.com/title/tt38238651/)
+39. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-40. [Terri Joe: Missionary in Miami](https://www.imdb.com/title/tt39282210/)
+40. [The Hunger Games: Sunrise on the Reaping](https://www.imdb.com/title/tt32558705/)
 
-41. [The Invite](https://www.imdb.com/title/tt14173636/)
+41. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
-42. [Miracle: The Boys of '80](https://www.imdb.com/title/tt39320452/)
+42. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
 
-43. [Jumanji 3](https://www.imdb.com/title/tt26735127/)
+43. [Josephine](https://www.imdb.com/title/tt32321285/)
 
-44. [The Weight](https://www.imdb.com/title/tt10794054/)
+44. [I Want Your Sex](https://www.imdb.com/title/tt32332915/)
 
-45. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
+45. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-46. [Cheekati Lo](https://www.imdb.com/title/tt31852038/)
+46. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
-47. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+47. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-48. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+48. [The Internship](https://www.imdb.com/title/tt38238651/)
 
-49. [Surat Untuk Masa Mudaku](https://www.imdb.com/title/tt39240255/)
+49. [The Invite](https://www.imdb.com/title/tt14173636/)
 
-50. [Killer Whale](https://www.imdb.com/title/tt33479805/)
+50. [Jumanji 3](https://www.imdb.com/title/tt26735127/)
