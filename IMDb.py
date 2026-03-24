@@ -56,10 +56,10 @@ def get_driver():
     chrome_options.add_argument("--remote-debugging-port=9222")
     chrome_options.add_argument("--disable-images")
     chrome_options.page_load_strategy = "eager"
-    service = Service()
+    service = EC()
     driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver.set_page_load_timeout(60)
-    driver.implicitly_wait(10)
+    driver.set_page_load_timeout(90)
+    driver.implicitly_wait(15)
     return driver
 
 
