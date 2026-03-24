@@ -37,7 +37,7 @@ IMDB_POPULAR_TV_URL = "https://www.imdb.com/chart/tvmeter/"
 
 # Custom headers
 HEADERS = {
-    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0"
+    "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
 }
 
 
@@ -91,12 +91,31 @@ def fetch_popular_movies() -> list[dict]:
             except KeyError:
                 movie_rating = 0
             try:
-                movie_votes = movie["item"]["aggregateRating"]["bestRating"]
+                movie_votes = movie["item"]["aggregateRating"]["ratingCount"]
             except KeyError:
                 movie_votes = 0
             movie_link = movie["item"]["url"]
             movie_image = movie["item"].get("image", "")
             movie_date = movie["item"].get("datePublished", "")
+            genres = movie["item"].get("genre", "")
+            duration = movie["item"].get("duration", "")
+            runtime = 0
+            if duration:
+                try:
+                    parts = (
+                        duration.replace("PT", "")
+                        .replace("H", " ")
+                        .replace("M", "")
+                        .split()
+                    )
+                    if len(parts) == 2:
+                        runtime = int(parts[0]) * 60 + int(parts[1])
+                    elif len(parts) == 1 and "H" in duration:
+                        runtime = int(parts[0]) * 60
+                    elif len(parts) == 1 and "M" in duration:
+                        runtime = int(parts[0])
+                except:
+                    pass
             movie_data.append(
                 {
                     "name": movie_name,
@@ -106,6 +125,9 @@ def fetch_popular_movies() -> list[dict]:
                     "image": movie_image,
                     "year": movie_date[:4] if movie_date else "",
                     "plot": movie["item"].get("description", ""),
+                    "genres": genres,
+                    "runtime": runtime,
+                    "certificate": movie["item"].get("contentRating", ""),
                 }
             )
     finally:
@@ -254,12 +276,31 @@ def fetch_popular_shows() -> list[dict]:
             except KeyError:
                 show_rating = 0
             try:
-                show_votes = show["item"]["aggregateRating"]["bestRating"]
+                show_votes = show["item"]["aggregateRating"]["ratingCount"]
             except KeyError:
                 show_votes = 0
             show_link = show["item"]["url"]
             show_image = show["item"].get("image", "")
             show_date = show["item"].get("datePublished", "")
+            genres = show["item"].get("genre", "")
+            duration = show["item"].get("duration", "")
+            runtime = 0
+            if duration:
+                try:
+                    parts = (
+                        duration.replace("PT", "")
+                        .replace("H", " ")
+                        .replace("M", "")
+                        .split()
+                    )
+                    if len(parts) == 2:
+                        runtime = int(parts[0]) * 60 + int(parts[1])
+                    elif len(parts) == 1 and "H" in duration:
+                        runtime = int(parts[0]) * 60
+                    elif len(parts) == 1 and "M" in duration:
+                        runtime = int(parts[0])
+                except:
+                    pass
             show_data.append(
                 {
                     "name": show_name,
@@ -269,6 +310,9 @@ def fetch_popular_shows() -> list[dict]:
                     "image": show_image,
                     "year": show_date[:4] if show_date else "",
                     "plot": show["item"].get("description", ""),
+                    "genres": genres,
+                    "runtime": runtime,
+                    "certificate": show["item"].get("contentRating", ""),
                 }
             )
     finally:
