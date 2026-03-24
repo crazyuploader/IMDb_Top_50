@@ -96,7 +96,6 @@ def fetch_popular_movies() -> list[dict]:
                 movie_votes = 0
             movie_link = movie["item"]["url"]
             movie_image = movie["item"].get("image", "")
-            movie_date = movie["item"].get("datePublished", "")
             genres = movie["item"].get("genre", "")
             duration = movie["item"].get("duration", "")
             runtime = 0
@@ -123,7 +122,6 @@ def fetch_popular_movies() -> list[dict]:
                     "votes": movie_votes,
                     "link": movie_link,
                     "image": movie_image,
-                    "year": movie_date[:4] if movie_date else "",
                     "plot": movie["item"].get("description", ""),
                     "genres": genres,
                     "runtime": runtime,
@@ -281,7 +279,6 @@ def fetch_popular_shows() -> list[dict]:
                 show_votes = 0
             show_link = show["item"]["url"]
             show_image = show["item"].get("image", "")
-            show_date = show["item"].get("datePublished", "")
             genres = show["item"].get("genre", "")
             duration = show["item"].get("duration", "")
             runtime = 0
@@ -308,7 +305,6 @@ def fetch_popular_shows() -> list[dict]:
                     "votes": show_votes,
                     "link": show_link,
                     "image": show_image,
-                    "year": show_date[:4] if show_date else "",
                     "plot": show["item"].get("description", ""),
                     "genres": genres,
                     "runtime": runtime,
