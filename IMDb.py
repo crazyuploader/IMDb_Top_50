@@ -19,7 +19,6 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
 
 # Original post link
 ORIGINAL_POST_URL = (
@@ -54,8 +53,12 @@ def get_driver():
     chrome_options.add_argument(
         "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
     )
-    service = Service(ChromeDriverManager().install())
+    chrome_options.add_argument("--disable-extensions")
+    chrome_options.add_argument("--disable-setuid-sandbox")
+    chrome_options.add_argument("--remote-debugging-port=9222")
+    service = Service()
     driver = webdriver.Chrome(service=service, options=chrome_options)
+    driver.set_page_load_timeout(30)
     return driver
 
 
