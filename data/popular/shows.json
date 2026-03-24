@@ -1,602 +1,902 @@
 [
   {
-    "Rank": "1",
-    "Show Name": "The Madison",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt33204276/"
-  },
-  {
-    "Rank": "2",
-    "Show Name": "One Piece",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt11737520/"
-  },
-  {
-    "Rank": "3",
-    "Show Name": "The Pitt",
-    "IMDb Rating": "8.9",
-    "Link": "https://www.imdb.com/title/tt31938062/"
-  },
-  {
-    "Rank": "4",
-    "Show Name": "Invincible",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt6741278/"
-  },
-  {
-    "Rank": "5",
-    "Show Name": "Scarpetta",
-    "IMDb Rating": "5.9",
-    "Link": "https://www.imdb.com/title/tt14786934/"
-  },
-  {
-    "Rank": "6",
-    "Show Name": "Peaky Blinders",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt2442560/"
-  },
-  {
-    "Rank": "7",
-    "Show Name": "Paradise",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt27444205/"
-  },
-  {
-    "Rank": "8",
-    "Show Name": "Steel Ball Run: JoJo&apos;s Bizarre Adventure",
-    "IMDb Rating": "9.8",
-    "Link": "https://www.imdb.com/title/tt38268282/"
-  },
-  {
-    "Rank": "9",
-    "Show Name": "Young Sherlock",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt8599532/"
-  },
-  {
-    "Rank": "10",
-    "Show Name": "Game of Thrones",
-    "IMDb Rating": "9.2",
-    "Link": "https://www.imdb.com/title/tt0944947/"
-  },
-  {
-    "Rank": "11",
-    "Show Name": "Jury Duty",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt22074164/"
-  },
-  {
-    "Rank": "12",
-    "Show Name": "A Knight of the Seven Kingdoms",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt27497448/"
-  },
-  {
-    "Rank": "13",
-    "Show Name": "Shrinking",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt15677150/"
-  },
-  {
-    "Rank": "14",
-    "Show Name": "Breaking Bad",
-    "IMDb Rating": "9.5",
-    "Link": "https://www.imdb.com/title/tt0903747/"
-  },
-  {
-    "Rank": "15",
-    "Show Name": "Rooster",
-    "IMDb Rating": "7.3",
-    "Link": "https://www.imdb.com/title/tt32420734/"
-  },
-  {
-    "Rank": "16",
-    "Show Name": "Imperfect Women",
-    "IMDb Rating": "5.5",
-    "Link": "https://www.imdb.com/title/tt31937954/"
-  },
-  {
-    "Rank": "17",
-    "Show Name": "Love Story",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt15232564/"
-  },
-  {
-    "Rank": "18",
-    "Show Name": "Buffy the Vampire Slayer",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt0118276/"
-  },
-  {
-    "Rank": "19",
-    "Show Name": "DTF St. Louis",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt34385331/"
-  },
-  {
-    "Rank": "20",
-    "Show Name": "Marshals",
-    "IMDb Rating": "6",
-    "Link": "https://www.imdb.com/title/tt36849871/"
-  },
-  {
-    "Rank": "21",
-    "Show Name": "The Rookie",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt7587890/"
-  },
-  {
-    "Rank": "22",
-    "Show Name": "The Night Agent",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt13918776/"
-  },
-  {
-    "Rank": "23",
-    "Show Name": "High Potential",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt22091076/"
-  },
-  {
-    "Rank": "24",
-    "Show Name": "The Boys",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt1190634/"
-  },
-  {
-    "Rank": "25",
-    "Show Name": "Monarch: Legacy of Monsters",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt17220216/"
-  },
-  {
-    "Rank": "26",
-    "Show Name": "Virgin River",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt9077530/"
-  },
-  {
-    "Rank": "27",
-    "Show Name": "Ted",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt14824792/"
-  },
-  {
-    "Rank": "28",
-    "Show Name": "Jujutsu Kaisen",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt12343534/"
-  },
-  {
-    "Rank": "29",
-    "Show Name": "Stranger Things",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt4574334/"
-  },
-  {
-    "Rank": "30",
-    "Show Name": "JoJo no Kimyô na Bôken",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt2359704/"
-  },
-  {
-    "Rank": "31",
-    "Show Name": "Cross",
-    "IMDb Rating": "7.2",
-    "Link": "https://www.imdb.com/title/tt11794812/"
-  },
-  {
-    "Rank": "32",
-    "Show Name": "Bridgerton",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt8740790/"
-  },
-  {
-    "Rank": "33",
-    "Show Name": "Scrubs",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt40197357/"
-  },
-  {
-    "Rank": "34",
-    "Show Name": "One Piece: Wan pîsu",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt0388629/"
-  },
-  {
-    "Rank": "35",
-    "Show Name": "Outlander",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt3006802/"
-  },
-  {
-    "Rank": "36",
-    "Show Name": "Shingeki no kyojin",
-    "IMDb Rating": "9.1",
-    "Link": "https://www.imdb.com/title/tt2560140/"
-  },
-  {
-    "Rank": "37",
-    "Show Name": "The Other Bennet Sister",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt37022512/"
-  },
-  {
-    "Rank": "38",
-    "Show Name": "Daredevil: Born Again",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt18923754/"
-  },
-  {
-    "Rank": "39",
-    "Show Name": "Yellowstone",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt4236770/"
-  },
-  {
-    "Rank": "40",
-    "Show Name": "Deadloch",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt14671678/"
-  },
-  {
-    "Rank": "41",
-    "Show Name": "Landman",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt14186672/"
-  },
-  {
-    "Rank": "42",
-    "Show Name": "Grey&apos;s Anatomy",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt0413573/"
-  },
-  {
-    "Rank": "43",
-    "Show Name": "The Mentalist",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt1196946/"
-  },
-  {
-    "Rank": "44",
-    "Show Name": "Person of Interest",
-    "IMDb Rating": "8.5",
-    "Link": "https://www.imdb.com/title/tt1839578/"
-  },
-  {
-    "Rank": "45",
-    "Show Name": "ER",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt0108757/"
-  },
-  {
-    "Rank": "46",
-    "Show Name": "The White Lotus",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt13406094/"
-  },
-  {
-    "Rank": "47",
-    "Show Name": "From",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt9813792/"
-  },
-  {
-    "Rank": "48",
-    "Show Name": "56 Days",
-    "IMDb Rating": "6.7",
-    "Link": "https://www.imdb.com/title/tt30412869/"
-  },
-  {
-    "Rank": "49",
-    "Show Name": "Better Call Saul",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt3032476/"
-  },
-  {
-    "Rank": "50",
-    "Show Name": "Heated Rivalry",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt35495073/"
-  },
-  {
-    "Rank": "51",
-    "Show Name": "Reacher",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt9288030/"
-  },
-  {
-    "Rank": "52",
-    "Show Name": "Fallout",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt12637874/"
-  },
-  {
-    "Rank": "53",
-    "Show Name": "The Sopranos",
-    "IMDb Rating": "9.2",
-    "Link": "https://www.imdb.com/title/tt0141842/"
-  },
-  {
-    "Rank": "54",
-    "Show Name": "The Walking Dead",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt1520211/"
-  },
-  {
-    "Rank": "55",
-    "Show Name": "Something Very Bad Is Going to Happen",
-    "IMDb Rating": "0",
-    "Link": "https://www.imdb.com/title/tt32937780/"
-  },
-  {
-    "Rank": "56",
-    "Show Name": "Vladimir",
-    "IMDb Rating": "6.1",
-    "Link": "https://www.imdb.com/title/tt35997699/"
-  },
-  {
-    "Rank": "57",
-    "Show Name": "The Man in the High Castle",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt1740299/"
-  },
-  {
-    "Rank": "58",
-    "Show Name": "How to Get to Heaven from Belfast",
-    "IMDb Rating": "7.4",
-    "Link": "https://www.imdb.com/title/tt31709373/"
-  },
-  {
-    "Rank": "59",
-    "Show Name": "Beauty in Black",
-    "IMDb Rating": "5.8",
-    "Link": "https://www.imdb.com/title/tt31260386/"
-  },
-  {
-    "Rank": "60",
-    "Show Name": "The Last Thing He Told Me",
-    "IMDb Rating": "6.6",
-    "Link": "https://www.imdb.com/title/tt13745850/"
-  },
-  {
-    "Rank": "61",
-    "Show Name": "Supernatural",
-    "IMDb Rating": "8.4",
-    "Link": "https://www.imdb.com/title/tt0460681/"
-  },
-  {
-    "Rank": "62",
-    "Show Name": "Euphoria",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt8772296/"
-  },
-  {
-    "Rank": "63",
-    "Show Name": "NCIS",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt0364845/"
-  },
-  {
-    "Rank": "64",
-    "Show Name": "The Lincoln Lawyer",
-    "IMDb Rating": "7.8",
-    "Link": "https://www.imdb.com/title/tt13833978/"
-  },
-  {
-    "Rank": "65",
-    "Show Name": "The Beauty",
-    "IMDb Rating": "6.6",
-    "Link": "https://www.imdb.com/title/tt33517752/"
-  },
-  {
-    "Rank": "66",
-    "Show Name": "House of the Dragon",
-    "IMDb Rating": "8.3",
-    "Link": "https://www.imdb.com/title/tt11198330/"
-  },
-  {
-    "Rank": "67",
-    "Show Name": "The Amazing Digital Circus",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt27610198/"
-  },
-  {
-    "Rank": "68",
-    "Show Name": "The Capture",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt8201186/"
-  },
-  {
-    "Rank": "69",
-    "Show Name": "Love &amp; Death",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt14586350/"
-  },
-  {
-    "Rank": "70",
-    "Show Name": "Dexter",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt0773262/"
-  },
-  {
-    "Rank": "71",
-    "Show Name": "Memory of a Killer",
-    "IMDb Rating": "6.9",
-    "Link": "https://www.imdb.com/title/tt35707374/"
-  },
-  {
-    "Rank": "72",
-    "Show Name": "Gone",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt39019156/"
-  },
-  {
-    "Rank": "73",
-    "Show Name": "Black Mirror",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt2085059/"
-  },
-  {
-    "Rank": "74",
-    "Show Name": "The Office",
-    "IMDb Rating": "9",
-    "Link": "https://www.imdb.com/title/tt0386676/"
-  },
-  {
-    "Rank": "75",
-    "Show Name": "True Detective",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt2356777/"
-  },
-  {
-    "Rank": "76",
-    "Show Name": "Pluribus",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt22202452/"
-  },
-  {
-    "Rank": "77",
-    "Show Name": "Criminal Minds",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt0452046/"
-  },
-  {
-    "Rank": "78",
-    "Show Name": "9-1-1",
-    "IMDb Rating": "7.9",
-    "Link": "https://www.imdb.com/title/tt7235466/"
-  },
-  {
-    "Rank": "79",
-    "Show Name": "Walker, Texas Ranger",
-    "IMDb Rating": "5.7",
-    "Link": "https://www.imdb.com/title/tt0106168/"
-  },
-  {
-    "Rank": "80",
-    "Show Name": "Dark Winds",
-    "IMDb Rating": "7.7",
-    "Link": "https://www.imdb.com/title/tt15017118/"
-  },
-  {
-    "Rank": "81",
-    "Show Name": "Sankalp",
-    "IMDb Rating": "6.8",
-    "Link": "https://www.imdb.com/title/tt28091048/"
-  },
-  {
-    "Rank": "82",
-    "Show Name": "Sôsô no Furîren",
-    "IMDb Rating": "8.9",
-    "Link": "https://www.imdb.com/title/tt22248376/"
-  },
-  {
-    "Rank": "83",
-    "Show Name": "Scrubs",
-    "IMDb Rating": "8.4",
-    "Link": "https://www.imdb.com/title/tt0285403/"
-  },
-  {
-    "Rank": "84",
-    "Show Name": "The Night Manager",
-    "IMDb Rating": "8",
-    "Link": "https://www.imdb.com/title/tt1399664/"
-  },
-  {
-    "Rank": "85",
-    "Show Name": "The Wire",
-    "IMDb Rating": "9.3",
-    "Link": "https://www.imdb.com/title/tt0306414/"
-  },
-  {
-    "Rank": "86",
-    "Show Name": "Law &amp; Order: Special Victims Unit",
-    "IMDb Rating": "8.1",
-    "Link": "https://www.imdb.com/title/tt0203259/"
-  },
-  {
-    "Rank": "87",
-    "Show Name": "Smallville",
-    "IMDb Rating": "7.5",
-    "Link": "https://www.imdb.com/title/tt0279600/"
-  },
-  {
-    "Rank": "88",
-    "Show Name": "Tracker",
-    "IMDb Rating": "7.1",
-    "Link": "https://www.imdb.com/title/tt13875494/"
-  },
-  {
-    "Rank": "89",
-    "Show Name": "Star Trek: Starfleet Academy",
-    "IMDb Rating": "4.4",
-    "Link": "https://www.imdb.com/title/tt8622160/"
-  },
-  {
-    "Rank": "90",
-    "Show Name": "Animal Kingdom",
-    "IMDb Rating": "8.2",
-    "Link": "https://www.imdb.com/title/tt5574490/"
-  },
-  {
-    "Rank": "91",
-    "Show Name": "Fargo",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt2802850/"
-  },
-  {
-    "Rank": "92",
-    "Show Name": "A Woman of Substance",
-    "IMDb Rating": "7.3",
-    "Link": "https://www.imdb.com/title/tt35060339/"
-  },
-  {
-    "Rank": "93",
-    "Show Name": "Severance",
-    "IMDb Rating": "8.6",
-    "Link": "https://www.imdb.com/title/tt11280740/"
-  },
-  {
-    "Rank": "94",
-    "Show Name": "The Hunting Party",
-    "IMDb Rating": "6.6",
-    "Link": "https://www.imdb.com/title/tt21906554/"
-  },
-  {
-    "Rank": "95",
-    "Show Name": "Ted Lasso",
-    "IMDb Rating": "8.7",
-    "Link": "https://www.imdb.com/title/tt10986410/"
-  },
-  {
-    "Rank": "96",
-    "Show Name": "RJ Decker",
-    "IMDb Rating": "7",
-    "Link": "https://www.imdb.com/title/tt37063558/"
-  },
-  {
-    "Rank": "97",
-    "Show Name": "Chernobyl",
-    "IMDb Rating": "9.3",
-    "Link": "https://www.imdb.com/title/tt7366338/"
-  },
-  {
-    "Rank": "98",
-    "Show Name": "Firefly",
-    "IMDb Rating": "8.9",
-    "Link": "https://www.imdb.com/title/tt0303461/"
-  },
-  {
-    "Rank": "99",
-    "Show Name": "Succession",
-    "IMDb Rating": "8.8",
-    "Link": "https://www.imdb.com/title/tt7660850/"
-  },
-  {
-    "Rank": "100",
-    "Show Name": "Emergência Radioativa",
-    "IMDb Rating": "7.6",
-    "Link": "https://www.imdb.com/title/tt37041021/"
+    "name": "The Madison",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt33204276/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFiODdjY2UtNzAxZC00Mjc3LWJiZTQtYzQ2ZTM3ZWMzNjk0XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A New York family&apos;s life unravels after a tragedy; they process their grief while vacationing in rural Montana, where they explore human connection amid their profound sorrow."
+  },
+  {
+    "name": "One Piece",
+    "rating": "8.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt11737520/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDk5MDFlYjYtZjQ5ZS00ZjhkLWJkYmMtYzhmZjkyOWExY2M3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "With his straw hat and ragtag crew, young pirate Monkey D. Luffy goes on an epic voyage for treasure."
+  },
+  {
+    "name": "The Pitt",
+    "rating": "8.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt31938062/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMThjMjYxM2YtM2IzZC00NDdmLThiNDYtNzEyNzA0YTRmYTk3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The daily lives of healthcare professionals in a Pittsburgh hospital as they juggle personal crises, workplace politics, and the emotional toll of treating critically ill patients, revealing the resilience required in their noble ..."
+  },
+  {
+    "name": "Invincible",
+    "rating": "8.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt6741278/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM5MmM2ZDAtMzBjNS00NjMxLWE4ZTMtNzFjMWMxYzU2ZThjXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "When 17-year-old Mark Grayson inherits superpowers, he becomes the superhero Invincible."
+  },
+  {
+    "name": "Scarpetta",
+    "rating": "5.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt14786934/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGJiZTM2ZmItMGRiZC00NzgwLTk3M2QtNDI1ZmYxOTJkOGI3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A brilliant forensic pathologist uses forensic technology to solve crimes."
+  },
+  {
+    "name": "Peaky Blinders",
+    "rating": "8.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2442560/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGM0NGY3ZmItOGE2ZC00OWIxLTk0N2EtZWY4Yzg3ZDlhNGI3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Thomas Shelby."
+  },
+  {
+    "name": "Paradise",
+    "rating": "7.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt27444205/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTNmMjEwZGYtZWJjNy00MjI2LWI3YmUtNTY3NjVkMmU4MDM0XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A Secret Service agent investigates the murder of a former president in a seemingly peaceful community."
+  },
+  {
+    "name": "Steel Ball Run: JoJo&apos;s Bizarre Adventure",
+    "rating": "9.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt38268282/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDFmY2JjYmYtNjZhOC00ODJkLTliMjYtM2Y4YzBjMWE0ZGZjXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A paraplegic ex-jockey joins forces with an outlaw to compete in the first cross-continental horse race across North America in the 1800s."
+  },
+  {
+    "name": "Young Sherlock",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt8599532/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY1NGJkOTAtM2RmNC00NWI3LWJkY2EtYjU1YmY5OGFjN2RjXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A disgraced, young Sherlock Holmes finds himself wrapped up in a murder case that threatens his liberty. His first ever case unravels a globe-trotting conspiracy, culminating in an explosive showdown that changes his life forever."
+  },
+  {
+    "name": "Game of Thrones",
+    "rating": "9.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0944947/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNhMDJmNmYtNDQ5OS00ODdlLWE0ZDAtZTgyYTIwNDY3OTU3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia."
+  },
+  {
+    "name": "Jury Duty",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt22074164/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzgzNGVlZDQtOTQ0MC00ZDg1LWJlMjQtZmIwNzc5NTk4YjNiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Anthony, a temp at a hot sauce company, attends a corporate retreat. As the founder prepares to step down, the getaway transforms into a clash between corporate ambitions and small business values. Unbeknownst to Anthony, it&apos;s all..."
+  },
+  {
+    "name": "A Knight of the Seven Kingdoms",
+    "rating": "8.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt27497448/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNGUxNDM5OTEtZWRiYi00OWI1LTgxOTctYzljYTJmMjlkY2Y4XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A century before GOT, Ser Duncan the Tall, and his squire, Egg, wandered through Westeros while the Targaryen dynasty ruled the Iron Throne, and dragons were still remembered. Great destinies and enemies await the incomparable fri..."
+  },
+  {
+    "name": "Shrinking",
+    "rating": "8.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt15677150/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYmU3Yjg0Y2UtN2E5Yy00NzYyLThlNzQtOTI2YWE2OWJhYTUyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A grieving therapist starts to tell his clients exactly what he thinks. Ignoring his training and ethics, he finds himself making huge changes to people&apos;s lives - including his own."
+  },
+  {
+    "name": "Breaking Bad",
+    "rating": "9.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0903747/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzU5ZGYzNmQtMTdhYy00OGRiLTg0NmQtYjVjNzliZTg1ZGE4XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine with a former student to secure his family&apos;s future."
+  },
+  {
+    "name": "Rooster",
+    "rating": "7.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt32420734/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGEwYjMxNDctMDhlYy00YTJhLTk0YTAtOWVjOTJhYzIyZTEyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A comedy revolving around an author&apos;s intricate bond with his daughter, set against the backdrop of a college campus."
+  },
+  {
+    "name": "Imperfect Women",
+    "rating": "5.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt31937954/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWNkODVhZjktOWZmMS00NjM4LWI5NTItYzZjNWNlY2M3YjY3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Follows an investigation that dives deep into the murder of a wealthy woman and all the dark secrets uncovered about her life."
+  },
+  {
+    "name": "Love Story",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt15232564/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjRjZGJlZDgtODkzMi00OTYzLWEwNzAtM2ZiNGZiMmMwMzA3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Explores the undeniable chemistry, whirlwind courtship and high-profile marriage of one of the most iconic couples of the 20th century, John F. Kennedy Jr. and Carolyn Bessette."
+  },
+  {
+    "name": "Buffy the Vampire Slayer",
+    "rating": "8.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0118276/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDk4MGVkNDAtZjQwZi00MDc3LWE4MmEtY2YyODQ2NDQyMjgxXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A young woman, destined to slay vampires, demons and other infernal creatures, deals with her life fighting evil, with the help of her friends."
+  },
+  {
+    "name": "DTF St. Louis",
+    "rating": "7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt34385331/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWFlMDkxYTgtNGQ1OS00OTM0LTkzNjAtNDdjNTk0NTAzYTdiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A darkly comedic tale of three middle-aged individuals entangled in a love triangle, leading to one&apos;s untimely demise."
+  },
+  {
+    "name": "Marshals",
+    "rating": "6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt36849871/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTk4NThjNzgtMjVjNi00MjdjLWE1NDctMzRhNTI1Y2RiN2NkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Ex-Navy SEAL Kayce Dutton leaves the Yellowstone ranch to work with an elite U.S. Marshals team."
+  },
+  {
+    "name": "The Rookie",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt7587890/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzc2MDdkZDUtZjZlYy00MGMyLWJkNzUtMTMxY2FkZjZjYmEyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Starting over isn&apos;t easy, especially for John Nolan who, after a life-altering incident, is pursuing his dream of joining the LAPD. As their oldest rookie, he&apos;s met with skepticism from those who see him as just a walking midlife ..."
+  },
+  {
+    "name": "The Night Agent",
+    "rating": "7.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt13918776/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDU5ZjhhNWMtMjM2MC00OWNmLTlmYTMtOTQ5OTBlZjc2NTdhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Low-level FBI agent Peter Sutherland works in the basement of the White House manning a phone that never rings - until the night it does, propelling him into a conspiracy that leads all the way to the Oval Office."
+  },
+  {
+    "name": "High Potential",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt22091076/",
+    "image": "https://m.media-amazon.com/images/M/MV5BY2E2NzFiMTctYTE1MS00ZWEwLWFhMzctYzA0ODE1NDVmYzZiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A single mom with three kids helps solve an unsolvable crime when she rearranges some evidence during her shift as a police department cleaner."
+  },
+  {
+    "name": "The Boys",
+    "rating": "8.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1190634/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjU4OWNiYzQtMzc1NS00NjZlLTgyYTctZWY4ZmEzMTkxYjA4XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A group of vigilantes set out to take down corrupt superheroes who abuse their superpowers."
+  },
+  {
+    "name": "Monarch: Legacy of Monsters",
+    "rating": "7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt17220216/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjZjNGFmYmItMzVjYy00Yzc3LWFhN2EtOGU1ZTc2MWEwODUzXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Set after the battle between Godzilla and the Titans, revealing that monsters are real, follows one family&apos;s journey to uncover its buried secrets and a legacy linking them to Monarch."
+  },
+  {
+    "name": "Virgin River",
+    "rating": "7.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt9077530/",
+    "image": "https://m.media-amazon.com/images/M/MV5BM2U4NTFmMjktMDNkYy00MDdmLWEzNzktZDQ0MTAxNmY4ZWQ5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Seeking a fresh start, nurse practitioner Melinda Monroe moves from Los Angeles to a remote Northern California town and is surprised by what and whom she finds there."
+  },
+  {
+    "name": "Ted",
+    "rating": "7.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt14824792/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGJiN2ZhNTktYzllYS00MzQyLTg0OTYtZjA5N2M2MDE2NTFiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "It&apos;s 1993, and Ted the bear&apos;s moment of fame has passed. He&apos;s living back home with his best friend, John Bennett, and his family. While Ted may be a lousy influence on John, he&apos;s a loyal pal who will go out on a limb for friendship."
+  },
+  {
+    "name": "Jujutsu Kaisen",
+    "rating": "8.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt12343534/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjBlNTExMDAtMWZjZi00MDc5LWFkMjgtZDU0ZWQ5ODk3YWY5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A boy swallows a cursed talisman - the finger of a demon - and becomes cursed himself. He enters a shaman&apos;s school to be able to locate the demon&apos;s other body parts and thus exorcise himself."
+  },
+  {
+    "name": "Stranger Things",
+    "rating": "8.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt4574334/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjRiMTA4NWUtNmE0ZC00NGM0LWJhMDUtZWIzMDM5ZDIzNTg3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In 1980s Indiana, a group of young friends witness supernatural forces and secret government exploits. As they search for answers, the children unravel a series of extraordinary mysteries."
+  },
+  {
+    "name": "JoJo no Kimyô na Bôken",
+    "rating": "8.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2359704/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzIyNzY4NTMtNmVhYS00OWFhLTkwMWMtOGFkNTdmNWU2ZDdiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The story of the Joestar family, who are possessed with intense psychic strength, and the adventures each member encounters throughout their lives."
+  },
+  {
+    "name": "Cross",
+    "rating": "7.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt11794812/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWIzZjg0MTYtMjMxYy00NWJiLWJjMDUtOWE5NWIxNDBiY2FhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Series adaptation of James Patterson novels about the complicated and brilliant detective, Alex Cross."
+  },
+  {
+    "name": "Bridgerton",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt8740790/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNmY4MDAyNjgtZTBkYi00MTY5LWIwOTctZjY1MGQ0MDM5NTU3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The eight close-knit siblings of the Bridgerton family look for love and happiness in London high society."
+  },
+  {
+    "name": "Scrubs",
+    "rating": "8.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt40197357/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDUwODJiYjktZjE0Yy00ZjViLWJiZWEtNThlNjI5MDg5MWY3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "JD and Turk scrub in together after a long break. Medicine and interns have evolved, but their friendship remains strong. New and familiar faces at Sacred Heart bring laughs, emotion, and unexpected moments."
+  },
+  {
+    "name": "One Piece: Wan pîsu",
+    "rating": "9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0388629/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTNjNGU4NTUtYmVjMy00YjRiLTkxMWUtNzZkMDNiYjZhNmViXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Monkey D. Luffy, a pirate with rubber powers, forms the Straw Hat crew and sails the Grand Line, battling rivals and the World Government on a quest for the legendary treasure One Piece and the title of Pirate King."
+  },
+  {
+    "name": "Outlander",
+    "rating": "8.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt3006802/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4M2JmYmEtMjJhOC00MmRlLThhZDEtMWRhZTZiNTI0ZDZhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Claire Beauchamp Randall, a nurse in World War II, mysteriously goes back in time to Scotland in 1743. There, she meets a dashing Highland warrior and gets drawn into an epic rebellion."
+  },
+  {
+    "name": "Shingeki no kyojin",
+    "rating": "9.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2560140/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjliODY5MzQtMmViZC00MTZmLWFhMWMtMjMwM2I3OGY1MTRiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In a world where humanity shelters behind towering walls from man-eating Titans, a determined teen joins the elite Survey Corps to fight the giants and uncover the secrets of their origin."
+  },
+  {
+    "name": "The Other Bennet Sister",
+    "rating": "7.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt37022512/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNThkMmE2OTUtZGI3MC00YjdhLTk2ZDUtNmViODViOTllYzBiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Mary leaves her sisters&apos; shadows to find herself, embarking on a journey from Meryton to London and the Lake District. Her quest for independence leads to an unexpected love story in Regency-era England."
+  },
+  {
+    "name": "Daredevil: Born Again",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt18923754/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDBkMWRhMzEtM2M0Ny00OGZhLThkZGMtMTY1NWUwZWNhODdiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge."
+  },
+  {
+    "name": "Yellowstone",
+    "rating": "8.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt4236770/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTYxYTdjZjEtNTc0My00NDU2LTkwZmQtNjhhNmJiMzQ3Zjc1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A ranching family in Montana faces off against others encroaching on their land."
+  },
+  {
+    "name": "Deadloch",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt14671678/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzA1ODFkMDEtZWUyOS00Yzk1LTlmNWUtMGRhMzBlMmY3YjI5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Investigating murder and a rising body count Dulcie Collins and Eddie Redcliffe join forces with the ragtag team of misfits to bring a killer to justice."
+  },
+  {
+    "name": "Landman",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt14186672/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTQ1MzI1ZWYtNWMxMC00NmU4LTlmMjItZjY1NWMyYTdjMjM4XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A modern-day tale of fortune seeking in the world of West Texas oil rigs."
+  },
+  {
+    "name": "Grey&apos;s Anatomy",
+    "rating": "7.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0413573/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTVjNWVhYTctMGJkMS00NWFjLWE2N2QtNmQ1Y2FhZDFkNzUwXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors."
+  },
+  {
+    "name": "The Mentalist",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1196946/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ5OTgzOTczM15BMl5BanBnXkFtZTcwMDM2OTY4MQ@@._V1_.jpg",
+    "year": "",
+    "plot": "Famous &quot;psychic&quot;, Patrick Jane, outs himself as a fake, and using his heightened observational skills and impeccable knowledge of the human psyche, he works with the police so he can find &quot;Red John&quot;, the madman who killed his family."
+  },
+  {
+    "name": "Person of Interest",
+    "rating": "8.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1839578/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTcxNDJiMTUtN2ZhZS00OGE1LWJmZmYtN2VhYThiZTBhYWM1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "An off-the-grid and presumed-dead former CIA agent, John Reese, is hired by a mysterious tech billionaire software genius, Harold Finch, to prevent violent crimes before they happen in New York City via an advanced surveillance so..."
+  },
+  {
+    "name": "ER",
+    "rating": "7.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0108757/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzM5NjQ4M2QtNWQyMy00OWUxLWIyZjktNmY2ZjMyZjA2NWE0XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The doctors who work in the ER at the County General Hospital in Chicago grapple with ups and downs in their personal and professional lives while trying to give apt medical care to their patients."
+  },
+  {
+    "name": "The White Lotus",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt13406094/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmM1MGM0MDQtZTAzNy00ZGJkLWI4MDUtNjBmMzdhYjhlM2QwXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The exploits of various guests and employees of a luxury resort over the span of a week."
+  },
+  {
+    "name": "From",
+    "rating": "7.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt9813792/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDAwNDljNWEtNWE1Zi00YjFlLWEzM2UtY2E3ZTM1MTcxMTcyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Unravel the mystery of a town in middle U.S.A. that imprisons everyone who enters. As the residents struggle to maintain a sense of normality and seek a way out, they must also survive the threats of the surrounding forest."
+  },
+  {
+    "name": "56 Days",
+    "rating": "6.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt30412869/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzA2YmY1YjItMTIzZi00NDM0LWFiN2EtZDc5NzIyNTIxNzM5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "After a chance supermarket encounter, Oliver and Ciara embark on an intense relationship. When a savagely murdered corpse surfaces 56 days later, the investigation delves into their turbulent love story, revealing grim secrets."
+  },
+  {
+    "name": "Better Call Saul",
+    "rating": "9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt3032476/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDdjNTEzMjMtYjM3Mi00NzQ3LWFlNWMtZjdmYWU3ZDkzMjk1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Albuquerque lawyer Jimmy McGill scrapes for clients and respect, but every win drags him closer to shady deals, dangerous players, and the alter ego Saul Goodman."
+  },
+  {
+    "name": "Heated Rivalry",
+    "rating": "8.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt35495073/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzYwNTk5ODYtOGVmYS00Zjc4LTk5ZDYtMTM4ODQyN2Q0MTVkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Two rival hockey stars at the top of their game face an unexpected challenge when they develop feelings for each other, complicating their careers and the sport&apos;s expectations."
+  },
+  {
+    "name": "Reacher",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt9288030/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzdjYWZlMDQtYzdhNi00NmRlLTg2NzUtMTI3MWFhZDliNjBiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Itinerant former military policeman Jack Reacher solves crimes and metes out his own brand of street justice. Based on the novels by Lee Child."
+  },
+  {
+    "name": "Fallout",
+    "rating": "8.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt12637874/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzE1MTZmY2ItMTgxNi00OGU5LTk4NTItMmY2ODFhYzhjZjRkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In a future, post-apocalyptic Los Angeles brought about by nuclear decimation, citizens must live in underground bunkers to protect themselves from radiation, mutants and bandits."
+  },
+  {
+    "name": "The Sopranos",
+    "rating": "9.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0141842/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjRmMTNiMTQtMDg1ZS00MGM1LWE1MGUtYjEzMGFjNWUzOWRkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling."
+  },
+  {
+    "name": "The Walking Dead",
+    "rating": "8.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1520211/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWQwMGRhNGEtZTNhMy00MzVjLWJhMjItYjcwMDljMTkyNTg2XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Sheriff Deputy Rick Grimes wakes up from a coma to learn the world is in ruins and must lead a group of survivors to stay alive."
+  },
+  {
+    "name": "Something Very Bad Is Going to Happen",
+    "rating": "0",
+    "votes": "0",
+    "link": "https://www.imdb.com/title/tt32937780/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTgzOTE4ZDctNWM1OS00Nzk2LWEyNTUtMjc2MjVlNjMzMjUyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A certain atmosphere of horror is felt the week before the celebration of an unfortunate wedding."
+  },
+  {
+    "name": "Vladimir",
+    "rating": "6.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt35997699/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWVmYWNiYjItYjUyYS00ZDc2LTk5ZWEtZjA5NDQxZjUzMDA3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A woman&apos;s life spirals as she develops an obsession with her alluring coworker. Her determination to make her fantasies real leads to dark, humorous, and complicated situations."
+  },
+  {
+    "name": "The Man in the High Castle",
+    "rating": "7.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1740299/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOGQyOWQ3YmUtYmU1MC00ZGZlLThhYTEtMTNiNWNhZjQwMGU3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In a dystopian America dominated by Nazi Germany and Imperial Japan, a young woman discovers a mysterious film that may hold the key to toppling the totalitarian regimes."
+  },
+  {
+    "name": "How to Get to Heaven from Belfast",
+    "rating": "7.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt31709373/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTc0MmJlOTEtNWEwNC00ZTljLWExMTgtYWFhMWFiOTI3MmMyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Three lifelong friends reunite after the death of an old classmate turns a wake into a dark mystery. They embark on a thrilling adventure across Ireland, piecing together enigmatic truths amid complicated lives."
+  },
+  {
+    "name": "Beauty in Black",
+    "rating": "5.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt31260386/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYWU5MmRjZjAtYjA3ZC00YjBkLWFiNGMtYTNhNmZlYzhlM2NkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Two women with contrasting lives become connected. One fights for survival after her mother forces her out while the other runs a prosperous company."
+  },
+  {
+    "name": "The Last Thing He Told Me",
+    "rating": "6.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt13745850/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNTRmZjkxM2UtMmRmMy00ZjZiLWE1NzctMGZmYjIzZmM0ZGI0XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A woman forms an unexpected relationship with her 16-year-old stepdaughter while searching for the truth about why her husband has mysteriously disappeared."
+  },
+  {
+    "name": "Supernatural",
+    "rating": "8.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0460681/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMDFmMGZmMGItNGRjNC00NjVjLWI5ODEtNzhjMTE5MmJhN2FkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Two brothers follow their father&apos;s footsteps as hunters, fighting evil supernatural beings of many kinds, including monsters, demons, and gods that roam the earth."
+  },
+  {
+    "name": "Euphoria",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt8772296/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjVlN2M2N2MtOWViZC00MzIxLTlhZWEtMTIwNDIwMzE3ZWJiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A group of teenagers experience the ups and downs of love and friendship in a world of social networks, sex, drugs, and violence."
+  },
+  {
+    "name": "NCIS",
+    "rating": "7.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0364845/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGExNmI3NDMtMjYxYS00Y2ZmLTlkNmItMGNkNTQ1MzA1ZGM1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Naval Criminal Investigative Service agents investigate criminal cases connected to Navy and Marine Corps personnel."
+  },
+  {
+    "name": "The Lincoln Lawyer",
+    "rating": "7.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt13833978/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWE3MWEyYzUtODc5NS00M2FmLWE3ZGYtMjU2ZTBhN2UwNWQ1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Hotshot LA defense attorney Mickey Haller will do whatever it takes to win as he navigates the criminal justice system from his trademark Lincoln."
+  },
+  {
+    "name": "The Beauty",
+    "rating": "6.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt33517752/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzZiYjMwM2EtYmE0NS00NTg5LThhNGUtMjU2ZjcwMjM3ZGJhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Partners Cooper Madsen and Jordan Bennett investigate &quot;the Beauty&quot; STD causing aesthetic effects but proving lethal, evading corrupt officials and a mercenary targeting them amidst a suspected government conspiracy."
+  },
+  {
+    "name": "House of the Dragon",
+    "rating": "8.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt11198330/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGM4MTczODQtNGIxOC00Y2U2LTk1YmItNzA2N2VhYmE0Y2YwXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "An internal succession war within House Targaryen at the height of its power, 172 years before the birth of Daenerys Targaryen."
+  },
+  {
+    "name": "The Amazing Digital Circus",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt27610198/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTlkY2NjODgtOWI5ZC00MjIzLWFiYjItN2ZiOTU5YzA2ODlmXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A woman finds herself trapped in a virtual circus where she and five other humans are subject to the whims of wacky AI. In this digital purgatory they must face frightening NPCs and cope with their own personal traumas."
+  },
+  {
+    "name": "The Capture",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt8201186/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQ4YmM4MzgtZTZkNS00N2FlLTg1MTgtZmVjNjI5OTY0MDA2XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "When a British soldier is charged with a crime, the tenacious young detective handling his case begins to uncover a conspiracy."
+  },
+  {
+    "name": "Love &amp; Death",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt14586350/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjkwYzU3MWItMzkwMi00MmZhLWEzMzAtZDcwN2MwYTU0NTRiXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Two churchgoing couples enjoy small town family life in Texas - until somebody picks up an axe."
+  },
+  {
+    "name": "Dexter",
+    "rating": "8.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0773262/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTQ3YmQ4YzMtOTkyZC00YmM5LThhZjEtM2E0MjFkNTc0OGJhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "He&apos;s smart. He&apos;s lovable. He&apos;s Dexter Morgan, America&apos;s favorite serial killer, who spends his days solving crimes and his nights committing them."
+  },
+  {
+    "name": "Memory of a Killer",
+    "rating": "6.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt35707374/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNDY5NGU0NTMtMWJkZS00MzU5LWE2MmYtOTg5ZjIyMzdkODk5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "When hitman Angelo is hit with early onset Alzheimer&apos;s, his worlds collide, putting his family in danger."
+  },
+  {
+    "name": "Gone",
+    "rating": "7.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt39019156/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjg5MzRhMjItODhjMS00M2E0LTliNjUtNzIyNGMzZjdkYzNhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Local Headmaster Michael Polly who becomes the prime suspect in his wife Sarah&apos;s disappearance when he encounters gutsy Detective Annie Cassidy in a compulsive game of cat and mouse."
+  },
+  {
+    "name": "Black Mirror",
+    "rating": "8.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2085059/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODcxMWI2NDMtYTc3NC00OTZjLWFmNmUtM2NmY2I1ODkxYzczXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Featuring stand-alone dramas -- sharp, suspenseful, satirical tales that explore techno-paranoia -- &quot;Black Mirror&quot; is a contemporary reworking of &quot;The Twilight Zone&quot; with stories that tap into the collective unease about the moder..."
+  },
+  {
+    "name": "The Office",
+    "rating": "9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0386676/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZjQwYzBlYzUtZjhhOS00ZDQ0LWE0NzAtYTk4MjgzZTNkZWEzXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, tedium and romance."
+  },
+  {
+    "name": "True Detective",
+    "rating": "8.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2356777/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjgwYzA1NWMtNDYyZi00ZGQyLWI5NTktMDYwZjE2OTIwZWEwXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law."
+  },
+  {
+    "name": "Pluribus",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt22202452/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOWNlM2E1MDMtYmI5MS00NDQ1LWI3NTctM2VlNjQ5OTAxYTNmXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In a world overtaken by a mysterious wave of forced happiness, Carol Sturka, one of the immune few, must uncover what&apos;s really going on - and save humanity from its artificial bliss."
+  },
+  {
+    "name": "Criminal Minds",
+    "rating": "8.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0452046/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmEyNTAyZDEtMTlhNS00ZTJjLWI1OWEtNWMzNzFhMWNjMDY2XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The FBI&apos;s Behavioral Analysis Unit in Quantico helps police solve violent serial crimes using profiling. Team members analyze evidence and psychology to catch unknown subjects, but their demanding work affects personal lives."
+  },
+  {
+    "name": "9-1-1",
+    "rating": "7.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt7235466/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTllNGE4MjctZDI5Mi00ODEyLWFhNTUtZDUyYTBlMzMxYTBkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Explores the personal &amp; professional lives of Los Angeles first responders who are thrust into the most shocking and heart-stopping situations, day after day."
+  },
+  {
+    "name": "Walker, Texas Ranger",
+    "rating": "5.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0106168/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MzAzMDA2Ml5BMl5BanBnXkFtZTcwNjk3NzIzMQ@@._V1_.jpg",
+    "year": "",
+    "plot": "Cordell Walker and his partner James Trivette are Texas Rangers who make it their business to battle crime in Dallas and all through the state of Texas."
+  },
+  {
+    "name": "Dark Winds",
+    "rating": "7.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt15017118/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNWUxYzAxZmQtMDcyMC00ZjhmLTljZWItZGI5MWNkM2ViYjE1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Follows Leaphorn and Chee, two Navajo police officers in the 1970s Southwest that are forced to challenge their own spiritual beliefs when they search for clues in a double murder case."
+  },
+  {
+    "name": "Sankalp",
+    "rating": "6.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt28091048/",
+    "image": "https://m.media-amazon.com/images/M/MV5BOTcwMWIwMGMtOTNhZS00Yzk5LWI0ZDYtZTM2NmE5MjdhZWMxXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A saga of mentor vs. mentee: Kanhaiya Lal, the master kingmaker, devised a sure-shot UPSC strategy. Yet in every kingdom lurks a rebel-Aditya, defiant in the brood of powerful men. Who will break first?"
+  },
+  {
+    "name": "Sôsô no Furîren",
+    "rating": "8.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt22248376/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZTI4ZGMxN2UtODlkYS00MTBjLWE1YzctYzc3NDViMGI0ZmJmXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Elf mage Frieren and her fellow adventurers have defeated the Demon King and brought peace to the land. But Frieren will long outlive the rest of her former party. How will she come to understand what life means to the people arou..."
+  },
+  {
+    "name": "Scrubs",
+    "rating": "8.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0285403/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMWQ3ZmEwYmUtYWRhMS00OTllLTlkMzgtM2Q3MWFjOTI4MDE5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In the unreal world of Sacred Heart Hospital, intern John &quot;J.D.&quot; Dorian learns the ways of medicine, friendship and life."
+  },
+  {
+    "name": "The Night Manager",
+    "rating": "8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt1399664/",
+    "image": "https://m.media-amazon.com/images/M/MV5BODA1NDA1ODUtNGM0Ny00NWZkLTlhZmYtMzQ3NDk2OWZjNjMzXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The night manager of a Cairo hotel is recruited to infiltrate an arms dealer&apos;s inner circle."
+  },
+  {
+    "name": "The Wire",
+    "rating": "9.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0306414/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWYyNmRhYjktNjBhNC00M2NhLWEzYmMtZDYwNmIyZTRiZWMzXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The Baltimore drug scene, as seen through the eyes of drug dealers and law enforcement."
+  },
+  {
+    "name": "Law &amp; Order: Special Victims Unit",
+    "rating": "8.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0203259/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTU0NGIwMGQtNzk1OC00MzcxLTk0NDYtYWYyMjA3Mzg0ZWFkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Follows the NYPD&apos;s specially trained squad of detectives who investigate sex crimes, including rape, paedophilia, child abuse, human trafficking and domestic violence."
+  },
+  {
+    "name": "Smallville",
+    "rating": "7.5",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0279600/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDU0ZDVjOTItMDNkMy00YTI0LWFjYzItY2M1NjU5NjAzZGViXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A young Clark Kent struggles to find his place in the world as he learns to harness his alien powers for good and deals with the typical troubles of teenage life in Smallville, Kansas."
+  },
+  {
+    "name": "Tracker",
+    "rating": "7.1",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt13875494/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmZlYjk1N2QtOWE2NS00MDk2LWE0ZmEtM2NiOGEzNzRiN2Y0XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Colter Shaw travels the country in his old-school RV, helping police and private citizens solve crimes and locate missing persons--until his latest case changes everything."
+  },
+  {
+    "name": "Star Trek: Starfleet Academy",
+    "rating": "4.4",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt8622160/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZGFkNWNjMWQtMDI4Ny00M2FhLTk2NjMtMDg3MGI2NzM5ZjVhXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Young cadets train to become Starfleet officers as they deal with friendships, rivalries, and romance, all while facing a mysterious threat to both the Academy and the Federation."
+  },
+  {
+    "name": "Animal Kingdom",
+    "rating": "8.2",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt5574490/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjFjOGU5NTUtZTYwNy00NDhmLTk2NjgtOTc2MTUwMTgzNTY3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Centers on a Southern California family, whose excessive lifestyle is fueled by their criminal activities."
+  },
+  {
+    "name": "Fargo",
+    "rating": "8.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt2802850/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMjMzMTIzMTUwN15BMl5BanBnXkFtZTgwNjE0NTg0MTE@._V1_.jpg",
+    "year": "",
+    "plot": "Various chronicles of deception, intrigue, and murder in and around frozen Minnesota. All of these tales mysteriously lead back one way or another to Fargo, North Dakota."
+  },
+  {
+    "name": "A Woman of Substance",
+    "rating": "7.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt35060339/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWE5MTBjYWEtNmU2MC00MjI5LWJkZGQtYmE2MWMwZWZlN2Q3XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "From servant&apos;s quarters to business empire, Emma Harte&apos;s indomitable spirit propels her rise from poverty to riches, yearning for one unattainable love."
+  },
+  {
+    "name": "Severance",
+    "rating": "8.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt11280740/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDI5YzJhODQtMzQyNy00YWNmLWIxMjUtNDBjNjA5YWRjMzExXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs."
+  },
+  {
+    "name": "The Hunting Party",
+    "rating": "6.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt21906554/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDAzN2ZhYjgtOWZkMS00OTgyLTk2MjEtMjg0NzFiNWRjYzZkXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Follows a team who are assembled to track down and capture the most dangerous killers, all of whom have just escaped from a top-secret prison that&apos;s not supposed to exist."
+  },
+  {
+    "name": "Ted Lasso",
+    "rating": "8.7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt10986410/",
+    "image": "https://m.media-amazon.com/images/M/MV5BZmI3YWVhM2UtNDZjMC00YTIzLWI2NGUtZWIxODZkZjVmYTg1XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "American college football coach Ted Lasso heads to London to manage AFC Richmond, a struggling English Premier League soccer team."
+  },
+  {
+    "name": "RJ Decker",
+    "rating": "7",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt37063558/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjA0OWVkZGItOTcyZS00MmVmLWI4ODAtMWFjODIxYjE4MDgzXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "Ex-con photographer RJ Decker becomes a PI in South Florida, solving strange cases with help from his journalist ex, her cop wife, and an enigmatic woman from his past who may help or destroy him."
+  },
+  {
+    "name": "Chernobyl",
+    "rating": "9.3",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt7366338/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months."
+  },
+  {
+    "name": "Firefly",
+    "rating": "8.9",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt0303461/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYzYyZWYzNzUtOWQ4Yi00Y2Q4LWJjZjgtZTllNjg2ZGM0MTcyXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "A renegade crew aboard a small spacecraft tries to survive as they travel the unknown parts of the galaxy and evade warring factions as well as authority agents out to get them."
+  },
+  {
+    "name": "Succession",
+    "rating": "8.8",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt7660850/",
+    "image": "https://m.media-amazon.com/images/M/MV5BYTY4YTVkY2QtMjRmOS00YzliLWIxOWQtMTdkOTVkN2UzODNmXkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company."
+  },
+  {
+    "name": "Emergência Radioativa",
+    "rating": "7.6",
+    "votes": "10",
+    "link": "https://www.imdb.com/title/tt37041021/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTEzYWJhMTUtYTAzNi00YWFiLWI2NmYtOThlMTA2MjYwZTQ5XkEyXkFqcGc@._V1_.jpg",
+    "year": "",
+    "plot": "In 1987 Brazil, scavengers discover a mysterious glowing substance in an abandoned hospital. As the material changes hands, scientists and doctors desperately work to prevent a radioactive disaster from claiming countless lives."
   }
 ]

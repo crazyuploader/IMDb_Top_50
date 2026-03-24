@@ -76,7 +76,7 @@
 
 26. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-27. [Goat](https://www.imdb.com/title/tt27613895/)
+27. [GOAT](https://www.imdb.com/title/tt27613895/)
 
 28. [Cold Storage](https://www.imdb.com/title/tt8879928/)
 
@@ -110,7 +110,7 @@
 
 43. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-44. [One Mile: Chapter One](https://www.imdb.com/title/tt24326458/)
+44. [One Mile](https://www.imdb.com/title/tt24326458/)
 
 45. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
 
