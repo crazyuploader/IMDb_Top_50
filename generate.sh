@@ -23,15 +23,17 @@ fi
 echo -e "${GREEN}'README.md' file generated.${NC}"
 echo ""
 echo -e "${GREEN}JSON file(s) are being generated.${NC}"
+
+# Generate JSON files from CSV
 cd data/top50 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 cd "${ROOT_DIR}" || exit 1
-cd data/top250 || exit 1
+cd data/popular || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 cd "${ROOT_DIR}" || exit 1
-cd data/popular || exit 1
+cd data/top250 || exit 1
 csvtojson movies.csv >movies.json
 csvtojson shows.csv >shows.json
 echo ""
