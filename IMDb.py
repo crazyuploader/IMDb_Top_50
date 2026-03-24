@@ -90,9 +90,23 @@ def fetch_popular_movies() -> list[dict]:
                 movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
             except KeyError:
                 movie_rating = 0
+            try:
+                movie_votes = movie["item"]["aggregateRating"]["bestRating"]
+            except KeyError:
+                movie_votes = 0
             movie_link = movie["item"]["url"]
+            movie_image = movie["item"].get("image", "")
+            movie_date = movie["item"].get("datePublished", "")
             movie_data.append(
-                {"name": movie_name, "rating": movie_rating, "link": movie_link}
+                {
+                    "name": movie_name,
+                    "rating": movie_rating,
+                    "votes": movie_votes,
+                    "link": movie_link,
+                    "image": movie_image,
+                    "year": movie_date[:4] if movie_date else "",
+                    "plot": movie["item"].get("description", ""),
+                }
             )
     finally:
         driver.quit()
@@ -128,11 +142,46 @@ def fetch_top_50_movies() -> list[dict]:
             .get("titleListItems")
         )
         for movie in json_data:
+            release_year = movie.get("releaseYear", {})
+            year = (
+                release_year.get("year", "")
+                if isinstance(release_year, dict)
+                else release_year
+            )
+
+            release_date = movie.get("releaseDate", {})
+            release_day = release_date.get("day", "")
+            release_month = release_date.get("month", "")
+            release_year_full = release_date.get("year", "")
+
+            genres_raw = movie.get("genres", [])
+            genres = ", ".join(genres_raw) if isinstance(genres_raw, list) else ""
+
+            primary_image = movie.get("primaryImage", {})
+            image_url = primary_image.get("url", "")
+            image_caption = primary_image.get("caption", "")
+
+            production_status = movie.get("productionStatus", {})
+            current_stage = production_status.get("currentProductionStage", {})
+            status = current_stage.get("text", "")
+
             movie_data.append(
                 {
-                    "name": movie["originalTitleText"],
+                    "name": movie.get("titleText", "")
+                    or movie.get("originalTitleText", ""),
                     "link": IMDB_BASE_URL + "/title/" + movie["titleId"] + "/",
-                    "rating": movie["ratingSummary"]["aggregateRating"],
+                    "rating": movie.get("ratingSummary", {}).get("aggregateRating", 0),
+                    "votes": movie.get("ratingSummary", {}).get("voteCount", 0),
+                    "year": year,
+                    "releaseDate": f"{release_day}/{release_month}/{release_year_full}",
+                    "genres": genres,
+                    "runtime": movie.get("runtime", ""),
+                    "plot": movie.get("plot", ""),
+                    "image": image_url,
+                    "imageCaption": image_caption,
+                    "metascore": movie.get("metascore", ""),
+                    "certificate": movie.get("certificate", ""),
+                    "status": status,
                 }
             )
     finally:
@@ -204,9 +253,23 @@ def fetch_popular_shows() -> list[dict]:
                 show_rating = show["item"]["aggregateRating"]["ratingValue"]
             except KeyError:
                 show_rating = 0
+            try:
+                show_votes = show["item"]["aggregateRating"]["bestRating"]
+            except KeyError:
+                show_votes = 0
             show_link = show["item"]["url"]
+            show_image = show["item"].get("image", "")
+            show_date = show["item"].get("datePublished", "")
             show_data.append(
-                {"name": show_name, "rating": show_rating, "link": show_link}
+                {
+                    "name": show_name,
+                    "rating": show_rating,
+                    "votes": show_votes,
+                    "link": show_link,
+                    "image": show_image,
+                    "year": show_date[:4] if show_date else "",
+                    "plot": show["item"].get("description", ""),
+                }
             )
     finally:
         driver.quit()
@@ -240,11 +303,46 @@ def fetch_top_50_shows() -> list[dict]:
             .get("titleListItems")
         )
         for show in json_data:
+            release_year = show.get("releaseYear", {})
+            year = (
+                release_year.get("year", "")
+                if isinstance(release_year, dict)
+                else release_year
+            )
+
+            release_date = show.get("releaseDate", {})
+            release_day = release_date.get("day", "")
+            release_month = release_date.get("month", "")
+            release_year_full = release_date.get("year", "")
+
+            genres_raw = show.get("genres", [])
+            genres = ", ".join(genres_raw) if isinstance(genres_raw, list) else ""
+
+            primary_image = show.get("primaryImage", {})
+            image_url = primary_image.get("url", "")
+            image_caption = primary_image.get("caption", "")
+
+            production_status = show.get("productionStatus", {})
+            current_stage = production_status.get("currentProductionStage", {})
+            status = current_stage.get("text", "")
+
             show_data.append(
                 {
-                    "name": show["originalTitleText"],
+                    "name": show.get("titleText", "")
+                    or show.get("originalTitleText", ""),
                     "link": IMDB_BASE_URL + "/title/" + show["titleId"] + "/",
-                    "rating": show["ratingSummary"]["aggregateRating"],
+                    "rating": show.get("ratingSummary", {}).get("aggregateRating", 0),
+                    "votes": show.get("ratingSummary", {}).get("voteCount", 0),
+                    "year": year,
+                    "releaseDate": f"{release_day}/{release_month}/{release_year_full}",
+                    "genres": genres,
+                    "runtime": show.get("runtime", ""),
+                    "plot": show.get("plot", ""),
+                    "image": image_url,
+                    "imageCaption": image_caption,
+                    "metascore": show.get("metascore", ""),
+                    "certificate": show.get("certificate", ""),
+                    "status": status,
                 }
             )
     finally:
@@ -332,18 +430,21 @@ def save_to_csv(fetched_data, file_path, content_type):
         file_path (str): The file path where the data should be saved.
     """
     ensure_path_directory(file_path)
-    if content_type == "movies":
-        header = "Rank, Movie Name, IMDb Rating, Link"
-    else:
-        header = "Rank, Show Name, IMDb Rating, Link"
+
+    if not fetched_data:
+        return
+
+    keys = list(fetched_data[0].keys())
+    header = ", ".join(keys)
 
     file = open(file_path, "w")
     file.write(header + "\n\n")
     file.close()
 
     file = open(file_path, "a")
-    for i, item in enumerate(fetched_data, 1):
-        file.write(f'"{i}", "{item["name"]}", "{item["rating"]}", "{item["link"]}"\n')
+    for item in fetched_data:
+        values = [str(item.get(k, "")) for k in keys]
+        file.write(", ".join(f'"{v}"' for v in values) + "\n")
     file.close()
 
 
