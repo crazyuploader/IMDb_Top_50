@@ -12,8 +12,14 @@ import os
 import subprocess
 import sys
 from datetime import datetime
-from requests import get
 from bs4 import BeautifulSoup
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Original post link
 ORIGINAL_POST_URL = (
@@ -38,6 +44,21 @@ HEADERS = {
 }
 
 
+def get_driver():
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--window-size=1920,1080")
+    chrome_options.add_argument(
+        "--user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+    )
+    service = Service(ChromeDriverManager().install())
+    driver = webdriver.Chrome(service=service, options=chrome_options)
+    return driver
+
+
 def fetch_popular_movies() -> list[dict]:
     """
     Fetch information about popular Movies from IMDb.
@@ -51,21 +72,30 @@ def fetch_popular_movies() -> list[dict]:
     )
 
     movie_data = []
-
-    response = get(IMDB_POPULAR_MOVIES_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    json_data = json.loads(soup.find("script", type="application/ld+json").text)
-    for movie in json_data["itemListElement"]:
-        movie_name = movie["item"]["name"]
-        try:
-            movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
-        except KeyError:
-            movie_rating = 0
-        movie_link = movie["item"]["url"]
-        movie_data.append(
-            {"name": movie_name, "rating": movie_rating, "link": movie_link}
+    driver = get_driver()
+    try:
+        driver.get(IMDB_POPULAR_MOVIES_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "script[type='application/ld+json']")
+            )
         )
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
+
+        json_data = json.loads(soup.find("script", type="application/ld+json").text)
+        for movie in json_data["itemListElement"]:
+            movie_name = movie["item"]["name"]
+            try:
+                movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
+            except KeyError:
+                movie_rating = 0
+            movie_link = movie["item"]["url"]
+            movie_data.append(
+                {"name": movie_name, "rating": movie_rating, "link": movie_link}
+            )
+    finally:
+        driver.quit()
     return movie_data
 
 
@@ -82,26 +112,33 @@ def fetch_top_50_movies() -> list[dict]:
     )
 
     movie_data = []
-
-    response = get(IMDB_MOVIES_SEARCH_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    json_data = (
-        json.loads(soup.find("script", id="__NEXT_DATA__").text)
-        .get("props", {})
-        .get("pageProps", {})
-        .get("searchResults", {})
-        .get("titleResults", {})
-        .get("titleListItems")
-    )
-    for movie in json_data:
-        movie_data.append(
-            {
-                "name": movie["originalTitleText"],
-                "link": IMDB_BASE_URL + "/title/" + movie["titleId"] + "/",
-                "rating": movie["ratingSummary"]["aggregateRating"],
-            }
+    driver = get_driver()
+    try:
+        driver.get(IMDB_MOVIES_SEARCH_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "script#__NEXT_DATA__"))
         )
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
+
+        json_data = (
+            json.loads(soup.find("script", id="__NEXT_DATA__").text)
+            .get("props", {})
+            .get("pageProps", {})
+            .get("searchResults", {})
+            .get("titleResults", {})
+            .get("titleListItems")
+        )
+        for movie in json_data:
+            movie_data.append(
+                {
+                    "name": movie["originalTitleText"],
+                    "link": IMDB_BASE_URL + "/title/" + movie["titleId"] + "/",
+                    "rating": movie["ratingSummary"]["aggregateRating"],
+                }
+            )
+    finally:
+        driver.quit()
     return movie_data
 
 
@@ -113,29 +150,39 @@ def fetch_top_250_movies():
     fname = "data/top250/movies.csv"
     ensure_path_directory(fname)
 
-    response = get(IMDB_TOP_250_MOVIES_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    json_data = json.loads(
-        soup.find("script", attrs={"type": "application/ld+json"}).text
-    )
-
-    file = open(fname, "w")
-    file.write("Rank, Movie Name, IMDb Rating, Movie Link\n\n")
-    file.close
-
-    file = open(fname, "a")
-    i = 1
-    for movie in json_data["itemListElement"]:
-        movie_rank = i
-        movie_name = movie["item"]["name"]
-        movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
-        movie_link = movie["item"]["url"]
-        file.write(
-            f'"{movie_rank}", "{movie_name}", "{movie_rating}", "{movie_link}"\n'
+    driver = get_driver()
+    try:
+        driver.get(IMDB_TOP_250_MOVIES_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "script[type='application/ld+json']")
+            )
         )
-        i += 1
-    file.close
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
+
+        json_data = json.loads(
+            soup.find("script", attrs={"type": "application/ld+json"}).text
+        )
+
+        file = open(fname, "w")
+        file.write("Rank, Movie Name, IMDb Rating, Movie Link\n\n")
+        file.close
+
+        file = open(fname, "a")
+        i = 1
+        for movie in json_data["itemListElement"]:
+            movie_rank = i
+            movie_name = movie["item"]["name"]
+            movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
+            movie_link = movie["item"]["url"]
+            file.write(
+                f'"{movie_rank}", "{movie_name}", "{movie_rating}", "{movie_link}"\n'
+            )
+            i += 1
+        file.close
+    finally:
+        driver.quit()
 
 
 def fetch_popular_shows() -> list[dict]:
@@ -149,19 +196,30 @@ def fetch_popular_shows() -> list[dict]:
     print(f"Fetching Popular TV Show {CURRENT_YEAR} from IMDb ->", IMDB_POPULAR_TV_URL)
 
     show_data = []
+    driver = get_driver()
+    try:
+        driver.get(IMDB_POPULAR_TV_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "script[type='application/ld+json']")
+            )
+        )
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
 
-    response = get(IMDB_POPULAR_TV_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    json_data = json.loads(soup.find("script", type="application/ld+json").text)
-    for show in json_data["itemListElement"]:
-        show_name = show["item"]["name"]
-        try:
-            show_rating = show["item"]["aggregateRating"]["ratingValue"]
-        except KeyError:
-            show_rating = 0
-        show_link = show["item"]["url"]
-        show_data.append({"name": show_name, "rating": show_rating, "link": show_link})
+        json_data = json.loads(soup.find("script", type="application/ld+json").text)
+        for show in json_data["itemListElement"]:
+            show_name = show["item"]["name"]
+            try:
+                show_rating = show["item"]["aggregateRating"]["ratingValue"]
+            except KeyError:
+                show_rating = 0
+            show_link = show["item"]["url"]
+            show_data.append(
+                {"name": show_name, "rating": show_rating, "link": show_link}
+            )
+    finally:
+        driver.quit()
     return show_data
 
 
@@ -176,26 +234,33 @@ def fetch_top_50_shows() -> list[dict]:
     print(f"Fetching Top 50 shows {CURRENT_YEAR} from IMDb    ->", IMDB_TV_SEARCH_URL)
 
     show_data = []
-
-    response = get(IMDB_TV_SEARCH_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
-
-    json_data = (
-        json.loads(soup.find("script", id="__NEXT_DATA__").text)
-        .get("props", {})
-        .get("pageProps", {})
-        .get("searchResults", {})
-        .get("titleResults", {})
-        .get("titleListItems")
-    )
-    for show in json_data:
-        show_data.append(
-            {
-                "name": show["originalTitleText"],
-                "link": IMDB_BASE_URL + "/title/" + show["titleId"] + "/",
-                "rating": show["ratingSummary"]["aggregateRating"],
-            }
+    driver = get_driver()
+    try:
+        driver.get(IMDB_TV_SEARCH_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "script#__NEXT_DATA__"))
         )
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
+
+        json_data = (
+            json.loads(soup.find("script", id="__NEXT_DATA__").text)
+            .get("props", {})
+            .get("pageProps", {})
+            .get("searchResults", {})
+            .get("titleResults", {})
+            .get("titleListItems")
+        )
+        for show in json_data:
+            show_data.append(
+                {
+                    "name": show["originalTitleText"],
+                    "link": IMDB_BASE_URL + "/title/" + show["titleId"] + "/",
+                    "rating": show["ratingSummary"]["aggregateRating"],
+                }
+            )
+    finally:
+        driver.quit()
     return show_data
 
 
@@ -207,27 +272,39 @@ def fetch_top_250_tv():
     fname = "data/top250/shows.csv"
     ensure_path_directory(fname)
 
-    response = get(IMDB_TOP_250_TV_URL, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
+    driver = get_driver()
+    try:
+        driver.get(IMDB_TOP_250_TV_URL)
+        WebDriverWait(driver, 10).until(
+            EC.presence_of_element_located(
+                (By.CSS_SELECTOR, "script[type='application/ld+json']")
+            )
+        )
+        page_source = driver.page_source
+        soup = BeautifulSoup(page_source, "html.parser")
 
-    json_data = json.loads(
-        soup.find("script", attrs={"type": "application/ld+json"}).text
-    )
+        json_data = json.loads(
+            soup.find("script", attrs={"type": "application/ld+json"}).text
+        )
 
-    file = open(fname, "w")
-    file.write("Rank, Show Name, IMDb Rating, Show Link\n\n")
-    file.close
+        file = open(fname, "w")
+        file.write("Rank, Show Name, IMDb Rating, Show Link\n\n")
+        file.close
 
-    file = open(fname, "a")
-    i = 1
-    for show in json_data["itemListElement"]:
-        show_rank = i
-        show_name = show["item"]["name"]
-        show_rating = show["item"]["aggregateRating"]["ratingValue"]
-        show_link = show["item"]["url"]
-        file.write(f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n')
-        i += 1
-    file.close
+        file = open(fname, "a")
+        i = 1
+        for show in json_data["itemListElement"]:
+            show_rank = i
+            show_name = show["item"]["name"]
+            show_rating = show["item"]["aggregateRating"]["ratingValue"]
+            show_link = show["item"]["url"]
+            file.write(
+                f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n'
+            )
+            i += 1
+        file.close
+    finally:
+        driver.quit()
 
 
 def print_top_50_movies(movies_data):
@@ -325,7 +402,7 @@ def save_to_md(fetched_data):
     file.write("## IMDb Top 50 Movies List\n\n")
 
     for i, item in enumerate(fetched_data, 1):
-        file.write(f"{i}. [{item["name"]}]({item["link"]})\n\n")
+        file.write(f"{i}. [{item['name']}]({item['link']})\n\n")
 
     file.close()
 
