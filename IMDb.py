@@ -11,14 +11,12 @@ import json
 import os
 import subprocess
 import sys
+import time
 from datetime import datetime
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.chrome.service import Service as EC
 
 # Original post link
 ORIGINAL_POST_URL = (
@@ -56,9 +54,12 @@ def get_driver():
     chrome_options.add_argument("--disable-extensions")
     chrome_options.add_argument("--disable-setuid-sandbox")
     chrome_options.add_argument("--remote-debugging-port=9222")
+    chrome_options.add_argument("--disable-images")
+    chrome_options.page_load_strategy = "eager"
     service = Service()
     driver = webdriver.Chrome(service=service, options=chrome_options)
-    driver.set_page_load_timeout(30)
+    driver.set_page_load_timeout(60)
+    driver.implicitly_wait(10)
     return driver
 
 
@@ -78,11 +79,7 @@ def fetch_popular_movies() -> list[dict]:
     driver = get_driver()
     try:
         driver.get(IMDB_POPULAR_MOVIES_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "script[type='application/ld+json']")
-            )
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -118,9 +115,7 @@ def fetch_top_50_movies() -> list[dict]:
     driver = get_driver()
     try:
         driver.get(IMDB_MOVIES_SEARCH_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "script#__NEXT_DATA__"))
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -156,11 +151,7 @@ def fetch_top_250_movies():
     driver = get_driver()
     try:
         driver.get(IMDB_TOP_250_MOVIES_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "script[type='application/ld+json']")
-            )
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -202,11 +193,7 @@ def fetch_popular_shows() -> list[dict]:
     driver = get_driver()
     try:
         driver.get(IMDB_POPULAR_TV_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "script[type='application/ld+json']")
-            )
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -240,9 +227,7 @@ def fetch_top_50_shows() -> list[dict]:
     driver = get_driver()
     try:
         driver.get(IMDB_TV_SEARCH_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located((By.CSS_SELECTOR, "script#__NEXT_DATA__"))
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
@@ -278,11 +263,7 @@ def fetch_top_250_tv():
     driver = get_driver()
     try:
         driver.get(IMDB_TOP_250_TV_URL)
-        WebDriverWait(driver, 10).until(
-            EC.presence_of_element_located(
-                (By.CSS_SELECTOR, "script[type='application/ld+json']")
-            )
-        )
+        time.sleep(5)
         page_source = driver.page_source
         soup = BeautifulSoup(page_source, "html.parser")
 
