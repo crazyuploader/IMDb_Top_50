@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-03-29
+**Top IMDb Movies as of:** 2026-03-30
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -28,98 +28,98 @@
 
 2. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
 
-3. [War Machine](https://www.imdb.com/title/tt15940132/)
+3. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
 
-4. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
+4. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-5. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+5. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
 
 6. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
 7. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-8. [Scream 7](https://www.imdb.com/title/tt27047903/)
+8. [Mercy](https://www.imdb.com/title/tt31050594/)
 
-9. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
+9. [Pretty Lethal](https://www.imdb.com/title/tt26678938/)
 
-10. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
+10. [War Machine](https://www.imdb.com/title/tt15940132/)
 
-11. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+11. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-12. [Crime 101](https://www.imdb.com/title/tt32430579/)
+12. [GOAT](https://www.imdb.com/title/tt27613895/)
 
-13. [Zeta](https://www.imdb.com/title/tt32880540/)
+13. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-14. [The Bride!](https://www.imdb.com/title/tt30851137/)
+14. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-15. [Do Not Enter](https://www.imdb.com/title/tt3515878/)
+15. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
 
-16. [Mercy](https://www.imdb.com/title/tt31050594/)
+16. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-17. [Shelter](https://www.imdb.com/title/tt32357218/)
+17. [Forbidden Fruits](https://www.imdb.com/title/tt30691214/)
 
-18. [Louis Theroux: Inside the Manosphere](https://www.imdb.com/title/tt39792948/)
+18. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-19. [Border 2](https://www.imdb.com/title/tt30387012/)
+19. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-20. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+20. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-21. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+21. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
 
-22. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+22. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-23. [The Bluff](https://www.imdb.com/title/tt14181714/)
+23. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-24. [The Rip](https://www.imdb.com/title/tt32642706/)
+24. [Moana](https://www.imdb.com/title/tt27419466/)
 
-25. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+25. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
 
-26. [The Drama](https://www.imdb.com/title/tt33071426/)
+26. [Wardriver](https://www.imdb.com/title/tt5095076/)
 
-27. [GOAT](https://www.imdb.com/title/tt27613895/)
+27. [The Mortuary Assistant](https://www.imdb.com/title/tt36647890/)
 
-28. [Cold Storage](https://www.imdb.com/title/tt8879928/)
+28. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
 
-29. [Outcome](https://www.imdb.com/title/tt23724682/)
+29. [Zeta](https://www.imdb.com/title/tt32880540/)
 
-30. [Send Help](https://www.imdb.com/title/tt8036976/)
+30. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
 
-31. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+31. [The Red Line](https://www.imdb.com/title/tt39744394/)
 
-32. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
+32. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-33. [Solo Mio](https://www.imdb.com/title/tt32306991/)
+33. [The Rip](https://www.imdb.com/title/tt32642706/)
 
-34. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
+34. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-35. [Tom Clancy's Jack Ryan: Ghost War](https://www.imdb.com/title/tt34378301/)
+35. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-36. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+36. [Cold Storage](https://www.imdb.com/title/tt8879928/)
 
-37. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
+37. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-38. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
+38. [Michael](https://www.imdb.com/title/tt11378946/)
 
-39. [Michael](https://www.imdb.com/title/tt11378946/)
+39. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
 
-40. [Wild Horse Nine](https://www.imdb.com/title/tt15799564/)
+40. [Louis Theroux: Inside the Manosphere](https://www.imdb.com/title/tt39792948/)
 
-41. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+41. [Stop! That! Train!](https://www.imdb.com/title/tt38128726/)
 
-42. [Hokum](https://www.imdb.com/title/tt35672862/)
+42. [Do Not Enter](https://www.imdb.com/title/tt3515878/)
 
-43. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+43. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
 
-44. [One Mile](https://www.imdb.com/title/tt24326458/)
+44. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-45. [People We Meet on Vacation](https://www.imdb.com/title/tt22740896/)
+45. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
 
-46. [Resident Evil](https://www.imdb.com/title/tt35538033/)
+46. [53 Sundays](https://www.imdb.com/title/tt32155665/)
 
-47. [In the Blink of an Eye](https://www.imdb.com/title/tt6341826/)
+47. [Forgotten Island](https://www.imdb.com/title/tt36583977/)
 
-48. [Forbidden Fruits](https://www.imdb.com/title/tt30691214/)
+48. [The Bluff](https://www.imdb.com/title/tt14181714/)
 
-49. [Busboys](https://www.imdb.com/title/tt34705112/)
+49. [Solo Mio](https://www.imdb.com/title/tt32306991/)
 
-50. [Scary Movie](https://www.imdb.com/title/tt32093575/)
+50. [Border 2](https://www.imdb.com/title/tt30387012/)
