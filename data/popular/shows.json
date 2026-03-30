@@ -858,17 +858,6 @@
     "certificate": "TV-MA"
   },
   {
-    "name": "Walker, Texas Ranger",
-    "rating": "5.7",
-    "votes": "20759",
-    "link": "https://www.imdb.com/title/tt0106168/",
-    "image": "https://m.media-amazon.com/images/M/MV5BMTc4MzAzMDA2Ml5BMl5BanBnXkFtZTcwNjk3NzIzMQ@@._V1_.jpg",
-    "plot": "Cordell Walker and his partner James Trivette are Texas Rangers who make it their business to battle crime in Dallas and all through the state of Texas.",
-    "genres": "Action, Adventure, Crime",
-    "runtime": "0",
-    "certificate": "TV-PG"
-  },
-  {
     "name": "Law &amp; Order: Special Victims Unit",
     "rating": "8.1",
     "votes": "143711",
@@ -900,17 +889,6 @@
     "genres": "Crime, Drama, Mystery",
     "runtime": "0",
     "certificate": "TV-14"
-  },
-  {
-    "name": "Sankalp",
-    "rating": "6.7",
-    "votes": "22348",
-    "link": "https://www.imdb.com/title/tt28091048/",
-    "image": "https://m.media-amazon.com/images/M/MV5BOTcwMWIwMGMtOTNhZS00Yzk5LWI0ZDYtZTM2NmE5MjdhZWMxXkEyXkFqcGc@._V1_.jpg",
-    "plot": "A saga of mentor vs. mentee: Kanhaiya Lal, the master kingmaker, devised a sure-shot UPSC strategy. Yet in every kingdom lurks a rebel-Aditya, defiant in the brood of powerful men. Who will break first?",
-    "genres": "Drama, Thriller",
-    "runtime": "0",
-    "certificate": ""
   },
   {
     "name": "The Wire",
@@ -1098,5 +1076,27 @@
     "genres": "History",
     "runtime": "0",
     "certificate": "TV-14"
+  },
+  {
+    "name": "Animal Kingdom",
+    "rating": "8.2",
+    "votes": "56311",
+    "link": "https://www.imdb.com/title/tt5574490/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjFjOGU5NTUtZTYwNy00NDhmLTk2NjgtOTc2MTUwMTgzNTY3XkEyXkFqcGc@._V1_.jpg",
+    "plot": "Centers on a Southern California family, whose excessive lifestyle is fueled by their criminal activities.",
+    "genres": "Crime, Drama",
+    "runtime": "0",
+    "certificate": "TV-MA"
+  },
+  {
+    "name": "Chernobyl",
+    "rating": "9.3",
+    "votes": "1026357",
+    "link": "https://www.imdb.com/title/tt7366338/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg",
+    "plot": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+    "genres": "Drama, History, Thriller",
+    "runtime": "0",
+    "certificate": "TV-MA"
   }
 ]
