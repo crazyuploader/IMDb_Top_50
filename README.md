@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-04-05
+**Top IMDb Movies as of:** 2026-04-06
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-2. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
+2. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-3. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
+3. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-4. [Send Help](https://www.imdb.com/title/tt8036976/)
+4. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-5. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
+5. [Pizza Movie](https://www.imdb.com/title/tt37209937/)
 
-6. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
+6. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
 
-7. [Hoppers](https://www.imdb.com/title/tt26443616/)
+7. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
 
-8. [Mercy](https://www.imdb.com/title/tt31050594/)
+8. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
 
-9. [Pretty Lethal](https://www.imdb.com/title/tt26678938/)
+9. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-10. [War Machine](https://www.imdb.com/title/tt15940132/)
+10. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-11. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+11. [Mercy](https://www.imdb.com/title/tt31050594/)
 
-12. [GOAT](https://www.imdb.com/title/tt27613895/)
+12. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-13. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+13. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-14. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+14. [Backrooms](https://www.imdb.com/title/tt26657236/)
 
-15. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
+15. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-16. [Scream 7](https://www.imdb.com/title/tt27047903/)
+16. [War Machine](https://www.imdb.com/title/tt15940132/)
 
-17. [Forbidden Fruits](https://www.imdb.com/title/tt30691214/)
+17. [GOAT](https://www.imdb.com/title/tt27613895/)
 
-18. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+18. [The End of Oak Street](https://www.imdb.com/title/tt27165187/)
 
-19. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+19. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-20. [Crime 101](https://www.imdb.com/title/tt32430579/)
+20. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-21. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
+21. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-22. [Shelter](https://www.imdb.com/title/tt32357218/)
+22. [S4: The Bob Lazar Story](https://www.imdb.com/title/tt37605896/)
 
-23. [The Drama](https://www.imdb.com/title/tt33071426/)
+23. [Pretty Lethal](https://www.imdb.com/title/tt26678938/)
 
-24. [Moana](https://www.imdb.com/title/tt27419466/)
+24. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-25. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
+25. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-26. [Wardriver](https://www.imdb.com/title/tt5095076/)
+26. [Michael](https://www.imdb.com/title/tt11378946/)
 
-27. [The Mortuary Assistant](https://www.imdb.com/title/tt36647890/)
+27. [Humint](https://www.imdb.com/title/tt32606470/)
 
-28. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
+28. [Moana](https://www.imdb.com/title/tt27419466/)
 
-29. [Zeta](https://www.imdb.com/title/tt32880540/)
+29. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-30. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
+30. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-31. [The Red Line](https://www.imdb.com/title/tt39744394/)
+31. [Mother Mary](https://www.imdb.com/title/tt27200708/)
 
-32. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+32. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
 
-33. [The Rip](https://www.imdb.com/title/tt32642706/)
+33. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
 
-34. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+34. [Forbidden Fruits](https://www.imdb.com/title/tt30691214/)
 
-35. [The Bride!](https://www.imdb.com/title/tt30851137/)
+35. [Mardaani 3](https://www.imdb.com/title/tt27673536/)
 
-36. [Cold Storage](https://www.imdb.com/title/tt8879928/)
+36. [The Red Line](https://www.imdb.com/title/tt39744394/)
 
-37. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+37. [The Rip](https://www.imdb.com/title/tt32642706/)
 
-38. [Michael](https://www.imdb.com/title/tt11378946/)
+38. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-39. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
+39. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
 
-40. [Louis Theroux: Inside the Manosphere](https://www.imdb.com/title/tt39792948/)
+40. [A Great Awakening](https://www.imdb.com/title/tt33305882/)
 
-41. [Stop! That! Train!](https://www.imdb.com/title/tt38128726/)
+41. [Eat Pray Bark](https://www.imdb.com/title/tt39465484/)
 
-42. [Do Not Enter](https://www.imdb.com/title/tt3515878/)
+42. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-43. [The Wrecking Crew](https://www.imdb.com/title/tt33046197/)
+43. [Dune: Part Three](https://www.imdb.com/title/tt31378509/)
 
-44. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
+44. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-45. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
+45. [Louis Theroux: Inside the Manosphere](https://www.imdb.com/title/tt39792948/)
 
-46. [53 Sundays](https://www.imdb.com/title/tt32155665/)
+46. [Do Not Enter](https://www.imdb.com/title/tt3515878/)
 
-47. [Forgotten Island](https://www.imdb.com/title/tt36583977/)
+47. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-48. [The Bluff](https://www.imdb.com/title/tt14181714/)
+48. [Zeta](https://www.imdb.com/title/tt32880540/)
 
-49. [Solo Mio](https://www.imdb.com/title/tt32306991/)
+49. [Beast](https://www.imdb.com/title/tt7708226/)
 
-50. [Border 2](https://www.imdb.com/title/tt30387012/)
+50. [53 Sundays](https://www.imdb.com/title/tt32155665/)
