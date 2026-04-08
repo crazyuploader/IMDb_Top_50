@@ -20,7 +20,7 @@ jobs:
       - name: Setup Python environment
         uses: actions/setup-python@v6
         with:
-          python-version: 3.14.3
+          python-version: 3.14.4
 
       - name: Install Chrome
         uses: browser-actions/setup-chrome@v2
