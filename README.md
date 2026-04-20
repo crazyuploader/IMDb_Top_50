@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-04-19
+**Top IMDb Movies as of:** 2026-04-20
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -26,100 +26,100 @@
 
 1. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-2. [Thrash](https://www.imdb.com/title/tt32362890/)
+2. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
 
-3. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+3. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
-4. [The Drama](https://www.imdb.com/title/tt33071426/)
+4. [Thrash](https://www.imdb.com/title/tt32362890/)
 
-5. [Crime 101](https://www.imdb.com/title/tt32430579/)
+5. [Roommates](https://www.imdb.com/title/tt37540875/)
 
-6. [Outcome](https://www.imdb.com/title/tt23724682/)
+6. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-7. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
+7. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-8. [Send Help](https://www.imdb.com/title/tt8036976/)
+8. [Balls Up](https://www.imdb.com/title/tt26735622/)
 
-9. [Michael](https://www.imdb.com/title/tt11378946/)
+9. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-10. [Pizza Movie](https://www.imdb.com/title/tt37209937/)
+10. [Michael](https://www.imdb.com/title/tt11378946/)
 
-11. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
+11. [Outcome](https://www.imdb.com/title/tt23724682/)
 
-12. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
+12. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-13. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
+13. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
 
-14. [Mercy](https://www.imdb.com/title/tt31050594/)
+14. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-15. [The Bride!](https://www.imdb.com/title/tt30851137/)
+15. [180](https://www.imdb.com/title/tt40891145/)
 
-16. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
+16. [Focker-In-Law](https://www.imdb.com/title/tt34966140/)
 
-17. [Tu Yaa Main](https://www.imdb.com/title/tt36118360/)
+17. [The Legend of Aang: The Last Airbender](https://www.imdb.com/title/tt18259538/)
 
-18. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+18. [Tom Clancy's Jack Ryan: Ghost War](https://www.imdb.com/title/tt34378301/)
 
-19. [Hoppers](https://www.imdb.com/title/tt26443616/)
+19. [Toaster](https://www.imdb.com/title/tt34498610/)
 
-20. [War Machine](https://www.imdb.com/title/tt15940132/)
+20. [The Hunger Games: Sunrise on the Reaping](https://www.imdb.com/title/tt32558705/)
 
-21. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+21. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
 
-22. [Faces of Death](https://www.imdb.com/title/tt14619456/)
+22. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
 
-23. [The Invite](https://www.imdb.com/title/tt14173636/)
+23. [War Machine](https://www.imdb.com/title/tt15940132/)
 
-24. [You, Me & Tuscany](https://www.imdb.com/title/tt36352591/)
+24. [Busboys](https://www.imdb.com/title/tt34705112/)
 
-25. [GOAT](https://www.imdb.com/title/tt27613895/)
+25. [Bhooth Bangla](https://www.imdb.com/title/tt29540862/)
 
-26. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+26. [Mercy](https://www.imdb.com/title/tt31050594/)
 
-27. [Scream 7](https://www.imdb.com/title/tt27047903/)
+27. [The Invite](https://www.imdb.com/title/tt14173636/)
 
-28. [Backrooms](https://www.imdb.com/title/tt26657236/)
+28. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-29. [Pretty Lethal](https://www.imdb.com/title/tt26678938/)
+29. [Mike & Nick & Nick & Alice](https://www.imdb.com/title/tt27552099/)
 
-30. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+30. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-31. [The Yeti](https://www.imdb.com/title/tt14500286/)
+31. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-32. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+32. [Peaky Blinders: The Immortal Man](https://www.imdb.com/title/tt15574124/)
 
-33. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+33. [Mother Mary](https://www.imdb.com/title/tt27200708/)
 
-34. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+34. [The Dog Stars](https://www.imdb.com/title/tt21285562/)
 
-35. [Shelter](https://www.imdb.com/title/tt32357218/)
+35. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-36. [The Rip](https://www.imdb.com/title/tt32642706/)
+36. [Tu Yaa Main](https://www.imdb.com/title/tt36118360/)
 
-37. [The Hunger Games: Sunrise on the Reaping](https://www.imdb.com/title/tt32558705/)
+37. [Passenger](https://www.imdb.com/title/tt33763941/)
 
-38. [S4: The Bob Lazar Story](https://www.imdb.com/title/tt37605896/)
+38. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-39. [Supergirl](https://www.imdb.com/title/tt8814476/)
+39. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-40. [A Great Awakening](https://www.imdb.com/title/tt33305882/)
+40. [GOAT](https://www.imdb.com/title/tt27613895/)
 
-41. [Beast](https://www.imdb.com/title/tt7708226/)
+41. [The Yeti](https://www.imdb.com/title/tt14500286/)
 
-42. [Reminders of Him](https://www.imdb.com/title/tt33714084/)
+42. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-43. [O' Romeo](https://www.imdb.com/title/tt31969779/)
+43. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-44. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+44. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
 
-45. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+45. [You, Me & Tuscany](https://www.imdb.com/title/tt36352591/)
 
-46. [Mother Mary](https://www.imdb.com/title/tt27200708/)
+46. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-47. [Psycho Killer](https://www.imdb.com/title/tt1764551/)
+47. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-48. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
+48. [Pizza Movie](https://www.imdb.com/title/tt37209937/)
 
-49. [Feel My Voice](https://www.imdb.com/title/tt38589464/)
+49. [Scream 7](https://www.imdb.com/title/tt27047903/)
 
-50. [Avengers: Doomsday](https://www.imdb.com/title/tt21357150/)
+50. [S4: The Bob Lazar Story](https://www.imdb.com/title/tt37605896/)
