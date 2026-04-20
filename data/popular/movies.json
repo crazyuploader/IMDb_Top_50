@@ -396,17 +396,6 @@
     "certificate": "R"
   },
   {
-    "name": "The Invite",
-    "rating": "5.6",
-    "votes": "278",
-    "link": "https://www.imdb.com/title/tt14173636/",
-    "image": "https://m.media-amazon.com/images/M/MV5BN2ZjZWI0YTctOGJmNC00MWJlLTk4MTAtM2RlZjgxYmY4ZmE5XkEyXkFqcGc@._V1_.jpg",
-    "plot": "Joe and Angela&apos;s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-    "genres": "Comedy, Drama",
-    "runtime": "107",
-    "certificate": "R"
-  },
-  {
     "name": "Hoppers",
     "rating": "7.4",
     "votes": "34687",
@@ -1098,5 +1087,16 @@
     "genres": "Action, Horror, Thriller",
     "runtime": "88",
     "certificate": "R"
+  },
+  {
+    "name": "The Mummy",
+    "rating": "7.1",
+    "votes": "500506",
+    "link": "https://www.imdb.com/title/tt0120616/",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTY4YWE0OGMtNjU0Yi00YzIwLTk3NTktM2ZiYWQwNjM4MmMxXkEyXkFqcGc@._V1_.jpg",
+    "plot": "At an archaeological dig in the ancient city of Hamunaptra, an American serving in the French Foreign Legion accidentally awakens a mummy who begins to wreak havoc as he searches for the reincarnation of his long-lost love.",
+    "genres": "Action, Adventure, Fantasy",
+    "runtime": "124",
+    "certificate": "PG-13"
   }
 ]

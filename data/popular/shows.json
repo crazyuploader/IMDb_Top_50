@@ -1023,17 +1023,6 @@
     "certificate": "TV-MA"
   },
   {
-    "name": "Ripple",
-    "rating": "7.5",
-    "votes": "4079",
-    "link": "https://www.imdb.com/title/tt33378120/",
-    "image": "https://m.media-amazon.com/images/M/MV5BZTcyMjk3NWItNjk5My00YmM4LWI1OGItNzZmZTI2ZTZmYThjXkEyXkFqcGc@._V1_.jpg",
-    "plot": "Four strangers living in New York City attempt to navigate their lives after they each experience a pivotal loss generating a ripple effect that causes their stories to interconnect.",
-    "genres": "Drama",
-    "runtime": "0",
-    "certificate": "TV-PG"
-  },
-  {
     "name": "The Last of Us",
     "rating": "8.5",
     "votes": "734323",
@@ -1098,5 +1087,16 @@
     "genres": "Crime, Drama, Mystery",
     "runtime": "0",
     "certificate": "TV-14"
+  },
+  {
+    "name": "Chernobyl",
+    "rating": "9.3",
+    "votes": "1031175",
+    "link": "https://www.imdb.com/title/tt7366338/",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzU0OTI4YTQtNGQ1ZS00ZjA4LTg3MTMtZjkyZWNjN2RiZDJmXkEyXkFqcGc@._V1_.jpg",
+    "plot": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+    "genres": "Drama, History, Thriller",
+    "runtime": "0",
+    "certificate": "TV-MA"
   }
 ]
