@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-04-21
+**Top IMDb Movies as of:** 2026-04-22
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -26,7 +26,7 @@
 
 1. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-2. [Lee Cronin's the Mummy](https://www.imdb.com/title/tt32612507/)
+2. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
 
 3. [Street Fighter](https://www.imdb.com/title/tt27419420/)
 
@@ -54,7 +54,7 @@
 
 15. [180](https://www.imdb.com/title/tt40891145/)
 
-16. [Focker-In-Law](https://www.imdb.com/title/tt34966140/)
+16. [Focker-in-Law](https://www.imdb.com/title/tt34966140/)
 
 17. [The Legend of Aang: The Last Airbender](https://www.imdb.com/title/tt18259538/)
 
