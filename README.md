@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-04-22
+**Top IMDb Movies as of:** 2026-04-23
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -48,7 +48,7 @@
 
 12. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-13. [Dhurandhar The Revenge](https://www.imdb.com/title/tt39139925/)
+13. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
 14. [Send Help](https://www.imdb.com/title/tt8036976/)
 

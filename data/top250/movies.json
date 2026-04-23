@@ -980,7 +980,7 @@
   {
     "Rank": "164",
     "Movie Name": "Monty Python and the Holy Grail",
-    "IMDb Rating": "8.2",
+    "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0071853/"
   },
   {
@@ -1087,15 +1087,15 @@
   },
   {
     "Rank": "182",
-    "Movie Name": "Warrior",
-    "IMDb Rating": "8.1",
-    "Movie Link": "https://www.imdb.com/title/tt1291584/"
-  },
-  {
-    "Rank": "183",
     "Movie Name": "Barry Lyndon",
     "IMDb Rating": "8.1",
     "Movie Link": "https://www.imdb.com/title/tt0072684/"
+  },
+  {
+    "Rank": "183",
+    "Movie Name": "Warrior",
+    "IMDb Rating": "8.1",
+    "Movie Link": "https://www.imdb.com/title/tt1291584/"
   },
   {
     "Rank": "184",
@@ -1345,15 +1345,15 @@
   },
   {
     "Rank": "225",
-    "Movie Name": "The Sound of Music",
-    "IMDb Rating": "8.1",
-    "Movie Link": "https://www.imdb.com/title/tt0059742/"
-  },
-  {
-    "Rank": "226",
     "Movie Name": "Jai Bhim",
     "IMDb Rating": "8.6",
     "Movie Link": "https://www.imdb.com/title/tt15097216/"
+  },
+  {
+    "Rank": "226",
+    "Movie Name": "The Sound of Music",
+    "IMDb Rating": "8.1",
+    "Movie Link": "https://www.imdb.com/title/tt0059742/"
   },
   {
     "Rank": "227",
@@ -1492,11 +1492,5 @@
     "Movie Name": "Drishyam",
     "IMDb Rating": "8.2",
     "Movie Link": "https://www.imdb.com/title/tt4430212/"
-  },
-  {
-    "Rank": "250",
-    "Movie Name": "Yedinci Kogustaki Mucize",
-    "IMDb Rating": "8.2",
-    "Movie Link": "https://www.imdb.com/title/tt10431500/"
   }
 ]
