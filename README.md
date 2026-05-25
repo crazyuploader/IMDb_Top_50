@@ -24,7 +24,7 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+1. [The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
 2. [Michael](https://www.imdb.com/title/tt11378946/)
 
