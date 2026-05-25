@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-05-24
+**Top IMDb Movies as of:** 2026-05-25
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -24,102 +24,102 @@
 
 ## IMDb Top 50 Movies List
 
-1. [Michael](https://www.imdb.com/title/tt11378946/)
+1. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
-2. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
+2. [Michael](https://www.imdb.com/title/tt11378946/)
 
-3. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
+3. [Tom Clancy's Jack Ryan: Ghost War](https://www.imdb.com/title/tt34378301/)
 
-4. [The Odyssey](https://www.imdb.com/title/tt33764258/)
+4. [Ladies First](https://www.imdb.com/title/tt34611082/)
 
-5. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
+5. [Project Hail Mary](https://www.imdb.com/title/tt12042730/)
 
-6. [Backrooms](https://www.imdb.com/title/tt26657236/)
+6. [Remarkably Bright Creatures](https://www.imdb.com/title/tt33100314/)
 
-7. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
+7. [Mortal Kombat II](https://www.imdb.com/title/tt17490712/)
 
-8. [Apex](https://www.imdb.com/title/tt16431404/)
+8. [The Sheep Detectives](https://www.imdb.com/title/tt32565993/)
 
-9. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
+9. [Backrooms](https://www.imdb.com/title/tt26657236/)
 
-10. [Send Help](https://www.imdb.com/title/tt8036976/)
+10. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
 
-11. [In the Grey](https://www.imdb.com/title/tt27681354/)
+11. [The Odyssey](https://www.imdb.com/title/tt33764258/)
 
-12. [GOAT](https://www.imdb.com/title/tt27613895/)
+12. [Passenger](https://www.imdb.com/title/tt33763941/)
 
-13. [Kartavya](https://www.imdb.com/title/tt39664733/)
+13. [Apex](https://www.imdb.com/title/tt16431404/)
 
-14. [Swapped](https://www.imdb.com/title/tt29552248/)
+14. [The Devil Wears Prada 2](https://www.imdb.com/title/tt33612209/)
 
-15. [Hokum](https://www.imdb.com/title/tt35672862/)
+15. [The Bride!](https://www.imdb.com/title/tt30851137/)
 
-16. [The Drama](https://www.imdb.com/title/tt33071426/)
+16. [Send Help](https://www.imdb.com/title/tt8036976/)
 
-17. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+17. [Fjord](https://www.imdb.com/title/tt35410859/)
 
-18. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
+18. [GOAT](https://www.imdb.com/title/tt27613895/)
 
 19. [The Crash](https://www.imdb.com/title/tt40792117/)
 
-20. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
+20. [In the Grey](https://www.imdb.com/title/tt27681354/)
 
-21. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
+21. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
 
-22. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
+22. [Hokum](https://www.imdb.com/title/tt35672862/)
 
-23. [Masters of the Universe](https://www.imdb.com/title/tt0427340/)
+23. [The Super Mario Galaxy Movie](https://www.imdb.com/title/tt28650488/)
 
-24. [Faces of Death](https://www.imdb.com/title/tt14619456/)
+24. [Hope](https://www.imdb.com/title/tt27369017/)
 
-25. [Lee Cronin's The Mummy](https://www.imdb.com/title/tt32612507/)
+25. [Swapped](https://www.imdb.com/title/tt29552248/)
 
-26. [Crime 101](https://www.imdb.com/title/tt32430579/)
+26. [The Drama](https://www.imdb.com/title/tt33071426/)
 
-27. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
+27. [I Love Boosters](https://www.imdb.com/title/tt30827810/)
 
-28. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
+28. [Wuthering Heights](https://www.imdb.com/title/tt32897959/)
 
-29. [Hoppers](https://www.imdb.com/title/tt26443616/)
+29. [Dhurandhar: The Revenge](https://www.imdb.com/title/tt39139925/)
 
-30. [Is God Is](https://www.imdb.com/title/tt34379307/)
+30. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
 
-31. [Passenger](https://www.imdb.com/title/tt33763941/)
+31. [Kartavya](https://www.imdb.com/title/tt39664733/)
 
-32. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
+32. [Victorian Psycho](https://www.imdb.com/title/tt34374553/)
 
-33. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
+33. [Mother Mary](https://www.imdb.com/title/tt27200708/)
 
-34. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
+34. [Scary Movie](https://www.imdb.com/title/tt32093575/)
 
-35. [War Machine](https://www.imdb.com/title/tt15940132/)
+35. [Is God Is](https://www.imdb.com/title/tt34379307/)
 
-36. [Disclosure Day](https://www.imdb.com/title/tt15047880/)
+36. [Crime 101](https://www.imdb.com/title/tt32430579/)
 
-37. [Wildwood](https://www.imdb.com/title/tt2056785/)
+37. [Spider-Man: Brand New Day](https://www.imdb.com/title/tt22084616/)
 
-38. [The Rip](https://www.imdb.com/title/tt32642706/)
+38. [Her Private Hell](https://www.imdb.com/title/tt36629665/)
 
-39. [Beast](https://www.imdb.com/title/tt7708226/)
+39. [Pressure](https://www.imdb.com/title/tt32547691/)
 
-40. [Paper Tiger](https://www.imdb.com/title/tt34385689/)
+40. [Ready or Not 2: Here I Come](https://www.imdb.com/title/tt33978029/)
 
-41. [Scary Movie](https://www.imdb.com/title/tt32093575/)
+41. [The Black Ball](https://www.imdb.com/title/tt35511966/)
 
-42. [Balls Up](https://www.imdb.com/title/tt26735622/)
+42. [Hoppers](https://www.imdb.com/title/tt26443616/)
 
-43. [Deep Water](https://www.imdb.com/title/tt29516222/)
+43. [Shelter](https://www.imdb.com/title/tt32357218/)
 
-44. [Raja Shivaji](https://www.imdb.com/title/tt31390893/)
+44. [28 Years Later: The Bone Temple](https://www.imdb.com/title/tt32141377/)
 
-45. [Karuppu](https://www.imdb.com/title/tt33988385/)
+45. [Greenland 2: Migration](https://www.imdb.com/title/tt14850054/)
 
-46. [How to Make a Killing](https://www.imdb.com/title/tt4357198/)
+46. [They Will Kill You](https://www.imdb.com/title/tt31728330/)
 
-47. [Shelter](https://www.imdb.com/title/tt32357218/)
+47. [War Machine](https://www.imdb.com/title/tt15940132/)
 
-48. [Mercy](https://www.imdb.com/title/tt31050594/)
+48. [The Magic Faraway Tree](https://www.imdb.com/title/tt7734244/)
 
-49. [KD: The Devil](https://www.imdb.com/title/tt15295368/)
+49. [Supergirl](https://www.imdb.com/title/tt8814476/)
 
-50. [Pressure](https://www.imdb.com/title/tt32547691/)
+50. [Minotaur](https://www.imdb.com/title/tt37118301/)
