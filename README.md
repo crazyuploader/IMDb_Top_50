@@ -2,7 +2,7 @@
 
 ## Original Medium Post: [Link](https://medium.com/@nishantsahoo/which-movie-should-i-watch-5c83a3c0f5b1)
 
-**Top IMDb Movies as of:** 2026-05-26
+**Top IMDb Movies as of:** 2026-05-27
 
 **IMDb Top 50 Movies Page:** [Link](https://www.imdb.com/search/title/?title_type=feature&release_date=2026-01-01,2026-12-31)
 
@@ -24,7 +24,7 @@
 
 ## IMDb Top 50 Movies List
 
-1. [The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
+1. [Star Wars: The Mandalorian and Grogu](https://www.imdb.com/title/tt30825738/)
 
 2. [Michael](https://www.imdb.com/title/tt11378946/)
 
