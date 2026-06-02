@@ -13,7 +13,7 @@ import random
 import subprocess
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timedelta
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -26,6 +26,16 @@ ORIGINAL_POST_URL = (
 
 # Get current year
 CURRENT_YEAR = datetime.now().year
+
+CACHE_TTL_DAYS = 7
+
+_ENRICH_FIELDS = {
+    "keywords", "countriesOfOrigin", "meterRanking", "meterRankChange",
+    "directors", "writers", "stars", "topCast", "budget", "openingWeekendGross",
+    "lifetimeGross", "worldwideGross", "filmingLocations", "spokenLanguages",
+    "soundMix", "aspectRatio", "color", "awardWins", "awardNominations",
+    "titleType", "isSeries", "isEpisode", "isAdult", "last_updated",
+}
 
 # IMDb URLs
 IMDB_BASE_URL = "https://www.imdb.com"
@@ -272,24 +282,66 @@ def enrich_title_data(driver, url: str) -> dict:
     return enrichment
 
 
-def enrich_items(items: list[dict], link_key: str = "link") -> list[dict]:
+def _title_id_from_url(url: str) -> str:
+    parts = [p for p in url.rstrip("/").split("/") if p.startswith("tt")]
+    return parts[0] if parts else url
+
+
+def enrich_items(items: list[dict], link_key: str = "link", existing: list[dict] = None) -> list[dict]:
     """
     Enrich a list of title dicts by visiting each individual IMDb page.
+    Reuses enrichment fields from `existing` if last_updated is within CACHE_TTL_DAYS.
     Rate-limited with a random 5-10s gap between requests.
     """
     if not items:
         return items
 
+    cache = {}
+    if existing:
+        for ex in existing:
+            url = ex.get(link_key, "")
+            if url:
+                tid = _title_id_from_url(url)
+                cache[tid] = {k: v for k, v in ex.items() if k in _ENRICH_FIELDS}
+
+    now = datetime.now()
+    ttl = timedelta(days=CACHE_TTL_DAYS)
+
+    to_fetch = []
+    for item in items:
+        url = item.get(link_key, "")
+        if not url:
+            continue
+        cached = cache.get(_title_id_from_url(url))
+        if cached:
+            last_updated = cached.get("last_updated", "")
+            if last_updated:
+                try:
+                    if now - datetime.fromisoformat(last_updated) < ttl:
+                        item.update(cached)
+                        continue
+                except Exception:
+                    pass
+        to_fetch.append(item)
+
+    cached_count = len(items) - len(to_fetch)
+    if cached_count:
+        print(f"  {cached_count} items served from cache.")
+    if not to_fetch:
+        return items
+
+    print(f"  Fetching {len(to_fetch)} items from IMDb...")
     driver = get_driver()
     try:
-        for i, item in enumerate(items):
+        for i, item in enumerate(to_fetch):
             url = item.get(link_key, "")
             if not url:
                 continue
-            print(f"  Enriching ({i+1}/{len(items)}): {item.get('name', url)}")
+            print(f"  Enriching ({i+1}/{len(to_fetch)}): {item.get('name', url)}")
             enrichment = enrich_title_data(driver, url)
+            enrichment["last_updated"] = now.isoformat()
             item.update(enrichment)
-            if i < len(items) - 1:
+            if i < len(to_fetch) - 1:
                 delay = random.uniform(5, 10)
                 print(f"    Waiting {delay:.1f}s...")
                 time.sleep(delay)
@@ -299,7 +351,7 @@ def enrich_items(items: list[dict], link_key: str = "link") -> list[dict]:
     return items
 
 
-def fetch_popular_movies() -> list[dict]:
+def fetch_popular_movies(existing: list[dict] = None) -> list[dict]:
     """
     Fetch information about popular Movies from IMDb.
 
@@ -368,11 +420,11 @@ def fetch_popular_movies() -> list[dict]:
         driver.quit()
 
     print("  Enriching Popular Movies from individual pages...")
-    movie_data = enrich_items(movie_data)
+    movie_data = enrich_items(movie_data, existing=existing)
     return movie_data
 
 
-def fetch_top_50_movies() -> list[dict]:
+def fetch_top_50_movies(existing: list[dict] = None) -> list[dict]:
     """
     Fetch information about the Top 50 Movies of the current year from IMDb.
 
@@ -447,11 +499,11 @@ def fetch_top_50_movies() -> list[dict]:
         driver.quit()
 
     print("  Enriching Top 50 Movies from individual pages...")
-    movie_data = enrich_items(movie_data)
+    movie_data = enrich_items(movie_data, existing=existing)
     return movie_data
 
 
-def fetch_top_250_movies() -> list[dict]:
+def fetch_top_250_movies(existing: list[dict] = None) -> list[dict]:
     """
     Fetch the Top 250 Movies from IMDb and return structured data.
     """
@@ -513,11 +565,11 @@ def fetch_top_250_movies() -> list[dict]:
         driver.quit()
 
     print("  Enriching Top 250 Movies from individual pages...")
-    movie_data = enrich_items(movie_data)
+    movie_data = enrich_items(movie_data, existing=existing)
     return movie_data
 
 
-def fetch_popular_shows() -> list[dict]:
+def fetch_popular_shows(existing: list[dict] = None) -> list[dict]:
     """
     Fetch information about popular TV Shows from IMDb.
 
@@ -584,11 +636,11 @@ def fetch_popular_shows() -> list[dict]:
         driver.quit()
 
     print("  Enriching Popular Shows from individual pages...")
-    show_data = enrich_items(show_data)
+    show_data = enrich_items(show_data, existing=existing)
     return show_data
 
 
-def fetch_top_50_shows() -> list[dict]:
+def fetch_top_50_shows(existing: list[dict] = None) -> list[dict]:
     """
     Fetch information about the Top 50 Shows of the current year from IMDb.
 
@@ -661,11 +713,11 @@ def fetch_top_50_shows() -> list[dict]:
         driver.quit()
 
     print("  Enriching Top 50 Shows from individual pages...")
-    show_data = enrich_items(show_data)
+    show_data = enrich_items(show_data, existing=existing)
     return show_data
 
 
-def fetch_top_250_tv() -> list[dict]:
+def fetch_top_250_tv(existing: list[dict] = None) -> list[dict]:
     """
     Fetch the Top 250 TV Shows from IMDb and return structured data.
     """
@@ -727,7 +779,7 @@ def fetch_top_250_tv() -> list[dict]:
         driver.quit()
 
     print("  Enriching Top 250 TV Shows from individual pages...")
-    show_data = enrich_items(show_data)
+    show_data = enrich_items(show_data, existing=existing)
     return show_data
 
 
@@ -760,6 +812,14 @@ def ensure_path_directory(full_path):
     directory = os.path.dirname(full_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
+
+
+def save_to_json(fetched_data, file_path):
+    ensure_path_directory(file_path)
+    if not fetched_data:
+        return
+    with open(file_path, "w") as f:
+        json.dump(fetched_data, f, indent=2)
 
 
 def save_to_csv(fetched_data, file_path, content_type):
@@ -834,46 +894,49 @@ def save_to_md(fetched_data):
     file.close()
 
 
+def _load_json(path: str) -> list[dict]:
+    if os.path.exists(path):
+        try:
+            with open(path) as f:
+                return json.load(f)
+        except Exception:
+            pass
+    return []
+
+
 if __name__ == "__main__":
     print("/// IMDb Top 50 & 250 Movie/TV Show Data Scraper ///\n")
     print(f"Original Medium Post: {ORIGINAL_POST_URL}\n")
 
     print("\n--- 1. Top 50 Movies ---")
-    fetched_movies = fetch_top_50_movies()
-    print("  Saving Top 50 Movies to CSV...")
-    save_to_csv(fetched_movies, "data/top50/movies.csv", "movies")
-    print("  Saving Top 50 Movies to Markdown...")
+    fetched_movies = fetch_top_50_movies(existing=_load_json("data/top50/movies.json"))
+    save_to_json(fetched_movies, "data/top50/movies.json")
     save_to_md(fetched_movies)
     print("  Done.")
 
     print("\n--- 2. Top 250 Movies ---")
-    fetched_top250_movies = fetch_top_250_movies()
-    print("  Saving Top 250 Movies to CSV...")
-    save_to_csv(fetched_top250_movies, "data/top250/movies.csv", "movies")
+    fetched_top250_movies = fetch_top_250_movies(existing=_load_json("data/top250/movies.json"))
+    save_to_json(fetched_top250_movies, "data/top250/movies.json")
     print("  Done.")
 
     print("\n--- 3. Top 50 TV Shows ---")
-    fetched_shows = fetch_top_50_shows()
-    print("  Saving Top 50 TV Shows to CSV...")
-    save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
+    fetched_shows = fetch_top_50_shows(existing=_load_json("data/top50/shows.json"))
+    save_to_json(fetched_shows, "data/top50/shows.json")
     print("  Done.")
 
     print("\n--- 4. Top 250 TV Shows ---")
-    fetched_top250_shows = fetch_top_250_tv()
-    print("  Saving Top 250 TV Shows to CSV...")
-    save_to_csv(fetched_top250_shows, "data/top250/shows.csv", "shows")
+    fetched_top250_shows = fetch_top_250_tv(existing=_load_json("data/top250/shows.json"))
+    save_to_json(fetched_top250_shows, "data/top250/shows.json")
     print("  Done.")
 
     print("\n--- 5. Popular Movies ---")
-    fetched_popular_movies = fetch_popular_movies()
-    print("  Saving Popular Movies to CSV...")
-    save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
+    fetched_popular_movies = fetch_popular_movies(existing=_load_json("data/popular/movies.json"))
+    save_to_json(fetched_popular_movies, "data/popular/movies.json")
     print("  Done.")
 
     print("\n--- 6. Popular TV Shows ---")
-    fetched_popular_shows = fetch_popular_shows()
-    print("  Saving Popular TV Shows to CSV...")
-    save_to_csv(fetched_popular_shows, "data/popular/shows.csv", "shows")
+    fetched_popular_shows = fetch_popular_shows(existing=_load_json("data/popular/shows.json"))
+    save_to_json(fetched_popular_shows, "data/popular/shows.json")
     print("  Done.")
 
     if sys.version_info < (3, 10):
