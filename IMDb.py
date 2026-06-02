@@ -807,28 +807,50 @@ def save_to_md(fetched_data):
 
 
 if __name__ == "__main__":
-    print("/// IMDb Top 50 & 250 Movie/TV Show Data Scraper ///")
-    print("")
-    print(f"Original Medium Post: {ORIGINAL_POST_URL}")
-    print("")
+    print("/// IMDb Top 50 & 250 Movie/TV Show Data Scraper ///\n")
+    print(f"Original Medium Post: {ORIGINAL_POST_URL}\n")
+
+    print("\n--- 1. Top 50 Movies ---")
     fetched_movies = fetch_top_50_movies()
+    print("  Saving Top 50 Movies to CSV...")
     save_to_csv(fetched_movies, "data/top50/movies.csv", "movies")
+    print("  Saving Top 50 Movies to Markdown...")
     save_to_md(fetched_movies)
+    print("  Done.")
+
+    print("\n--- 2. Top 250 Movies ---")
     fetched_top250_movies = fetch_top_250_movies()
+    print("  Saving Top 250 Movies to CSV...")
     save_to_csv(fetched_top250_movies, "data/top250/movies.csv", "movies")
+    print("  Done.")
 
+    print("\n--- 3. Top 50 TV Shows ---")
     fetched_shows = fetch_top_50_shows()
+    print("  Saving Top 50 TV Shows to CSV...")
     save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
+    print("  Done.")
+
+    print("\n--- 4. Top 250 TV Shows ---")
     fetched_top250_shows = fetch_top_250_tv()
+    print("  Saving Top 250 TV Shows to CSV...")
     save_to_csv(fetched_top250_shows, "data/top250/shows.csv", "shows")
+    print("  Done.")
 
+    print("\n--- 5. Popular Movies ---")
     fetched_popular_movies = fetch_popular_movies()
+    print("  Saving Popular Movies to CSV...")
     save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
+    print("  Done.")
 
+    print("\n--- 6. Popular TV Shows ---")
     fetched_popular_shows = fetch_popular_shows()
+    print("  Saving Popular TV Shows to CSV...")
     save_to_csv(fetched_popular_shows, "data/popular/shows.csv", "shows")
+    print("  Done.")
 
     if sys.version_info < (3, 10):
+        print("\nPrinting Top 50 Movies (Python < 3.10 format):")
         print_top_50_movies(fetched_movies)
-    print("")
+
+    print("\n/// Scraping Complete ///")
     print(f"Original Medium Post: {ORIGINAL_POST_URL}")

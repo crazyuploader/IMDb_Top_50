@@ -13,7 +13,7 @@ YELLOW="\033[1;33m"
 ROOT_DIR="$(pwd)"
 
 # Main Script
-./IMDb.py 1>/dev/null
+PYTHONUNBUFFERED=1 ./IMDb.py
 ERROR_CODE="$?"
 if [[ "${ERROR_CODE}" != "0" ]]; then
 	echo -e "${RED}Running Python IMDb.py Program Failed.${NC}"
