@@ -9,6 +9,7 @@ Version: 3.0
 
 import json
 import os
+import random
 import subprocess
 import sys
 import time
@@ -61,6 +62,213 @@ def get_driver():
     driver.set_page_load_timeout(90)
     driver.implicitly_wait(15)
     return driver
+
+
+def enrich_title_data(driver, url: str) -> dict:
+    """
+    Visit an individual IMDb title page and extract additional fields
+    from __NEXT_DATA__ that aren't available on listing pages.
+    """
+    enrichment = {
+        "keywords": "",
+        "countriesOfOrigin": "",
+        "meterRanking": "",
+        "meterRankChange": "",
+        "directors": "",
+        "writers": "",
+        "stars": "",
+        "topCast": "",
+        "budget": "",
+        "openingWeekendGross": "",
+        "lifetimeGross": "",
+        "worldwideGross": "",
+        "filmingLocations": "",
+        "spokenLanguages": "",
+        "soundMix": "",
+        "aspectRatio": "",
+        "color": "",
+        "awardWins": 0,
+        "awardNominations": 0,
+        "titleType": "",
+        "isSeries": False,
+        "isEpisode": False,
+        "isAdult": False,
+    }
+    try:
+        driver.get(url)
+        time.sleep(3)
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        script = soup.find("script", id="__NEXT_DATA__")
+        if not script:
+            print(f"    No __NEXT_DATA__ found for {url}")
+            return enrichment
+
+        data = json.loads(script.text)
+        page_props = data.get("props") or {}
+        page_props = page_props.get("pageProps") or {}
+        above = page_props.get("aboveTheFoldData") or {}
+        main = page_props.get("mainColumnData") or {}
+
+        # Keywords
+        kw = above.get("keywords") or {}
+        enrichment["keywords"] = ", ".join(
+            e["node"]["text"] for e in (kw.get("edges") or [])
+        )
+
+        # Countries of origin
+        co = above.get("countriesOfOrigin") or {}
+        enrichment["countriesOfOrigin"] = ", ".join(
+            c["id"] for c in (co.get("countries") or [])
+        )
+
+        # Meter ranking (popularity)
+        meter = above.get("meterRanking") or {}
+        enrichment["meterRanking"] = str(meter.get("currentRank") or "")
+        change = meter.get("rankChange")
+        if change:
+            enrichment["meterRankChange"] = (
+                f"{change.get('changeDirection', '')} {change.get('difference', 0)}"
+            )
+
+        # Title type metadata
+        tt = above.get("titleType") or {}
+        enrichment["titleType"] = tt.get("text") or ""
+        enrichment["isSeries"] = bool(tt.get("isSeries"))
+        enrichment["isEpisode"] = bool(tt.get("isEpisode"))
+
+        enrichment["isAdult"] = bool(above.get("isAdult"))
+
+        # Principal credits (directors, writers, stars)
+        credits = above.get("principalCreditsV2") or []
+        for group in credits:
+            cat = (group.get("grouping") or {}).get("text") or ""
+            names = [
+                c["name"]["nameText"]["text"]
+                for c in (group.get("credits") or [])
+                if c.get("name") and c["name"].get("nameText")
+            ]
+            if cat == "Director":
+                enrichment["directors"] = ", ".join(names)
+            elif cat == "Writers":
+                enrichment["writers"] = ", ".join(names)
+            elif cat == "Stars":
+                enrichment["stars"] = ", ".join(names)
+
+        # Top cast (up to 5 with character names)
+        cast = above.get("castV2") or {}
+        if cast:
+            entries = []
+            for edge in (cast.get("edges") or [])[:5]:
+                node = edge.get("node") or {}
+                name = (node.get("name") or {}).get("nameText") or {}
+                name = name.get("text") or ""
+                chars = [c.get("name") or "" for c in (node.get("characters") or [])]
+                chars = [c for c in chars if c]
+                if chars:
+                    entries.append(f"{name} as {', '.join(chars)}")
+                else:
+                    entries.append(name)
+            enrichment["topCast"] = ", ".join(entries)
+
+        # Award counts
+        wins = main.get("wins") or {}
+        noms = main.get("nominationsExcludeWins") or {}
+        enrichment["awardWins"] = wins.get("total") or 0
+        enrichment["awardNominations"] = noms.get("total") or 0
+
+        # Production budget
+        budget = main.get("productionBudget") or {}
+        if budget:
+            b = budget.get("budget") or {}
+            amt = b.get("amount")
+            cur = b.get("currency") or "USD"
+            if amt is not None:
+                enrichment["budget"] = f"{cur} {amt:,}"
+
+        # Box office (opening weekend, lifetime, worldwide)
+        bg = main.get("openingWeekendGross") or {}
+        if bg:
+            total = (bg.get("gross") or {}).get("total") or {}
+            amt = total.get("amount")
+            cur = total.get("currency") or "USD"
+            if amt is not None:
+                enrichment["openingWeekendGross"] = f"{cur} {amt:,}"
+
+        lg = main.get("lifetimeGross") or {}
+        if lg:
+            total = lg.get("total") or {}
+            amt = total.get("amount")
+            cur = total.get("currency") or "USD"
+            if amt is not None:
+                enrichment["lifetimeGross"] = f"{cur} {amt:,}"
+
+        wg = main.get("worldwideGross") or {}
+        if wg:
+            total = wg.get("total") or {}
+            amt = total.get("amount")
+            cur = total.get("currency") or "USD"
+            if amt is not None:
+                enrichment["worldwideGross"] = f"{cur} {amt:,}"
+
+        # Filming locations
+        locs = main.get("filmingLocations") or {}
+        enrichment["filmingLocations"] = ", ".join(
+            e["node"]["text"] for e in (locs.get("edges") or [])
+        )
+
+        # Spoken languages
+        langs = main.get("spokenLanguages") or {}
+        enrichment["spokenLanguages"] = ", ".join(
+            l["text"] for l in (langs.get("spokenLanguages") or [])
+        )
+
+        # Technical specifications
+        tech = main.get("technicalSpecifications") or {}
+        if tech:
+            sound = tech.get("soundMixes") or {}
+            items = sound.get("items") or []
+            if items:
+                enrichment["soundMix"] = ", ".join(s["text"] for s in items)
+            aspect = tech.get("aspectRatios") or {}
+            items = aspect.get("items") or []
+            if items:
+                enrichment["aspectRatio"] = ", ".join(a["aspectRatio"] for a in items)
+            cols = tech.get("colorations") or {}
+            items = cols.get("items") or []
+            if items:
+                enrichment["color"] = ", ".join(c["text"] for c in items)
+
+    except Exception as e:
+        print(f"    Warning: Could not enrich {url}: {e}")
+
+    return enrichment
+
+
+def enrich_items(items: list[dict], link_key: str = "link") -> list[dict]:
+    """
+    Enrich a list of title dicts by visiting each individual IMDb page.
+    Rate-limited with a random 5-10s gap between requests.
+    """
+    if not items:
+        return items
+
+    driver = get_driver()
+    try:
+        for i, item in enumerate(items):
+            url = item.get(link_key, "")
+            if not url:
+                continue
+            print(f"  Enriching ({i+1}/{len(items)}): {item.get('name', url)}")
+            enrichment = enrich_title_data(driver, url)
+            item.update(enrichment)
+            if i < len(items) - 1:
+                delay = random.uniform(5, 10)
+                print(f"    Waiting {delay:.1f}s...")
+                time.sleep(delay)
+    finally:
+        driver.quit()
+
+    return items
 
 
 def fetch_popular_movies() -> list[dict]:
@@ -130,6 +338,9 @@ def fetch_popular_movies() -> list[dict]:
             )
     finally:
         driver.quit()
+
+    print("  Enriching Popular Movies from individual pages...")
+    movie_data = enrich_items(movie_data)
     return movie_data
 
 
@@ -206,17 +417,19 @@ def fetch_top_50_movies() -> list[dict]:
             )
     finally:
         driver.quit()
+
+    print("  Enriching Top 50 Movies from individual pages...")
+    movie_data = enrich_items(movie_data)
     return movie_data
 
 
-def fetch_top_250_movies():
+def fetch_top_250_movies() -> list[dict]:
     """
-    Fetch the Top 250 Movies from IMDb and save them to a CSV file.
+    Fetch the Top 250 Movies from IMDb and return structured data.
     """
     print(f"Fetching Top 250 Movies from IMDb       ->", IMDB_TOP_250_MOVIES_URL)
-    fname = "data/top250/movies.csv"
-    ensure_path_directory(fname)
 
+    movie_data = []
     driver = get_driver()
     try:
         driver.get(IMDB_TOP_250_MOVIES_URL)
@@ -228,24 +441,52 @@ def fetch_top_250_movies():
             soup.find("script", attrs={"type": "application/ld+json"}).text
         )
 
-        file = open(fname, "w")
-        file.write("Rank, Movie Name, IMDb Rating, Movie Link\n\n")
-        file.close
+        for rank, movie in enumerate(json_data["itemListElement"], 1):
+            item = movie["item"]
+            duration = item.get("duration", "")
+            runtime = 0
+            if duration:
+                try:
+                    parts = (
+                        duration.replace("PT", "")
+                        .replace("H", " ")
+                        .replace("M", "")
+                        .split()
+                    )
+                    if len(parts) == 2:
+                        runtime = int(parts[0]) * 60 + int(parts[1])
+                    elif len(parts) == 1 and "H" in duration:
+                        runtime = int(parts[0]) * 60
+                    elif len(parts) == 1 and "M" in duration:
+                        runtime = int(parts[0])
+                except Exception:
+                    pass
 
-        file = open(fname, "a")
-        i = 1
-        for movie in json_data["itemListElement"]:
-            movie_rank = i
-            movie_name = movie["item"]["name"]
-            movie_rating = movie["item"]["aggregateRating"]["ratingValue"]
-            movie_link = movie["item"]["url"]
-            file.write(
-                f'"{movie_rank}", "{movie_name}", "{movie_rating}", "{movie_link}"\n'
+            genre = item.get("genre", "")
+            if isinstance(genre, list):
+                genre = ", ".join(genre)
+
+            movie_data.append(
+                {
+                    "Rank": rank,
+                    "name": item["name"],
+                    "IMDb Rating": item.get("aggregateRating", {}).get(
+                        "ratingValue", ""
+                    ),
+                    "link": item["url"],
+                    "image": item.get("image", ""),
+                    "plot": item.get("description", ""),
+                    "genres": genre,
+                    "runtime": runtime,
+                    "certificate": item.get("contentRating", ""),
+                }
             )
-            i += 1
-        file.close
     finally:
         driver.quit()
+
+    print("  Enriching Top 250 Movies from individual pages...")
+    movie_data = enrich_items(movie_data)
+    return movie_data
 
 
 def fetch_popular_shows() -> list[dict]:
@@ -313,6 +554,9 @@ def fetch_popular_shows() -> list[dict]:
             )
     finally:
         driver.quit()
+
+    print("  Enriching Popular Shows from individual pages...")
+    show_data = enrich_items(show_data)
     return show_data
 
 
@@ -387,17 +631,19 @@ def fetch_top_50_shows() -> list[dict]:
             )
     finally:
         driver.quit()
+
+    print("  Enriching Top 50 Shows from individual pages...")
+    show_data = enrich_items(show_data)
     return show_data
 
 
-def fetch_top_250_tv():
+def fetch_top_250_tv() -> list[dict]:
     """
-    Fetch the Top 250 TV Shows from IMDb and save them to a CSV file.
+    Fetch the Top 250 TV Shows from IMDb and return structured data.
     """
     print(f"Fetching Top 250 TV Shows from IMDb     ->", IMDB_TOP_250_TV_URL)
-    fname = "data/top250/shows.csv"
-    ensure_path_directory(fname)
 
+    show_data = []
     driver = get_driver()
     try:
         driver.get(IMDB_TOP_250_TV_URL)
@@ -409,24 +655,52 @@ def fetch_top_250_tv():
             soup.find("script", attrs={"type": "application/ld+json"}).text
         )
 
-        file = open(fname, "w")
-        file.write("Rank, Show Name, IMDb Rating, Show Link\n\n")
-        file.close
+        for rank, show in enumerate(json_data["itemListElement"], 1):
+            item = show["item"]
+            duration = item.get("duration", "")
+            runtime = 0
+            if duration:
+                try:
+                    parts = (
+                        duration.replace("PT", "")
+                        .replace("H", " ")
+                        .replace("M", "")
+                        .split()
+                    )
+                    if len(parts) == 2:
+                        runtime = int(parts[0]) * 60 + int(parts[1])
+                    elif len(parts) == 1 and "H" in duration:
+                        runtime = int(parts[0]) * 60
+                    elif len(parts) == 1 and "M" in duration:
+                        runtime = int(parts[0])
+                except Exception:
+                    pass
 
-        file = open(fname, "a")
-        i = 1
-        for show in json_data["itemListElement"]:
-            show_rank = i
-            show_name = show["item"]["name"]
-            show_rating = show["item"]["aggregateRating"]["ratingValue"]
-            show_link = show["item"]["url"]
-            file.write(
-                f'"{show_rank}", "{show_name}", "{show_rating}", "{show_link}"\n'
+            genre = item.get("genre", "")
+            if isinstance(genre, list):
+                genre = ", ".join(genre)
+
+            show_data.append(
+                {
+                    "Rank": rank,
+                    "name": item["name"],
+                    "IMDb Rating": item.get("aggregateRating", {}).get(
+                        "ratingValue", ""
+                    ),
+                    "link": item["url"],
+                    "image": item.get("image", ""),
+                    "plot": item.get("description", ""),
+                    "genres": genre,
+                    "runtime": runtime,
+                    "certificate": item.get("contentRating", ""),
+                }
             )
-            i += 1
-        file.close
     finally:
         driver.quit()
+
+    print("  Enriching Top 250 TV Shows from individual pages...")
+    show_data = enrich_items(show_data)
+    return show_data
 
 
 def print_top_50_movies(movies_data):
@@ -474,7 +748,7 @@ def save_to_csv(fetched_data, file_path, content_type):
     if not fetched_data:
         return
 
-    keys = list(fetched_data[0].keys())
+    keys = list(dict.fromkeys(k for d in fetched_data for k in d.keys()))
     header = ", ".join(keys)
 
     file = open(file_path, "w")
@@ -540,11 +814,13 @@ if __name__ == "__main__":
     fetched_movies = fetch_top_50_movies()
     save_to_csv(fetched_movies, "data/top50/movies.csv", "movies")
     save_to_md(fetched_movies)
-    fetch_top_250_movies()
+    fetched_top250_movies = fetch_top_250_movies()
+    save_to_csv(fetched_top250_movies, "data/top250/movies.csv", "movies")
 
     fetched_shows = fetch_top_50_shows()
     save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
-    fetch_top_250_tv()
+    fetched_top250_shows = fetch_top_250_tv()
+    save_to_csv(fetched_top250_shows, "data/top250/shows.csv", "shows")
 
     fetched_popular_movies = fetch_popular_movies()
     save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
@@ -553,6 +829,6 @@ if __name__ == "__main__":
     save_to_csv(fetched_popular_shows, "data/popular/shows.csv", "shows")
 
     if sys.version_info < (3, 10):
-        print_top_50_movies(movie_names, movie_links)
+        print_top_50_movies(fetched_movies)
     print("")
     print(f"Original Medium Post: {ORIGINAL_POST_URL}")
