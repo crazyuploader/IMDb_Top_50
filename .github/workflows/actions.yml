@@ -35,16 +35,12 @@ jobs:
         run: |
           pip install --upgrade pipenv
           pipenv install
-          sudo npm install -g csvtojson@2.0.10
           sudo npm install -g prettier@3.5.3
 
       - name: Generate
         run: |
           chmod +x ./generate.sh
           pipenv run ./generate.sh
-
-      - name: Run Python Program
-        run: pipenv run ./IMDb.py
 
       - name: Prettify files
         run: |

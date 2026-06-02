@@ -342,9 +342,7 @@ def enrich_items(items: list[dict], link_key: str = "link", existing: list[dict]
             enrichment["last_updated"] = now.isoformat()
             item.update(enrichment)
             if i < len(to_fetch) - 1:
-                delay = random.uniform(5, 10)
-                print(f"    Waiting {delay:.1f}s...")
-                time.sleep(delay)
+                time.sleep(random.uniform(1, 2))
     finally:
         driver.quit()
 
@@ -836,7 +834,7 @@ def save_to_csv(fetched_data, file_path, content_type):
     if not fetched_data:
         return
 
-    keys = list(dict.fromkeys(k for d in fetched_data for k in d.keys()))
+    keys = [k for k in dict.fromkeys(k for d in fetched_data for k in d.keys()) if k != "last_updated"]
     header = ", ".join(keys)
 
     file = open(file_path, "w")
@@ -911,32 +909,38 @@ if __name__ == "__main__":
     print("\n--- 1. Top 50 Movies ---")
     fetched_movies = fetch_top_50_movies(existing=_load_json("data/top50/movies.json"))
     save_to_json(fetched_movies, "data/top50/movies.json")
+    save_to_csv(fetched_movies, "data/top50/movies.csv", "movies")
     save_to_md(fetched_movies)
     print("  Done.")
 
     print("\n--- 2. Top 250 Movies ---")
     fetched_top250_movies = fetch_top_250_movies(existing=_load_json("data/top250/movies.json"))
     save_to_json(fetched_top250_movies, "data/top250/movies.json")
+    save_to_csv(fetched_top250_movies, "data/top250/movies.csv", "movies")
     print("  Done.")
 
     print("\n--- 3. Top 50 TV Shows ---")
     fetched_shows = fetch_top_50_shows(existing=_load_json("data/top50/shows.json"))
     save_to_json(fetched_shows, "data/top50/shows.json")
+    save_to_csv(fetched_shows, "data/top50/shows.csv", "shows")
     print("  Done.")
 
     print("\n--- 4. Top 250 TV Shows ---")
     fetched_top250_shows = fetch_top_250_tv(existing=_load_json("data/top250/shows.json"))
     save_to_json(fetched_top250_shows, "data/top250/shows.json")
+    save_to_csv(fetched_top250_shows, "data/top250/shows.csv", "shows")
     print("  Done.")
 
     print("\n--- 5. Popular Movies ---")
     fetched_popular_movies = fetch_popular_movies(existing=_load_json("data/popular/movies.json"))
     save_to_json(fetched_popular_movies, "data/popular/movies.json")
+    save_to_csv(fetched_popular_movies, "data/popular/movies.csv", "movies")
     print("  Done.")
 
     print("\n--- 6. Popular TV Shows ---")
     fetched_popular_shows = fetch_popular_shows(existing=_load_json("data/popular/shows.json"))
     save_to_json(fetched_popular_shows, "data/popular/shows.json")
+    save_to_csv(fetched_popular_shows, "data/popular/shows.csv", "shows")
     print("  Done.")
 
     if sys.version_info < (3, 10):
