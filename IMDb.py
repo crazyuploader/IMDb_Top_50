@@ -104,49 +104,63 @@ def enrich_title_data(driver, url: str) -> dict:
             return enrichment
 
         data = json.loads(script.text)
-        page_props = data.get("props") or {}
-        page_props = page_props.get("pageProps") or {}
-        above = page_props.get("aboveTheFoldData") or {}
-        main = page_props.get("mainColumnData") or {}
+
+        def dget(obj, key):
+            val = obj.get(key) if isinstance(obj, dict) else None
+            return val if isinstance(val, dict) else {}
+
+        def lget(obj, key):
+            val = obj.get(key) if isinstance(obj, dict) else None
+            return val if isinstance(val, list) else []
+
+        page_props = dget(data, "props")
+        page_props = dget(page_props, "pageProps")
+        above = dget(page_props, "aboveTheFoldData")
+        main = dget(page_props, "mainColumnData")
 
         # Keywords
-        kw = above.get("keywords") or {}
+        kw = dget(above, "keywords")
         enrichment["keywords"] = ", ".join(
-            e["node"]["text"] for e in (kw.get("edges") or [])
+            e.get("node", {}).get("text", "") for e in lget(kw, "edges")
+            if isinstance(e, dict) and isinstance(e.get("node"), dict)
         )
 
         # Countries of origin
-        co = above.get("countriesOfOrigin") or {}
+        co = dget(above, "countriesOfOrigin")
         enrichment["countriesOfOrigin"] = ", ".join(
-            c["id"] for c in (co.get("countries") or [])
+            c.get("id", "") for c in lget(co, "countries") if isinstance(c, dict)
         )
 
         # Meter ranking (popularity)
-        meter = above.get("meterRanking") or {}
-        enrichment["meterRanking"] = str(meter.get("currentRank") or "")
-        change = meter.get("rankChange")
+        meter = dget(above, "meterRanking")
+        if meter.get("currentRank"):
+            enrichment["meterRanking"] = str(meter["currentRank"])
+        change = dget(meter, "rankChange")
         if change:
             enrichment["meterRankChange"] = (
                 f"{change.get('changeDirection', '')} {change.get('difference', 0)}"
             )
 
         # Title type metadata
-        tt = above.get("titleType") or {}
+        tt = dget(above, "titleType")
         enrichment["titleType"] = tt.get("text") or ""
         enrichment["isSeries"] = bool(tt.get("isSeries"))
         enrichment["isEpisode"] = bool(tt.get("isEpisode"))
 
-        enrichment["isAdult"] = bool(above.get("isAdult"))
+        enrichment["isAdult"] = bool(above.get("isAdult") if isinstance(above, dict) else False)
 
         # Principal credits (directors, writers, stars)
-        credits = above.get("principalCreditsV2") or []
+        credits = lget(above, "principalCreditsV2")
         for group in credits:
-            cat = (group.get("grouping") or {}).get("text") or ""
-            names = [
-                c["name"]["nameText"]["text"]
-                for c in (group.get("credits") or [])
-                if c.get("name") and c["name"].get("nameText")
-            ]
+            if not isinstance(group, dict): continue
+            cat = dget(group, "grouping").get("text") or ""
+            names = []
+            for c in lget(group, "credits"):
+                if isinstance(c, dict):
+                    name_obj = dget(c, "name")
+                    text = dget(name_obj, "nameText").get("text")
+                    if text:
+                        names.append(text)
             if cat == "Director":
                 enrichment["directors"] = ", ".join(names)
             elif cat == "Writers":
@@ -155,88 +169,102 @@ def enrich_title_data(driver, url: str) -> dict:
                 enrichment["stars"] = ", ".join(names)
 
         # Top cast (up to 5 with character names)
-        cast = above.get("castV2") or {}
-        if cast:
-            entries = []
-            for edge in (cast.get("edges") or [])[:5]:
-                node = edge.get("node") or {}
-                name = (node.get("name") or {}).get("nameText") or {}
-                name = name.get("text") or ""
-                chars = [c.get("name") or "" for c in (node.get("characters") or [])]
-                chars = [c for c in chars if c]
-                if chars:
-                    entries.append(f"{name} as {', '.join(chars)}")
-                else:
-                    entries.append(name)
+        cast = above.get("castV2") if isinstance(above, dict) else {}
+        entries = []
+        if isinstance(cast, dict):
+            for edge in lget(cast, "edges")[:5]:
+                if not isinstance(edge, dict): continue
+                node = dget(edge, "node")
+                name = dget(dget(node, "name"), "nameText").get("text") or ""
+                chars = []
+                for c in lget(node, "characters"):
+                    if isinstance(c, dict) and c.get("name"):
+                        chars.append(c.get("name"))
+                if name:
+                    if chars:
+                        entries.append(f"{name} as {', '.join(chars)}")
+                    else:
+                        entries.append(name)
+        elif isinstance(cast, list):
+            for group in cast[:5]:
+                if not isinstance(group, dict): continue
+                for c in lget(group, "credits")[:5]:
+                    if not isinstance(c, dict): continue
+                    name = dget(dget(c, "name"), "nameText").get("text") or ""
+                    if name and len(entries) < 5:
+                        entries.append(name)
+        if entries:
             enrichment["topCast"] = ", ".join(entries)
 
         # Award counts
-        wins = main.get("wins") or {}
-        noms = main.get("nominationsExcludeWins") or {}
+        wins = dget(main, "wins")
+        noms = dget(main, "nominationsExcludeWins")
         enrichment["awardWins"] = wins.get("total") or 0
         enrichment["awardNominations"] = noms.get("total") or 0
 
         # Production budget
-        budget = main.get("productionBudget") or {}
+        budget = dget(main, "productionBudget")
         if budget:
-            b = budget.get("budget") or {}
+            b = dget(budget, "budget")
             amt = b.get("amount")
             cur = b.get("currency") or "USD"
             if amt is not None:
                 enrichment["budget"] = f"{cur} {amt:,}"
 
         # Box office (opening weekend, lifetime, worldwide)
-        bg = main.get("openingWeekendGross") or {}
+        bg = dget(main, "openingWeekendGross")
         if bg:
-            total = (bg.get("gross") or {}).get("total") or {}
+            total = dget(dget(bg, "gross"), "total")
             amt = total.get("amount")
             cur = total.get("currency") or "USD"
             if amt is not None:
                 enrichment["openingWeekendGross"] = f"{cur} {amt:,}"
 
-        lg = main.get("lifetimeGross") or {}
+        lg = dget(main, "lifetimeGross")
         if lg:
-            total = lg.get("total") or {}
+            total = dget(lg, "total")
             amt = total.get("amount")
             cur = total.get("currency") or "USD"
             if amt is not None:
                 enrichment["lifetimeGross"] = f"{cur} {amt:,}"
 
-        wg = main.get("worldwideGross") or {}
+        wg = dget(main, "worldwideGross")
         if wg:
-            total = wg.get("total") or {}
+            total = dget(wg, "total")
             amt = total.get("amount")
             cur = total.get("currency") or "USD"
             if amt is not None:
                 enrichment["worldwideGross"] = f"{cur} {amt:,}"
 
         # Filming locations
-        locs = main.get("filmingLocations") or {}
+        locs = dget(main, "filmingLocations")
         enrichment["filmingLocations"] = ", ".join(
-            e["node"]["text"] for e in (locs.get("edges") or [])
+            e.get("node", {}).get("text", "") for e in lget(locs, "edges")
+            if isinstance(e, dict) and isinstance(e.get("node"), dict)
         )
 
         # Spoken languages
-        langs = main.get("spokenLanguages") or {}
+        langs = dget(main, "spokenLanguages")
         enrichment["spokenLanguages"] = ", ".join(
-            l["text"] for l in (langs.get("spokenLanguages") or [])
+            l.get("text", "") for l in lget(langs, "spokenLanguages")
+            if isinstance(l, dict) and l.get("text")
         )
 
         # Technical specifications
-        tech = main.get("technicalSpecifications") or {}
+        tech = dget(main, "technicalSpecifications")
         if tech:
-            sound = tech.get("soundMixes") or {}
-            items = sound.get("items") or []
+            sound = dget(tech, "soundMixes")
+            items = lget(sound, "items")
             if items:
-                enrichment["soundMix"] = ", ".join(s["text"] for s in items)
-            aspect = tech.get("aspectRatios") or {}
-            items = aspect.get("items") or []
+                enrichment["soundMix"] = ", ".join(s.get("text", "") for s in items if isinstance(s, dict) and s.get("text"))
+            aspect = dget(tech, "aspectRatios")
+            items = lget(aspect, "items")
             if items:
-                enrichment["aspectRatio"] = ", ".join(a["aspectRatio"] for a in items)
-            cols = tech.get("colorations") or {}
-            items = cols.get("items") or []
+                enrichment["aspectRatio"] = ", ".join(a.get("aspectRatio", "") for a in items if isinstance(a, dict) and a.get("aspectRatio"))
+            cols = dget(tech, "colorations")
+            items = lget(cols, "items")
             if items:
-                enrichment["color"] = ", ".join(c["text"] for c in items)
+                enrichment["color"] = ", ".join(c.get("text", "") for c in items if isinstance(c, dict) and c.get("text"))
 
     except Exception as e:
         print(f"    Warning: Could not enrich {url}: {e}")
