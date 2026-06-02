@@ -1,0 +1,860 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IMDb Explorer — Top 50 & 250</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,300;9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --bg: #07070d;
+        --surface: #10101a;
+        --card: #161622;
+        --card-hover: #1e1e30;
+        --gold: #f5c518;
+        --gold-dim: #c49b0e;
+        --gold-glow: rgba(245, 197, 24, 0.15);
+        --text: #f1f1f1;
+        --text-dim: #6b6b85;
+        --text-muted: #4a4a60;
+        --border: #1f1f35;
+        --font-display: "Playfair Display", Georgia, serif;
+        --font-body: "DM Sans", system-ui, sans-serif;
+        --radius: 14px;
+        --radius-sm: 8px;
+      }
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      html {
+        scroll-behavior: smooth;
+      }
+      body {
+        background: var(--bg);
+        color: var(--text);
+        font-family: var(--font-body);
+        line-height: 1.5;
+        -webkit-font-smoothing: antialiased;
+        min-height: 100vh;
+      }
+
+      /* ---- Header ---- */
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        background: rgba(7, 7, 13, 0.85);
+        backdrop-filter: blur(20px) saturate(1.4);
+        border-bottom: 1px solid var(--border);
+      }
+      .header-inner {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 16px 24px 0;
+      }
+      .header-top {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        margin-bottom: 14px;
+      }
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        text-decoration: none;
+      }
+      .logo-icon {
+        width: 36px;
+        height: 36px;
+        background: var(--gold);
+        border-radius: 8px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 800;
+        font-size: 18px;
+        color: #000;
+        font-family: var(--font-display);
+      }
+      .logo-text {
+        font-family: var(--font-display);
+        font-size: 22px;
+        font-weight: 700;
+        color: var(--text);
+        letter-spacing: -0.3px;
+      }
+      .logo-text span {
+        color: var(--gold);
+      }
+      .logo-sub {
+        font-size: 12px;
+        font-weight: 400;
+        color: var(--text-dim);
+        letter-spacing: 1.5px;
+        text-transform: uppercase;
+        margin-left: 4px;
+      }
+      .header-count {
+        margin-left: auto;
+        font-size: 13px;
+        color: var(--text-dim);
+        font-weight: 500;
+      }
+      .header-count strong {
+        color: var(--gold);
+        font-weight: 600;
+      }
+
+      /* ---- Tabs ---- */
+      .tabs {
+        display: flex;
+        gap: 4px;
+        overflow-x: auto;
+        scrollbar-width: none;
+        padding-bottom: 0;
+      }
+      .tabs::-webkit-scrollbar {
+        display: none;
+      }
+      .tab-group {
+        display: flex;
+        gap: 4px;
+      }
+      .tab-group-label {
+        font-size: 11px;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 1.2px;
+        color: var(--text-muted);
+        padding: 8px 12px;
+        display: flex;
+        align-items: center;
+        white-space: nowrap;
+      }
+      .tab {
+        padding: 10px 20px;
+        border: none;
+        background: transparent;
+        color: var(--text-dim);
+        font-family: var(--font-body);
+        font-size: 13px;
+        font-weight: 500;
+        cursor: pointer;
+        border-radius: var(--radius-sm) var(--radius-sm) 0 0;
+        transition: all 0.25s ease;
+        white-space: nowrap;
+        position: relative;
+      }
+      .tab:hover {
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.04);
+      }
+      .tab.active {
+        color: var(--gold);
+        background: rgba(245, 197, 24, 0.08);
+      }
+      .tab.active::after {
+        content: "";
+        position: absolute;
+        bottom: -1px;
+        left: 8px;
+        right: 8px;
+        height: 2px;
+        background: var(--gold);
+        border-radius: 2px 2px 0 0;
+      }
+
+      /* ---- Main ---- */
+      main {
+        max-width: 1400px;
+        margin: 0 auto;
+        padding: 28px 24px 60px;
+      }
+
+      /* ---- Grid ---- */
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 18px;
+      }
+      @media (min-width: 600px) {
+        .grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+      }
+      @media (min-width: 900px) {
+        .grid {
+          grid-template-columns: repeat(3, 1fr);
+        }
+      }
+      @media (min-width: 1100px) {
+        .grid {
+          grid-template-columns: repeat(4, 1fr);
+        }
+      }
+      @media (min-width: 1400px) {
+        .grid {
+          grid-template-columns: repeat(5, 1fr);
+        }
+      }
+
+      /* ---- Card ---- */
+      .card {
+        position: relative;
+        border-radius: var(--radius);
+        overflow: hidden;
+        background: var(--card);
+        cursor: pointer;
+        transition:
+          transform 0.35s cubic-bezier(0.22, 1, 0.36, 1),
+          box-shadow 0.35s ease;
+        aspect-ratio: 2 / 3;
+        opacity: 0;
+        transform: translateY(24px);
+        animation: card-in 0.5s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+      }
+      .card.visible {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      .card:hover {
+        transform: scale(1.03) translateY(-4px);
+        box-shadow:
+          0 20px 60px rgba(0, 0, 0, 0.6),
+          0 0 40px var(--gold-glow);
+      }
+
+      @keyframes card-in {
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+
+      .card-poster {
+        position: absolute;
+        inset: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        transition: transform 0.5s ease;
+      }
+      .card:hover .card-poster {
+        transform: scale(1.05);
+      }
+
+      .card-img-placeholder {
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(135deg, var(--card) 0%, #222240 100%);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .card-img-placeholder svg {
+        width: 40px;
+        height: 40px;
+        opacity: 0.2;
+      }
+
+      /* Gradient overlay at bottom */
+      .card-overlay {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 40px 14px 14px;
+        background: linear-gradient(
+          transparent 0%,
+          rgba(7, 7, 13, 0.2) 30%,
+          rgba(7, 7, 13, 0.85) 70%,
+          rgba(7, 7, 13, 0.95) 100%
+        );
+        transition: background 0.35s ease;
+      }
+      .card:hover .card-overlay {
+        background: linear-gradient(
+          transparent 0%,
+          rgba(7, 7, 13, 0.4) 20%,
+          rgba(7, 7, 13, 0.92) 60%,
+          rgba(7, 7, 13, 0.98) 100%
+        );
+      }
+
+      .card-rank {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: rgba(0, 0, 0, 0.7);
+        backdrop-filter: blur(6px);
+        padding: 3px 10px;
+        border-radius: 6px;
+        font-size: 12px;
+        font-weight: 600;
+        color: var(--text-dim);
+        letter-spacing: 0.5px;
+      }
+
+      .card-rating {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background: rgba(0, 0, 0, 0.75);
+        backdrop-filter: blur(6px);
+        padding: 4px 10px;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        font-size: 13px;
+        font-weight: 700;
+        color: var(--gold);
+      }
+      .card-rating svg {
+        width: 14px;
+        height: 14px;
+        fill: var(--gold);
+      }
+
+      .card-title {
+        font-family: var(--font-display);
+        font-size: 15px;
+        font-weight: 700;
+        line-height: 1.25;
+        color: var(--text);
+        margin-bottom: 4px;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .card-meta {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 6px;
+        align-items: center;
+        font-size: 11px;
+        color: var(--text-dim);
+        font-weight: 500;
+      }
+      .card-meta .year {
+        color: var(--text-dim);
+      }
+      .card-genres {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 4px;
+        margin-top: 6px;
+      }
+      .card-genre {
+        font-size: 10px;
+        font-weight: 500;
+        padding: 2px 8px;
+        border-radius: 4px;
+        background: rgba(245, 197, 24, 0.1);
+        color: var(--gold-dim);
+        border: 1px solid rgba(245, 197, 24, 0.15);
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      /* Hover detail panel */
+      .card-detail {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        padding: 50px 14px 14px;
+        background: linear-gradient(transparent, rgba(7, 7, 13, 0.95) 35%);
+        opacity: 0;
+        transform: translateY(10px);
+        transition:
+          opacity 0.3s ease,
+          transform 0.3s ease;
+        pointer-events: none;
+      }
+      .card:hover .card-detail {
+        opacity: 1;
+        transform: translateY(0);
+      }
+      .card-detail .plot {
+        font-size: 12px;
+        line-height: 1.4;
+        color: var(--text-dim);
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        margin-bottom: 8px;
+      }
+      .card-detail .extra {
+        display: flex;
+        gap: 10px;
+        font-size: 11px;
+        color: var(--text-muted);
+      }
+      .card-detail .extra span {
+        display: flex;
+        align-items: center;
+        gap: 3px;
+      }
+
+      /* ---- Skeleton ---- */
+      .skeleton {
+        aspect-ratio: 2 / 3;
+        border-radius: var(--radius);
+        background: var(--card);
+        overflow: hidden;
+        position: relative;
+      }
+      .skeleton::after {
+        content: "";
+        position: absolute;
+        inset: 0;
+        background: linear-gradient(
+          90deg,
+          transparent,
+          rgba(255, 255, 255, 0.03),
+          transparent
+        );
+        animation: shimmer 1.6s ease-in-out infinite;
+        transform: translateX(-100%);
+      }
+      @keyframes shimmer {
+        100% {
+          transform: translateX(100%);
+        }
+      }
+
+      /* ---- Load more ---- */
+      .sentinel {
+        width: 100%;
+        height: 2px;
+        margin-top: 10px;
+      }
+
+      .loader {
+        display: flex;
+        justify-content: center;
+        padding: 30px 0;
+        gap: 8px;
+      }
+      .loader-dot {
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        background: var(--gold-dim);
+        animation: dot-bounce 1.2s ease-in-out infinite;
+      }
+      .loader-dot:nth-child(2) {
+        animation-delay: 0.2s;
+      }
+      .loader-dot:nth-child(3) {
+        animation-delay: 0.4s;
+      }
+      @keyframes dot-bounce {
+        0%,
+        80%,
+        100% {
+          transform: scale(0.6);
+          opacity: 0.3;
+        }
+        40% {
+          transform: scale(1);
+          opacity: 1;
+        }
+      }
+
+      /* ---- Empty / Error ---- */
+      .empty-state {
+        grid-column: 1 / -1;
+        text-align: center;
+        padding: 80px 20px;
+        color: var(--text-dim);
+      }
+      .empty-state svg {
+        width: 56px;
+        height: 56px;
+        opacity: 0.2;
+        margin-bottom: 16px;
+      }
+      .empty-state h3 {
+        font-family: var(--font-display);
+        font-size: 20px;
+        color: var(--text);
+        margin-bottom: 8px;
+      }
+      .empty-state p {
+        font-size: 14px;
+      }
+
+      /* ---- Footer ---- */
+      footer {
+        text-align: center;
+        padding: 40px 24px;
+        color: var(--text-muted);
+        font-size: 13px;
+        border-top: 1px solid var(--border);
+      }
+      footer a {
+        color: var(--gold-dim);
+        text-decoration: none;
+      }
+      footer a:hover {
+        color: var(--gold);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="header-inner">
+        <div class="header-top">
+          <a href="/" class="logo">
+            <div class="logo-icon">IM</div>
+            <div>
+              <span class="logo-text">IMDb<span>Explorer</span></span>
+              <span class="logo-sub">Top 50 &amp; 250</span>
+            </div>
+          </a>
+          <div class="header-count" id="headerCount">— titles</div>
+        </div>
+        <nav class="tabs" id="tabs"></nav>
+      </div>
+    </header>
+
+    <main>
+      <div class="grid" id="grid"></div>
+      <div class="sentinel" id="sentinel"></div>
+      <div class="loader" id="loader">
+        <div class="loader-dot"></div>
+        <div class="loader-dot"></div>
+        <div class="loader-dot"></div>
+      </div>
+    </main>
+
+    <footer>
+      Data sourced from <a href="https://www.imdb.com" target="_blank">IMDb</a>.
+      Built by <a href="https://github.com/crazyuploader">crazyuploader</a>.
+    </footer>
+
+    <script>
+      const CONFIG = {
+        datasets: [
+          {
+            id: "top50-movies",
+            label: "Top 50 Movies",
+            file: "./data/top50/movies.json",
+          },
+          {
+            id: "top50-shows",
+            label: "Top 50 Shows",
+            file: "./data/top50/shows.json",
+          },
+          {
+            id: "top250-movies",
+            label: "Top 250 Movies",
+            file: "./data/top250/movies.json",
+          },
+          {
+            id: "top250-shows",
+            label: "Top 250 Shows",
+            file: "./data/top250/shows.json",
+          },
+          {
+            id: "popular-movies",
+            label: "Popular Movies",
+            file: "./data/popular/movies.json",
+          },
+          {
+            id: "popular-shows",
+            label: "Popular Shows",
+            file: "./data/popular/shows.json",
+          },
+        ],
+        batchSize: 20,
+      };
+
+      let state = {
+        items: [],
+        displayed: 0,
+        loading: false,
+        activeId: "top50-movies",
+      };
+
+      const grid = document.getElementById("grid");
+      const sentinel = document.getElementById("sentinel");
+      const loader = document.getElementById("loader");
+      const tabs = document.getElementById("tabs");
+      const count = document.getElementById("headerCount");
+
+      /* ---- Normalise item across JSON shapes ---- */
+      function normalise(raw, idx) {
+        const name =
+          raw.name || raw["Movie Name"] || raw["Show Name"] || "Unknown";
+        const link = raw.link || raw["Movie Link"] || raw["Show Link"] || "";
+        const rating = parseFloat(raw.rating || raw["IMDb Rating"] || 0) || 0;
+        const votes = parseInt(raw.votes, 10) || 0;
+        const year = raw.year || "";
+        const genres = raw.genres || "";
+        const runtime = raw.runtime || "";
+        const plot = raw.plot || "";
+        const image = raw.image || "";
+        const certificate = raw.certificate || "";
+        const metascore = raw.metascore || "";
+        const status = raw.status || "";
+        const rank = raw.Rank || raw.rank || idx + 1;
+
+        return {
+          name,
+          link,
+          rating,
+          votes,
+          year,
+          genres,
+          runtime,
+          plot,
+          image,
+          certificate,
+          metascore,
+          status,
+          rank,
+        };
+      }
+
+      /* ---- Tabs ---- */
+      function renderTabs() {
+        let html = "";
+        const groups = {};
+        CONFIG.datasets.forEach((d) => {
+          const [cat, type] = d.id.split("-");
+          if (!groups[cat]) groups[cat] = [];
+          groups[cat].push(d);
+        });
+        const groupLabels = {
+          top50: "Top 50",
+          top250: "Top 250",
+          popular: "Popular",
+        };
+        Object.entries(groups).forEach(([cat, ds]) => {
+          html += `<div class="tab-group-label">${groupLabels[cat] || cat}</div>`;
+          ds.forEach((d) => {
+            const active = d.id === state.activeId ? " active" : "";
+            html += `<button class="tab${active}" data-id="${d.id}">${d.label.replace(/^(Top 50|Top 250|Popular) /, "")}</button>`;
+          });
+        });
+        tabs.innerHTML = html;
+        tabs.querySelectorAll(".tab").forEach((el) => {
+          el.addEventListener("click", () => switchTab(el.dataset.id));
+        });
+      }
+
+      function switchTab(id) {
+        if (id === state.activeId) return;
+        state.activeId = id;
+        state.items = [];
+        state.displayed = 0;
+        grid.innerHTML = "";
+        loader.style.display = "flex";
+        tabs
+          .querySelectorAll(".tab")
+          .forEach((el) => el.classList.toggle("active", el.dataset.id === id));
+        loadDataset();
+      }
+
+      /* ---- Fetch ---- */
+      async function loadDataset() {
+        const ds = CONFIG.datasets.find((d) => d.id === state.activeId);
+        if (!ds) return;
+        try {
+          state.loading = true;
+          const res = await fetch(ds.file);
+          if (!res.ok) throw new Error(`HTTP ${res.status}`);
+          const raw = await res.json();
+          state.items = raw.map(normalise);
+          count.innerHTML = `<strong>${state.items.length}</strong> titles`;
+          state.displayed = 0;
+          renderBatch();
+        } catch (err) {
+          console.error("Fetch error:", err);
+          grid.innerHTML = `
+        <div class="empty-state">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M2 12L9 19L22 6"/></svg>
+          <h3>Failed to load data</h3>
+          <p>${err.message || "Unknown error"}</p>
+        </div>`;
+          loader.style.display = "none";
+        } finally {
+          state.loading = false;
+        }
+      }
+
+      /* ---- Render ---- */
+      function renderBatch() {
+        const next = Math.min(
+          state.displayed + CONFIG.batchSize,
+          state.items.length,
+        );
+        const fragment = document.createDocumentFragment();
+
+        for (let i = state.displayed; i < next; i++) {
+          const item = state.items[i];
+          const card = document.createElement("a");
+          card.className = "card";
+          card.href = item.link;
+          card.target = "_blank";
+          card.rel = "noopener";
+          card.style.animationDelay = `${(i - state.displayed) * 0.04}s`;
+
+          // Rank badge
+          if (item.rank) {
+            const rank = document.createElement("div");
+            rank.className = "card-rank";
+            rank.textContent = `#${item.rank}`;
+            card.appendChild(rank);
+          }
+
+          // Rating badge
+          if (item.rating) {
+            const rating = document.createElement("div");
+            rating.className = "card-rating";
+            rating.innerHTML = `<svg viewBox="0 0 16 16"><path d="M8 1.5l1.76 3.57 3.94.57-2.85 2.78.67 3.93L8 10.44l-3.52 1.85.67-3.93L2.3 5.64l3.94-.57L8 1.5z"/></svg>${item.rating.toFixed(1)}`;
+            card.appendChild(rating);
+          }
+
+          // Poster image
+          if (item.image) {
+            const img = document.createElement("img");
+            img.className = "card-poster";
+            img.loading = "lazy";
+            img.src = item.image;
+            img.alt = item.name;
+            img.setAttribute("loading", "lazy");
+            card.appendChild(img);
+          } else {
+            const placeholder = document.createElement("div");
+            placeholder.className = "card-img-placeholder";
+            placeholder.innerHTML = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="3" y="3" width="18" height="18" rx="2"/><circle cx="8.5" cy="8.5" r="1.5"/><path d="M21 15l-5-5L5 21"/></svg>`;
+            card.appendChild(placeholder);
+          }
+
+          // Overlay (always visible)
+          const overlay = document.createElement("div");
+          overlay.className = "card-overlay";
+
+          const title = document.createElement("div");
+          title.className = "card-title";
+          title.textContent = item.name;
+          overlay.appendChild(title);
+
+          const meta = document.createElement("div");
+          meta.className = "card-meta";
+          if (item.year) {
+            const y = document.createElement("span");
+            y.className = "year";
+            y.textContent = item.year;
+            meta.appendChild(y);
+          }
+          if (item.certificate) {
+            const sep = document.createElement("span");
+            sep.textContent = "·";
+            sep.style.opacity = "0.4";
+            meta.appendChild(sep);
+            const cert = document.createElement("span");
+            cert.textContent = item.certificate;
+            meta.appendChild(cert);
+          }
+          if (item.runtime) {
+            const sep = document.createElement("span");
+            sep.textContent = "·";
+            sep.style.opacity = "0.4";
+            meta.appendChild(sep);
+            const rt = document.createElement("span");
+            let rtSeconds = parseInt(item.runtime, 10);
+            if (!isNaN(rtSeconds) && rtSeconds > 0) {
+              let rtMins =
+                rtSeconds > 500 ? Math.round(rtSeconds / 60) : rtSeconds;
+              const rtH = Math.floor(rtMins / 60);
+              const rtM = rtMins % 60;
+              rt.textContent = rtH > 0 ? `${rtH}h ${rtM}m` : `${rtM}m`;
+            } else {
+              rt.textContent = item.runtime;
+            }
+            meta.appendChild(rt);
+          }
+          overlay.appendChild(meta);
+
+          // Genres
+          if (item.genres) {
+            const genreWrap = document.createElement("div");
+            genreWrap.className = "card-genres";
+            item.genres
+              .split(",")
+              .slice(0, 3)
+              .forEach((g) => {
+                const tag = document.createElement("span");
+                tag.className = "card-genre";
+                tag.textContent = g.trim();
+                genreWrap.appendChild(tag);
+              });
+            overlay.appendChild(genreWrap);
+          }
+
+          card.appendChild(overlay);
+
+          // Detail on hover
+          if (item.plot) {
+            const detail = document.createElement("div");
+            detail.className = "card-detail";
+            const plotP = document.createElement("div");
+            plotP.className = "plot";
+            plotP.textContent = item.plot;
+            detail.appendChild(plotP);
+            card.appendChild(detail);
+          }
+
+          fragment.appendChild(card);
+        }
+
+        grid.appendChild(fragment);
+        state.displayed = next;
+
+        // Hide loader when done
+        if (state.displayed >= state.items.length) {
+          loader.style.display = "none";
+        } else {
+          loader.style.display = "flex";
+        }
+      }
+
+      /* ---- Infinite scroll ---- */
+      const observer = new IntersectionObserver(
+        (entries) => {
+          entries.forEach((entry) => {
+            if (
+              entry.isIntersecting &&
+              !state.loading &&
+              state.displayed < state.items.length
+            ) {
+              renderBatch();
+            }
+          });
+        },
+        { rootMargin: "200px" },
+      );
+
+      observer.observe(sentinel);
+
+      /* ---- Init ---- */
+      renderTabs();
+      loadDataset();
+    </script>
+  </body>
+</html>
